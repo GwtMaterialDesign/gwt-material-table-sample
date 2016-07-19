@@ -11,14 +11,14 @@ before_install:
 - cd gwt-material
 - mvn install -DskipTests=true -DdryRun=true
 - cd ..
-# install the gwt-material-themes library
-- git clone https://github.com/GwtMaterialDesign/gwt-material-themes.git
-- cd gwt-material-themes
+# install the gwt-material-jquery library
+- git clone https://github.com/GwtMaterialDesign/gwt-material-jquery.git
+- cd gwt-material-jquery
 - mvn install -DskipTests=true -DdryRun=true
 - cd ..
-# install the gwt-material-addins library
+# install the gwt-material-table library
 - git clone https://github.com/GwtMaterialDesign/gwt-material-table.git
-- cd gwt-material-addins
+- cd gwt-material-table
 - mvn install -DskipTests=true -DdryRun=true
 - cd ..
 install: true
