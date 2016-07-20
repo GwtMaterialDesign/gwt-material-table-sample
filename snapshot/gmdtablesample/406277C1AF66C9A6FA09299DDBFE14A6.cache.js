@@ -3,7 +3,7 @@ var __gwtModuleFunction = $wnd.gmdtablesample;
 var $sendStats = __gwtModuleFunction.__sendStats;
 $sendStats('moduleStartup', 'moduleEvalStart');
 var $gwt_version = "2.8.0-SNAPSHOT";
-var $strongName = 'D76891387874D216FBF993CBC465FC6C';
+var $strongName = '406277C1AF66C9A6FA09299DDBFE14A6';
 var $gwt = {};
 var $doc = $wnd.document;
 var $moduleName, $moduleBase;
@@ -18092,9 +18092,9 @@ function $html1_0(arg0, arg1, arg2, arg3){
 function $lambda$10_0(this$static, mouseEvent_1, row_3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$10_0;
-  $selectRow_0(($location_0[stackIndex] = 'StandardTable.java:' + '308' , this$static).table, ($tmp = $wnd.$(row_3).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '308' , $tmp));
-  $setPopupPosition(($location_0[stackIndex] = 'StandardTable.java:' + '310' , this$static).popupMenu, mouseEvent_1.clientX, mouseEvent_1.clientY);
-  $open(($location_0[stackIndex] = 'StandardTable.java:' + '311' , this$static).popupMenu);
+  $selectRow_0(($location_0[stackIndex] = 'StandardTable.java:' + '307' , this$static).table, ($tmp = $wnd.$(row_3).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '307' , $tmp));
+  $setPopupPosition(($location_0[stackIndex] = 'StandardTable.java:' + '309' , this$static).popupMenu, mouseEvent_1.clientX, mouseEvent_1.clientY);
+  $open(($location_0[stackIndex] = 'StandardTable.java:' + '310' , this$static).popupMenu);
   returnTemp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -18103,10 +18103,10 @@ function $lambda$10_0(this$static, mouseEvent_1, row_3){
 function $lambda$9_1(this$static, selectionEvent_0){
   var per, per$iterator, span_0, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$9_1;
-  span_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '300' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'StandardTable.java:' + '300' , $tmp))).find('span');
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '301' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , this$static).table.dataView).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , per$iterator).this$01).array.length;) {
-    per = castTo($next_2(($location_0[stackIndex] = 'StandardTable.java:' + '301' , per$iterator)), 16);
-    fireToast(($tmp = ($location_0[stackIndex] = 'DOMImpl.java:' + '215' , ($location_0[stackIndex] = 'StandardTable.java:' + '302' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).innerHTML) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , ($location_0[stackIndex] = 'StandardTable.java:' + '302' , per).firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '71' , $tmp));
+  span_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '299' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'StandardTable.java:' + '299' , $tmp))).find('span');
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '300' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , ($location_0[stackIndex] = 'StandardTable.java:' + '300' , this$static).table.dataView).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '300' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '300' , per$iterator).this$01).array.length;) {
+    per = castTo($next_2(($location_0[stackIndex] = 'StandardTable.java:' + '300' , per$iterator)), 16);
+    fireToast(($tmp = ($location_0[stackIndex] = 'DOMImpl.java:' + '215' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).innerHTML) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , per).firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '71' , $tmp));
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -18114,9 +18114,9 @@ function $lambda$9_1(this$static, selectionEvent_0){
 function $onCategories_0(this$static, e){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onCategories_0;
-  checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'StandardTable.java:' + '325' , e).value_0) , $location_0[stackIndex] = 'StandardTable.java:' + '325' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))?$setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '326' , this$static).table, true):$setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '329' , this$static).table, false);
-  $setRedraw(($location_0[stackIndex] = 'AbstractDataTable.java:' + '573' , ($location_0[stackIndex] = 'StandardTable.java:' + '332' , this$static).table.dataView));
-  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'StandardTable.java:' + '333' , this$static).table.dataView).refreshView();
+  checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'StandardTable.java:' + '324' , e).value_0) , $location_0[stackIndex] = 'StandardTable.java:' + '324' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))?$setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '325' , this$static).table, true):$setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '328' , this$static).table, false);
+  $setRedraw(($location_0[stackIndex] = 'AbstractDataTable.java:' + '573' , ($location_0[stackIndex] = 'StandardTable.java:' + '331' , this$static).table.dataView));
+  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'StandardTable.java:' + '332' , this$static).table.dataView).refreshView();
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18136,39 +18136,39 @@ _.onLoad = function onLoad_13(){
   $setCategoryFactory_0(($location_0[stackIndex] = 'StandardTable.java:' + '85' , this.table), new CustomCategoryFactory);
   $setRenderer_0(($location_0[stackIndex] = 'StandardTable.java:' + '90' , this.table), new CustomRenderer);
   $addColumn(($location_0[stackIndex] = 'StandardTable.java:' + '96' , this.table), new StandardTable$1);
-  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '112' , this.table), new StandardTable$2, 'First Name');
-  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '123' , this.table), new StandardTable$3, 'Last Name');
-  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '134' , this.table), new StandardTable$4, 'Phone');
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '153' , i0 = 0; ($location_0[stackIndex] = 'StandardTable.java:' + '153' , i0) < 8; $location_0[stackIndex] = 'StandardTable.java:' + '153' , i0++) {
-    $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '155' , this.table), new StandardTable$5(i0), ($tmp = 'Column ' + ($location_0[stackIndex] = 'StandardTable.java:' + '164' , i0) , $location_0[stackIndex] = 'StandardTable.java:' + '155' , $tmp));
+  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '111' , this.table), new StandardTable$2, 'First Name');
+  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '122' , this.table), new StandardTable$3, 'Last Name');
+  $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '133' , this.table), new StandardTable$4, 'Phone');
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '152' , i0 = 0; ($location_0[stackIndex] = 'StandardTable.java:' + '152' , i0) < 4; $location_0[stackIndex] = 'StandardTable.java:' + '152' , i0++) {
+    $addColumn_0(($location_0[stackIndex] = 'StandardTable.java:' + '154' , this.table), new StandardTable$5(i0), ($tmp = 'Column ' + ($location_0[stackIndex] = 'StandardTable.java:' + '163' , i0) , $location_0[stackIndex] = 'StandardTable.java:' + '154' , $tmp));
   }
-  $addColumn(($location_0[stackIndex] = 'StandardTable.java:' + '169' , this.table), new StandardTable$6);
-  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '185' , this.table), 0, 2001);
-  $location_0[stackIndex] = 'StandardTable.java:' + '188' , rowIndex = 0;
-  people = ($location_0[stackIndex] = 'StandardTable.java:' + '189' , new ArrayList);
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '190' , k = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '190' , k) <= 10; $location_0[stackIndex] = 'StandardTable.java:' + '190' , k++) {
-    for ($location_0[stackIndex] = 'StandardTable.java:' + '192' , i = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '192' , i) <= 20; $location_0[stackIndex] = 'StandardTable.java:' + '192' , ++i , rowIndex++) {
-      $add_6(($location_0[stackIndex] = 'StandardTable.java:' + '193' , people), new Person(i, 'Field ' + rowIndex, 'Field ' + i, 'No ' + i, 'Category ' + k));
+  $addColumn(($location_0[stackIndex] = 'StandardTable.java:' + '168' , this.table), new StandardTable$6);
+  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '184' , this.table), 0, 2001);
+  $location_0[stackIndex] = 'StandardTable.java:' + '187' , rowIndex = 0;
+  people = ($location_0[stackIndex] = 'StandardTable.java:' + '188' , new ArrayList);
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '189' , k = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '189' , k) <= 10; $location_0[stackIndex] = 'StandardTable.java:' + '189' , k++) {
+    for ($location_0[stackIndex] = 'StandardTable.java:' + '191' , i = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '191' , i) <= 15; $location_0[stackIndex] = 'StandardTable.java:' + '191' , ++i , rowIndex++) {
+      $add_6(($location_0[stackIndex] = 'StandardTable.java:' + '192' , people), new Person(i, 'Field ' + rowIndex, 'Field ' + i, 'No ' + i, 'Category ' + k));
     }
   }
-  $setRowData_0(($location_0[stackIndex] = 'StandardTable.java:' + '196' , this.table), people);
-  $addRowExpandHandler(($location_0[stackIndex] = 'StandardTable.java:' + '200' , this.table), makeLambdaFunction(StandardTable$lambda$0$Type.prototype.call_3, StandardTable$lambda$0$Type, []));
-  $addRowSelectHandler(($location_0[stackIndex] = 'StandardTable.java:' + '246' , this.table), makeLambdaFunction(StandardTable$lambda$1$Type.prototype.call_5, StandardTable$lambda$1$Type, []));
-  $addSortColumnHandler(($location_0[stackIndex] = 'StandardTable.java:' + '252' , this.table), makeLambdaFunction(StandardTable$lambda$2$Type.prototype.call_8, StandardTable$lambda$2$Type, [this]));
-  $addRowCountChangeHandler(($location_0[stackIndex] = 'StandardTable.java:' + '259' , this.table), makeLambdaFunction(StandardTable$lambda$3$Type.prototype.call_8, StandardTable$lambda$3$Type, []));
-  $addCategoryOpenedHandler(($location_0[stackIndex] = 'StandardTable.java:' + '265' , this.table), makeLambdaFunction(StandardTable$lambda$4$Type.prototype.call_3, StandardTable$lambda$4$Type, []));
-  $addCategoryClosedHandler(($location_0[stackIndex] = 'StandardTable.java:' + '271' , this.table), makeLambdaFunction(StandardTable$lambda$5$Type.prototype.call_3, StandardTable$lambda$5$Type, []));
-  $addRowDoubleClickHandler(($location_0[stackIndex] = 'StandardTable.java:' + '277' , this.table), makeLambdaFunction(StandardTable$lambda$6$Type.prototype.call_5, StandardTable$lambda$6$Type, []));
-  $location_0[stackIndex] = 'AbstractDataView.java:' + '1672' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '643' , ($location_0[stackIndex] = 'StandardTable.java:' + '285' , this.table).dataView).longPressDuration = 400;
-  $addRowLongPressHandler(($location_0[stackIndex] = 'StandardTable.java:' + '288' , this.table), makeLambdaFunction(StandardTable$lambda$7$Type.prototype.call_5, StandardTable$lambda$7$Type, []));
-  $addRowShortPressHandler(($location_0[stackIndex] = 'StandardTable.java:' + '294' , this.table), makeLambdaFunction(StandardTable$lambda$8$Type.prototype.call_5, StandardTable$lambda$8$Type, []));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '299' , this.popupMenu), new StandardTable$lambda$9$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_4)) && (TYPE_4 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_4)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
-  $addRowContextMenuHandler(($location_0[stackIndex] = 'StandardTable.java:' + '306' , this.table), makeLambdaFunction(StandardTable$lambda$10$Type.prototype.call_5, StandardTable$lambda$10$Type, [this]));
-  $location_0[stackIndex] = 'StandardTable.java:' + '316' , panel = ($location_0[stackIndex] = 'TableScaffolding.java:' + '73' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'StandardTable.java:' + '316' , this.table).scaffolding).toolPanel);
-  polyIcon = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '681' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '317' , POLYMER)));
-  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '318' , polyIcon), ($location_0[stackIndex] = 'WavesType.java:' + '31' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '318' , LIGHT)));
-  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '254' , ($location_0[stackIndex] = 'StandardTable.java:' + '319' , polyIcon).circleMixin)) && (($location_0[stackIndex] = 'StandardTable.java:' + '319' , polyIcon).circleMixin = new ToggleStyleMixin(polyIcon, ($tmp = 'circle' , $location_0[stackIndex] = 'MaterialWidget.java:' + '254' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '255' , ($location_0[stackIndex] = 'StandardTable.java:' + '319' , polyIcon).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '515' , $tmp));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '320' , panel), polyIcon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '320' , panel).element_0)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
+  $setRowData_0(($location_0[stackIndex] = 'StandardTable.java:' + '195' , this.table), people);
+  $addRowExpandHandler(($location_0[stackIndex] = 'StandardTable.java:' + '199' , this.table), makeLambdaFunction(StandardTable$lambda$0$Type.prototype.call_3, StandardTable$lambda$0$Type, []));
+  $addRowSelectHandler(($location_0[stackIndex] = 'StandardTable.java:' + '245' , this.table), makeLambdaFunction(StandardTable$lambda$1$Type.prototype.call_5, StandardTable$lambda$1$Type, []));
+  $addSortColumnHandler(($location_0[stackIndex] = 'StandardTable.java:' + '251' , this.table), makeLambdaFunction(StandardTable$lambda$2$Type.prototype.call_8, StandardTable$lambda$2$Type, [this]));
+  $addRowCountChangeHandler(($location_0[stackIndex] = 'StandardTable.java:' + '258' , this.table), makeLambdaFunction(StandardTable$lambda$3$Type.prototype.call_8, StandardTable$lambda$3$Type, []));
+  $addCategoryOpenedHandler(($location_0[stackIndex] = 'StandardTable.java:' + '264' , this.table), makeLambdaFunction(StandardTable$lambda$4$Type.prototype.call_3, StandardTable$lambda$4$Type, []));
+  $addCategoryClosedHandler(($location_0[stackIndex] = 'StandardTable.java:' + '270' , this.table), makeLambdaFunction(StandardTable$lambda$5$Type.prototype.call_3, StandardTable$lambda$5$Type, []));
+  $addRowDoubleClickHandler(($location_0[stackIndex] = 'StandardTable.java:' + '276' , this.table), makeLambdaFunction(StandardTable$lambda$6$Type.prototype.call_5, StandardTable$lambda$6$Type, []));
+  $location_0[stackIndex] = 'AbstractDataView.java:' + '1672' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '643' , ($location_0[stackIndex] = 'StandardTable.java:' + '284' , this.table).dataView).longPressDuration = 400;
+  $addRowLongPressHandler(($location_0[stackIndex] = 'StandardTable.java:' + '287' , this.table), makeLambdaFunction(StandardTable$lambda$7$Type.prototype.call_5, StandardTable$lambda$7$Type, []));
+  $addRowShortPressHandler(($location_0[stackIndex] = 'StandardTable.java:' + '293' , this.table), makeLambdaFunction(StandardTable$lambda$8$Type.prototype.call_5, StandardTable$lambda$8$Type, []));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '298' , this.popupMenu), new StandardTable$lambda$9$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_4)) && (TYPE_4 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_4)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
+  $addRowContextMenuHandler(($location_0[stackIndex] = 'StandardTable.java:' + '305' , this.table), makeLambdaFunction(StandardTable$lambda$10$Type.prototype.call_5, StandardTable$lambda$10$Type, [this]));
+  $location_0[stackIndex] = 'StandardTable.java:' + '315' , panel = ($location_0[stackIndex] = 'TableScaffolding.java:' + '73' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'StandardTable.java:' + '315' , this.table).scaffolding).toolPanel);
+  polyIcon = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '681' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '316' , POLYMER)));
+  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '317' , polyIcon), ($location_0[stackIndex] = 'WavesType.java:' + '31' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '317' , LIGHT)));
+  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '254' , ($location_0[stackIndex] = 'StandardTable.java:' + '318' , polyIcon).circleMixin)) && (($location_0[stackIndex] = 'StandardTable.java:' + '318' , polyIcon).circleMixin = new ToggleStyleMixin(polyIcon, ($tmp = 'circle' , $location_0[stackIndex] = 'MaterialWidget.java:' + '254' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '255' , ($location_0[stackIndex] = 'StandardTable.java:' + '318' , polyIcon).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '515' , $tmp));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '319' , panel), polyIcon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '319' , panel).element_0)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -18209,7 +18209,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$1_2_classLit = createFor
 function StandardTable$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$2;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '112' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '111' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18217,7 +18217,7 @@ defineClass(387, 55, $intern_42, StandardTable$2);
 _.getValue_0 = function getValue_15(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_15;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '118' , object), 16).firstName);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '117' , object), 16).firstName);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18225,7 +18225,7 @@ _.getValue_0 = function getValue_15(object){
 _.getSortComparator = function getSortComparator_4(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getSortComparator_4;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '115' , new StandardTable$2$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '114' , new StandardTable$2$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18246,7 +18246,7 @@ _.equals_0 = function equals_12(other){
 _.compare = function compare_7(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_7;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '115' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '115' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '115' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '115' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '115' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '114' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '114' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '114' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '114' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '114' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18255,7 +18255,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$2$lambda$0$Type_2_classL
 function StandardTable$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$3;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '123' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '122' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18263,7 +18263,7 @@ defineClass(389, 55, $intern_42, StandardTable$3);
 _.getValue_0 = function getValue_16(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_16;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '129' , object), 16).lastName);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '128' , object), 16).lastName);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18271,7 +18271,7 @@ _.getValue_0 = function getValue_16(object){
 _.getSortComparator = function getSortComparator_5(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getSortComparator_5;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '126' , new StandardTable$3$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '125' , new StandardTable$3$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18292,7 +18292,7 @@ _.equals_0 = function equals_13(other){
 _.compare = function compare_8(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_8;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '126' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '126' , $tmp)).lastName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '126' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '126' , $tmp)).lastName) , $location_0[stackIndex] = 'StandardTable.java:' + '126' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '125' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '125' , $tmp)).lastName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '125' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '125' , $tmp)).lastName) , $location_0[stackIndex] = 'StandardTable.java:' + '125' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18301,7 +18301,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$3$lambda$0$Type_2_classL
 function StandardTable$4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$4;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '134' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '133' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18309,7 +18309,7 @@ defineClass(391, 55, $intern_42, StandardTable$4);
 _.getValue_0 = function getValue_17(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_17;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '148' , object), 16).phone);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '147' , object), 16).phone);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18317,7 +18317,7 @@ _.getValue_0 = function getValue_17(object){
 _.getHideOn = function getHideOn_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getHideOn_1;
-  returnTemp = ($location_0[stackIndex] = 'HideOn.java:' + '33' , $clinit_HideOn() , ($location_0[stackIndex] = 'StandardTable.java:' + '141' , HIDE_ON_MED_DOWN));
+  returnTemp = ($location_0[stackIndex] = 'HideOn.java:' + '33' , $clinit_HideOn() , ($location_0[stackIndex] = 'StandardTable.java:' + '140' , HIDE_ON_MED_DOWN));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18325,7 +18325,7 @@ _.getHideOn = function getHideOn_1(){
 _.getSortComparator = function getSortComparator_6(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getSortComparator_6;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '145' , new StandardTable$4$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '144' , new StandardTable$4$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18353,7 +18353,7 @@ _.equals_0 = function equals_14(other){
 _.compare = function compare_9(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_9;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '145' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '145' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '145' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '145' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '145' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '144' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '144' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '144' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '144' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '144' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18362,7 +18362,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$4$lambda$0$Type_2_classL
 function StandardTable$5(val$index){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$5;
-  this.val$index2 = ($location_0[stackIndex] = 'StandardTable.java:' + '155' , val$index);
+  this.val$index2 = ($location_0[stackIndex] = 'StandardTable.java:' + '154' , val$index);
   TextColumn.call(this);
   $stackDepth_0 = stackIndex - 1;
 }
@@ -18371,7 +18371,7 @@ defineClass(393, 55, $intern_42, StandardTable$5);
 _.getValue_0 = function getValue_18(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_18;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '161' , object), 16).phone) + ' ' + ($location_0[stackIndex] = 'StandardTable.java:' + '162' , this.val$index2);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '160' , object), 16).phone) + ' ' + ($location_0[stackIndex] = 'StandardTable.java:' + '161' , this.val$index2);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18379,7 +18379,7 @@ _.getValue_0 = function getValue_18(object){
 _.getSortComparator = function getSortComparator_7(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getSortComparator_7;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '158' , new StandardTable$5$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '157' , new StandardTable$5$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18401,7 +18401,7 @@ _.equals_0 = function equals_15(other){
 _.compare = function compare_10(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_10;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '158' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '158' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '157' , arg0), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '157' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '51' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '157' , arg1), 22).data_0), ($tmp = 16 , $location_0[stackIndex] = 'StandardTable.java:' + '157' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '157' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18410,11 +18410,11 @@ var Lgwt_material_design_sample_client_ui_StandardTable$5$lambda$0$Type_2_classL
 function $getValue_5(object){
   var badge, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getValue_5;
-  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '176' , new MaterialBadge);
-  $setText_1(($location_0[stackIndex] = 'StandardTable.java:' + '177' , badge), ($tmp = 'badge ' + ($location_0[stackIndex] = 'Person.java:' + '37' , object.id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '177' , $tmp));
-  $setBackgroundColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'StandardTable.java:' + '178' , badge).colorsMixin_0)) && (($location_0[stackIndex] = 'StandardTable.java:' + '178' , badge).colorsMixin_0 = new ColorsMixin(($tmp = badge , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'StandardTable.java:' + '178' , badge).colorsMixin_0)), ($tmp = 'blue' , $location_0[stackIndex] = 'MaterialWidget.java:' + '325' , $tmp));
-  $setLayoutPosition(($location_0[stackIndex] = 'StandardTable.java:' + '179' , $clinit_Style$Position() , badge));
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '180' , badge);
+  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '175' , new MaterialBadge);
+  $setText_1(($location_0[stackIndex] = 'StandardTable.java:' + '176' , badge), ($tmp = 'badge ' + ($location_0[stackIndex] = 'Person.java:' + '37' , object.id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '176' , $tmp));
+  $setBackgroundColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'StandardTable.java:' + '177' , badge).colorsMixin_0)) && (($location_0[stackIndex] = 'StandardTable.java:' + '177' , badge).colorsMixin_0 = new ColorsMixin(($tmp = badge , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'StandardTable.java:' + '177' , badge).colorsMixin_0)), ($tmp = 'blue' , $location_0[stackIndex] = 'MaterialWidget.java:' + '325' , $tmp));
+  $setLayoutPosition(($location_0[stackIndex] = 'StandardTable.java:' + '178' , $clinit_Style$Position() , badge));
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '179' , badge);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18422,7 +18422,7 @@ function $getValue_5(object){
 function StandardTable$6(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$6;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '169' , WidgetColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '168' , WidgetColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18430,7 +18430,7 @@ defineClass(395, 48, $intern_43, StandardTable$6);
 _.getValue_0 = function getValue_19(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_19;
-  returnTemp = $getValue_5(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '175' , object), 16));
+  returnTemp = $getValue_5(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '174' , object), 16));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18438,7 +18438,7 @@ _.getValue_0 = function getValue_19(object){
 _.getTextAlign = function getTextAlign_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getTextAlign_1;
-  returnTemp = ($location_0[stackIndex] = 'TextAlign.java:' + '30' , $clinit_TextAlign() , ($location_0[stackIndex] = 'StandardTable.java:' + '172' , CENTER_1));
+  returnTemp = ($location_0[stackIndex] = 'TextAlign.java:' + '30' , $clinit_TextAlign() , ($location_0[stackIndex] = 'StandardTable.java:' + '171' , CENTER_1));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18447,7 +18447,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$6_2_classLit = createFor
 function StandardTable$7(val$rowExpand, val$section){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$7;
-  this.val$rowExpand2 = ($location_0[stackIndex] = 'StandardTable.java:' + '207' , val$rowExpand);
+  this.val$rowExpand2 = ($location_0[stackIndex] = 'StandardTable.java:' + '206' , val$rowExpand);
   this.val$section3 = val$section;
   Timer.call(this);
   $stackDepth_0 = stackIndex - 1;
@@ -18457,25 +18457,25 @@ defineClass(396, 140, {}, StandardTable$7);
 _.run = function run_1(){
   var badge, btn, content_0, icon, textBox, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = run_1;
-  content_0 = new MaterialWidget(($tmp = ($location_0[stackIndex] = 'RowExpand.java:' + '43' , ($location_0[stackIndex] = 'StandardTable.java:' + '212' , this.val$rowExpand2).row).find(($tmp = '.content' , $location_0[stackIndex] = 'StandardTable.java:' + '212' , $tmp)).empty().get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '211' , $tmp));
-  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '215' , new MaterialBadge_0);
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '216' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'StandardTable.java:' + '216' , $clinit_Style$Position() , 'relative');
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '217' , badge).element_0).style)['right'] = ($location_0[stackIndex] = 'StandardTable.java:' + '217' , $clinit_Style$Unit() , '0.0px');
-  $setFontSize(($location_0[stackIndex] = 'StandardTable.java:' + '218' , badge));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '219' , content_0), badge, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
-  btn = new MaterialButton_0(($location_0[stackIndex] = 'ButtonType.java:' + '32' , $clinit_ButtonType() , ($location_0[stackIndex] = 'StandardTable.java:' + '221' , RAISED)), ($tmp = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '397' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '222' , FULLSCREEN))) , $location_0[stackIndex] = 'StandardTable.java:' + '221' , $tmp));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '223' , content_0), btn, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
-  textBox = ($location_0[stackIndex] = 'StandardTable.java:' + '225' , new MaterialTextBox);
-  $setText(($location_0[stackIndex] = 'MaterialValueBox.java:' + '180' , ($location_0[stackIndex] = 'StandardTable.java:' + '226' , textBox).valueBoxBase));
-  $addStyleName(($location_0[stackIndex] = 'MaterialValueBox.java:' + '183' , ($location_0[stackIndex] = 'StandardTable.java:' + '226' , textBox).label_0), 'active');
-  $setGwtDisplay(($location_0[stackIndex] = 'StandardTable.java:' + '227' , textBox), ($location_0[stackIndex] = 'Style.java:' + '313' , $clinit_Style$Display() , ($location_0[stackIndex] = 'StandardTable.java:' + '227' , INLINE_TABLE)));
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '228' , textBox).element_0).style)['width'] = '200px';
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '229' , content_0), textBox, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
-  icon = new MaterialIcon_0(($location_0[stackIndex] = 'StandardTable.java:' + '231' , CALL));
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '232' , icon).element_0).style)['position'] = 'relative';
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '233' , icon).element_0).style)['top'] = '12.0px';
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '234' , content_0), icon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
-  ($location_0[stackIndex] = 'StandardTable.java:' + '238' , this.val$section3).css('display', 'none');
+  content_0 = new MaterialWidget(($tmp = ($location_0[stackIndex] = 'RowExpand.java:' + '43' , ($location_0[stackIndex] = 'StandardTable.java:' + '211' , this.val$rowExpand2).row).find(($tmp = '.content' , $location_0[stackIndex] = 'StandardTable.java:' + '211' , $tmp)).empty().get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '210' , $tmp));
+  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '214' , new MaterialBadge_0);
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '215' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'StandardTable.java:' + '215' , $clinit_Style$Position() , 'relative');
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '216' , badge).element_0).style)['right'] = ($location_0[stackIndex] = 'StandardTable.java:' + '216' , $clinit_Style$Unit() , '0.0px');
+  $setFontSize(($location_0[stackIndex] = 'StandardTable.java:' + '217' , badge));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '218' , content_0), badge, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
+  btn = new MaterialButton_0(($location_0[stackIndex] = 'ButtonType.java:' + '32' , $clinit_ButtonType() , ($location_0[stackIndex] = 'StandardTable.java:' + '220' , RAISED)), ($tmp = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '397' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '221' , FULLSCREEN))) , $location_0[stackIndex] = 'StandardTable.java:' + '220' , $tmp));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '222' , content_0), btn, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
+  textBox = ($location_0[stackIndex] = 'StandardTable.java:' + '224' , new MaterialTextBox);
+  $setText(($location_0[stackIndex] = 'MaterialValueBox.java:' + '180' , ($location_0[stackIndex] = 'StandardTable.java:' + '225' , textBox).valueBoxBase));
+  $addStyleName(($location_0[stackIndex] = 'MaterialValueBox.java:' + '183' , ($location_0[stackIndex] = 'StandardTable.java:' + '225' , textBox).label_0), 'active');
+  $setGwtDisplay(($location_0[stackIndex] = 'StandardTable.java:' + '226' , textBox), ($location_0[stackIndex] = 'Style.java:' + '313' , $clinit_Style$Display() , ($location_0[stackIndex] = 'StandardTable.java:' + '226' , INLINE_TABLE)));
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '227' , textBox).element_0).style)['width'] = '200px';
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '228' , content_0), textBox, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
+  icon = new MaterialIcon_0(($location_0[stackIndex] = 'StandardTable.java:' + '230' , CALL));
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '231' , icon).element_0).style)['position'] = 'relative';
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '232' , icon).element_0).style)['top'] = '12.0px';
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '233' , content_0), icon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '154' , $tmp));
+  ($location_0[stackIndex] = 'StandardTable.java:' + '237' , this.val$section3).css('display', 'none');
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -18504,7 +18504,7 @@ defineClass(576, $wnd.Function, {}, StandardTable$lambda$0$Type);
 _.call_3 = function call_45(arg0, arg1){
   var section, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_45;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '201' , section = ($location_0[stackIndex] = 'RowExpand.java:' + '47' , ($location_0[stackIndex] = 'StandardTable.java:' + '200' , arg1).overlay) , ($location_0[stackIndex] = 'RowExpand.java:' + '51' , ($location_0[stackIndex] = 'StandardTable.java:' + '200' , arg1).expand) && $schedule(new StandardTable$7(($location_0[stackIndex] = 'StandardTable.java:' + '200' , arg1), ($location_0[stackIndex] = 'StandardTable.java:' + '207' , section)), 2000) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '200' , section = ($location_0[stackIndex] = 'RowExpand.java:' + '47' , ($location_0[stackIndex] = 'StandardTable.java:' + '199' , arg1).overlay) , ($location_0[stackIndex] = 'RowExpand.java:' + '51' , ($location_0[stackIndex] = 'StandardTable.java:' + '199' , arg1).expand) && $schedule(new StandardTable$7(($location_0[stackIndex] = 'StandardTable.java:' + '199' , arg1), ($location_0[stackIndex] = 'StandardTable.java:' + '206' , section)), 2000) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18516,7 +18516,7 @@ defineClass(577, $wnd.Function, {}, StandardTable$lambda$1$Type);
 _.call_5 = function call_46(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_46;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '246' , $clinit_UIObject() , ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(arg1, 16).id_0) + ': ' + castToBoolean(($location_0[stackIndex] = 'StandardTable.java:' + '246' , arg3)) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '245' , $clinit_UIObject() , ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(arg1, 16).id_0) + ': ' + castToBoolean(($location_0[stackIndex] = 'StandardTable.java:' + '245' , arg3)) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18524,7 +18524,7 @@ _.call_5 = function call_46(arg0, arg1, arg2, arg3){
 function StandardTable$lambda$10$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$lambda$10$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '306' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '305' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18532,7 +18532,7 @@ defineClass(585, $wnd.Function, {}, StandardTable$lambda$10$Type);
 _.call_5 = function call_47(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_47;
-  returnTemp = $lambda$10_0(($location_0[stackIndex] = 'StandardTable.java:' + '306' , this.$$outer_0), arg1, arg3);
+  returnTemp = $lambda$10_0(($location_0[stackIndex] = 'StandardTable.java:' + '305' , this.$$outer_0), arg1, arg3);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18540,7 +18540,7 @@ _.call_5 = function call_47(arg0, arg1, arg2, arg3){
 function StandardTable$lambda$2$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$lambda$2$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '252' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '251' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18548,7 +18548,7 @@ defineClass(578, $wnd.Function, {}, StandardTable$lambda$2$Type);
 _.call_8 = function call_48(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_48;
-  returnTemp = (($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'StandardTable.java:' + '254' , ($location_0[stackIndex] = 'StandardTable.java:' + '252' , this.$$outer_0).table).dataView).refreshView() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = (($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'StandardTable.java:' + '253' , ($location_0[stackIndex] = 'StandardTable.java:' + '251' , this.$$outer_0).table).dataView).refreshView() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18560,7 +18560,7 @@ defineClass(579, $wnd.Function, {}, StandardTable$lambda$3$Type);
 _.call_8 = function call_49(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_49;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '259' , $clinit_UIObject() , 'Row Count Changed: ' + castTo(arg1, 63) + ', isExact: ' + castToBoolean(arg2) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '258' , $clinit_UIObject() , 'Row Count Changed: ' + castTo(arg1, 63) + ', isExact: ' + castToBoolean(arg2) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18572,7 +18572,7 @@ defineClass(580, $wnd.Function, {}, StandardTable$lambda$4$Type);
 _.call_3 = function call_50(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_50;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '265' , $clinit_UIObject() , 'Category Opened: ' + castToString(arg1) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '264' , $clinit_UIObject() , 'Category Opened: ' + castToString(arg1) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18584,7 +18584,7 @@ defineClass(581, $wnd.Function, {}, StandardTable$lambda$5$Type);
 _.call_3 = function call_51(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_51;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '271' , $clinit_UIObject() , 'Category Closed: ' + castToString(arg1) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '270' , $clinit_UIObject() , 'Category Closed: ' + castToString(arg1) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18596,7 +18596,7 @@ defineClass(582, $wnd.Function, {}, StandardTable$lambda$6$Type);
 _.call_5 = function call_52(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_52;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '277' , $clinit_UIObject() , alert_0(($tmp = 'Row Double Clicked: ' + ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(arg2, 16).id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '279' , $tmp)) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '276' , $clinit_UIObject() , alert_0(($tmp = 'Row Double Clicked: ' + ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(arg2, 16).id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '278' , $tmp)) , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18608,7 +18608,7 @@ defineClass(583, $wnd.Function, {}, StandardTable$lambda$7$Type);
 _.call_5 = function call_53(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_53;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '288' , $clinit_UIObject() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '287' , $clinit_UIObject() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18620,7 +18620,7 @@ defineClass(584, $wnd.Function, {}, StandardTable$lambda$8$Type);
 _.call_5 = function call_54(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_54;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '294' , $clinit_UIObject() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '293' , $clinit_UIObject() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -18628,7 +18628,7 @@ _.call_5 = function call_54(arg0, arg1, arg2, arg3){
 function StandardTable$lambda$9$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$lambda$9$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '299' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '298' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18636,7 +18636,7 @@ defineClass(397, 1, $intern_44, StandardTable$lambda$9$Type);
 _.onSelection = function onSelection_1(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelection_1;
-  $lambda$9_1(($location_0[stackIndex] = 'StandardTable.java:' + '299' , this.$$outer_0), arg0);
+  $lambda$9_1(($location_0[stackIndex] = 'StandardTable.java:' + '298' , this.$$outer_0), arg0);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
