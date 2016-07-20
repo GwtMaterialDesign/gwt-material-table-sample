@@ -3,7 +3,7 @@ var __gwtModuleFunction = $wnd.gmdtablesample;
 var $sendStats = __gwtModuleFunction.__sendStats;
 $sendStats('moduleStartup', 'moduleEvalStart');
 var $gwt_version = "2.8.0-SNAPSHOT";
-var $strongName = '2836A030DD884E5180223241EF702097';
+var $strongName = 'D76891387874D216FBF993CBC465FC6C';
 var $gwt = {};
 var $doc = $wnd.document;
 var $moduleName, $moduleBase;
@@ -7598,7 +7598,7 @@ function $insert_2(this$static, child, beforeIndex){
 function $isEnabled(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $isEnabled;
-  returnTemp = !containsStyle($getStyleName(($location_0[stackIndex] = 'EnabledMixin.java:' + '45' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)).uiObject)), 'disabled');
+  returnTemp = !containsStyle($getStyleName(($location_0[stackIndex] = 'EnabledMixin.java:' + '46' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)).uiObject)), 'disabled');
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -7643,7 +7643,7 @@ function $setDisplay(this$static, display){
 function $setEnabled(this$static, enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setEnabled;
-  $setEnabled_1((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin)), ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , enabled));
+  $setEnabled_0((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , this$static).enabledMixin)), ($location_0[stackIndex] = 'MaterialWidget.java:' + '310' , enabled));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8530,35 +8530,28 @@ var Lgwt_material_design_client_base_mixin_CssTypeMixin_2_classLit = createForCl
 function $applyEnabled(enabled, obj){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $applyEnabled;
-  if ($location_0[stackIndex] = 'EnabledMixin.java:' + '72' , enabled) {
-    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '73' , obj).element_0)), 'disabled', ($tmp = false , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
-    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '74' , obj).element_0).removeAttribute(($tmp = 'disabled' , $location_0[stackIndex] = 'Element.java:' + '537' , $tmp));
+  if ($location_0[stackIndex] = 'EnabledMixin.java:' + '78' , enabled) {
+    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '79' , obj).element_0)), 'disabled', ($tmp = false , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
+    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '80' , obj).element_0).removeAttribute(($tmp = 'disabled' , $location_0[stackIndex] = 'Element.java:' + '537' , $tmp));
   }
    else {
-    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '76' , obj).element_0)), 'disabled', ($tmp = true , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
-    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '77' , obj).element_0).setAttribute('disabled', ($tmp = '' , $location_0[stackIndex] = 'Element.java:' + '655' , $tmp));
+    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '82' , obj).element_0)), 'disabled', ($tmp = true , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
+    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '83' , obj).element_0).setAttribute('disabled', ($tmp = '' , $location_0[stackIndex] = 'Element.java:' + '655' , $tmp));
   }
   $stackDepth_0 = stackIndex - 1;
 }
 
-function $setEnabled_0(this$static, widget, enabled){
+function $setEnabled_0(this$static, enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setEnabled_0;
-  !($location_0[stackIndex] = 'EnabledMixin.java:' + '54' , widget).isAttached_0() && ($location_0[stackIndex] = 'Cast.java:' + '275' , !this$static.handler)?($location_0[stackIndex] = 'EnabledMixin.java:' + '55' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '55' , this$static).handler = $addHandler_0(widget, new EnabledMixin$1(this$static, enabled, widget), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp))):$applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '67' , enabled), widget);
-  $stackDepth_0 = stackIndex - 1;
-}
-
-function $setEnabled_1(this$static, enabled){
-  var stackIndex;
-  $stack_0[stackIndex = ++$stackDepth_0] = $setEnabled_1;
-  $setEnabled_0(($location_0[stackIndex] = 'EnabledMixin.java:' + '50' , this$static), this$static.uiObject, enabled);
+  !($location_0[stackIndex] = 'EnabledMixin.java:' + '51' , this$static).uiObject.isAttached_0() && ($location_0[stackIndex] = 'Cast.java:' + '275' , !this$static.handler)?($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , this$static).handler = $addHandler_0(this$static.uiObject, new EnabledMixin$1(this$static, enabled), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp))):$applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '64' , enabled), this$static.uiObject);
   $stackDepth_0 = stackIndex - 1;
 }
 
 function EnabledMixin(widget){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = EnabledMixin;
-  ($location_0[stackIndex] = 'EnabledMixin.java:' + '40' , AbstractMixin).call(this, widget);
+  ($location_0[stackIndex] = 'EnabledMixin.java:' + '41' , AbstractMixin).call(this, widget);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8566,18 +8559,17 @@ defineClass(177, 46, {}, EnabledMixin);
 _.isEnabled = function isEnabled_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isEnabled_2;
-  returnTemp = !containsStyle(($location_0[stackIndex] = 'Element.java:' + '209' , $getElement(($tmp = ($location_0[stackIndex] = 'EnabledMixin.java:' + '45' , this.uiObject) , $location_0[stackIndex] = 'UIObject.java:' + '840' , $tmp)).className) || '', ($tmp = 'disabled' , $location_0[stackIndex] = 'EnabledMixin.java:' + '45' , $tmp));
+  returnTemp = !containsStyle(($location_0[stackIndex] = 'Element.java:' + '209' , $getElement(($tmp = ($location_0[stackIndex] = 'EnabledMixin.java:' + '46' , this.uiObject) , $location_0[stackIndex] = 'UIObject.java:' + '840' , $tmp)).className) || '', ($tmp = 'disabled' , $location_0[stackIndex] = 'EnabledMixin.java:' + '46' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 ;
 var Lgwt_material_design_client_base_mixin_EnabledMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'EnabledMixin', 177);
-function EnabledMixin$1(this$0, val$enabled, val$widget){
+function EnabledMixin$1(this$0, val$enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = EnabledMixin$1;
-  this.this$01 = ($location_0[stackIndex] = 'EnabledMixin.java:' + '55' , this$0);
+  this.this$01 = ($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , this$0);
   this.val$enabled2 = val$enabled;
-  this.val$widget3 = val$widget;
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8585,12 +8577,12 @@ defineClass(417, 1, $intern_34, EnabledMixin$1);
 _.onAttachOrDetach = function onAttachOrDetach_2(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_2;
-  if ($location_0[stackIndex] = 'AttachEvent.java:' + '89' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '58' , event_0).attached) {
-    $applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '59' , this.val$enabled2), this.val$widget3);
+  if ($location_0[stackIndex] = 'AttachEvent.java:' + '89' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '55' , event_0).attached) {
+    $applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '56' , this.val$enabled2), this.this$01.uiObject);
   }
-   else if (($location_0[stackIndex] = 'EnabledMixin.java:' + '60' , this.this$01).handler) {
-    $removeHandler(($location_0[stackIndex] = 'LegacyHandlerWrapper.java:' + '30' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '61' , this.this$01).handler.real));
-    ($location_0[stackIndex] = 'EnabledMixin.java:' + '62' , this.this$01).handler = null;
+   else if (($location_0[stackIndex] = 'EnabledMixin.java:' + '57' , this.this$01).handler) {
+    $removeHandler(($location_0[stackIndex] = 'LegacyHandlerWrapper.java:' + '30' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '58' , this.this$01).handler.real));
+    ($location_0[stackIndex] = 'EnabledMixin.java:' + '59' , this.this$01).handler = null;
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -15186,7 +15178,7 @@ defineClass(463, 7, $intern_40);
 _.addBlurHandler = function addBlurHandler_0(handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = addBlurHandler_0;
-  returnTemp = $addDomHandler(this, new MaterialListValueBox$2(this, ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '859' , handler)), ($tmp = ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '866' , $clinit_BlurEvent() , ($location_0[stackIndex] = 'BlurEvent.java:' + '29' , $clinit_BlurEvent()) , ($location_0[stackIndex] = 'BlurEvent.java:' + '38' , TYPE)) , $location_0[stackIndex] = 'MaterialListValueBox.java:' + '859' , $tmp));
+  returnTemp = $addDomHandler(this, new MaterialListValueBox$2(this, ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '860' , handler)), ($tmp = ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '867' , $clinit_BlurEvent() , ($location_0[stackIndex] = 'BlurEvent.java:' + '29' , $clinit_BlurEvent()) , ($location_0[stackIndex] = 'BlurEvent.java:' + '38' , TYPE)) , $location_0[stackIndex] = 'MaterialListValueBox.java:' + '860' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -15249,7 +15241,7 @@ var Lgwt_material_design_client_ui_MaterialListValueBox$1_2_classLit = createFor
 function MaterialListValueBox$2(this$0, val$handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialListValueBox$2;
-  this.this$01 = ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '859' , this$0);
+  this.this$01 = ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '860' , this$0);
   this.val$handler2 = val$handler;
   $stackDepth_0 = stackIndex - 1;
 }
@@ -15258,7 +15250,7 @@ defineClass(465, 1, $intern_35, MaterialListValueBox$2);
 _.onBlur = function onBlur_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur_1;
-  $isEnabled(($location_0[stackIndex] = 'MaterialListValueBox.java:' + '862' , this.this$01)) && ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '863' , this.val$handler2).onBlur(event_0);
+  $isEnabled(($location_0[stackIndex] = 'MaterialListValueBox.java:' + '863' , this.this$01)) && ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '864' , this.val$handler2).onBlur(event_0);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17112,7 +17104,7 @@ var categories_0, peopleMap;
 function $lambda$0_3(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$0_3;
-  $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '125' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '125' , $tmp));
+  $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '124' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '124' , $tmp));
   returnTemp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -17121,8 +17113,8 @@ function $lambda$0_3(this$static){
 function $lambda$2_0(this$static, models_1, selected_3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$2_0;
-  $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '137' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '137' , $tmp));
-  'Selected[' + ($location_0[stackIndex] = 'InfiniteTable.java:' + '138' , selected_3) + ']: ' + models_1.size_1() + ' models';
+  $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '136' , $tmp));
+  'Selected[' + ($location_0[stackIndex] = 'InfiniteTable.java:' + '137' , selected_3) + ']: ' + models_1.size_1() + ' models';
   returnTemp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -17131,14 +17123,14 @@ function $lambda$2_0(this$static, models_1, selected_3){
 function $lambda$3_1(this$static, selectionEvent_0){
   var per, per$iterator, span_0, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$3_1;
-  span_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'InfiniteTable.java:' + '150' , $tmp))).find('span');
-  for ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , this$static).table.dataView).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , per$iterator).this$01).array.length;) {
-    per = castTo($next_2(($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , per$iterator)), 16);
-    fireToast(($tmp = ($location_0[stackIndex] = 'DOMImpl.java:' + '215' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '152' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).innerHTML) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '152' , per).firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '71' , $tmp));
+  span_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '149' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'InfiniteTable.java:' + '149' , $tmp))).find('span');
+  for ($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , this$static).table.dataView).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , per$iterator).this$01).array.length;) {
+    per = castTo($next_2(($location_0[stackIndex] = 'InfiniteTable.java:' + '150' , per$iterator)), 16);
+    fireToast(($tmp = ($location_0[stackIndex] = 'DOMImpl.java:' + '215' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).innerHTML) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '151' , per).firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '71' , $tmp));
   }
-  if ($equals_0(($location_0[stackIndex] = 'DOMImplStandard.java:' + '120' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '155' , span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).textContent), ($tmp = 'Select All' , $location_0[stackIndex] = 'InfiniteTable.java:' + '155' , $tmp))) {
-    $selectAllRows(($location_0[stackIndex] = 'AbstractDataTable.java:' + '438' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '156' , this$static).table.dataView), ($tmp = true , $location_0[stackIndex] = 'AbstractDataView.java:' + '1124' , $tmp));
-    $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '157' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '157' , $tmp));
+  if ($equals_0(($location_0[stackIndex] = 'DOMImplStandard.java:' + '120' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '154' , span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)).textContent), ($tmp = 'Select All' , $location_0[stackIndex] = 'InfiniteTable.java:' + '154' , $tmp))) {
+    $selectAllRows(($location_0[stackIndex] = 'AbstractDataTable.java:' + '438' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '155' , this$static).table.dataView), ($tmp = true , $location_0[stackIndex] = 'AbstractDataView.java:' + '1124' , $tmp));
+    $updateSelectedRows(($location_0[stackIndex] = 'InfiniteTable.java:' + '156' , this$static), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '478' , this$static.table.dataView).getSelectedRowModels(false).array).length , $location_0[stackIndex] = 'InfiniteTable.java:' + '156' , $tmp));
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -17146,9 +17138,9 @@ function $lambda$3_1(this$static, selectionEvent_0){
 function $lambda$4_1(this$static, mouseEvent_1, row_3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$4_1;
-  $selectRow_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '163' , this$static).table, ($tmp = $wnd.$(row_3).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '163' , $tmp));
-  $setPopupPosition(($location_0[stackIndex] = 'InfiniteTable.java:' + '165' , this$static).materialPopupMenu, mouseEvent_1.clientX, mouseEvent_1.clientY);
-  $open(($location_0[stackIndex] = 'InfiniteTable.java:' + '166' , this$static).materialPopupMenu);
+  $selectRow_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '162' , this$static).table, ($tmp = $wnd.$(row_3).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '162' , $tmp));
+  $setPopupPosition(($location_0[stackIndex] = 'InfiniteTable.java:' + '164' , this$static).materialPopupMenu, mouseEvent_1.clientX, mouseEvent_1.clientY);
+  $open(($location_0[stackIndex] = 'InfiniteTable.java:' + '165' , this$static).materialPopupMenu);
   returnTemp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -17157,24 +17149,24 @@ function $lambda$4_1(this$static, mouseEvent_1, row_3){
 function $onCategories(this$static, e){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onCategories;
-  checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '173' , e).value_0) , $location_0[stackIndex] = 'InfiniteTable.java:' + '173' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))?$setUseCategories_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '174' , this$static).table, true):$setUseCategories_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '177' , this$static).table, false);
-  $setRedraw(($location_0[stackIndex] = 'AbstractDataTable.java:' + '573' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '180' , this$static).table.dataView));
-  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '181' , this$static).table.dataView).refreshView();
+  checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '172' , e).value_0) , $location_0[stackIndex] = 'InfiniteTable.java:' + '172' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))?$setUseCategories_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '173' , this$static).table, true):$setUseCategories_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '176' , this$static).table, false);
+  $setRedraw(($location_0[stackIndex] = 'AbstractDataTable.java:' + '573' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '179' , this$static).table.dataView));
+  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '180' , this$static).table.dataView).refreshView();
   $stackDepth_0 = stackIndex - 1;
 }
 
 function $updateSelectedRows(this$static, size_0){
   var word, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $updateSelectedRows;
-  $location_0[stackIndex] = 'InfiniteTable.java:' + '185' , word = ' item ';
-  ($location_0[stackIndex] = 'InfiniteTable.java:' + '186' , size_0) > 1 && ($location_0[stackIndex] = 'InfiniteTable.java:' + '187' , word = ' items ');
-  if (($location_0[stackIndex] = 'InfiniteTable.java:' + '189' , size_0) <= 0) {
-    $setText_0(($location_0[stackIndex] = 'MaterialDataTable.java:' + '272' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '190' , this$static).table.tableTitle), ($tmp = 'Table Title' , $location_0[stackIndex] = 'InfiniteTable.java:' + '190' , $tmp));
-    $removeStyleName(($location_0[stackIndex] = 'TableScaffolding.java:' + '61' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '191' , this$static).table.scaffolding).topPanel), ($tmp = 'active-header' , $location_0[stackIndex] = 'InfiniteTable.java:' + '191' , $tmp));
+  $location_0[stackIndex] = 'InfiniteTable.java:' + '184' , word = ' item ';
+  ($location_0[stackIndex] = 'InfiniteTable.java:' + '185' , size_0) > 1 && ($location_0[stackIndex] = 'InfiniteTable.java:' + '186' , word = ' items ');
+  if (($location_0[stackIndex] = 'InfiniteTable.java:' + '188' , size_0) <= 0) {
+    $setText_0(($location_0[stackIndex] = 'MaterialDataTable.java:' + '272' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '189' , this$static).table.tableTitle), ($tmp = 'Table Title' , $location_0[stackIndex] = 'InfiniteTable.java:' + '189' , $tmp));
+    $removeStyleName(($location_0[stackIndex] = 'TableScaffolding.java:' + '61' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '190' , this$static).table.scaffolding).topPanel), ($tmp = 'active-header' , $location_0[stackIndex] = 'InfiniteTable.java:' + '190' , $tmp));
   }
    else {
-    $addStyleName(($location_0[stackIndex] = 'TableScaffolding.java:' + '61' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '193' , this$static).table.scaffolding).topPanel), ($tmp = 'active-header' , $location_0[stackIndex] = 'InfiniteTable.java:' + '193' , $tmp));
-    $setText_0(($location_0[stackIndex] = 'MaterialDataTable.java:' + '272' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '194' , this$static).table.tableTitle), ($location_0[stackIndex] = 'InfiniteTable.java:' + '194' , size_0) + word + 'selected ');
+    $addStyleName(($location_0[stackIndex] = 'TableScaffolding.java:' + '61' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '311' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '192' , this$static).table.scaffolding).topPanel), ($tmp = 'active-header' , $location_0[stackIndex] = 'InfiniteTable.java:' + '192' , $tmp));
+    $setText_0(($location_0[stackIndex] = 'MaterialDataTable.java:' + '272' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '193' , this$static).table.tableTitle), ($location_0[stackIndex] = 'InfiniteTable.java:' + '193' , size_0) + word + 'selected ');
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -17182,10 +17174,10 @@ function $updateSelectedRows(this$static, size_0){
 function InfiniteTable(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable;
-  $location_0[stackIndex] = 'InfiniteTable.java:' + '47' , $clinit_UIObject();
-  $location_0[stackIndex] = 'InfiniteTable.java:' + '39' , $clinit_FakePersonService();
-  this.table = new MaterialInfiniteDataTable(($tmp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '49' , new PersonDataSource) , $location_0[stackIndex] = 'InfiniteTable.java:' + '48' , $tmp));
-  $initWidget(this, ($tmp = $build_f_HTMLPanel1(($tmp = new InfiniteTable_InfiniteGridUiBinderImpl$Widgets(($tmp = this , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '31' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '79' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '51' , $tmp));
+  $location_0[stackIndex] = 'InfiniteTable.java:' + '46' , $clinit_UIObject();
+  $location_0[stackIndex] = 'InfiniteTable.java:' + '38' , $clinit_FakePersonService();
+  this.table = new MaterialInfiniteDataTable(($tmp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '48' , new PersonDataSource) , $location_0[stackIndex] = 'InfiniteTable.java:' + '47' , $tmp));
+  $initWidget(this, ($tmp = $build_f_HTMLPanel1(($tmp = new InfiniteTable_InfiniteGridUiBinderImpl$Widgets(($tmp = this , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '31' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '79' , $tmp)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '50' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17193,18 +17185,18 @@ defineClass(217, 92, $intern_27, InfiniteTable);
 _.onLoad = function onLoad_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_11;
-  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '578' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '59' , this.table).dataView).setLoadMask(true);
-  $onSuccess(new InfiniteTable$1(($tmp = this , $location_0[stackIndex] = 'InfiniteTable.java:' + '60' , $tmp)), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '13' , $clinit_FakePersonService() , ($location_0[stackIndex] = 'FakePersonService.java:' + '71' , categories_0)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '62' , $tmp));
-  $addColumn(($location_0[stackIndex] = 'InfiniteTable.java:' + '75' , this.table), new InfiniteTable$2);
-  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '91' , this.table), new InfiniteTable$3, 'First Name');
-  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '102' , this.table), new InfiniteTable$4, 'Last Name');
-  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '113' , this.table), new InfiniteTable$5, 'Phone');
-  $addRowSelectHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '124' , this.table), makeLambdaFunction(InfiniteTable$lambda$0$Type.prototype.call_5, InfiniteTable$lambda$0$Type, [this]));
-  $addSortColumnHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '130' , this.table), makeLambdaFunction(InfiniteTable$lambda$1$Type.prototype.call_8, InfiniteTable$lambda$1$Type, [this]));
-  $addSelectAllHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , this.table), makeLambdaFunction(InfiniteTable$lambda$2$Type.prototype.call_5, InfiniteTable$lambda$2$Type, [this]));
-  ($location_0[stackIndex] = 'AbstractDataView.java:' + '1637' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '608' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '142' , this.table).dataView).useCategories) || ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '146' , this.table).dataView).refreshView();
-  $addHandler_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '149' , this.materialPopupMenu), new InfiniteTable$lambda$3$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_4)) && (TYPE_4 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_4)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
-  $addRowContextMenuHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '161' , this.table), makeLambdaFunction(InfiniteTable$lambda$4$Type.prototype.call_5, InfiniteTable$lambda$4$Type, [this]));
+  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '578' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '58' , this.table).dataView).setLoadMask(true);
+  $onSuccess(new InfiniteTable$1(($tmp = this , $location_0[stackIndex] = 'InfiniteTable.java:' + '59' , $tmp)), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '13' , $clinit_FakePersonService() , ($location_0[stackIndex] = 'FakePersonService.java:' + '71' , categories_0)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '61' , $tmp));
+  $addColumn(($location_0[stackIndex] = 'InfiniteTable.java:' + '74' , this.table), new InfiniteTable$2);
+  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '90' , this.table), new InfiniteTable$3, 'First Name');
+  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '101' , this.table), new InfiniteTable$4, 'Last Name');
+  $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '112' , this.table), new InfiniteTable$5, 'Phone');
+  $addRowSelectHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '123' , this.table), makeLambdaFunction(InfiniteTable$lambda$0$Type.prototype.call_5, InfiniteTable$lambda$0$Type, [this]));
+  $addSortColumnHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '129' , this.table), makeLambdaFunction(InfiniteTable$lambda$1$Type.prototype.call_8, InfiniteTable$lambda$1$Type, [this]));
+  $addSelectAllHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '135' , this.table), makeLambdaFunction(InfiniteTable$lambda$2$Type.prototype.call_5, InfiniteTable$lambda$2$Type, [this]));
+  ($location_0[stackIndex] = 'AbstractDataView.java:' + '1637' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '608' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '141' , this.table).dataView).useCategories) || ($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '145' , this.table).dataView).refreshView();
+  $addHandler_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '148' , this.materialPopupMenu), new InfiniteTable$lambda$3$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_4)) && (TYPE_4 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_4)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
+  $addRowContextMenuHandler(($location_0[stackIndex] = 'InfiniteTable.java:' + '160' , this.table), makeLambdaFunction(InfiniteTable$lambda$4$Type.prototype.call_5, InfiniteTable$lambda$4$Type, [this]));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17212,18 +17204,18 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable_2_classLit = createForCl
 function $onSuccess(this$static, categories){
   var category, category$iterator, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onSuccess;
-  for ($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , categories) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , category$iterator).this$01).array.length;) {
-    category = castToString($next_2(($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , category$iterator)));
-    $addCategory_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '64' , this$static).this$01.table, new CategoryComponent(category));
+  for ($location_0[stackIndex] = 'InfiniteTable.java:' + '62' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '62' , categories) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '62' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '62' , category$iterator).this$01).array.length;) {
+    category = castToString($next_2(($location_0[stackIndex] = 'InfiniteTable.java:' + '62' , category$iterator)));
+    $addCategory_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '63' , this$static).this$01.table, new CategoryComponent(category));
   }
-  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '578' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '66' , this$static).this$01.table.dataView).setLoadMask(false);
+  ($location_0[stackIndex] = 'AbstractDataTable.java:' + '578' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '65' , this$static).this$01.table.dataView).setLoadMask(false);
   $stackDepth_0 = stackIndex - 1;
 }
 
 function InfiniteTable$1(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$1;
-  this.this$01 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '60' , this$0);
+  this.this$01 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '59' , this$0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17232,15 +17224,15 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$1_2_classLit = createFor
 function $getValue_1(object){
   var profile, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getValue_1;
-  profile = ($location_0[stackIndex] = 'InfiniteTable.java:' + '78' , new MaterialImage);
-  $setUrl_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '79' , profile), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '69' , object.picture) , $location_0[stackIndex] = 'InfiniteTable.java:' + '79' , $tmp));
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '80' , profile).element_0)).style)['width'] = '40px';
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '81' , profile).element_0).style)['height'] = '40px';
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '82' , profile).element_0).style)['padding'] = ($location_0[stackIndex] = 'MaterialWidget.java:' + '410' , $clinit_Style$Unit() , '4.0px');
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '83' , profile).element_0).style)['marginTop'] = '8.0px';
-  $setBackgroundColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).colorsMixin_0 = new ColorsMixin(($tmp = profile , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).colorsMixin_0)), ($tmp = 'grey lighten-2' , $location_0[stackIndex] = 'MaterialWidget.java:' + '325' , $tmp));
-  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '254' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '85' , profile).circleMixin)) && (($location_0[stackIndex] = 'InfiniteTable.java:' + '85' , profile).circleMixin = new ToggleStyleMixin(profile, ($tmp = 'circle' , $location_0[stackIndex] = 'MaterialWidget.java:' + '254' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '255' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '85' , profile).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '515' , $tmp));
-  returnTemp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '86' , profile);
+  profile = ($location_0[stackIndex] = 'InfiniteTable.java:' + '77' , new MaterialImage);
+  $setUrl_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '78' , profile), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '69' , object.picture) , $location_0[stackIndex] = 'InfiniteTable.java:' + '78' , $tmp));
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '79' , profile).element_0)).style)['width'] = '40px';
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '80' , profile).element_0).style)['height'] = '40px';
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '81' , profile).element_0).style)['padding'] = ($location_0[stackIndex] = 'MaterialWidget.java:' + '410' , $clinit_Style$Unit() , '4.0px');
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '82' , profile).element_0).style)['marginTop'] = '8.0px';
+  $setBackgroundColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '83' , profile).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable.java:' + '83' , profile).colorsMixin_0 = new ColorsMixin(($tmp = profile , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '83' , profile).colorsMixin_0)), ($tmp = 'grey lighten-2' , $location_0[stackIndex] = 'MaterialWidget.java:' + '325' , $tmp));
+  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '254' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).circleMixin)) && (($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).circleMixin = new ToggleStyleMixin(profile, ($tmp = 'circle' , $location_0[stackIndex] = 'MaterialWidget.java:' + '254' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '255' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '84' , profile).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '515' , $tmp));
+  returnTemp = ($location_0[stackIndex] = 'InfiniteTable.java:' + '85' , profile);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17248,7 +17240,7 @@ function $getValue_1(object){
 function InfiniteTable$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$2;
-  ($location_0[stackIndex] = 'InfiniteTable.java:' + '75' , WidgetColumn).call(this);
+  ($location_0[stackIndex] = 'InfiniteTable.java:' + '74' , WidgetColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17256,7 +17248,7 @@ defineClass(400, 48, $intern_43, InfiniteTable$2);
 _.getValue_0 = function getValue_4(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_4;
-  returnTemp = $getValue_1(castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '77' , object), 16));
+  returnTemp = $getValue_1(castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '76' , object), 16));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17265,7 +17257,7 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$2_2_classLit = createFor
 function InfiniteTable$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$3;
-  ($location_0[stackIndex] = 'InfiniteTable.java:' + '91' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'InfiniteTable.java:' + '90' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17273,7 +17265,7 @@ defineClass(401, 55, $intern_42, InfiniteTable$3);
 _.getValue_0 = function getValue_5(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_5;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '97' , object), 16).firstName);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '96' , object), 16).firstName);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17289,7 +17281,7 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$3_2_classLit = createFor
 function InfiniteTable$4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$4;
-  ($location_0[stackIndex] = 'InfiniteTable.java:' + '102' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'InfiniteTable.java:' + '101' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17297,7 +17289,7 @@ defineClass(402, 55, $intern_42, InfiniteTable$4);
 _.getValue_0 = function getValue_6(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_6;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '108' , object), 16).lastName);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '107' , object), 16).lastName);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17313,7 +17305,7 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$4_2_classLit = createFor
 function InfiniteTable$5(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$5;
-  ($location_0[stackIndex] = 'InfiniteTable.java:' + '113' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'InfiniteTable.java:' + '112' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17321,7 +17313,7 @@ defineClass(403, 55, $intern_42, InfiniteTable$5);
 _.getValue_0 = function getValue_7(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_7;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '119' , object), 16).phone);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'InfiniteTable.java:' + '118' , object), 16).phone);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17337,7 +17329,7 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$5_2_classLit = createFor
 function InfiniteTable$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$0$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '124' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '123' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17345,7 +17337,7 @@ defineClass(586, $wnd.Function, {}, InfiniteTable$lambda$0$Type);
 _.call_5 = function call_31(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_31;
-  returnTemp = $lambda$0_3(($location_0[stackIndex] = 'InfiniteTable.java:' + '124' , this.$$outer_0));
+  returnTemp = $lambda$0_3(($location_0[stackIndex] = 'InfiniteTable.java:' + '123' , this.$$outer_0));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17353,7 +17345,7 @@ _.call_5 = function call_31(arg0, arg1, arg2, arg3){
 function InfiniteTable$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$1$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '130' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '129' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17361,7 +17353,7 @@ defineClass(587, $wnd.Function, {}, InfiniteTable$lambda$1$Type);
 _.call_8 = function call_32(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_32;
-  returnTemp = (($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '132' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '130' , this.$$outer_0).table).dataView).refreshView() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
+  returnTemp = (($location_0[stackIndex] = 'AbstractDataTable.java:' + '328' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '131' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '129' , this.$$outer_0).table).dataView).refreshView() , ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean()) , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17369,7 +17361,7 @@ _.call_8 = function call_32(arg0, arg1, arg2){
 function InfiniteTable$lambda$2$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$2$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '135' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17377,7 +17369,7 @@ defineClass(588, $wnd.Function, {}, InfiniteTable$lambda$2$Type);
 _.call_5 = function call_33(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_33;
-  returnTemp = $lambda$2_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , this.$$outer_0), arg1, arg3);
+  returnTemp = $lambda$2_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '135' , this.$$outer_0), arg1, arg3);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -17385,7 +17377,7 @@ _.call_5 = function call_33(arg0, arg1, arg2, arg3){
 function InfiniteTable$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$3$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '149' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '148' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17393,7 +17385,7 @@ defineClass(404, 1, $intern_44, InfiniteTable$lambda$3$Type);
 _.onSelection = function onSelection(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelection;
-  $lambda$3_1(($location_0[stackIndex] = 'InfiniteTable.java:' + '149' , this.$$outer_0), arg0);
+  $lambda$3_1(($location_0[stackIndex] = 'InfiniteTable.java:' + '148' , this.$$outer_0), arg0);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17401,7 +17393,7 @@ var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$3$Type_2_classLit
 function InfiniteTable$lambda$4$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$4$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '161' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'InfiniteTable.java:' + '160' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17409,7 +17401,7 @@ defineClass(589, $wnd.Function, {}, InfiniteTable$lambda$4$Type);
 _.call_5 = function call_34(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_34;
-  returnTemp = $lambda$4_1(($location_0[stackIndex] = 'InfiniteTable.java:' + '161' , this.$$outer_0), arg1, arg3);
+  returnTemp = $lambda$4_1(($location_0[stackIndex] = 'InfiniteTable.java:' + '160' , this.$$outer_0), arg1, arg3);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
