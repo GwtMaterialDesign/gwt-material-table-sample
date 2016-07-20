@@ -1,0 +1,1 @@
+web: sh target/gwt-material-table-sample-1.0-SNAPSHOT
