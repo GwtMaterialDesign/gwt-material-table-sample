@@ -108,7 +108,6 @@ public class StandardTable extends Composite {
             }
         });
 
-
         table.addColumn(new TextColumn<Person>() {
             @Override
             public Comparator<? super RowComponent<Person>> getSortComparator() {
@@ -150,7 +149,7 @@ public class StandardTable extends Composite {
             }
         }, "Phone");
 
-        for(int i = 0; i < 8; i++) {
+        for(int i = 0; i < 4; i++) {
             final int index = i;
             table.addColumn(new TextColumn<Person>() {
                 @Override
@@ -189,7 +188,7 @@ public class StandardTable extends Composite {
         List<Person> people = new ArrayList<>();
         for(int k = 1; k <= 10; k++){
             // Generate 100 rows
-            for(int i = 1; i <= 20; i++, rowIndex++){
+            for(int i = 1; i <= 15; i++, rowIndex++){
                 people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
             }
         }
