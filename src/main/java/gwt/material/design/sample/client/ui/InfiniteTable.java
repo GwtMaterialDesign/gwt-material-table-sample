@@ -16,7 +16,6 @@ import gwt.material.design.client.ui.MaterialToast;
 import gwt.material.design.client.ui.table.cell.WidgetColumn;
 import gwt.material.design.sample.client.service.FakePersonService;
 import gwt.material.design.sample.client.ui.datasource.PersonDataSource;
-import gwt.material.design.sample.client.service.PersonService;
 import gwt.material.design.sample.client.service.PersonServiceAsync;
 import gwt.material.design.sample.client.ui.menu.MaterialPopupMenu;
 import gwt.material.design.sample.shared.model.Person;
