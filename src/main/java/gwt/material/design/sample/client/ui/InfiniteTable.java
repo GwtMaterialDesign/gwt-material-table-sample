@@ -14,6 +14,7 @@ import gwt.material.design.client.data.infinite.InfiniteDataView;
 import gwt.material.design.client.ui.MaterialImage;
 import gwt.material.design.client.ui.MaterialToast;
 import gwt.material.design.client.ui.table.cell.WidgetColumn;
+import gwt.material.design.sample.client.service.FakePersonService;
 import gwt.material.design.sample.client.ui.datasource.PersonDataSource;
 import gwt.material.design.sample.client.service.PersonService;
 import gwt.material.design.sample.client.service.PersonServiceAsync;
@@ -32,7 +33,10 @@ public class InfiniteTable extends Composite {
 
     private static InfiniteGridUiBinder ourUiBinder = GWT.create(InfiniteGridUiBinder.class);
 
-    private PersonServiceAsync personService = GWT.create(PersonService.class);
+    // Replace this with your actual service interface, like so:
+    // private PersonServiceAsync personService = GWT.create(PersonService.class);
+    // we are faking the service on the client side to avoid requiring a web server.
+    private PersonServiceAsync personService = GWT.create(FakePersonService.class);
 
     @UiField(provided = true)
     MaterialInfiniteDataTable<Person> table;
