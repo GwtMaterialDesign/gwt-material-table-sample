@@ -188,7 +188,7 @@ public class StandardTable extends Composite {
         List<Person> people = new ArrayList<>();
         for(int k = 1; k <= 10; k++){
             // Generate 100 rows
-            for(int i = 1; i <= 15; i++, rowIndex++){
+            for(int i = 1; i <= 15; i++, rowIndex++) {
                 people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
             }
         }

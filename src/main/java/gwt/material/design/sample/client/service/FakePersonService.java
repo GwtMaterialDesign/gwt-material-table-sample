@@ -1,5 +1,7 @@
 package gwt.material.design.sample.client.service;
 
+import com.google.gwt.user.client.Random;
+import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import gwt.material.design.sample.shared.model.People;
 import gwt.material.design.sample.shared.model.Person;
@@ -63,11 +65,23 @@ public class FakePersonService implements PersonServiceAsync {
             }
         }
         people.setAbsoluteTotal(flatData.size());
-        async.onSuccess(people);
+        // Fake a delay for the demo
+        new Timer() {
+            @Override
+            public void run() {
+                async.onSuccess(people);
+            }
+        }.schedule(Math.min(200, Random.nextInt(500)));
     }
 
     @Override
     public void getCategories(AsyncCallback<List<String>> async) {
-        async.onSuccess(categories);
+        // Fake a delay for the demo
+        new Timer() {
+            @Override
+            public void run() {
+                async.onSuccess(categories);
+            }
+        }.schedule(Math.min(200, Random.nextInt(500)));
     }
 }
