@@ -3,7 +3,7 @@ var __gwtModuleFunction = $wnd.gmdtablesample;
 var $sendStats = __gwtModuleFunction.__sendStats;
 $sendStats('moduleStartup', 'moduleEvalStart');
 var $gwt_version = "2.8.0-SNAPSHOT";
-var $strongName = '406277C1AF66C9A6FA09299DDBFE14A6';
+var $strongName = 'BAA78AE532B5DA60BAAA7A447D25B3EC';
 var $gwt = {};
 var $doc = $wnd.document;
 var $moduleName, $moduleBase;
@@ -22,7 +22,7 @@ var $stats = $wnd.__gwtStatsEvent ? function(a) {
 return $wnd.__gwtStatsEvent && $wnd.__gwtStatsEvent(a);
 } : null;
 var $sessionId = $wnd.__gwtStatsSessionId ? $wnd.__gwtStatsSessionId : null;
-var $intern_0 = 2147483647, $intern_1 = {4:1}, $intern_2 = 65536, $intern_3 = {4:1, 17:1}, $intern_4 = {4:1, 30:1, 17:1}, $intern_5 = {4:1, 20:1}, $intern_6 = {23:1, 10:1, 4:1, 6:1, 5:1}, $intern_7 = {21:1, 10:1, 4:1, 6:1, 5:1}, $intern_8 = {70:1, 10:1, 4:1, 6:1, 5:1}, $intern_9 = {10:1, 57:1, 4:1, 6:1, 5:1}, $intern_10 = {36:1, 4:1, 6:1, 5:1}, $intern_11 = {9:1}, $intern_12 = {81:1, 4:1, 30:1, 17:1}, $intern_13 = {102:1}, $intern_14 = 4194303, $intern_15 = 1048575, $intern_16 = 4194304, $intern_17 = 17592186044416, $intern_18 = 524288, $intern_19 = -2147483648, $intern_20 = {129:1, 4:1}, $intern_21 = 16777216, $intern_22 = 33554432, $intern_23 = 67108864, $intern_24 = {14:1, 9:1, 13:1, 12:1, 15:1, 11:1, 8:1}, $intern_25 = {14:1, 9:1, 13:1, 12:1, 18:1, 15:1, 11:1, 8:1}, $intern_26 = {14:1, 9:1, 13:1, 19:1, 12:1, 15:1, 11:1, 8:1}, $intern_27 = {14:1, 9:1, 13:1, 92:1, 12:1, 201:1, 15:1, 11:1, 8:1}, $intern_28 = {14:1, 9:1, 13:1, 12:1, 18:1, 15:1, 95:1, 11:1, 8:1}, $intern_29 = {61:1, 4:1, 6:1, 5:1}, $intern_30 = {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 27:1, 7:1}, $intern_31 = {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 90:1, 27:1, 7:1}, $intern_32 = {54:1, 28:1}, $intern_33 = {91:1, 28:1}, $intern_34 = {127:1, 28:1}, $intern_35 = {158:1, 28:1}, $intern_36 = {87:1, 4:1, 6:1, 5:1}, $intern_37 = {34:1, 47:1}, $intern_38 = {35:1, 32:1}, $intern_39 = {4:1, 35:1, 32:1, 107:1}, $intern_40 = {157:1, 128:1, 14:1, 9:1, 13:1, 19:1, 156:1, 12:1, 18:1, 15:1, 11:1, 8:1, 27:1, 7:1}, $intern_41 = {157:1, 128:1, 14:1, 9:1, 13:1, 19:1, 156:1, 12:1, 18:1, 15:1, 11:1, 8:1, 130:1, 27:1, 7:1}, $intern_42 = {31:1}, $intern_43 = {31:1, 48:1}, $intern_44 = {202:1, 28:1}, $intern_45 = {4:1, 30:1, 42:1, 17:1}, $intern_46 = {62:1}, $intern_47 = {35:1, 56:1}, $intern_48 = {4:1, 62:1}, $intern_49 = {4:1, 35:1, 56:1}, $intern_50 = {4:1, 6:1, 5:1, 67:1}, $intern_51 = {4:1, 200:1};
+var $intern_0 = 2147483647, $intern_1 = {4:1}, $intern_2 = 65536, $intern_3 = {4:1, 17:1}, $intern_4 = {4:1, 30:1, 17:1}, $intern_5 = {4:1, 20:1}, $intern_6 = {23:1, 10:1, 4:1, 6:1, 5:1}, $intern_7 = {21:1, 10:1, 4:1, 6:1, 5:1}, $intern_8 = {70:1, 10:1, 4:1, 6:1, 5:1}, $intern_9 = {10:1, 57:1, 4:1, 6:1, 5:1}, $intern_10 = {36:1, 4:1, 6:1, 5:1}, $intern_11 = {9:1}, $intern_12 = {81:1, 4:1, 30:1, 17:1}, $intern_13 = {102:1}, $intern_14 = 4194303, $intern_15 = 1048575, $intern_16 = 4194304, $intern_17 = 17592186044416, $intern_18 = 524288, $intern_19 = -2147483648, $intern_20 = {130:1, 4:1}, $intern_21 = 16777216, $intern_22 = 33554432, $intern_23 = 67108864, $intern_24 = {14:1, 9:1, 13:1, 12:1, 15:1, 11:1, 8:1}, $intern_25 = {14:1, 9:1, 13:1, 12:1, 18:1, 15:1, 11:1, 8:1}, $intern_26 = {14:1, 9:1, 13:1, 19:1, 12:1, 15:1, 11:1, 8:1}, $intern_27 = {14:1, 9:1, 13:1, 92:1, 12:1, 201:1, 15:1, 11:1, 8:1}, $intern_28 = {14:1, 9:1, 13:1, 12:1, 18:1, 15:1, 95:1, 11:1, 8:1}, $intern_29 = {61:1, 4:1, 6:1, 5:1}, $intern_30 = {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 27:1, 7:1}, $intern_31 = {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 90:1, 27:1, 7:1}, $intern_32 = {54:1, 28:1}, $intern_33 = {91:1, 28:1}, $intern_34 = {128:1, 28:1}, $intern_35 = {158:1, 28:1}, $intern_36 = {87:1, 4:1, 6:1, 5:1}, $intern_37 = {34:1, 47:1}, $intern_38 = {35:1, 32:1}, $intern_39 = {4:1, 35:1, 32:1, 108:1}, $intern_40 = {157:1, 129:1, 14:1, 9:1, 13:1, 19:1, 156:1, 12:1, 18:1, 15:1, 11:1, 8:1, 27:1, 7:1}, $intern_41 = {157:1, 129:1, 14:1, 9:1, 13:1, 19:1, 156:1, 12:1, 18:1, 15:1, 11:1, 8:1, 131:1, 27:1, 7:1}, $intern_42 = {31:1}, $intern_43 = {31:1, 48:1}, $intern_44 = {202:1, 28:1}, $intern_45 = {4:1, 30:1, 43:1, 17:1}, $intern_46 = {62:1}, $intern_47 = {35:1, 56:1}, $intern_48 = {4:1, 62:1}, $intern_49 = {4:1, 35:1, 56:1}, $intern_50 = {4:1, 6:1, 5:1, 67:1}, $intern_51 = {4:1, 200:1};
 var _, prototypesByTypeId_0, initFnList_0, permutationId = -1, $stack_0 = [], $stackDepth_0 = -1, $location_0 = [], $tmp;
 function create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle(){
   var stackIndex, returnTemp;
@@ -980,7 +980,7 @@ function AbstractSafeHtmlCell(renderer, consumedEvents){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(451, 176, {});
+defineClass(453, 176, {});
 _.render = function render(context, data_0, sb){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = render;
@@ -988,7 +988,7 @@ _.render = function render(context, data_0, sb){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_cell_client_AbstractSafeHtmlCell_2_classLit = createForClass('com.google.gwt.cell.client', 'AbstractSafeHtmlCell', 451);
+var Lcom_google_gwt_cell_client_AbstractSafeHtmlCell_2_classLit = createForClass('com.google.gwt.cell.client', 'AbstractSafeHtmlCell', 453);
 function Cell$Context(){
 }
 
@@ -1180,9 +1180,9 @@ function RuntimeException_1(message, cause){
 
 defineClass(41, 30, $intern_4, RuntimeException_0);
 var Ljava_lang_RuntimeException_2_classLit = createForClass('java.lang', 'RuntimeException', 41);
-defineClass(135, 41, $intern_4);
-var Ljava_lang_JsException_2_classLit = createForClass('java.lang', 'JsException', 135);
-defineClass(222, 135, $intern_4);
+defineClass(136, 41, $intern_4);
+var Ljava_lang_JsException_2_classLit = createForClass('java.lang', 'JsException', 136);
+defineClass(222, 136, $intern_4);
 var Lcom_google_gwt_core_client_impl_JavaScriptExceptionBase_2_classLit = createForClass('com.google.gwt.core.client.impl', 'JavaScriptExceptionBase', 222);
 function $clinit_JavaScriptException(){
   var stackIndex;
@@ -1292,8 +1292,8 @@ function now_1(){
   return returnTemp;
 }
 
-defineClass(526, 1, {});
-var Lcom_google_gwt_core_client_Scheduler_2_classLit = createForClass('com.google.gwt.core.client', 'Scheduler', 526);
+defineClass(528, 1, {});
+var Lcom_google_gwt_core_client_Scheduler_2_classLit = createForClass('com.google.gwt.core.client', 'Scheduler', 528);
 function $clinit_ScriptInjector(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ScriptInjector;
@@ -1698,7 +1698,7 @@ function scheduleFixedDelayImpl(cmd, delayMs){
   $stackDepth_0 = stackIndex_0 - 1;
 }
 
-defineClass(237, 526, {}, SchedulerImpl);
+defineClass(237, 528, {}, SchedulerImpl);
 _.flushRunning = false;
 _.shouldBeRunning = false;
 var INSTANCE;
@@ -1809,8 +1809,8 @@ function supportsErrorStack(){
 }
 
 var collector;
-defineClass(538, 1, {});
-var Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/Collector', 538);
+defineClass(540, 1, {});
+var Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/Collector', 540);
 function $collect(error){
   var fnStack = [], name_1, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $collect;
@@ -1855,7 +1855,7 @@ function $getStackTrace(t){
 function StackTraceCreator$CollectorEmulated(){
 }
 
-defineClass(223, 538, {}, StackTraceCreator$CollectorEmulated);
+defineClass(223, 540, {}, StackTraceCreator$CollectorEmulated);
 var Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorEmulated_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/CollectorEmulated', 223);
 function $appendChild(this$static, newChild){
   var stackIndex, returnTemp;
@@ -3320,7 +3320,7 @@ function $setData(this$static, data_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(543, 1, {});
+defineClass(545, 1, {});
 _.toString_0 = function toString_3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_3;
@@ -3328,7 +3328,7 @@ _.toString_0 = function toString_3(){
   return 'An event type';
 }
 ;
-var Lcom_google_web_bindery_event_shared_Event_2_classLit = createForClass('com.google.web.bindery.event.shared', 'Event', 543);
+var Lcom_google_web_bindery_event_shared_Event_2_classLit = createForClass('com.google.web.bindery.event.shared', 'Event', 545);
 function $overrideSource(this$static, source){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $overrideSource;
@@ -3336,9 +3336,9 @@ function $overrideSource(this$static, source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(544, 543, {});
+defineClass(546, 545, {});
 _.dead = false;
-var Lcom_google_gwt_event_shared_GwtEvent_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent', 544);
+var Lcom_google_gwt_event_shared_GwtEvent_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent', 546);
 function $setNativeEvent(this$static, nativeEvent){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setNativeEvent;
@@ -3374,7 +3374,7 @@ function fireNativeEvent(nativeEvent, handlerSource, relativeElem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(553, 544, {});
+defineClass(555, 546, {});
 _.getAssociatedType = function getAssociatedType(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getAssociatedType;
@@ -3384,7 +3384,7 @@ _.getAssociatedType = function getAssociatedType(){
 }
 ;
 var registered;
-var Lcom_google_gwt_event_dom_client_DomEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent', 553);
+var Lcom_google_gwt_event_dom_client_DomEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent', 555);
 function $clinit_BlurEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_BlurEvent;
@@ -3396,7 +3396,7 @@ function $clinit_BlurEvent(){
 function BlurEvent(){
 }
 
-defineClass(504, 553, {}, BlurEvent);
+defineClass(506, 555, {}, BlurEvent);
 _.dispatch = function dispatch(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch;
@@ -3413,11 +3413,11 @@ _.getAssociatedType_0 = function getAssociatedType_0(){
 }
 ;
 var TYPE;
-var Lcom_google_gwt_event_dom_client_BlurEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'BlurEvent', 504);
-defineClass(554, 553, {});
-var Lcom_google_gwt_event_dom_client_HumanInputEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'HumanInputEvent', 554);
-defineClass(555, 554, {});
-var Lcom_google_gwt_event_dom_client_MouseEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'MouseEvent', 555);
+var Lcom_google_gwt_event_dom_client_BlurEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'BlurEvent', 506);
+defineClass(556, 555, {});
+var Lcom_google_gwt_event_dom_client_HumanInputEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'HumanInputEvent', 556);
+defineClass(557, 556, {});
+var Lcom_google_gwt_event_dom_client_MouseEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'MouseEvent', 557);
 function $clinit_ClickEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ClickEvent;
@@ -3429,7 +3429,7 @@ function $clinit_ClickEvent(){
 function ClickEvent(){
 }
 
-defineClass(372, 555, {}, ClickEvent);
+defineClass(372, 557, {}, ClickEvent);
 _.dispatch = function dispatch_0(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_0;
@@ -3473,8 +3473,8 @@ function GwtEvent$Type(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(44, 284, {}, GwtEvent$Type);
-var Lcom_google_gwt_event_shared_GwtEvent$Type_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent/Type', 44);
+defineClass(45, 284, {}, GwtEvent$Type);
+var Lcom_google_gwt_event_shared_GwtEvent$Type_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent/Type', 45);
 function DomEvent$Type(eventName, flyweight){
   var types, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DomEvent$Type;
@@ -3491,12 +3491,12 @@ function DomEvent$Type(eventName, flyweight){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(98, 44, {98:1}, DomEvent$Type);
+defineClass(98, 45, {98:1}, DomEvent$Type);
 var Lcom_google_gwt_event_dom_client_DomEvent$Type_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent/Type', 98);
-defineClass(563, 553, {});
-var Lcom_google_gwt_event_dom_client_KeyEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyEvent', 563);
-defineClass(564, 563, {});
-var Lcom_google_gwt_event_dom_client_KeyCodeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyCodeEvent', 564);
+defineClass(565, 555, {});
+var Lcom_google_gwt_event_dom_client_KeyEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyEvent', 565);
+defineClass(566, 565, {});
+var Lcom_google_gwt_event_dom_client_KeyCodeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyCodeEvent', 566);
 function $clinit_KeyUpEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_KeyUpEvent;
@@ -3508,11 +3508,11 @@ function $clinit_KeyUpEvent(){
 function KeyUpEvent(){
 }
 
-defineClass(516, 564, {}, KeyUpEvent);
+defineClass(518, 566, {}, KeyUpEvent);
 _.dispatch = function dispatch_1(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_1;
-  castTo(($location_0[stackIndex] = 'KeyUpEvent.java:' + '55' , handler), 568).onKeyUp(($tmp = this , $location_0[stackIndex] = 'KeyUpEvent.java:' + '56' , $tmp));
+  castTo(($location_0[stackIndex] = 'KeyUpEvent.java:' + '55' , handler), 570).onKeyUp(($tmp = this , $location_0[stackIndex] = 'KeyUpEvent.java:' + '56' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -3525,7 +3525,7 @@ _.getAssociatedType_0 = function getAssociatedType_2(){
 }
 ;
 var TYPE_1;
-var Lcom_google_gwt_event_dom_client_KeyUpEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyUpEvent', 516);
+var Lcom_google_gwt_event_dom_client_KeyUpEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyUpEvent', 518);
 function $unsafeGet(this$static, key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $unsafeGet;
@@ -3567,11 +3567,11 @@ function fire(source, attached){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(381, 544, {}, AttachEvent);
+defineClass(381, 546, {}, AttachEvent);
 _.dispatch = function dispatch_2(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_2;
-  castTo(($location_0[stackIndex] = 'AttachEvent.java:' + '99' , handler), 127).onAttachOrDetach(($tmp = this , $location_0[stackIndex] = 'AttachEvent.java:' + '100' , $tmp));
+  castTo(($location_0[stackIndex] = 'AttachEvent.java:' + '99' , handler), 128).onAttachOrDetach(($tmp = this , $location_0[stackIndex] = 'AttachEvent.java:' + '100' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -3599,11 +3599,11 @@ function fire_0(source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(380, 544, {}, CloseEvent_0);
+defineClass(380, 546, {}, CloseEvent_0);
 _.dispatch = function dispatch_3(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_3;
-  castTo(($location_0[stackIndex] = 'CloseEvent.java:' + '111' , handler), 565);
+  castTo(($location_0[stackIndex] = 'CloseEvent.java:' + '111' , handler), 567);
   $location_0[stackIndex] = 'RootPanel.java:' + '265' , detachWidgets();
   $stackDepth_0 = stackIndex - 1;
 }
@@ -3635,7 +3635,7 @@ function fire_1(source, selectedItem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(450, 544, {}, SelectionEvent);
+defineClass(452, 546, {}, SelectionEvent);
 _.dispatch = function dispatch_4(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_4;
@@ -3652,7 +3652,7 @@ _.getAssociatedType = function getAssociatedType_5(){
 }
 ;
 var TYPE_4;
-var Lcom_google_gwt_event_logical_shared_SelectionEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'SelectionEvent', 450);
+var Lcom_google_gwt_event_logical_shared_SelectionEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'SelectionEvent', 452);
 function ValueChangeEvent(value_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueChangeEvent;
@@ -3670,7 +3670,7 @@ function fire_2(source, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(471, 544, {}, ValueChangeEvent);
+defineClass(473, 546, {}, ValueChangeEvent);
 _.dispatch = function dispatch_5(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_5;
@@ -3687,7 +3687,7 @@ _.getAssociatedType = function getAssociatedType_6(){
 }
 ;
 var TYPE_5;
-var Lcom_google_gwt_event_logical_shared_ValueChangeEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'ValueChangeEvent', 471);
+var Lcom_google_gwt_event_logical_shared_ValueChangeEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'ValueChangeEvent', 473);
 function $addHandler(this$static, type_0, handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $addHandler;
@@ -3729,7 +3729,7 @@ function HandlerManager(source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(109, 1, $intern_11, HandlerManager);
+defineClass(110, 1, $intern_11, HandlerManager);
 _.fireEvent = function fireEvent_0(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fireEvent_0;
@@ -3737,9 +3737,9 @@ _.fireEvent = function fireEvent_0(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_event_shared_HandlerManager_2_classLit = createForClass('com.google.gwt.event.shared', 'HandlerManager', 109);
-defineClass(545, 1, {});
-var Lcom_google_web_bindery_event_shared_EventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'EventBus', 545);
+var Lcom_google_gwt_event_shared_HandlerManager_2_classLit = createForClass('com.google.gwt.event.shared', 'HandlerManager', 110);
+defineClass(547, 1, {});
+var Lcom_google_web_bindery_event_shared_EventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'EventBus', 547);
 function $defer(this$static, command){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $defer;
@@ -3868,7 +3868,7 @@ function $handleQueuedAddsAndRemoves(this$static){
   if (($location_0[stackIndex] = 'SimpleEventBus.java:' + '287' , this$static).deferredDeltas) {
     try {
       for ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , this$static).deferredDeltas , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator).this$01).array.length;) {
-        c = castTo($next_2(($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator)), 523);
+        c = castTo($next_2(($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator)), 525);
         ($location_0[stackIndex] = 'SimpleEventBus.java:' + '290' , c).execute_0();
       }
     }
@@ -3899,10 +3899,10 @@ function SimpleEventBus_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(138, 545, {}, SimpleEventBus);
+defineClass(139, 547, {}, SimpleEventBus);
 _.firingDepth = 0;
 _.isReverseOrder = false;
-var Lcom_google_web_bindery_event_shared_SimpleEventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'SimpleEventBus', 138);
+var Lcom_google_web_bindery_event_shared_SimpleEventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'SimpleEventBus', 139);
 function $doRemove(this$static, type_0, source, handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $doRemove;
@@ -3917,7 +3917,7 @@ function HandlerManager$Bus(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(285, 138, {}, HandlerManager$Bus);
+defineClass(285, 139, {}, HandlerManager$Bus);
 var Lcom_google_gwt_event_shared_HandlerManager$Bus_2_classLit = createForClass('com.google.gwt.event.shared', 'HandlerManager/Bus', 285);
 function LegacyHandlerWrapper(real){
   var stackIndex;
@@ -4020,7 +4020,7 @@ function AutoDirectionHandler(target, directionEstimator){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(480, 1, {568:1, 28:1}, AutoDirectionHandler);
+defineClass(482, 1, {570:1, 28:1}, AutoDirectionHandler);
 _.onKeyUp = function onKeyUp(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onKeyUp;
@@ -4028,7 +4028,7 @@ _.onKeyUp = function onKeyUp(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_i18n_client_AutoDirectionHandler_2_classLit = createForClass('com.google.gwt.i18n.client', 'AutoDirectionHandler', 480);
+var Lcom_google_gwt_i18n_client_AutoDirectionHandler_2_classLit = createForClass('com.google.gwt.i18n.client', 'AutoDirectionHandler', 482);
 function getDirectionOnElement(elem){
   var dirPropertyValue, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getDirectionOnElement;
@@ -4130,7 +4130,7 @@ _.hasAnyRTL = function hasAnyRTL(){
 }
 ;
 var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl', 102);
-defineClass(556, 102, $intern_13);
+defineClass(558, 102, $intern_13);
 _.hasAnyRTL = function hasAnyRTL_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = hasAnyRTL_0;
@@ -4138,16 +4138,16 @@ _.hasAnyRTL = function hasAnyRTL_0(){
   return false;
 }
 ;
-var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1shared_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_shared', 556);
+var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1shared_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_shared', 558);
 function LocaleInfoImpl_(){
 }
 
-defineClass(376, 556, $intern_13, LocaleInfoImpl_);
+defineClass(376, 558, $intern_13, LocaleInfoImpl_);
 var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_', 376);
 function LocaleInfoImpl_en(){
 }
 
-defineClass(375, 556, $intern_13, LocaleInfoImpl_en);
+defineClass(375, 558, $intern_13, LocaleInfoImpl_en);
 var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1en_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_en', 375);
 function $clinit_BidiUtils(){
   var stackIndex;
@@ -4188,8 +4188,8 @@ function $estimateDirection(str){
 }
 
 var FIRST_STRONG_IS_RTL_RE, HAS_ANY_LTR_RE, HAS_NUMERALS_RE, IS_REQUIRED_LTR_RE, LTR_CHARS = 'A-Za-z\xC0-\xD6\xD8-\xF6\xF8-\u02B8\u0300-\u0590\u0800-\u1FFF\u2C00-\uFB1C\uFDFE-\uFE6F\uFEFD-\uFFFF', RTL_CHARS = '\u0591-\u07FF\uFB1D-\uFDFD\uFE70-\uFEFC', WORD_SEPARATOR_RE;
-defineClass(560, 1, {});
-var Lcom_google_gwt_i18n_shared_DirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'DirectionEstimator', 560);
+defineClass(562, 1, {});
+var Lcom_google_gwt_i18n_shared_DirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'DirectionEstimator', 562);
 function $clinit_WordCountDirectionEstimator(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_WordCountDirectionEstimator;
@@ -4209,9 +4209,9 @@ function $estimateDirection_0(str){
 function WordCountDirectionEstimator(){
 }
 
-defineClass(477, 560, {}, WordCountDirectionEstimator);
+defineClass(479, 562, {}, WordCountDirectionEstimator);
 var instance_0;
-var Lcom_google_gwt_i18n_shared_WordCountDirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'WordCountDirectionEstimator', 477);
+var Lcom_google_gwt_i18n_shared_WordCountDirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'WordCountDirectionEstimator', 479);
 function canSet(array, value_0){
   var elementTypeCategory, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = canSet;
@@ -4806,17 +4806,17 @@ function $setLevels(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(528, 1, {});
-var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplRegular_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplRegular', 528);
+defineClass(530, 1, {});
+var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplRegular_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplRegular', 530);
 function LogConfiguration$LogConfigurationImplSevere(){
 }
 
-defineClass(206, 528, {}, LogConfiguration$LogConfigurationImplSevere);
+defineClass(206, 530, {}, LogConfiguration$LogConfigurationImplSevere);
 var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplSevere_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplSevere', 206);
-defineClass(549, 1, {});
-var Ljava_util_logging_Formatter_2_classLit = createForClass('java.util.logging', 'Formatter', 549);
-defineClass(550, 549, {});
-var Lcom_google_gwt_logging_impl_FormatterImpl_2_classLit = createForClass('com.google.gwt.logging.impl', 'FormatterImpl', 550);
+defineClass(551, 1, {});
+var Ljava_util_logging_Formatter_2_classLit = createForClass('java.util.logging', 'Formatter', 551);
+defineClass(552, 551, {});
+var Lcom_google_gwt_logging_impl_FormatterImpl_2_classLit = createForClass('com.google.gwt.logging.impl', 'FormatterImpl', 552);
 function $format(this$static, event_0){
   var message, date, s, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $format;
@@ -4839,15 +4839,15 @@ function TextLogFormatter(showStackTraces){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(164, 550, {}, TextLogFormatter);
+defineClass(164, 552, {}, TextLogFormatter);
 _.showStackTraces = false;
 var Lcom_google_gwt_logging_client_TextLogFormatter_2_classLit = createForClass('com.google.gwt.logging.client', 'TextLogFormatter', 164);
-defineClass(539, 1, {});
-var Ljava_io_OutputStream_2_classLit = createForClass('java.io', 'OutputStream', 539);
+defineClass(541, 1, {});
+var Ljava_io_OutputStream_2_classLit = createForClass('java.io', 'OutputStream', 541);
 function FilterOutputStream(out){
 }
 
-defineClass(160, 539, {}, FilterOutputStream);
+defineClass(160, 541, {}, FilterOutputStream);
 var Ljava_io_FilterOutputStream_2_classLit = createForClass('java.io', 'FilterOutputStream', 160);
 function PrintStream(out){
   var stackIndex;
@@ -4856,11 +4856,11 @@ function PrintStream(out){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(136, 160, {}, PrintStream);
+defineClass(137, 160, {}, PrintStream);
 _.println = function println(s){
 }
 ;
-var Ljava_io_PrintStream_2_classLit = createForClass('java.io', 'PrintStream', 136);
+var Ljava_io_PrintStream_2_classLit = createForClass('java.io', 'PrintStream', 137);
 function StackTracePrintStream(builder){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StackTracePrintStream;
@@ -4869,7 +4869,7 @@ function StackTracePrintStream(builder){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(296, 136, {}, StackTracePrintStream);
+defineClass(296, 137, {}, StackTracePrintStream);
 _.println = function println_0(str){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = println_0;
@@ -4933,11 +4933,11 @@ _.asString = function asString(){
 _.equals_0 = function equals_1(obj){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_1;
-  if (!instanceOf(($location_0[stackIndex] = 'OnlyToBeUsedInGeneratedCodeStringBlessedAsSafeHtml.java:' + '59' , obj), 129)) {
+  if (!instanceOf(($location_0[stackIndex] = 'OnlyToBeUsedInGeneratedCodeStringBlessedAsSafeHtml.java:' + '59' , obj), 130)) {
     $stackDepth_0 = stackIndex - 1;
     return false;
   }
-  returnTemp = $equals_0(($location_0[stackIndex] = 'OnlyToBeUsedInGeneratedCodeStringBlessedAsSafeHtml.java:' + '62' , this.html_0), castTo(obj, 129).asString());
+  returnTemp = $equals_0(($location_0[stackIndex] = 'OnlyToBeUsedInGeneratedCodeStringBlessedAsSafeHtml.java:' + '62' , this.html_0), castTo(obj, 130).asString());
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -4958,8 +4958,8 @@ function SafeHtmlBuilder(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(474, 1, {}, SafeHtmlBuilder);
-var Lcom_google_gwt_safehtml_shared_SafeHtmlBuilder_2_classLit = createForClass('com.google.gwt.safehtml.shared', 'SafeHtmlBuilder', 474);
+defineClass(476, 1, {}, SafeHtmlBuilder);
+var Lcom_google_gwt_safehtml_shared_SafeHtmlBuilder_2_classLit = createForClass('com.google.gwt.safehtml.shared', 'SafeHtmlBuilder', 476);
 function SafeHtmlString(html){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SafeHtmlString;
@@ -4982,11 +4982,11 @@ _.asString = function asString_0(){
 _.equals_0 = function equals_2(obj){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_2;
-  if (!instanceOf(($location_0[stackIndex] = 'SafeHtmlString.java:' + '71' , obj), 129)) {
+  if (!instanceOf(($location_0[stackIndex] = 'SafeHtmlString.java:' + '71' , obj), 130)) {
     $stackDepth_0 = stackIndex - 1;
     return false;
   }
-  returnTemp = $equals_0(($location_0[stackIndex] = 'SafeHtmlString.java:' + '74' , this.html_0), castTo(obj, 129).asString());
+  returnTemp = $equals_0(($location_0[stackIndex] = 'SafeHtmlString.java:' + '74' , this.html_0), castTo(obj, 130).asString());
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -5042,8 +5042,8 @@ function htmlEscape(s){
 }
 
 var AMP_RE, EMPTY_SAFE_HTML, GT_RE, HTML_CHARS_RE, LT_RE, QUOT_RE, SQUOT_RE;
-defineClass(561, 1, {});
-var Lcom_google_gwt_text_shared_AbstractRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'AbstractRenderer', 561);
+defineClass(563, 1, {});
+var Lcom_google_gwt_text_shared_AbstractRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'AbstractRenderer', 563);
 function $render(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $render;
@@ -5055,21 +5055,21 @@ function $render(object){
 function SimpleSafeHtmlRenderer(){
 }
 
-defineClass(466, 1, {}, SimpleSafeHtmlRenderer);
+defineClass(468, 1, {}, SimpleSafeHtmlRenderer);
 var instance_1;
-var Lcom_google_gwt_text_shared_SimpleSafeHtmlRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'SimpleSafeHtmlRenderer', 466);
+var Lcom_google_gwt_text_shared_SimpleSafeHtmlRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'SimpleSafeHtmlRenderer', 468);
 function PassthroughParser(){
 }
 
-defineClass(510, 1, {}, PassthroughParser);
+defineClass(512, 1, {}, PassthroughParser);
 var INSTANCE_0;
-var Lcom_google_gwt_text_shared_testing_PassthroughParser_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughParser', 510);
+var Lcom_google_gwt_text_shared_testing_PassthroughParser_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughParser', 512);
 function PassthroughRenderer(){
 }
 
-defineClass(509, 561, {}, PassthroughRenderer);
+defineClass(511, 563, {}, PassthroughRenderer);
 var INSTANCE_1;
-var Lcom_google_gwt_text_shared_testing_PassthroughRenderer_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughRenderer', 509);
+var Lcom_google_gwt_text_shared_testing_PassthroughRenderer_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughRenderer', 511);
 function $get(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $get;
@@ -5134,8 +5134,8 @@ function UiBinderUtil$TempAttachment(origParent, origSibling, element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(475, 1, {}, UiBinderUtil$TempAttachment);
-var Lcom_google_gwt_uibinder_client_UiBinderUtil$TempAttachment_2_classLit = createForClass('com.google.gwt.uibinder.client', 'UiBinderUtil/TempAttachment', 475);
+defineClass(477, 1, {}, UiBinderUtil$TempAttachment);
+var Lcom_google_gwt_uibinder_client_UiBinderUtil$TempAttachment_2_classLit = createForClass('com.google.gwt.uibinder.client', 'UiBinderUtil/TempAttachment', 477);
 function $clinit_DOM(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DOM;
@@ -5251,6 +5251,14 @@ function sinkEvents_0(elem, eventBits){
   $stackDepth_0 = stackIndex - 1;
 }
 
+function nextInt(upperBound){
+  var stackIndex, returnTemp;
+  $stack_0[stackIndex = ++$stackDepth_0] = nextInt;
+  returnTemp = ($location_0[stackIndex] = 'Random.java:' + '61' , Math).floor(Math.random() * upperBound) | 0;
+  $stackDepth_0 = stackIndex - 1;
+  return returnTemp;
+}
+
 function $cancel(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $cancel;
@@ -5315,7 +5323,7 @@ function setTimeout_0(func, time){
   return returnTemp;
 }
 
-defineClass(140, 1, {});
+defineClass(103, 1, {});
 _.fire = function fire_3(scheduleCancelCounter){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fire_3;
@@ -5331,7 +5339,7 @@ _.fire = function fire_3(scheduleCancelCounter){
 _.cancelCounter = 0;
 _.isRepeating = false;
 _.timerId = null;
-var Lcom_google_gwt_user_client_Timer_2_classLit = createForClass('com.google.gwt.user.client', 'Timer', 140);
+var Lcom_google_gwt_user_client_Timer_2_classLit = createForClass('com.google.gwt.user.client', 'Timer', 103);
 function addCloseHandler(handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = addCloseHandler;
@@ -5395,7 +5403,7 @@ function Window$ClosingEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(283, 544, {}, Window$ClosingEvent);
+defineClass(283, 546, {}, Window$ClosingEvent);
 _.dispatch = function dispatch_6(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_6;
@@ -5474,7 +5482,7 @@ function Window$WindowHandlers(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(162, 109, $intern_11, Window$WindowHandlers);
+defineClass(162, 110, $intern_11, Window$WindowHandlers);
 var Lcom_google_gwt_user_client_Window$WindowHandlers_2_classLit = createForClass('com.google.gwt.user.client', 'Window/WindowHandlers', 162);
 function $eventGetTypeInt(eventType){
   var stackIndex, returnTemp;
@@ -6175,7 +6183,7 @@ function $clear(this$static){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(552, 8, $intern_25);
+defineClass(554, 8, $intern_25);
 _.doAttachChildren = function doAttachChildren_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = doAttachChildren_0;
@@ -6190,7 +6198,7 @@ _.doDetachChildren = function doDetachChildren_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_user_client_ui_Panel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Panel', 552);
+var Lcom_google_gwt_user_client_ui_Panel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Panel', 554);
 function $add(this$static, child, container){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add;
@@ -6297,7 +6305,7 @@ function ComplexPanel(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(113, 552, $intern_25);
+defineClass(114, 554, $intern_25);
 _.getChildren = function getChildren(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getChildren;
@@ -6322,7 +6330,7 @@ _.remove_0 = function remove_0(w){
   return returnTemp;
 }
 ;
-var Lcom_google_gwt_user_client_ui_ComplexPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ComplexPanel', 113);
+var Lcom_google_gwt_user_client_ui_ComplexPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ComplexPanel', 114);
 function $add_1(this$static, w){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add_1;
@@ -6339,7 +6347,7 @@ function changeToStaticPositioning(elem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(314, 113, $intern_25);
+defineClass(314, 114, $intern_25);
 _.remove_0 = function remove_1(w){
   var removed, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = remove_1;
@@ -6482,8 +6490,8 @@ _.setTabIndex = function setTabIndex(index_0){
 }
 ;
 var Lcom_google_gwt_user_client_ui_FocusWidget_2_classLit = createForClass('com.google.gwt.user.client.ui', 'FocusWidget', 147);
-defineClass(453, 147, $intern_26);
-var Lcom_google_gwt_user_client_ui_ButtonBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ButtonBase', 453);
+defineClass(455, 147, $intern_26);
+var Lcom_google_gwt_user_client_ui_ButtonBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ButtonBase', 455);
 function $checkInit(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $checkInit;
@@ -6601,8 +6609,8 @@ function DirectionalTextHelper(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(472, 1, {}, DirectionalTextHelper);
-var Lcom_google_gwt_user_client_ui_DirectionalTextHelper_2_classLit = createForClass('com.google.gwt.user.client.ui', 'DirectionalTextHelper', 472);
+defineClass(474, 1, {}, DirectionalTextHelper);
+var Lcom_google_gwt_user_client_ui_DirectionalTextHelper_2_classLit = createForClass('com.google.gwt.user.client.ui', 'DirectionalTextHelper', 474);
 function $addAndReplaceElement(this$static, widget, toReplace){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $addAndReplaceElement;
@@ -6652,7 +6660,7 @@ function HTMLPanel(html){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(146, 113, $intern_25, HTMLPanel);
+defineClass(146, 114, $intern_25, HTMLPanel);
 var Lcom_google_gwt_user_client_ui_HTMLPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'HTMLPanel', 146);
 function $clinit_ListBox(){
   var stackIndex;
@@ -6751,8 +6759,8 @@ function ListBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(470, 147, $intern_26, ListBox);
-var Lcom_google_gwt_user_client_ui_ListBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ListBox', 470);
+defineClass(472, 147, $intern_26, ListBox);
+var Lcom_google_gwt_user_client_ui_ListBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ListBox', 472);
 function $clinit_PotentialElement(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_PotentialElement;
@@ -6927,7 +6935,7 @@ var Lcom_google_gwt_user_client_ui_RootPanel$1_2_classLit = createForClass('com.
 function RootPanel$2(){
 }
 
-defineClass(317, 1, {565:1, 28:1}, RootPanel$2);
+defineClass(317, 1, {567:1, 28:1}, RootPanel$2);
 var Lcom_google_gwt_user_client_ui_RootPanel$2_2_classLit = createForClass('com.google.gwt.user.client.ui', 'RootPanel/2', 317);
 function RootPanel$DefaultRootPanel(){
   var stackIndex;
@@ -7061,8 +7069,8 @@ function TextBox_0(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(194, 489, $intern_26, TextBox);
-var Lcom_google_gwt_user_client_ui_TextBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'TextBox', 194);
+defineClass(193, 489, $intern_26, TextBox);
+var Lcom_google_gwt_user_client_ui_TextBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'TextBox', 193);
 function UIObject$DebugIdImpl(){
 }
 
@@ -7263,7 +7271,7 @@ function WidgetCollection$WidgetIterator(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(115, 1, {}, WidgetCollection$WidgetIterator);
+defineClass(116, 1, {}, WidgetCollection$WidgetIterator);
 _.next_0 = function next_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = next_0;
@@ -7288,7 +7296,7 @@ _.remove_1 = function remove_2(){
 }
 ;
 _.index_0 = 0;
-var Lcom_google_gwt_user_client_ui_WidgetCollection$WidgetIterator_2_classLit = createForClass('com.google.gwt.user.client.ui', 'WidgetCollection/WidgetIterator', 115);
+var Lcom_google_gwt_user_client_ui_WidgetCollection$WidgetIterator_2_classLit = createForClass('com.google.gwt.user.client.ui', 'WidgetCollection/WidgetIterator', 116);
 function $clinit_FocusImpl(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_FocusImpl;
@@ -7301,21 +7309,21 @@ function $clinit_FocusImpl(){
 function FocusImpl(){
 }
 
-defineClass(473, 1, {}, FocusImpl);
+defineClass(475, 1, {}, FocusImpl);
 var implPanel;
-var Lcom_google_gwt_user_client_ui_impl_FocusImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImpl', 473);
-defineClass(559, 473, {});
-var Lcom_google_gwt_user_client_ui_impl_FocusImplStandard_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplStandard', 559);
+var Lcom_google_gwt_user_client_ui_impl_FocusImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImpl', 475);
+defineClass(561, 475, {});
+var Lcom_google_gwt_user_client_ui_impl_FocusImplStandard_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplStandard', 561);
 function FocusImplSafari(){
 }
 
-defineClass(476, 559, {}, FocusImplSafari);
-var Lcom_google_gwt_user_client_ui_impl_FocusImplSafari_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplSafari', 476);
+defineClass(478, 561, {}, FocusImplSafari);
+var Lcom_google_gwt_user_client_ui_impl_FocusImplSafari_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplSafari', 478);
 function TextBoxImpl(){
 }
 
-defineClass(501, 1, {}, TextBoxImpl);
-var Lcom_google_gwt_user_client_ui_impl_TextBoxImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'TextBoxImpl', 501);
+defineClass(503, 1, {}, TextBoxImpl);
+var Lcom_google_gwt_user_client_ui_impl_TextBoxImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'TextBoxImpl', 503);
 function assertCompileTimeUserAgent(){
   var runtimeValue, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = assertCompileTimeUserAgent;
@@ -7333,10 +7341,10 @@ function Error_0(message, cause){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(131, 17, $intern_3);
-var Ljava_lang_Error_2_classLit = createForClass('java.lang', 'Error', 131);
-defineClass(43, 131, $intern_3);
-var Ljava_lang_AssertionError_2_classLit = createForClass('java.lang', 'AssertionError', 43);
+defineClass(132, 17, $intern_3);
+var Ljava_lang_Error_2_classLit = createForClass('java.lang', 'Error', 132);
+defineClass(44, 132, $intern_3);
+var Ljava_lang_AssertionError_2_classLit = createForClass('java.lang', 'AssertionError', 44);
 function UserAgentAsserter$UserAgentAssertionError(runtimeValue){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = UserAgentAsserter$UserAgentAssertionError;
@@ -7344,7 +7352,7 @@ function UserAgentAsserter$UserAgentAssertionError(runtimeValue){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(203, 43, $intern_3, UserAgentAsserter$UserAgentAssertionError);
+defineClass(203, 44, $intern_3, UserAgentAsserter$UserAgentAssertionError);
 var Lcom_google_gwt_useragent_client_UserAgentAsserter$UserAgentAssertionError_2_classLit = createForClass('com.google.gwt.useragent.client', 'UserAgentAsserter/UserAgentAssertionError', 203);
 function $getRuntimeValue(){
   var ua = ($location_0[stackIndex_0] = 'UserAgentImplSafari.java:' + '6' , navigator).userAgent.toLowerCase(), stackIndex_0;
@@ -7479,7 +7487,7 @@ function SimpleEventBus$2(this$0, val$type, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(287, 1, {523:1}, SimpleEventBus$2);
+defineClass(287, 1, {525:1}, SimpleEventBus$2);
 _.execute_0 = function execute_6(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_6;
@@ -7498,7 +7506,7 @@ function SimpleEventBus$3(this$0, val$type, val$source, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(288, 1, {523:1}, SimpleEventBus$3);
+defineClass(288, 1, {525:1}, SimpleEventBus$3);
 _.execute_0 = function execute_7(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_7;
@@ -7512,7 +7520,7 @@ function $onModuleLoaded(){
   $stack_0[stackIndex = ++$stackDepth_0] = $onModuleLoaded;
   if ($location_0[stackIndex] = 'MaterialDesignBase.java:' + '56' , futureResources) {
     for ($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , res$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , futureResources) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , res$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , res$iterator).this$01).array.length;) {
-      res = castTo($next_2(($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , res$iterator)), 132);
+      res = castTo($next_2(($location_0[stackIndex] = 'MaterialDesignBase.java:' + '57' , res$iterator)), 133);
       injectJs(($location_0[stackIndex] = 'MaterialDesignBase.java:' + '58' , res).resource, res.removeTag, res.sourceUrl);
     }
   }
@@ -7559,10 +7567,10 @@ function MaterialDesignBase$FutureResource(resource, removeTag, sourceUrl){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(132, 1, {132:1}, MaterialDesignBase$FutureResource);
+defineClass(133, 1, {133:1}, MaterialDesignBase$FutureResource);
 _.removeTag = false;
 _.sourceUrl = false;
-var Lgwt_material_design_client_MaterialDesignBase$FutureResource_2_classLit = createForClass('gwt.material.design.client', 'MaterialDesignBase/FutureResource', 132);
+var Lgwt_material_design_client_MaterialDesignBase$FutureResource_2_classLit = createForClass('gwt.material.design.client', 'MaterialDesignBase/FutureResource', 133);
 function $clinit_MaterialWidget(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialWidget;
@@ -7598,7 +7606,7 @@ function $insert_2(this$static, child, beforeIndex){
 function $isEnabled(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $isEnabled;
-  returnTemp = !containsStyle($getStyleName(($location_0[stackIndex] = 'EnabledMixin.java:' + '46' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)).uiObject)), 'disabled');
+  returnTemp = !containsStyle($getStyleName(($location_0[stackIndex] = 'EnabledMixin.java:' + '47' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '194' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)) && (($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin = new EnabledMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '194' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '195' , ($location_0[stackIndex] = 'MaterialWidget.java:' + '305' , this$static).enabledMixin)).uiObject)), 'disabled');
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -7755,7 +7763,7 @@ function MaterialWidget_0(element, initialClass){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(7, 113, $intern_30, MaterialWidget);
+defineClass(7, 114, $intern_30, MaterialWidget);
 _.getChildren = function getChildren_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getChildren_0;
@@ -7916,8 +7924,8 @@ function AbstractIconButton_0(type_0, text_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(114, 74, $intern_31);
-var Lgwt_material_design_client_base_AbstractIconButton_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractIconButton', 114);
+defineClass(115, 74, $intern_31);
+var Lgwt_material_design_client_base_AbstractIconButton_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractIconButton', 115);
 function $clinit_BaseCheckBox(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_BaseCheckBox;
@@ -7979,7 +7987,7 @@ function BaseCheckBox(elem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(148, 453, $intern_26);
+defineClass(148, 455, $intern_26);
 _.getValue = function getValue_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_1;
@@ -8045,7 +8053,7 @@ function BaseCheckBox$1(this$0, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(455, 1, $intern_33, BaseCheckBox$1);
+defineClass(457, 1, $intern_33, BaseCheckBox$1);
 _.onValueChange = function onValueChange(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange;
@@ -8053,7 +8061,7 @@ _.onValueChange = function onValueChange(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_BaseCheckBox$1_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/1', 455);
+var Lgwt_material_design_client_base_BaseCheckBox$1_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/1', 457);
 function $onClick(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onClick;
@@ -8068,7 +8076,7 @@ function BaseCheckBox$2(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(456, 1, $intern_32, BaseCheckBox$2);
+defineClass(458, 1, $intern_32, BaseCheckBox$2);
 _.onClick = function onClick_0(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_0;
@@ -8076,7 +8084,7 @@ _.onClick = function onClick_0(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_BaseCheckBox$2_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/2', 456);
+var Lgwt_material_design_client_base_BaseCheckBox$2_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/2', 458);
 function $delay(this$static, delay){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $delay;
@@ -8085,8 +8093,8 @@ function $delay(this$static, delay){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(429, 1, {});
-var Lgwt_material_design_client_base_InterruptibleTask_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask', 429);
+defineClass(431, 1, {});
+var Lgwt_material_design_client_base_InterruptibleTask_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask', 431);
 function InterruptibleTask$1(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InterruptibleTask$1;
@@ -8095,7 +8103,7 @@ function InterruptibleTask$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(437, 140, {}, InterruptibleTask$1);
+defineClass(439, 103, {}, InterruptibleTask$1);
 _.run = function run(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = run;
@@ -8103,11 +8111,11 @@ _.run = function run(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_InterruptibleTask$1_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask/1', 437);
+var Lgwt_material_design_client_base_InterruptibleTask$1_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask/1', 439);
 function MaterialWidget$lambda$0$Type(){
 }
 
-defineClass(571, $wnd.Function, {}, MaterialWidget$lambda$0$Type);
+defineClass(573, $wnd.Function, {}, MaterialWidget$lambda$0$Type);
 _.call_0 = function call_0(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_0;
@@ -8126,7 +8134,7 @@ function detectAndApply(widget){
 function Waves$1(){
 }
 
-defineClass(460, 1, $intern_34, Waves$1);
+defineClass(462, 1, $intern_34, Waves$1);
 _.onAttachOrDetach = function onAttachOrDetach(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach;
@@ -8134,11 +8142,11 @@ _.onAttachOrDetach = function onAttachOrDetach(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_Waves$1_2_classLit = createForClass('gwt.material.design.client.base', 'Waves/1', 460);
+var Lgwt_material_design_client_base_Waves$1_2_classLit = createForClass('gwt.material.design.client.base', 'Waves/1', 462);
 function $clearErrors(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clearErrors;
-  instanceOf(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '81' , this$static).inputWidget, 130) && castTo(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '82' , this$static).inputWidget, 130).clearErrorOrSuccess();
+  instanceOf(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '81' , this$static).inputWidget, 131) && castTo(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '82' , this$static).inputWidget, 131).clearErrorOrSuccess();
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8184,7 +8192,7 @@ function $showErrors(this$static, errors){
     errorMsg = (checkCriticalElementIndex(0, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '138' , errors).array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , throwClassCastExceptionUnlessNull(($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '138' , errors).array)[0] , $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '138' , $tmp))).$_nullMethod();
     ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '139' , index_0) + 1 < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , errors.array).length && ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '139' , errorMsg += '; ');
   }
-  instanceOf(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '142' , this$static).inputWidget, 130) && castTo(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '143' , this$static).inputWidget, 130).setError(errorMsg);
+  instanceOf(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '142' , this$static).inputWidget, 131) && castTo(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '143' , this$static).inputWidget, 131).setError(errorMsg);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8196,9 +8204,9 @@ function DefaultErrorHandler(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(495, 1, {}, DefaultErrorHandler);
+defineClass(497, 1, {}, DefaultErrorHandler);
 _.initialized = false;
-var Lgwt_material_design_client_base_error_DefaultErrorHandler_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler', 495);
+var Lgwt_material_design_client_base_error_DefaultErrorHandler_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler', 497);
 function DefaultErrorHandler$1(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DefaultErrorHandler$1;
@@ -8206,7 +8214,7 @@ function DefaultErrorHandler$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(496, 1, $intern_34, DefaultErrorHandler$1);
+defineClass(498, 1, $intern_34, DefaultErrorHandler$1);
 _.onAttachOrDetach = function onAttachOrDetach_0(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_0;
@@ -8214,7 +8222,7 @@ _.onAttachOrDetach = function onAttachOrDetach_0(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_error_DefaultErrorHandler$1_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler/1', 496);
+var Lgwt_material_design_client_base_error_DefaultErrorHandler$1_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler/1', 498);
 function getElementByAttribute(elems, value_0){
   var child, i, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getElementByAttribute;
@@ -8346,7 +8354,7 @@ function $validate(this$static, show){
   return returnTemp;
 }
 
-defineClass(481, 1, $intern_11);
+defineClass(483, 1, $intern_11);
 _.fireEvent = function fireEvent_2(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fireEvent_2;
@@ -8356,7 +8364,7 @@ _.fireEvent = function fireEvent_2(event_0){
 ;
 _.valid = null;
 _.validateOnBlur = false;
-var Lgwt_material_design_client_base_mixin_ValidatorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin', 481);
+var Lgwt_material_design_client_base_mixin_ValidatorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin', 483);
 function BlankValidatorMixin(inputWidget, errorHandler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BlankValidatorMixin;
@@ -8366,11 +8374,11 @@ function BlankValidatorMixin(inputWidget, errorHandler){
   this.eventBus = ($location_0[stackIndex] = 'ValidatorMixin.java:' + '78' , new SimpleEventBus);
   $addHandler_0(($location_0[stackIndex] = 'ValidatorMixin.java:' + '84' , this.inputWidget), new ValidatorMixin$1(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'ValueChangeEvent.java:' + '71' , TYPE_5)) && (TYPE_5 = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '72' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '74' , TYPE_5)) , $location_0[stackIndex] = 'ValidatorMixin.java:' + '84' , $tmp));
   this.attachHandler = new BlankValidatorMixin$1(($tmp = this , $location_0[stackIndex] = 'BlankValidatorMixin.java:' + '49' , $tmp));
-  ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '78' , this.inputWidget).attached)?castTo(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '81' , this.inputWidget), 128).addBlurHandler(new BlankValidatorMixin$2(this)):$addHandler_0(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '79' , this.inputWidget), this.attachHandler, ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp));
+  ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '78' , this.inputWidget).attached)?castTo(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '81' , this.inputWidget), 129).addBlurHandler(new BlankValidatorMixin$2(this)):$addHandler_0(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '79' , this.inputWidget), this.attachHandler, ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(191, 481, $intern_11, BlankValidatorMixin);
+defineClass(191, 483, $intern_11, BlankValidatorMixin);
 var Lgwt_material_design_client_base_mixin_BlankValidatorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin', 191);
 function BlankValidatorMixin$1(this$0){
   var stackIndex;
@@ -8379,16 +8387,16 @@ function BlankValidatorMixin$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(482, 1, $intern_34, BlankValidatorMixin$1);
+defineClass(484, 1, $intern_34, BlankValidatorMixin$1);
 _.onAttachOrDetach = function onAttachOrDetach_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_1;
   !($location_0[stackIndex] = 'Cast.java:' + '267' , !($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '53' , this.registration)) && $removeHandler(($location_0[stackIndex] = 'LegacyHandlerWrapper.java:' + '30' , ($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '54' , this.registration).real));
-  this.registration = castTo(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '56' , this.this$01).inputWidget, 128).addBlurHandler(new BlankValidatorMixin$1$1(this));
+  this.registration = castTo(($location_0[stackIndex] = 'BlankValidatorMixin.java:' + '56' , this.this$01).inputWidget, 129).addBlurHandler(new BlankValidatorMixin$1$1(this));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/1', 482);
+var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/1', 484);
 function BlankValidatorMixin$1$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BlankValidatorMixin$1$1;
@@ -8396,7 +8404,7 @@ function BlankValidatorMixin$1$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(483, 1, $intern_35, BlankValidatorMixin$1$1);
+defineClass(485, 1, $intern_35, BlankValidatorMixin$1$1);
 _.onBlur = function onBlur(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur;
@@ -8404,7 +8412,7 @@ _.onBlur = function onBlur(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$1$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/1/1', 483);
+var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$1$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/1/1', 485);
 function BlankValidatorMixin$2(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BlankValidatorMixin$2;
@@ -8412,7 +8420,7 @@ function BlankValidatorMixin$2(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(484, 1, $intern_35, BlankValidatorMixin$2);
+defineClass(486, 1, $intern_35, BlankValidatorMixin$2);
 _.onBlur = function onBlur_0(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur_0;
@@ -8420,7 +8428,7 @@ _.onBlur = function onBlur_0(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$2_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/2', 484);
+var Lgwt_material_design_client_base_mixin_BlankValidatorMixin$2_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'BlankValidatorMixin/2', 486);
 function $ensureTextColorFormat(textColor){
   var formatted, mainColor, style, style$array, style$index, style$max, suffixlength, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $ensureTextColorFormat;
@@ -8479,8 +8487,8 @@ function CounterMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(499, 46, {}, CounterMixin);
-var Lgwt_material_design_client_base_mixin_CounterMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'CounterMixin', 499);
+defineClass(500, 46, {}, CounterMixin);
+var Lgwt_material_design_client_base_mixin_CounterMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'CounterMixin', 500);
 function $setStyle(this$static, style){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setStyle;
@@ -8530,13 +8538,13 @@ var Lgwt_material_design_client_base_mixin_CssTypeMixin_2_classLit = createForCl
 function $applyEnabled(enabled, obj){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $applyEnabled;
-  if ($location_0[stackIndex] = 'EnabledMixin.java:' + '78' , enabled) {
-    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '79' , obj).element_0)), 'disabled', ($tmp = false , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
-    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '80' , obj).element_0).removeAttribute(($tmp = 'disabled' , $location_0[stackIndex] = 'Element.java:' + '537' , $tmp));
+  if ($location_0[stackIndex] = 'EnabledMixin.java:' + '79' , enabled) {
+    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '80' , obj).element_0)), 'disabled', ($tmp = false , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
+    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '81' , obj).element_0).removeAttribute(($tmp = 'disabled' , $location_0[stackIndex] = 'Element.java:' + '537' , $tmp));
   }
    else {
-    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '82' , obj).element_0)), 'disabled', ($tmp = true , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
-    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '83' , obj).element_0).setAttribute('disabled', ($tmp = '' , $location_0[stackIndex] = 'Element.java:' + '655' , $tmp));
+    setStyleName(($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '83' , obj).element_0)), 'disabled', ($tmp = true , $location_0[stackIndex] = 'UIObject.java:' + '721' , $tmp));
+    ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '84' , obj).element_0).setAttribute('disabled', ($tmp = '' , $location_0[stackIndex] = 'Element.java:' + '655' , $tmp));
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -8544,14 +8552,14 @@ function $applyEnabled(enabled, obj){
 function $setEnabled_0(this$static, enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setEnabled_0;
-  !($location_0[stackIndex] = 'EnabledMixin.java:' + '51' , this$static).uiObject.isAttached_0() && ($location_0[stackIndex] = 'Cast.java:' + '275' , !this$static.handler)?($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , this$static).handler = $addHandler_0(this$static.uiObject, new EnabledMixin$1(this$static, enabled), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp))):$applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '64' , enabled), this$static.uiObject);
+  !($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , this$static).uiObject.isAttached_0() && ($location_0[stackIndex] = 'Cast.java:' + '275' , !this$static.handler)?($location_0[stackIndex] = 'EnabledMixin.java:' + '53' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '53' , this$static).handler = $addHandler_0(this$static.uiObject, new EnabledMixin$1(this$static, enabled), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'AttachEvent.java:' + '62' , TYPE_2)) && (TYPE_2 = ($location_0[stackIndex] = 'AttachEvent.java:' + '63' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'AttachEvent.java:' + '65' , TYPE_2)) , $location_0[stackIndex] = 'Widget.java:' + '62' , $tmp))):$applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '65' , enabled), this$static.uiObject);
   $stackDepth_0 = stackIndex - 1;
 }
 
 function EnabledMixin(widget){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = EnabledMixin;
-  ($location_0[stackIndex] = 'EnabledMixin.java:' + '41' , AbstractMixin).call(this, widget);
+  ($location_0[stackIndex] = 'EnabledMixin.java:' + '42' , AbstractMixin).call(this, widget);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -8559,7 +8567,7 @@ defineClass(177, 46, {}, EnabledMixin);
 _.isEnabled = function isEnabled_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isEnabled_2;
-  returnTemp = !containsStyle(($location_0[stackIndex] = 'Element.java:' + '209' , $getElement(($tmp = ($location_0[stackIndex] = 'EnabledMixin.java:' + '46' , this.uiObject) , $location_0[stackIndex] = 'UIObject.java:' + '840' , $tmp)).className) || '', ($tmp = 'disabled' , $location_0[stackIndex] = 'EnabledMixin.java:' + '46' , $tmp));
+  returnTemp = !containsStyle(($location_0[stackIndex] = 'Element.java:' + '209' , $getElement(($tmp = ($location_0[stackIndex] = 'EnabledMixin.java:' + '47' , this.uiObject) , $location_0[stackIndex] = 'UIObject.java:' + '840' , $tmp)).className) || '', ($tmp = 'disabled' , $location_0[stackIndex] = 'EnabledMixin.java:' + '47' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -8568,7 +8576,7 @@ var Lgwt_material_design_client_base_mixin_EnabledMixin_2_classLit = createForCl
 function EnabledMixin$1(this$0, val$enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = EnabledMixin$1;
-  this.this$01 = ($location_0[stackIndex] = 'EnabledMixin.java:' + '52' , this$0);
+  this.this$01 = ($location_0[stackIndex] = 'EnabledMixin.java:' + '53' , this$0);
   this.val$enabled2 = val$enabled;
   $stackDepth_0 = stackIndex - 1;
 }
@@ -8577,12 +8585,12 @@ defineClass(417, 1, $intern_34, EnabledMixin$1);
 _.onAttachOrDetach = function onAttachOrDetach_2(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_2;
-  if ($location_0[stackIndex] = 'AttachEvent.java:' + '89' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '55' , event_0).attached) {
-    $applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '56' , this.val$enabled2), this.this$01.uiObject);
+  if ($location_0[stackIndex] = 'AttachEvent.java:' + '89' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '56' , event_0).attached) {
+    $applyEnabled(($location_0[stackIndex] = 'EnabledMixin.java:' + '57' , this.val$enabled2), this.this$01.uiObject);
   }
-   else if (($location_0[stackIndex] = 'EnabledMixin.java:' + '57' , this.this$01).handler) {
-    $removeHandler(($location_0[stackIndex] = 'LegacyHandlerWrapper.java:' + '30' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '58' , this.this$01).handler.real));
-    ($location_0[stackIndex] = 'EnabledMixin.java:' + '59' , this.this$01).handler = null;
+   else if (($location_0[stackIndex] = 'EnabledMixin.java:' + '58' , this.this$01).handler) {
+    $removeHandler(($location_0[stackIndex] = 'LegacyHandlerWrapper.java:' + '30' , ($location_0[stackIndex] = 'EnabledMixin.java:' + '59' , this.this$01).handler.real));
+    ($location_0[stackIndex] = 'EnabledMixin.java:' + '60' , this.this$01).handler = null;
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -8637,7 +8645,7 @@ function ErrorMixin(widget, textObject, target){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(502, 46, {}, ErrorMixin);
+defineClass(504, 46, {}, ErrorMixin);
 _.clearErrorOrSuccess = function clearErrorOrSuccess(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = clearErrorOrSuccess;
@@ -8652,7 +8660,7 @@ _.setError = function setError(error){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_ErrorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ErrorMixin', 502);
+var Lgwt_material_design_client_base_mixin_ErrorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ErrorMixin', 504);
 function $setDisplay_0(this$static, display){
   var d, d$index, d$max, displayValues, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setDisplay_0;
@@ -8691,8 +8699,8 @@ function FocusableMixin(uiObject){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(469, 1, {}, FocusableMixin);
-var Lgwt_material_design_client_base_mixin_FocusableMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FocusableMixin', 469);
+defineClass(471, 1, {}, FocusableMixin);
+var Lgwt_material_design_client_base_mixin_FocusableMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FocusableMixin', 471);
 function FontSizeMixin(widget){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = FontSizeMixin;
@@ -8700,8 +8708,8 @@ function FontSizeMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(193, 46, {}, FontSizeMixin);
-var Lgwt_material_design_client_base_mixin_FontSizeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FontSizeMixin', 193);
+defineClass(192, 46, {}, FontSizeMixin);
+var Lgwt_material_design_client_base_mixin_FontSizeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FontSizeMixin', 192);
 function $setGrid_0(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setGrid_0;
@@ -8732,10 +8740,10 @@ function GridMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(104, 46, {}, GridMixin);
+defineClass(105, 46, {}, GridMixin);
 _.grid = '';
 _.offset_0 = '';
-var Lgwt_material_design_client_base_mixin_GridMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'GridMixin', 104);
+var Lgwt_material_design_client_base_mixin_GridMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'GridMixin', 105);
 function $setId_1(this$static, id_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setId_1;
@@ -8766,8 +8774,8 @@ function ImageMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(498, 46, {}, ImageMixin);
-var Lgwt_material_design_client_base_mixin_ImageMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ImageMixin', 498);
+defineClass(501, 46, {}, ImageMixin);
+var Lgwt_material_design_client_base_mixin_ImageMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ImageMixin', 501);
 function SeparatorMixin(uiObject){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SeparatorMixin;
@@ -8775,8 +8783,8 @@ function SeparatorMixin(uiObject){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(515, 46, {}, SeparatorMixin);
-var Lgwt_material_design_client_base_mixin_SeparatorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'SeparatorMixin', 515);
+defineClass(517, 46, {}, SeparatorMixin);
+var Lgwt_material_design_client_base_mixin_SeparatorMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'SeparatorMixin', 517);
 function $setOn(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setOn;
@@ -8802,7 +8810,7 @@ function ValidatorMixin$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(485, 1, $intern_33, ValidatorMixin$1);
+defineClass(487, 1, $intern_33, ValidatorMixin$1);
 _.onValueChange = function onValueChange_0(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_0;
@@ -8810,7 +8818,7 @@ _.onValueChange = function onValueChange_0(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_ValidatorMixin$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin/1', 485);
+var Lgwt_material_design_client_base_mixin_ValidatorMixin$1_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin/1', 487);
 function $setWaves_0(this$static, waves){
   var enabled, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setWaves_0;
@@ -8833,7 +8841,7 @@ function WavesMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(119, 46, {}, WavesMixin);
+defineClass(120, 46, {}, WavesMixin);
 _.getWaves = function getWaves_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getWaves_0;
@@ -8849,7 +8857,7 @@ _.setWaves = function setWaves_0(waves){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_WavesMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'WavesMixin', 119);
+var Lgwt_material_design_client_base_mixin_WavesMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'WavesMixin', 120);
 function $clinit_ValidationChangedEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ValidationChangedEvent;
@@ -8866,7 +8874,7 @@ function ValidationChangedEvent(valid){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(150, 544, {150:1}, ValidationChangedEvent);
+defineClass(150, 546, {150:1}, ValidationChangedEvent);
 _.dispatch = function dispatch_7(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_7;
@@ -8999,7 +9007,7 @@ function values_8(){
   return returnTemp;
 }
 
-defineClass(82, 5, {10:1, 82:1, 126:1, 78:1, 4:1, 6:1, 5:1}, ButtonType);
+defineClass(82, 5, {10:1, 82:1, 127:1, 78:1, 4:1, 6:1, 5:1}, ButtonType);
 _.getCssName = function getCssName_44(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_44;
@@ -9031,12 +9039,12 @@ function values_9(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_9;
   $location_0[stackIndex] = 'CheckBoxType.java:' + '32' , $clinit_CheckBoxType();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_CheckBoxType_2_classLit, 1), $intern_5, 124, 0, [FILLED, INTERMEDIATE]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_CheckBoxType_2_classLit, 1), $intern_5, 125, 0, [FILLED, INTERMEDIATE]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(124, 5, {10:1, 124:1, 126:1, 78:1, 4:1, 6:1, 5:1}, CheckBoxType);
+defineClass(125, 5, {10:1, 125:1, 127:1, 78:1, 4:1, 6:1, 5:1}, CheckBoxType);
 _.getCssName = function getCssName_45(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_45;
@@ -9046,11 +9054,11 @@ _.getCssName = function getCssName_45(){
 }
 ;
 var FILLED, INTERMEDIATE;
-var Lgwt_material_design_client_constants_CheckBoxType_2_classLit = createForEnum('gwt.material.design.client.constants', 'CheckBoxType', 124, values_9);
+var Lgwt_material_design_client_constants_CheckBoxType_2_classLit = createForEnum('gwt.material.design.client.constants', 'CheckBoxType', 125, values_9);
 function CssType$1(){
 }
 
-defineClass(318, 1, {10:1, 126:1, 78:1}, CssType$1);
+defineClass(318, 1, {10:1, 127:1, 78:1}, CssType$1);
 _.getCssName = function getCssName_46(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_46;
@@ -9168,7 +9176,7 @@ function values_11(){
   return returnTemp;
 }
 
-defineClass(66, 5, {10:1, 126:1, 66:1, 78:1, 4:1, 6:1, 5:1}, HideOn);
+defineClass(66, 5, {10:1, 127:1, 66:1, 78:1, 4:1, 6:1, 5:1}, HideOn);
 _.getCssName = function getCssName_48(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_48;
@@ -10235,7 +10243,7 @@ function values_14(){
   return returnTemp;
 }
 
-defineClass(3, 5, {10:1, 126:1, 3:1, 78:1, 4:1, 6:1, 5:1}, IconType);
+defineClass(3, 5, {10:1, 127:1, 3:1, 78:1, 4:1, 6:1, 5:1}, IconType);
 _.getCssName = function getCssName_51(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_51;
@@ -10311,12 +10319,12 @@ function values_16(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_16;
   $location_0[stackIndex] = 'ProgressType.java:' + '29' , $clinit_ProgressType();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_ProgressType_2_classLit, 1), $intern_5, 121, 0, [INDETERMINATE, DETERMINATE]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_ProgressType_2_classLit, 1), $intern_5, 122, 0, [INDETERMINATE, DETERMINATE]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(121, 5, {10:1, 126:1, 121:1, 78:1, 4:1, 6:1, 5:1}, ProgressType);
+defineClass(122, 5, {10:1, 127:1, 122:1, 78:1, 4:1, 6:1, 5:1}, ProgressType);
 _.getCssName = function getCssName_52(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_52;
@@ -10326,7 +10334,7 @@ _.getCssName = function getCssName_52(){
 }
 ;
 var DETERMINATE, INDETERMINATE;
-var Lgwt_material_design_client_constants_ProgressType_2_classLit = createForEnum('gwt.material.design.client.constants', 'ProgressType', 121, values_16);
+var Lgwt_material_design_client_constants_ProgressType_2_classLit = createForEnum('gwt.material.design.client.constants', 'ProgressType', 122, values_16);
 function $clinit_TextAlign(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_TextAlign;
@@ -11411,7 +11419,7 @@ function lambda$14(select_0, rows_1, e_3){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(118, 1, $intern_11);
+defineClass(119, 1, $intern_11);
 _.addCategory = function addCategory(category){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = addCategory;
@@ -11558,12 +11566,12 @@ _.useLoadOverlay = false;
 _.useRowExpansion = false;
 _.useStickyHeader = false;
 var logger_0;
-var Lgwt_material_design_client_data_AbstractDataView_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView', 118);
+var Lgwt_material_design_client_data_AbstractDataView_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView', 119);
 function AbstractDataView$0methodref$ctor$Type(){
 }
 
-defineClass(436, 1, {}, AbstractDataView$0methodref$ctor$Type);
-var Lgwt_material_design_client_data_AbstractDataView$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.client.data', 'RowComponent/iew$0methodref$ctor$Type', 436);
+defineClass(438, 1, {}, AbstractDataView$0methodref$ctor$Type);
+var Lgwt_material_design_client_data_AbstractDataView$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.client.data', 'RowComponent/iew$0methodref$ctor$Type', 438);
 function AbstractDataView$lambda$0$Type($$outer_0, components_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$0$Type;
@@ -11572,7 +11580,7 @@ function AbstractDataView$lambda$0$Type($$outer_0, components_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(434, 1, {}, AbstractDataView$lambda$0$Type);
+defineClass(436, 1, {}, AbstractDataView$lambda$0$Type);
 _.execute_0 = function execute_8(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_8;
@@ -11580,7 +11588,7 @@ _.execute_0 = function execute_8(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$0$Type', 434);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$0$Type', 436);
 function AbstractDataView$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$1$Type;
@@ -11588,7 +11596,7 @@ function AbstractDataView$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(615, $wnd.Function, {}, AbstractDataView$lambda$1$Type);
+defineClass(617, $wnd.Function, {}, AbstractDataView$lambda$1$Type);
 _.call_0 = function call_1(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_1;
@@ -11607,7 +11615,7 @@ function AbstractDataView$lambda$10$Type($$outer_0, th_1, column_2, index_3){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(624, $wnd.Function, {}, AbstractDataView$lambda$10$Type);
+defineClass(626, $wnd.Function, {}, AbstractDataView$lambda$10$Type);
 _.call_0 = function call_2(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_2;
@@ -11625,7 +11633,7 @@ function AbstractDataView$lambda$11$Type($$outer_0, th_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(625, $wnd.Function, {}, AbstractDataView$lambda$11$Type);
+defineClass(627, $wnd.Function, {}, AbstractDataView$lambda$11$Type);
 _.call_0 = function call_3(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_3;
@@ -11641,7 +11649,7 @@ function AbstractDataView$lambda$12$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(626, $wnd.Function, {}, AbstractDataView$lambda$12$Type);
+defineClass(628, $wnd.Function, {}, AbstractDataView$lambda$12$Type);
 _.call_1 = function call_4(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_4;
@@ -11657,7 +11665,7 @@ function AbstractDataView$lambda$13$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(627, $wnd.Function, {}, AbstractDataView$lambda$13$Type);
+defineClass(629, $wnd.Function, {}, AbstractDataView$lambda$13$Type);
 _.call_1 = function call_5(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_5;
@@ -11674,7 +11682,7 @@ function AbstractDataView$lambda$14$Type(select_0, rows_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(628, $wnd.Function, {}, AbstractDataView$lambda$14$Type);
+defineClass(630, $wnd.Function, {}, AbstractDataView$lambda$14$Type);
 _.call_2 = function call_6(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_6;
@@ -11691,7 +11699,7 @@ function AbstractDataView$lambda$15$Type($$outer_0, models_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(629, $wnd.Function, {}, AbstractDataView$lambda$15$Type);
+defineClass(631, $wnd.Function, {}, AbstractDataView$lambda$15$Type);
 _.call_2 = function call_7(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_7;
@@ -11707,7 +11715,7 @@ function AbstractDataView$lambda$16$Type($$outer_0, category_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(630, $wnd.Function, {}, AbstractDataView$lambda$16$Type);
+defineClass(632, $wnd.Function, {}, AbstractDataView$lambda$16$Type);
 _.call_3 = function call_8(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_8;
@@ -11724,7 +11732,7 @@ function AbstractDataView$lambda$17$Type($$outer_0, category_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(631, $wnd.Function, {}, AbstractDataView$lambda$17$Type);
+defineClass(633, $wnd.Function, {}, AbstractDataView$lambda$17$Type);
 _.call_3 = function call_9(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_9;
@@ -11740,7 +11748,7 @@ function AbstractDataView$lambda$18$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(433, 1, $intern_34, AbstractDataView$lambda$18$Type);
+defineClass(435, 1, $intern_34, AbstractDataView$lambda$18$Type);
 _.onAttachOrDetach = function onAttachOrDetach_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_3;
@@ -11748,7 +11756,7 @@ _.onAttachOrDetach = function onAttachOrDetach_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$18$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$18$Type', 433);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$18$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$18$Type', 435);
 function AbstractDataView$lambda$19$Type($$outer_0, recalculated_1, expandRow_2, expanding_3){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$19$Type;
@@ -11759,7 +11767,7 @@ function AbstractDataView$lambda$19$Type($$outer_0, recalculated_1, expandRow_2,
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(632, $wnd.Function, {}, AbstractDataView$lambda$19$Type);
+defineClass(634, $wnd.Function, {}, AbstractDataView$lambda$19$Type);
 _.call_3 = function call_10(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_10;
@@ -11776,7 +11784,7 @@ function AbstractDataView$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(616, $wnd.Function, {}, AbstractDataView$lambda$2$Type);
+defineClass(618, $wnd.Function, {}, AbstractDataView$lambda$2$Type);
 _.call_0 = function call_11(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_11;
@@ -11792,7 +11800,7 @@ function AbstractDataView$lambda$20$Type(expansion_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(435, 1, {}, AbstractDataView$lambda$20$Type);
+defineClass(437, 1, {}, AbstractDataView$lambda$20$Type);
 _.execute_0 = function execute_9(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_9;
@@ -11801,7 +11809,7 @@ _.execute_0 = function execute_9(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$20$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$20$Type', 435);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$20$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$20$Type', 437);
 function AbstractDataView$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$3$Type;
@@ -11809,7 +11817,7 @@ function AbstractDataView$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(617, $wnd.Function, {}, AbstractDataView$lambda$3$Type);
+defineClass(619, $wnd.Function, {}, AbstractDataView$lambda$3$Type);
 _.call_3 = function call_12(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_12;
@@ -11825,7 +11833,7 @@ function AbstractDataView$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(618, $wnd.Function, {}, AbstractDataView$lambda$4$Type);
+defineClass(620, $wnd.Function, {}, AbstractDataView$lambda$4$Type);
 _.call_3 = function call_13(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_13;
@@ -11841,7 +11849,7 @@ function AbstractDataView$lambda$5$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(619, $wnd.Function, {}, AbstractDataView$lambda$5$Type);
+defineClass(621, $wnd.Function, {}, AbstractDataView$lambda$5$Type);
 _.call_3 = function call_14(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_14;
@@ -11857,7 +11865,7 @@ function AbstractDataView$lambda$6$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(620, $wnd.Function, {}, AbstractDataView$lambda$6$Type);
+defineClass(622, $wnd.Function, {}, AbstractDataView$lambda$6$Type);
 _.call_4 = function call_15(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_15;
@@ -11873,7 +11881,7 @@ function AbstractDataView$lambda$7$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(621, $wnd.Function, {}, AbstractDataView$lambda$7$Type);
+defineClass(623, $wnd.Function, {}, AbstractDataView$lambda$7$Type);
 _.call_4 = function call_16(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_16;
@@ -11889,7 +11897,7 @@ function AbstractDataView$lambda$8$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(622, $wnd.Function, {}, AbstractDataView$lambda$8$Type);
+defineClass(624, $wnd.Function, {}, AbstractDataView$lambda$8$Type);
 _.call_0 = function call_17(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_17;
@@ -11906,7 +11914,7 @@ function AbstractDataView$lambda$9$Type($$outer_0, header_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(623, $wnd.Function, {}, AbstractDataView$lambda$9$Type);
+defineClass(625, $wnd.Function, {}, AbstractDataView$lambda$9$Type);
 _.call_0 = function call_18(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_18;
@@ -12158,7 +12166,7 @@ _.load_0 = function load(dataView, startIndex, viewSize){
    catch ($e0) {
     $e0 = toJava($e0);
     $stackDepth_0 = ($location_0[stackIndex] = 'ListDataSource.java:' + '57' , stackIndex);
-    if (instanceOf($e0, 42)) {
+    if (instanceOf($e0, 43)) {
       ex = $e0;
       $log(($location_0[stackIndex] = 'ListDataSource.java:' + '59' , this.logger), ($location_0[stackIndex] = 'Level.java:' + '31' , $clinit_Level() , ($location_0[stackIndex] = 'ListDataSource.java:' + '59' , FINE)), 'ListDataSource threw index out of bounds.', ex);
     }
@@ -12206,8 +12214,8 @@ function SortContext(sortColumn, tableHeader){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(459, 1, {}, SortContext);
-var Lgwt_material_design_client_data_SortContext_2_classLit = createForClass('gwt.material.design.client.data', 'SortContext', 459);
+defineClass(461, 1, {}, SortContext);
+var Lgwt_material_design_client_data_SortContext_2_classLit = createForClass('gwt.material.design.client.data', 'SortContext', 461);
 function $clinit_SortDir(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_SortDir;
@@ -12243,8 +12251,8 @@ function SortDir$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(467, 87, $intern_36, SortDir$1);
-var Lgwt_material_design_client_data_SortDir$1_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/1', 467, null);
+defineClass(469, 87, $intern_36, SortDir$1);
+var Lgwt_material_design_client_data_SortDir$1_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/1', 469, null);
 function SortDir$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SortDir$2;
@@ -12252,8 +12260,8 @@ function SortDir$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(468, 87, $intern_36, SortDir$2);
-var Lgwt_material_design_client_data_SortDir$2_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/2', 468, null);
+defineClass(470, 87, $intern_36, SortDir$2);
+var Lgwt_material_design_client_data_SortDir$2_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/2', 470, null);
 function StandardDataView(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardDataView;
@@ -12262,8 +12270,8 @@ function StandardDataView(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(500, 118, $intern_11, StandardDataView);
-var Lgwt_material_design_client_data_StandardDataView_2_classLit = createForClass('gwt.material.design.client.data', 'StandardDataView', 500);
+defineClass(502, 119, $intern_11, StandardDataView);
+var Lgwt_material_design_client_data_StandardDataView_2_classLit = createForClass('gwt.material.design.client.data', 'StandardDataView', 502);
 function $clearElement(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clearElement;
@@ -12399,7 +12407,7 @@ function $containsAll(this$static, c){
   return true;
 }
 
-defineClass(540, 1, {35:1});
+defineClass(542, 1, {35:1});
 _.add_0 = function add_1(o){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_1;
@@ -12466,7 +12474,7 @@ _.toString_0 = function toString_9(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractCollection_2_classLit = createForClass('java.util', 'AbstractCollection', 540);
+var Ljava_util_AbstractCollection_2_classLit = createForClass('java.util', 'AbstractCollection', 542);
 function $sort_1(this$static, c){
   var a, i, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $sort_1;
@@ -12478,7 +12486,7 @@ function $sort_1(this$static, c){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(541, 540, $intern_38);
+defineClass(543, 542, $intern_38);
 _.sort_0 = function sort_0(c){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = sort_0;
@@ -12573,7 +12581,7 @@ _.set_0 = function set_1(index_0, o){
   throw toJs(new UnsupportedOperationException_0(($tmp = 'Set not supported on this list' , $location_0[stackIndex] = 'AbstractList.java:' + '280' , $tmp)));
 }
 ;
-var Ljava_util_AbstractList_2_classLit = createForClass('java.util', 'AbstractList', 541);
+var Ljava_util_AbstractList_2_classLit = createForClass('java.util', 'AbstractList', 543);
 function $$init_1(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $$init_1;
@@ -12710,7 +12718,7 @@ function ArrayList(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(26, 541, $intern_39, ArrayList);
+defineClass(26, 543, $intern_39, ArrayList);
 _.add_1 = function add_4(index_0, o){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_4;
@@ -12969,7 +12977,7 @@ _.generate_0 = function generate_0(model){
 _.getCategory = function getCategory(model){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCategory;
-  returnTemp = ($location_0[stackIndex] = 'RowComponentFactory.java:' + '41' , model) != null && instanceOf(model, 16)?($location_0[stackIndex] = 'Person.java:' + '81' , castTo(castTo(model, 567), 16).category):null;
+  returnTemp = ($location_0[stackIndex] = 'RowComponentFactory.java:' + '41' , model) != null && instanceOf(model, 16)?($location_0[stackIndex] = 'Person.java:' + '81' , castTo(castTo(model, 569), 16).category):null;
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -13019,9 +13027,9 @@ function InfiniteDataCache(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(461, 26, $intern_39, InfiniteDataCache);
-var Lgwt_material_design_client_data_infinite_InfiniteDataCache_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataCache', 461);
-defineClass(558, 1, {});
+defineClass(463, 26, $intern_39, InfiniteDataCache);
+var Lgwt_material_design_client_data_infinite_InfiniteDataCache_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataCache', 463);
+defineClass(560, 1, {});
 _.getDataSize = function getDataSize_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getDataSize_0;
@@ -13032,8 +13040,8 @@ _.getDataSize = function getDataSize_0(){
 _.load_0 = function load_0(dataView, startIndex, viewSize){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = load_0;
-  if (instanceOf(($location_0[stackIndex] = 'InfiniteDataSource.java:' + '44' , dataView), 103)) {
-    $load(castTo(($location_0[stackIndex] = 'InfiniteDataSource.java:' + '45' , dataView), 103), startIndex, viewSize, dataView.getOpenCategories());
+  if (instanceOf(($location_0[stackIndex] = 'InfiniteDataSource.java:' + '44' , dataView), 104)) {
+    $load(castTo(($location_0[stackIndex] = 'InfiniteDataSource.java:' + '45' , dataView), 104), startIndex, viewSize, dataView.getOpenCategories());
   }
    else {
     throw toJs(new UnsupportedOperationException_0(($tmp = 'The data view provided to the InfiniteDataSource must be an InfiniteDataView' , $location_0[stackIndex] = 'InfiniteDataSource.java:' + '47' , $tmp)));
@@ -13041,7 +13049,7 @@ _.load_0 = function load_0(dataView, startIndex, viewSize){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataSource_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataSource', 558);
+var Lgwt_material_design_client_data_infinite_InfiniteDataSource_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataSource', 560);
 function $clinit_InfiniteDataView(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_InfiniteDataView;
@@ -13275,7 +13283,7 @@ function InfiniteDataView(dataSource){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(103, 118, {9:1, 103:1}, InfiniteDataView);
+defineClass(104, 119, {9:1, 104:1}, InfiniteDataView);
 _.addCategory = function addCategory_0(category){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = addCategory_0;
@@ -13399,7 +13407,7 @@ _.loaderSize = 0;
 _.loading = false;
 _.viewIndex = 0;
 _.viewSize = 0;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView', 103);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView', 104);
 function $call(this$static, model, selected){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $call;
@@ -13416,7 +13424,7 @@ function InfiniteDataView$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(612, $wnd.Function, {}, InfiniteDataView$1);
+defineClass(614, $wnd.Function, {}, InfiniteDataView$1);
 _.call_5 = function call_19(e, model, element, selected){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_19;
@@ -13444,7 +13452,7 @@ function InfiniteDataView$2(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(613, $wnd.Function, {}, InfiniteDataView$2);
+defineClass(615, $wnd.Function, {}, InfiniteDataView$2);
 _.call_5 = function call_20(e, models, elements, selected){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_20;
@@ -13461,8 +13469,8 @@ function InfiniteDataView$3(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(430, 429, {}, InfiniteDataView$3);
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$3_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/3', 430);
+defineClass(432, 431, {}, InfiniteDataView$3);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$3_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/3', 432);
 function InfiniteDataView$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$0$Type;
@@ -13470,7 +13478,7 @@ function InfiniteDataView$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(610, $wnd.Function, {}, InfiniteDataView$lambda$0$Type);
+defineClass(612, $wnd.Function, {}, InfiniteDataView$lambda$0$Type);
 _.call_3 = function call_21(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_21;
@@ -13486,7 +13494,7 @@ function InfiniteDataView$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(611, $wnd.Function, {}, InfiniteDataView$lambda$1$Type);
+defineClass(613, $wnd.Function, {}, InfiniteDataView$lambda$1$Type);
 _.call_3 = function call_22(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_22;
@@ -13502,7 +13510,7 @@ function InfiniteDataView$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(614, $wnd.Function, {}, InfiniteDataView$lambda$2$Type);
+defineClass(616, $wnd.Function, {}, InfiniteDataView$lambda$2$Type);
 _.call_6 = function call_23(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_23;
@@ -13518,7 +13526,7 @@ function InfiniteDataView$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(431, 1, {}, InfiniteDataView$lambda$3$Type);
+defineClass(433, 1, {}, InfiniteDataView$lambda$3$Type);
 _.execute_0 = function execute_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_11;
@@ -13526,7 +13534,7 @@ _.execute_0 = function execute_11(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$3$Type', 431);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$3$Type', 433);
 function InfiniteDataView$lambda$4$Type($$outer_0, loadMask_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$4$Type;
@@ -13535,7 +13543,7 @@ function InfiniteDataView$lambda$4$Type($$outer_0, loadMask_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(432, 1, {}, InfiniteDataView$lambda$4$Type);
+defineClass(434, 1, {}, InfiniteDataView$lambda$4$Type);
 _.execute_0 = function execute_12(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_12;
@@ -13544,7 +13552,7 @@ _.execute_0 = function execute_12(){
 }
 ;
 _.loadMask_1 = false;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$4$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$4$Type', 432);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$4$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$4$Type', 434);
 function InfiniteRenderer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteRenderer;
@@ -13552,8 +13560,8 @@ function InfiniteRenderer(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(478, 144, {}, InfiniteRenderer);
-var Lgwt_material_design_client_data_infinite_InfiniteRenderer_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteRenderer', 478);
+defineClass(480, 144, {}, InfiniteRenderer);
+var Lgwt_material_design_client_data_infinite_InfiniteRenderer_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteRenderer', 480);
 function create_0(scrollableArea){
   var obj, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = create_0;
@@ -13568,7 +13576,7 @@ function $clinit_MaterialDebugResources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialDebugResources;
   $clinit_MaterialDebugResources = ($location_0[stackIndex] = 'MaterialDebugResources.java:' + '27' , emptyMethod);
-  INSTANCE_2 = castTo(($location_0[stackIndex] = 'MaterialDebugResources.java:' + '28' , create_gwt_material_design_client_resources_MaterialDebugResources()), 522);
+  INSTANCE_2 = castTo(($location_0[stackIndex] = 'MaterialDebugResources.java:' + '28' , create_gwt_material_design_client_resources_MaterialDebugResources()), 524);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -13576,7 +13584,7 @@ var INSTANCE_2;
 function MaterialDebugResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(274, 1, {522:1}, MaterialDebugResources_default_InlineClientBundleGenerator);
+defineClass(274, 1, {524:1}, MaterialDebugResources_default_InlineClientBundleGenerator);
 _.animationJsDebug = function animationJsDebug_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJsDebug_0;
@@ -13707,7 +13715,7 @@ function $clinit_MaterialDebugResources_default_InlineClientBundleGenerator$shri
 function MaterialDebugResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(278, 1, {522:1}, MaterialDebugResources_en_InlineClientBundleGenerator);
+defineClass(278, 1, {524:1}, MaterialDebugResources_en_InlineClientBundleGenerator);
 _.animationJsDebug = function animationJsDebug_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJsDebug_2;
@@ -13839,7 +13847,7 @@ function $clinit_MaterialResources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialResources;
   $clinit_MaterialResources = ($location_0[stackIndex] = 'MaterialResources.java:' + '28' , emptyMethod);
-  INSTANCE_3 = castTo(($location_0[stackIndex] = 'MaterialResources.java:' + '29' , create_gwt_material_design_client_resources_MaterialResources()), 519);
+  INSTANCE_3 = castTo(($location_0[stackIndex] = 'MaterialResources.java:' + '29' , create_gwt_material_design_client_resources_MaterialResources()), 521);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -13847,7 +13855,7 @@ var INSTANCE_3;
 function MaterialResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(250, 1, {519:1}, MaterialResources_default_InlineClientBundleGenerator);
+defineClass(250, 1, {521:1}, MaterialResources_default_InlineClientBundleGenerator);
 _.animationJs = function animationJs_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJs_0;
@@ -13968,7 +13976,7 @@ function $clinit_MaterialResources_default_InlineClientBundleGenerator$shrinkJsI
 function MaterialResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(254, 1, {519:1}, MaterialResources_en_InlineClientBundleGenerator);
+defineClass(254, 1, {521:1}, MaterialResources_en_InlineClientBundleGenerator);
 _.animationJs = function animationJs_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJs_2;
@@ -14090,7 +14098,7 @@ function $clinit_MaterialTableDebugBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialTableDebugBundle;
   $clinit_MaterialTableDebugBundle = ($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '32' , emptyMethod);
-  INSTANCE_4 = castTo(($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '33' , create_gwt_material_design_client_resources_MaterialTableDebugBundle()), 520);
+  INSTANCE_4 = castTo(($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '33' , create_gwt_material_design_client_resources_MaterialTableDebugBundle()), 522);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -14098,7 +14106,7 @@ var INSTANCE_4;
 function MaterialTableDebugBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(258, 1, {520:1}, MaterialTableDebugBundle_default_InlineClientBundleGenerator);
+defineClass(258, 1, {522:1}, MaterialTableDebugBundle_default_InlineClientBundleGenerator);
 _.greedyScroll = function greedyScroll_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = greedyScroll_0;
@@ -14134,7 +14142,7 @@ _.style_2 = function style_1(){
 _.tableSubHeaders = function tableSubHeaders_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = tableSubHeaders_0;
-  returnTemp = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '121' , $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer() , ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '117' , tableSubHeaders));
+  returnTemp = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '124' , $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer() , ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '120' , tableSubHeaders));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -14156,7 +14164,7 @@ _.getText = function getText_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_11;
   $stackDepth_0 = stackIndex - 1;
-  return ';\n(function ($, window, undefined) {\n  "use strict";\n\n  var name = "greedyScroll",\n    id = 0,\n    defaults = {\n      topScrollOnFocus: true,\n      topScrollMargin: 3\n    };\n\n  function Plugin(el, options) {\n    // To avoid scope issues, use "base" instead of "this"\n    // to reference this class from internal events and functions.\n    var base = this;\n\n    // Access to jQuery and DOM versions of element\n    base.$el = $(el);\n    base.el = el;\n    base.id = id++;\n\n    base.$window = $(window);\n    base.$body = $("body");\n    base.locked = [];\n\n    // Listen for destroyed, call teardown\n    base.$el.bind("destroyed", $.proxy(base.teardown, base));\n\n    base.init = function () {\n      base.options = $.extend({}, defaults, options);\n\n      base.$el.attr("tabindex", 0);\n\n      base.bind();\n    };\n\n    base.destroy = function () {\n      base.$el.unbind("destroyed", base.teardown);\n      base.teardown();\n    };\n\n    base.teardown = function () {\n      $.removeData(base.el, "plugin_" + name);\n      base.unbind();\n\n      base.el = null;\n      base.$el = null;\n    };\n\n    base.bind = function () {\n      base.$el\n        .on("focus." + name, base.lockParents)\n        .on("blur." + name, base.unlockParents)\n        .on("scroll." + name, $.throttle(100, base.scroll));\n    };\n\n    base.unbind = function () {\n      base.$el.off("." + name);\n    };\n\n    base.scroll = function(e) {\n      var $this = $(this);\n\n      if(!$this.isScrollEnd() && !$this.isScrollStart()) {\n        base.lockParents();\n      } else if(!$this.is(":focus")) {\n        base.unlockParents();\n      }\n    };\n\n    base.lockParents = function() {\n      // Ensure we are at the top of the panel\n      if(base.options.topScrollOnFocus) {\n        var top = base.$el.offset().top,\n            scrollTop = base.$body.scrollTop();\n\n        if(scrollTop > top) {\n          base.$body.scrollTop(top - base.options.topScrollMargin);\n        }\n      }\n\n      base.$body.addClass("overflow-hidden");\n\n      $(this).parents().each(function(i) {\n        var $this = $(this);\n\n        if($this.hasScrollBar()) {\n          base.locked[i] = $this;\n          $this.addClass("overflow-hidden");\n        }\n      });\n    };\n\n    base.unlockParents = function() {\n      base.$body.removeClass("overflow-hidden");\n\n      for(var i in base.locked) {\n        base.locked[i].removeClass("overflow-hidden");\n      }\n    };\n\n    // Run initializer\n    base.init();\n  }\n\n  // A plugin wrapper around the constructor,\n  // preventing against multiple instantiations\n  $.fn[name] = function (options) {\n    return this.each(function () {\n      var instance = $.data(this, "plugin_" + name);\n      if (instance) {\n        if (typeof options === "string") {\n          instance[options].apply(instance);\n        } else {\n          instance.updateOptions(options);\n        }\n      } else if (options !== "destroy") {\n        $.data(this, "plugin_" + name, new Plugin(this, options));\n      }\n    });\n  };\n\n})(jQuery, window);\n';
+  return '/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/**\n * @author Ben Dol\n */\n;\n(function ($, window, undefined) {\n  "use strict";\n\n  var name = "greedyScroll",\n    id = 0,\n    defaults = {\n      topScrollOnFocus: true,\n      topScrollMargin: 3\n    };\n\n  function Plugin(el, options) {\n    // To avoid scope issues, use "base" instead of "this"\n    // to reference this class from internal events and functions.\n    var base = this;\n\n    // Access to jQuery and DOM versions of element\n    base.$el = $(el);\n    base.el = el;\n    base.id = id++;\n\n    base.$window = $(window);\n    base.$body = $("body");\n    base.locked = [];\n\n    // Listen for destroyed, call teardown\n    base.$el.bind("destroyed", $.proxy(base.teardown, base));\n\n    base.init = function () {\n      base.options = $.extend({}, defaults, options);\n\n      base.$el.attr("tabindex", 0);\n\n      base.bind();\n    };\n\n    base.destroy = function () {\n      base.$el.unbind("destroyed", base.teardown);\n      base.teardown();\n    };\n\n    base.teardown = function () {\n      $.removeData(base.el, "plugin_" + name);\n      base.unbind();\n\n      base.el = null;\n      base.$el = null;\n    };\n\n    base.bind = function () {\n      base.$el\n        .on("focus." + name, base.lockParents)\n        .on("blur." + name, base.unlockParents)\n        .on("scroll." + name, $.throttle(100, base.scroll));\n    };\n\n    base.unbind = function () {\n      base.$el.off("." + name);\n    };\n\n    base.scroll = function(e) {\n      var $this = $(this);\n\n      if(!$this.isScrollEnd() && !$this.isScrollStart()) {\n        base.lockParents();\n      } else if(!$this.is(":focus")) {\n        base.unlockParents();\n      }\n    };\n\n    base.lockParents = function() {\n      // Ensure we are at the top of the panel\n      if(base.options.topScrollOnFocus) {\n        var top = base.$el.offset().top,\n            scrollTop = base.$body.scrollTop();\n\n        if(scrollTop > top) {\n          base.$body.scrollTop(top - base.options.topScrollMargin);\n        }\n      }\n\n      base.$body.addClass("overflow-hidden");\n\n      $(this).parents().each(function(i) {\n        var $this = $(this);\n\n        if($this.hasScrollBar()) {\n          base.locked[i] = $this;\n          $this.addClass("overflow-hidden");\n        }\n      });\n    };\n\n    base.unlockParents = function() {\n      base.$body.removeClass("overflow-hidden");\n\n      for(var i in base.locked) {\n        base.locked[i].removeClass("overflow-hidden");\n      }\n    };\n\n    // Run initializer\n    base.init();\n  }\n\n  // A plugin wrapper around the constructor,\n  // preventing against multiple instantiations\n  $.fn[name] = function (options) {\n    return this.each(function () {\n      var instance = $.data(this, "plugin_" + name);\n      if (instance) {\n        if (typeof options === "string") {\n          instance[options].apply(instance);\n        } else {\n          instance.updateOptions(options);\n        }\n      } else if (options !== "destroy") {\n        $.data(this, "plugin_" + name, new Plugin(this, options));\n      }\n    });\n  };\n\n})(jQuery, window);\n';
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_default_InlineClientBundleGenerator/1', 259);
@@ -14175,7 +14183,7 @@ _.getText = function getText_12(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_12;
   $stackDepth_0 = stackIndex - 1;
-  return '/*\n * jQuery throttle / debounce - v1.1 - 3/7/2010\n * http://benalman.com/projects/jquery-throttle-debounce-plugin/\n * \n * Copyright (c) 2010 "Cowboy" Ben Alman\n * Dual licensed under the MIT and GPL licenses.\n * http://benalman.com/about/license/\n */\n(function(b,c){var $=b.jQuery||b.Cowboy||(b.Cowboy={}),a;$.throttle=a=function(e,f,j,i){var h,d=0;if(typeof f!=="boolean"){i=j;j=f;f=c}function g(){var o=this,m=+new Date()-d,n=arguments;function l(){d=+new Date();j.apply(o,n)}function k(){h=c}if(i&&!h){l()}h&&clearTimeout(h);if(i===c&&m>e){l()}else{if(f!==true){h=setTimeout(i?k:l,i===c?e-m:e)}}}if($.guid){g.guid=j.guid=j.guid||$.guid++}return g};$.debounce=function(d,e,f){return f===c?a(d,e,false):a(d,f,e!==false)}})(this);\n\n/*\n * jQuery Extension Library v1.0\n */\n(function($) {\n  $.fn.insertAt = function(index, element) {\n    var lastIndex = this.children().size();\n    if (index < 0) {\n      index = Math.max(0, lastIndex + 1 + index)\n    }\n    this.append(element);\n    if (index < lastIndex) {\n      this.children().eq(index).before(this.children().last())\n    }\n    return this;\n  };\n\n  $.fn.longpress = function(longCallback, shortCallback, duration) {\n    if (typeof duration === "undefined") {\n      duration = 500;\n    }\n\n    return this.each(function() {\n      var $this = $(this);\n\n      // to keep track of how long something was pressed\n      var mouse_down_time;\n      var timeout;\n\n      // mousedown or touchstart callback\n      function mousedown_callback(e) {\n        mouse_down_time = new Date().getTime();\n        var context = $(this);\n\n        // set a timeout to call the longpress callback when time elapses\n        timeout = setTimeout(function() {\n          if (typeof longCallback === "function") {\n            longCallback.call(context, e);\n          } else {\n            $.error(\'Callback required for long press. You provided: \' + typeof longCallback);\n          }\n        }, duration);\n      }\n\n      // mouseup or touchend callback\n      function mouseup_callback(e) {\n        var press_time = new Date().getTime() - mouse_down_time;\n        if (press_time < duration) {\n          // cancel the timeout\n          clearTimeout(timeout);\n\n          // call the shortCallback if provided\n          if (typeof shortCallback === "function") {\n            shortCallback.call($(this), e);\n          } else if (typeof shortCallback === "undefined") {\n            ;\n          } else {\n            $.error(\'Optional callback for short press should be a function.\');\n          }\n        }\n      }\n\n      // cancel long press event if the finger or mouse was moved\n      function move_callback(e) {\n        clearTimeout(timeout);\n      }\n\n      // Browser Support\n      $this.on(\'mousedown\', mousedown_callback);\n      $this.on(\'mouseup\', mouseup_callback);\n      $this.on(\'mousemove\', move_callback);\n\n      // Mobile Support\n      $this.on(\'touchstart\', mousedown_callback);\n      $this.on(\'touchend\', mouseup_callback);\n      $this.on(\'touchmove\', move_callback);\n      return this;\n    });\n  };\n\n  $.fn.hasVerticalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollHeight > this.innerHeight() : false;\n  };\n\n  $.fn.hasHorizontalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollWidth > this.innerWidth() : false;\n  };\n\n  $.fn.hasScrollBar = function() {\n    return this.hasVerticalScrollBar() || this.hasHorizontalScrollBar();\n  };\n\n  $.scrollBarWidth = function() {\n    var inner = document.createElement("p");\n    inner.style.width = "100%";\n    inner.style.height = "200px";\n  \n    var outer = document.createElement("div");\n    outer.style.position = "absolute";\n    outer.style.top = "0px";\n    outer.style.left = "0px";\n    outer.style.visibility = "hidden";\n    outer.style.width = "200px";\n    outer.style.height = "150px";\n    outer.style.overflow = "hidden";\n    outer.appendChild(inner);\n  \n    document.body.appendChild(outer);\n    var w1 = inner.offsetWidth;\n    outer.style.overflow = "scroll";\n    var w2 = inner.offsetWidth;\n    if (w1 == w2) w2 = outer.clientWidth;\n  \n    document.body.removeChild(outer);\n  \n    return (w1 - w2);\n  };\n\n  $.fn.isScrollEnd = function() {\n    return this.scrollTop() >= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.isScrollStart = function() {\n    return this.scrollTop() <= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.scrollHandler = function(dir, name, handler) {\n    var base = this;\n    var lastScroll = { x: 0, y: 0 };\n    return base.on("scroll." + name, function(e) {\n      var $this = $(this),\n          scrollTop = $this.scrollTop(),\n          scrollLeft = $this.scrollLeft();\n\n      var scroll = {\n            dirs: [], \n            isUp: function() { return $.inArray("up", this.dirs) > -1; },\n            isDown: function() { return $.inArray("down", this.dirs) > -1; },\n            isLeft: function() { return $.inArray("left", this.dirs) > -1; },\n            isRight: function() { return $.inArray("right", this.dirs) > -1; },\n            isX: function() { return this.isLeft() || this.isRight(); },\n            isY: function() { return this.isUp() || this.isDown(); }\n          }, \n          index = 0;\n      if(lastScroll.y > scrollTop) {\n        scroll.dirs[index++] = "up";\n      } else if(lastScroll.y != scrollTop) {\n        scroll.dirs[index++] = "down";\n      }\n\n      if(lastScroll.x > scrollLeft) {\n        scroll.dirs[index++] = "left";\n      } else if(lastScroll.x != scrollLeft) {\n        scroll.dirs[index++] = "right";\n      }\n\n      if(dir) {\n        if($.isArray(dir)) {\n          for(var d in scroll.dirs) {\n            if($.inArray(scroll.dirs[d], dir) > -1) {\n              handler(e, scroll);\n              break; // Found at least one match\n            }\n          }\n        } else if(dir == "any" || $.inArray(dir, scroll.dirs) > -1) {\n          handler(e, scroll);\n        }\n      } else {\n        handler(e, scroll);\n      }\n\n      lastScroll = { x: scrollLeft,  y: scrollTop };\n    });\n  };\n\n  $.fn.smartScroll = function(name, handler) {\n    return this.scrollHandler("any", name, handler);\n  };\n\n  $.fn.scrollY = function(name, handler) {\n    return this.scrollHandler(["up", "down"], name, handler);\n  };\n\n  $.fn.scrollX = function(name, handler) {\n    return this.scrollHandler(["left", "right"], name, handler);\n  };\n\n  $.fn.onScrollUp = function(name, handler) {\n    return this.scrollHandler("up", name, handler);\n  };\n\n  $.fn.onScrollDown = function(name, handler) {\n    return this.scrollHandler("down", name, handler);\n  };\n\n  $.fn.onScrollLeft = function(name, handler) {\n    return this.scrollHandler("left", name, handler);\n  };\n\n  $.fn.onScrollRight = function(name, handler) {\n    return this.scrollHandler("right", name, handler);\n  };\n})(jQuery);';
+  return '/*\n * jQuery throttle / debounce - v1.1 - 3/7/2010\n * http://benalman.com/projects/jquery-throttle-debounce-plugin/\n * \n * Copyright (c) 2010 "Cowboy" Ben Alman\n * Dual licensed under the MIT and GPL licenses.\n * http://benalman.com/about/license/\n */\n(function(b,c){var $=b.jQuery||b.Cowboy||(b.Cowboy={}),a;$.throttle=a=function(e,f,j,i){var h,d=0;if(typeof f!=="boolean"){i=j;j=f;f=c}function g(){var o=this,m=+new Date()-d,n=arguments;function l(){d=+new Date();j.apply(o,n)}function k(){h=c}if(i&&!h){l()}h&&clearTimeout(h);if(i===c&&m>e){l()}else{if(f!==true){h=setTimeout(i?k:l,i===c?e-m:e)}}}if($.guid){g.guid=j.guid=j.guid||$.guid++}return g};$.debounce=function(d,e,f){return f===c?a(d,e,false):a(d,f,e!==false)}})(this);\n\n/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/*\n * jQuery Extension Library v1.0\n *\n * @author Ben Dol\n */\n(function($) {\n  $.fn.insertAt = function(index, element) {\n    var lastIndex = this.children().size();\n    if (index < 0) {\n      index = Math.max(0, lastIndex + 1 + index)\n    }\n    this.append(element);\n    if (index < lastIndex) {\n      this.children().eq(index).before(this.children().last())\n    }\n    return this;\n  };\n\n  $.fn.longpress = function(longCallback, shortCallback, duration) {\n    if (typeof duration === "undefined") {\n      duration = 500;\n    }\n\n    return this.each(function() {\n      var $this = $(this);\n\n      // to keep track of how long something was pressed\n      var mouse_down_time;\n      var timeout;\n\n      // mousedown or touchstart callback\n      function mousedown_callback(e) {\n        mouse_down_time = new Date().getTime();\n        var context = $(this);\n\n        // set a timeout to call the longpress callback when time elapses\n        timeout = setTimeout(function() {\n          if (typeof longCallback === "function") {\n            longCallback.call(context, e);\n          } else {\n            $.error(\'Callback required for long press. You provided: \' + typeof longCallback);\n          }\n        }, duration);\n      }\n\n      // mouseup or touchend callback\n      function mouseup_callback(e) {\n        var press_time = new Date().getTime() - mouse_down_time;\n        if (press_time < duration) {\n          // cancel the timeout\n          clearTimeout(timeout);\n\n          // call the shortCallback if provided\n          if (typeof shortCallback === "function") {\n            shortCallback.call($(this), e);\n          } else if (typeof shortCallback === "undefined") {\n            ;\n          } else {\n            $.error(\'Optional callback for short press should be a function.\');\n          }\n        }\n      }\n\n      // cancel long press event if the finger or mouse was moved\n      function move_callback(e) {\n        clearTimeout(timeout);\n      }\n\n      // Browser Support\n      $this.on(\'mousedown\', mousedown_callback);\n      $this.on(\'mouseup\', mouseup_callback);\n      $this.on(\'mousemove\', move_callback);\n\n      // Mobile Support\n      $this.on(\'touchstart\', mousedown_callback);\n      $this.on(\'touchend\', mouseup_callback);\n      $this.on(\'touchmove\', move_callback);\n      return this;\n    });\n  };\n\n  $.fn.hasVerticalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollHeight > this.innerHeight() : false;\n  };\n\n  $.fn.hasHorizontalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollWidth > this.innerWidth() : false;\n  };\n\n  $.fn.hasScrollBar = function() {\n    return this.hasVerticalScrollBar() || this.hasHorizontalScrollBar();\n  };\n\n  $.scrollBarWidth = function() {\n    var inner = document.createElement("p");\n    inner.style.width = "100%";\n    inner.style.height = "200px";\n  \n    var outer = document.createElement("div");\n    outer.style.position = "absolute";\n    outer.style.top = "0px";\n    outer.style.left = "0px";\n    outer.style.visibility = "hidden";\n    outer.style.width = "200px";\n    outer.style.height = "150px";\n    outer.style.overflow = "hidden";\n    outer.appendChild(inner);\n  \n    document.body.appendChild(outer);\n    var w1 = inner.offsetWidth;\n    outer.style.overflow = "scroll";\n    var w2 = inner.offsetWidth;\n    if (w1 == w2) w2 = outer.clientWidth;\n  \n    document.body.removeChild(outer);\n  \n    return (w1 - w2);\n  };\n\n  $.fn.isScrollEnd = function() {\n    return this.scrollTop() >= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.isScrollStart = function() {\n    return this.scrollTop() <= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.scrollHandler = function(dir, name, handler) {\n    var base = this;\n    var lastScroll = { x: 0, y: 0 };\n    return base.on("scroll." + name, function(e) {\n      var $this = $(this),\n          scrollTop = $this.scrollTop(),\n          scrollLeft = $this.scrollLeft();\n\n      var scroll = {\n            dirs: [], \n            isUp: function() { return $.inArray("up", this.dirs) > -1; },\n            isDown: function() { return $.inArray("down", this.dirs) > -1; },\n            isLeft: function() { return $.inArray("left", this.dirs) > -1; },\n            isRight: function() { return $.inArray("right", this.dirs) > -1; },\n            isX: function() { return this.isLeft() || this.isRight(); },\n            isY: function() { return this.isUp() || this.isDown(); }\n          }, \n          index = 0;\n      if(lastScroll.y > scrollTop) {\n        scroll.dirs[index++] = "up";\n      } else if(lastScroll.y != scrollTop) {\n        scroll.dirs[index++] = "down";\n      }\n\n      if(lastScroll.x > scrollLeft) {\n        scroll.dirs[index++] = "left";\n      } else if(lastScroll.x != scrollLeft) {\n        scroll.dirs[index++] = "right";\n      }\n\n      if(dir) {\n        if($.isArray(dir)) {\n          for(var d in scroll.dirs) {\n            if($.inArray(scroll.dirs[d], dir) > -1) {\n              handler(e, scroll);\n              break; // Found at least one match\n            }\n          }\n        } else if(dir == "any" || $.inArray(dir, scroll.dirs) > -1) {\n          handler(e, scroll);\n        }\n      } else {\n        handler(e, scroll);\n      }\n\n      lastScroll = { x: scrollLeft,  y: scrollTop };\n    });\n  };\n\n  $.fn.smartScroll = function(name, handler) {\n    return this.scrollHandler("any", name, handler);\n  };\n\n  $.fn.scrollY = function(name, handler) {\n    return this.scrollHandler(["up", "down"], name, handler);\n  };\n\n  $.fn.scrollX = function(name, handler) {\n    return this.scrollHandler(["left", "right"], name, handler);\n  };\n\n  $.fn.onScrollUp = function(name, handler) {\n    return this.scrollHandler("up", name, handler);\n  };\n\n  $.fn.onScrollDown = function(name, handler) {\n    return this.scrollHandler("down", name, handler);\n  };\n\n  $.fn.onScrollLeft = function(name, handler) {\n    return this.scrollHandler("left", name, handler);\n  };\n\n  $.fn.onScrollRight = function(name, handler) {\n    return this.scrollHandler("right", name, handler);\n  };\n})(jQuery);';
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_default_InlineClientBundleGenerator/2', 260);
@@ -14229,10 +14237,14 @@ _.getName = function getName_15(){
 }
 ;
 _.getText = function getText_15(){
-  var stackIndex;
+  var builder, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_15;
+  builder = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '104' , new StringBuilder);
+  $location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '105' , builder).string += '/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/**\n * @author Ben Dol\n */\nTableSubHeaders.id = 0;\n\nTableSubHeaders.newInstance = function($table, $stickies) {\n  return new TableSubHeaders($table, $stickies);\n};\n\nfunction TableSubHeaders($table, $stickies) {\n  TableSubHeaders.id++;\n\n  // To avoid scope issues, use "base" instead of "this"\n  // to reference this class from internal events and functions.\n  var base = this,\n      $base = $(base);\n\n  base.name = "subheaders" + TableSubHeaders.id;\n  base.$window = $(window);\n  base.$document = $(document);\n  base.$tableBody = $table.find("tbody");\n  base.$tableParents = $table.parents();\n  base.$stickies = null;\n  base.options = [];\n  base.cache = [];\n\n  base.loaded = false;\n  base.scrollBarWidth = 13;\n  base.debug = {\n    enabled: true,\n    smartScroll: { table: 0, window: 0, outer: 0 },\n    touchmove: { table: 0, window: 0, outer: 0 },\n    resize: { table: 0, window: 0 }\n  };\n\n  var defaults = {\n    marginTop: 0,\n    marginLeft: 0,\n    scrollThrottle: 20,\n    resizeThrottle: 100\n  };\n\n  base.load = function (opts) {\n    base.options = $.extend({}, defaults, opts);\n\n    // Calculate scrollbar width\n    base.scrollBarWidth = $.scrollBarWidth();\n\n    base.bind();\n    base.detect();\n\n    base.recalculate(true);\n    base.loaded = true;\n  };\n\n  base.unload = function () {\n    base.options = [];\n\n    base.unbind();\n\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n      $this.unwrap();\n      $table.scrollTop(0);\n    });\n\n    base.loaded = false;\n  };\n\n  base.reload = function () {\n    base.unload();\n    base.load();\n  };\n\n  base.detect = function () {\n    base.$stickies = $($stickies, $table);\n\n    // Bind toggle click\n    base.$stickies.off("." + base.name);\n    base.$stickies.on("tap."+base.name+" click."+base.name, function(e) {\n      base.toggle($(this));\n    });\n\n    var filtered = $($stickies, $table).filter(function() {\n      return $(this).parent().is(":not(div)");\n    });\n\n    filtered.each(function () {\n      $(this).wrap("<div style=\'width:100%;z-index:2;cursor:pointer;background-color:#fff;\'/>");\n    });\n  };\n\n  base.bind = function () {\n    base.unbind();\n\n    var scrollThrottle = base.options.scrollThrottle,\n        resizeThrottle = base.options.resizeThrottle;\n\n    $table.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.table++;\n      base.scroll(e, scroll);\n    }));\n    // $table.on("touchmove." + base.name, $.throttle(scrollThrottle, function(e, scroll) {\n    //   if(base.debug.enabled) base.debug.touchmove.table++;\n    //   base.scroll(e, scroll);\n    // }));\n    $table.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.resize.table++;\n      base.recalculate(true);\n    }));\n\n    base.$window.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.window++;\n      base.alignment(e, scroll);\n    }));\n    // base.$window.on("touchmove." + base.name, $.throttle(scrollThrottle, function() {\n    //   if(base.debug.enabled) base.debug.touchmove.window++;\n    //   base.alignment();\n    // }));\n    base.$window.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.debug.resize.window++;\n      base.recalculate(true);\n    }));\n\n    base.detectOuterScrolls();\n  };\n\n  base.unbind = function () {\n    $table.off("." + base.name);\n    base.$window.off("." + base.name);\n\n    // Unbind sticky events\n    if(base.$stickies) {\n      base.$stickies.off("." + base.name);\n    }\n\n    // Unbind \'scroll\' on parent elements that have a scroll bar.\n    base.$tableParents.each(function(index, el) {\n      $(this).off("." + base.name);\n    });\n  };\n\n  base.detectOuterScrolls = function() {\n    var scrollThrottle = base.options.scrollThrottle;\n\n    base.$tableParents.off("." + base.name);\n\n    // Bind parent elements that have a scroll bar.\n    base.$tableParents.filter(function() {\n      return $(this).hasScrollBar();\n    }).smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.outer++;\n      base.alignment(e, scroll);\n    }));\n  };\n\n  base.toggle = function($subheader) {\n    if($subheader.hasClass("expanded")) {\n      base.close($subheader);\n    } else {\n      base.open($subheader);\n    }\n  };\n\n  base.open = function($subheader) {\n    $subheader.addClass("expanded");\n\n    // Trigger an \'opening\' event\n    $base.trigger("opening", [$subheader]);\n\n    // Get all until next subheader\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var closeIcon = $subheader.attr("data-close-icon");\n      if(closeIcon === undefined) {\n        closeIcon = "remove";\n      }\n      $icon.text(closeIcon);\n    }\n\n    var parent = $subheader.parent();\n    // Get rows by \'tr\' rather than \'tr.data-row\' since\n    // expansion content should be touched also.\n    var rows = parent.nextUntil("div", "tr");\n\n    // Invoke .show and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.show(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger an \'opened\' event\n      $subheader.trigger("opened", [$subheader]);\n    });\n  };\n\n  base.close = function($subheader) {\n    $subheader.removeClass("expanded");\n\n    // Trigger a \'closing\' event\n    $base.trigger("closing", [$subheader]);\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var openIcon = $subheader.attr("data-open-icon");\n      if(openIcon === undefined) {\n        openIcon = "add";\n      }\n      $icon.text(openIcon)\n    }\n\n    // Get all until next subheader\n    var rows = $subheader.parent().nextUntil("div");\n\n    // Invoke .hide and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.hide(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger a \'closed\' event\n      $subheader.trigger("closed", [$subheader]);\n    });\n  };\n\n  base.recalculate = function(fireEvents) {\n    if(fireEvents) {\n      $base.trigger("before-recalculate");\n    }\n\n    // Detect any new outer scrolls\n    base.detectOuterScrolls();\n\n    // Calculate any new heights\n    base.updateHeights();\n\n    var scrollTop = $table.scrollTop(),\n        outerScrollTop = base.getOuterScrollTop(),\n        fullWidth = base.$tableBody.outerWidth();\n\n    base.$stickies.each(function () {\n      var $this = $(this);\n\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n\n      // Calculate the new position\n      $.data(this, "pos", $this.offset().top + outerScrollTop + scrollTop + 1);\n\n      base.updateWidth($this, fullWidth - 2);\n    });\n\n    // By default this method will fire, even when bound\n    // to any particular jQuery event.\n    if(fireEvents) {\n      $base.trigger("after-recalculate");\n    }\n\n    base.scroll();\n  };\n\n  // Attempts to perform top scrolls using position: fixed since its the only\n  // way to retain flexible styling with high performance (on mobile, etc).\n  // This method has more overhead to ensure the subheader positions maintain \n  // within the boundries of the table (i.e. automatic edge clipping, etc), \n  // especially with multiple scrollable layers.\n  base.scroll = function (e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n\n        // Top variables\n        top = offset.top + base.options.marginTop,\n        scrollTop = $table.scrollTop() + base.getOuterScrollTop(),\n        winScrollTop = base.$window.scrollTop(),\n\n        // Left variables\n        left = offset.left + base.options.marginLeft,\n        scrollLeft = $table.scrollLeft(),\n        outerScrollLeft = base.getOuterScrollLeft();\n\n    base.$stickies.each(function (i) {\n      var $this = $(this),\n          forceXScroll = false;\n\n      if(!scroll || scroll.isY()) {\n        var $nextSticky = base.$stickies.eq(i + 1),\n            $prevSticky = base.$stickies.eq(i - 1),\n            pos = $.data(this, "pos");\n\n        // Y Axis Scrolling\n        if (pos <= scrollTop + top) {\n          base.emulateYScroll($this, top, winScrollTop, scrollTop);\n\n          if(!$this.hasClass("passed")) {\n            if(!$this.hasClass("fixed")) {\n              $this.addClass("fixed");\n\n              // Ensure the X scroll is performed when\n              // the Y scroll sticks a new subheader.\n              forceXScroll = scroll && !scroll.isX();\n            }\n\n            // Update the subheaders width\n            base.updateWidth($this, fullWidth);\n            \n            $prevSticky.css("display", "none");\n\n            // Try display the current sticky\n            $this.css({ "display": "" });\n\n            if ($nextSticky.length > 0 && scrollTop + top >= pos - $prevSticky.outerHeight()) {\n              $this.addClass("passed");\n            }\n          }\n        } else {\n          var width = $this.outerWidth();\n          $this.removeClass("fixed").removeAttr("style");\n          $this.width(width);\n\n          // Try display the previous sticky\n          $prevSticky.css({ "display": "" });\n\n          if ($prevSticky.length > 0 && scrollTop + top <= pos - $prevSticky.outerHeight()) {\n            $prevSticky.removeClass("passed");\n          }\n        }\n      }\n\n      // X Axis Scrolling\n      if(!scroll || scroll.isX() || forceXScroll) {\n        if($this.hasClass("fixed")) {\n          base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n        }\n      }\n    });\n\n    // Update passed subheaders top position.\n    base.$stickies.filter(".passed").each(function(i, el) {\n      var $this = $(this),\n          $nextSticky = base.$stickies.eq(i + 1);\n\n      var newTop = $.data($nextSticky[0], "pos") - scrollTop - $this.outerHeight() - winScrollTop;\n      $this.data("push-back", parseInt($this.css("top").replace("px", "") - newTop));\n      $this.css({ "top": newTop });\n\n      // TODO: Fix the clip issue\n      // base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n    });\n  };\n\n  base.emulateYScroll = function($sticky, top, winScrollTop, scrollTop, outerScroll) {\n    var height = $sticky.outerHeight() + 50,\n        totalTop = (outerScroll ? outerScroll : base.getOuterScrollTop()) - base.options.marginTop;\n\n    var topClip = totalTop + "px",\n        bottomClip = height + "px",\n        rightClip = $sticky.data("clip-right"),\n        leftClip = $sticky.data("clip-left");\n\n    // Handle the passed clipping\n    if($sticky.hasClass("passed")) {\n      var pushBack = $sticky.data("push-back");\n       topClip = (totalTop + pushBack) + "px";\n    }\n\n    // Update Y clipping data\n    $sticky.data("clip-top", topClip)\n           .data("clip-bottom", bottomClip);\n\n    $sticky.css({\n      "top": top - winScrollTop,\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  base.emulateXScroll = function($sticky, tableWidth, left, scrollLeft, outerScroll) {\n    var leftClip = (scrollLeft + (outerScroll ? outerScroll : base.getOuterScrollLeft())) + "px",\n        rightClip = (tableWidth + scrollLeft - base.scrollBarWidth) + "px",\n        topClip = $sticky.data("clip-top") || "auto",\n        bottomClip = $sticky.data("clip-bottom") || "auto";\n\n    // Update X clipping data\n    $sticky.data("clip-left", leftClip)\n           .data("clip-right", rightClip);\n\n    $sticky.css({\n      "left": left - scrollLeft - base.$window.scrollLeft(),\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  // Applies the alignment of all the outer scroll positions.\n  base.alignment = function(e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n        xScroll = !scroll || scroll.isX(),\n        yScroll = !scroll || scroll.isY(),\n\n        // Top variables\n        winScrollTop = (yScroll ? base.$window.scrollTop() : 0),\n        top = (yScroll ? offset.top + base.options.marginTop : 0),\n        scrollTop = (yScroll ? $table.scrollTop() + base.getOuterScrollTop() : 0),\n\n        // Left variables\n        left = (xScroll ? offset.left + base.options.marginLeft : 0),\n        scrollLeft = (xScroll ? $table.scrollLeft() : 0),\n        outerScrollLeft = (xScroll ? base.getOuterScrollLeft() : 0);\n\n    base.$stickies.filter(".fixed").each(function (i) {\n      var $this = $(this);\n\n      if(!scroll || scroll.isY()) {\n        var newTop = top;\n\n        // Calculate \'passed\' stickies position based on outer scrollTop\'s.\n        if($this.hasClass("passed")) {\n          var $nextSticky = base.$stickies.eq(i + 1);\n          newTop = $.data($nextSticky[0], \'pos\') - scrollTop - $this.outerHeight();\n        }\n\n        base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n\n        // When the scrollbar hides or displays\n        base.updateWidth($this, fullWidth);\n      }\n\n      if(xScroll) {\n        base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n      }\n    });\n  };\n\n  base.getOuterScrollTop = function() {\n    var scrollTop = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollTop += $(this).scrollTop();\n    });\n    return scrollTop;\n  };\n\n  base.getOuterScrollLeft = function() {\n    var scrollLeft = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollLeft += $(this).scrollLeft();\n    });\n    return scrollLeft;\n  };\n\n  base.updateCellWidths = function ($sticky) {\n    // Copy cell widths from header\n    var cellWidths = base.getCellWidths($("th,td", $("thead", $table)));\n    base.setCellWidths(cellWidths, $sticky);\n  };\n\n  base.setCellWidths = function (widths, $sticky) {\n    $sticky.find("th,td").each(function (index) {\n      var $this = $(this),\n          width = widths[index];\n\n      /*$this.css({\n        "min-width": width,\n        "max-width": width\n      });*/\n    });\n  };\n\n  base.getCellWidths = function ($headers) {\n    var widths = [];\n    $headers.each(function (index) {\n      var width, $this = $(this);\n\n      if ($this.css("box-sizing") === "border-box") {\n        // when border-box types are used\n        width = this.getBoundingClientRect().width;\n      } else {\n        var $origTh = $("th", base.$originalHeader);\n        if ($origTh.css("border-collapse") === "collapse") {\n          if (window.getComputedStyle) {\n            width = parseFloat(window.getComputedStyle(this, null).width);\n          } else {\n            // ie8 only\n            var leftPadding = parseFloat($this.css("padding-left"));\n            var rightPadding = parseFloat($this.css("padding-right"));\n            // Needs more investigation - this is assuming constant border \n            // around this cell and it\'s neighbours.\n            var border = parseFloat($this.css("border-width"));\n            width = $this.outerWidth() - leftPadding - rightPadding - border;\n          }\n        } else {\n          width = $this.width();\n        }\n      }\n\n      widths[index] = width;\n    });\n    return widths;\n  };\n\n  base.updateWidth = function($sticky, width) {\n    if(width) {\n      $sticky.width(width);\n    }\n\n    // Calculate new cell widths\n    base.updateCellWidths($sticky);\n  };\n\n  base.updateWidths = function() {\n    base.$stickies.each(function() {\n      base.updateWidth($(this));\n    });\n  };\n\n  base.updateHeights = function() {\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.parent().height($this.outerHeight());\n    });';
+  $location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '106' , builder).string += '\n  };\n\n  base.setMarginTop = function(marginTop) {\n    base.options.marginTop = marginTop;\n  };\n\n  base.setMarginLeft = function(marginLeft) {\n    base.options.marginLeft = marginLeft;\n  };\n\n  base.isLoaded = function() {\n    return base.loaded;\n  };\n\n  base.getDebugInfo = function() {\n    return base.debug;\n  }\n}\n';
+  returnTemp = ($location_0[stackIndex] = 'AbstractStringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '107' , builder).string);
   $stackDepth_0 = stackIndex - 1;
-  return 'TableSubHeaders.id = 0;\n\nTableSubHeaders.newInstance = function($table, $stickies) {\n  return new TableSubHeaders($table, $stickies);\n};\n\nfunction TableSubHeaders($table, $stickies) {\n  TableSubHeaders.id++;\n\n  // To avoid scope issues, use "base" instead of "this"\n  // to reference this class from internal events and functions.\n  var base = this,\n      $base = $(base);\n\n  base.name = "subheaders" + TableSubHeaders.id;\n  base.$window = $(window);\n  base.$document = $(document);\n  base.$tableBody = $table.find("tbody");\n  base.$tableParents = $table.parents();\n  base.$stickies = null;\n  base.options = [];\n  base.cache = [];\n\n  base.loaded = false;\n  base.scrollBarWidth = 13;\n  base.debug = {\n    enabled: true,\n    smartScroll: { table: 0, window: 0, outer: 0 },\n    touchmove: { table: 0, window: 0, outer: 0 },\n    resize: { table: 0, window: 0 }\n  };\n\n  var defaults = {\n    marginTop: 0,\n    marginLeft: 0,\n    scrollThrottle: 20,\n    resizeThrottle: 100\n  };\n\n  base.load = function (opts) {\n    base.options = $.extend({}, defaults, opts);\n\n    // Calculate scrollbar width\n    base.scrollBarWidth = $.scrollBarWidth();\n\n    base.bind();\n    base.detect();\n\n    base.recalculate(true);\n    base.loaded = true;\n  };\n\n  base.unload = function () {\n    base.options = [];\n\n    base.unbind();\n\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n      $this.unwrap();\n      $table.scrollTop(0);\n    });\n\n    base.loaded = false;\n  };\n\n  base.reload = function () {\n    base.unload();\n    base.load();\n  };\n\n  base.detect = function () {\n    base.$stickies = $($stickies, $table);\n\n    // Bind toggle click\n    base.$stickies.off("." + base.name);\n    base.$stickies.on("tap."+base.name+" click."+base.name, function(e) {\n      base.toggle($(this));\n    });\n\n    var filtered = $($stickies, $table).filter(function() {\n      return $(this).parent().is(":not(div)");\n    });\n\n    filtered.each(function () {\n      $(this).wrap("<div style=\'width:100%;z-index:2;cursor:pointer;background-color:#fff;\'/>");\n    });\n  };\n\n  base.bind = function () {\n    base.unbind();\n\n    var scrollThrottle = base.options.scrollThrottle,\n        resizeThrottle = base.options.resizeThrottle;\n\n    $table.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.table++;\n      base.scroll(e, scroll);\n    }));\n    // $table.on("touchmove." + base.name, $.throttle(scrollThrottle, function(e, scroll) {\n    //   if(base.debug.enabled) base.debug.touchmove.table++;\n    //   base.scroll(e, scroll);\n    // }));\n    $table.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.resize.table++;\n      base.recalculate(true);\n    }));\n\n    base.$window.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.window++;\n      base.alignment(e, scroll);\n    }));\n    // base.$window.on("touchmove." + base.name, $.throttle(scrollThrottle, function() {\n    //   if(base.debug.enabled) base.debug.touchmove.window++;\n    //   base.alignment();\n    // }));\n    base.$window.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.debug.resize.window++;\n      base.recalculate(true);\n    }));\n\n    base.detectOuterScrolls();\n  };\n\n  base.unbind = function () {\n    $table.off("." + base.name);\n    base.$window.off("." + base.name);\n\n    // Unbind sticky events\n    if(base.$stickies) {\n      base.$stickies.off("." + base.name);\n    }\n\n    // Unbind \'scroll\' on parent elements that have a scroll bar.\n    base.$tableParents.each(function(index, el) {\n      $(this).off("." + base.name);\n    });\n  };\n\n  base.detectOuterScrolls = function() {\n    var scrollThrottle = base.options.scrollThrottle;\n\n    base.$tableParents.off("." + base.name);\n\n    // Bind parent elements that have a scroll bar.\n    base.$tableParents.filter(function() {\n      return $(this).hasScrollBar();\n    }).smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.outer++;\n      base.alignment(e, scroll);\n    }));\n  };\n\n  base.toggle = function($subheader) {\n    if($subheader.hasClass("expanded")) {\n      base.close($subheader);\n    } else {\n      base.open($subheader);\n    }\n  };\n\n  base.open = function($subheader) {\n    $subheader.addClass("expanded");\n\n    // Trigger an \'opening\' event\n    $base.trigger("opening", [$subheader]);\n\n    // Get all until next subheader\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var closeIcon = $subheader.attr("data-close-icon");\n      if(closeIcon === undefined) {\n        closeIcon = "remove";\n      }\n      $icon.text(closeIcon);\n    }\n\n    var parent = $subheader.parent();\n    // Get rows by \'tr\' rather than \'tr.data-row\' since\n    // expansion content should be touched also.\n    var rows = parent.nextUntil("div", "tr");\n\n    // Invoke .show and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.show(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger an \'opened\' event\n      $subheader.trigger("opened", [$subheader]);\n    });\n  };\n\n  base.close = function($subheader) {\n    $subheader.removeClass("expanded");\n\n    // Trigger a \'closing\' event\n    $base.trigger("closing", [$subheader]);\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var openIcon = $subheader.attr("data-open-icon");\n      if(openIcon === undefined) {\n        openIcon = "add";\n      }\n      $icon.text(openIcon)\n    }\n\n    // Get all until next subheader\n    var rows = $subheader.parent().nextUntil("div");\n\n    // Invoke .hide and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.hide(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger a \'closed\' event\n      $subheader.trigger("closed", [$subheader]);\n    });\n  };\n\n  base.recalculate = function(fireEvents) {\n    if(fireEvents) {\n      $base.trigger("before-recalculate");\n    }\n\n    // Detect any new outer scrolls\n    base.detectOuterScrolls();\n\n    // Calculate any new heights\n    base.updateHeights();\n\n    var scrollTop = $table.scrollTop(),\n        outerScrollTop = base.getOuterScrollTop(),\n        fullWidth = base.$tableBody.outerWidth();\n\n    base.$stickies.each(function () {\n      var $this = $(this);\n\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n\n      // Calculate the new position\n      $.data(this, "pos", $this.offset().top + outerScrollTop + scrollTop + 1);\n\n      base.updateWidth($this, fullWidth - 2);\n    });\n\n    // By default this method will fire, even when bound\n    // to any particular jQuery event.\n    if(fireEvents) {\n      $base.trigger("after-recalculate");\n    }\n\n    base.scroll();\n  };\n\n  // Attempts to perform top scrolls using position: fixed since its the only\n  // way to retain flexible styling with high performance (on mobile, etc).\n  // This method has more overhead to ensure the subheader positions maintain \n  // within the boundries of the table (i.e. automatic edge clipping, etc), \n  // especially with multiple scrollable layers.\n  base.scroll = function (e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n\n        // Top variables\n        top = offset.top + base.options.marginTop,\n        scrollTop = $table.scrollTop() + base.getOuterScrollTop(),\n        winScrollTop = base.$window.scrollTop(),\n\n        // Left variables\n        left = offset.left + base.options.marginLeft,\n        scrollLeft = $table.scrollLeft(),\n        outerScrollLeft = base.getOuterScrollLeft();\n\n    base.$stickies.each(function (i) {\n      var $this = $(this),\n          forceXScroll = false;\n\n      if(!scroll || scroll.isY()) {\n        var $nextSticky = base.$stickies.eq(i + 1),\n            $prevSticky = base.$stickies.eq(i - 1),\n            pos = $.data(this, "pos");\n\n        // Y Axis Scrolling\n        if (pos <= scrollTop + top) {\n          base.emulateYScroll($this, top, winScrollTop, scrollTop);\n\n          if(!$this.hasClass("passed")) {\n            if(!$this.hasClass("fixed")) {\n              $this.addClass("fixed");\n\n              // Ensure the X scroll is performed when\n              // the Y scroll sticks a new subheader.\n              forceXScroll = scroll && !scroll.isX();\n            }\n\n            // Update the subheaders width\n            base.updateWidth($this, fullWidth);\n            \n            $prevSticky.css("display", "none");\n\n            // Try display the current sticky\n            $this.css({ "display": "" });\n\n            if ($nextSticky.length > 0 && scrollTop + top >= pos - $prevSticky.outerHeight()) {\n              $this.addClass("passed");\n            }\n          }\n        } else {\n          var width = $this.outerWidth();\n          $this.removeClass("fixed").removeAttr("style");\n          $this.width(width);\n\n          // Try display the previous sticky\n          $prevSticky.css({ "display": "" });\n\n          if ($prevSticky.length > 0 && scrollTop + top <= pos - $prevSticky.outerHeight()) {\n            $prevSticky.removeClass("passed");\n          }\n        }\n      }\n\n      // X Axis Scrolling\n      if(!scroll || scroll.isX() || forceXScroll) {\n        if($this.hasClass("fixed")) {\n          base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n        }\n      }\n    });\n\n    // Update passed subheaders top position.\n    base.$stickies.filter(".passed").each(function(i, el) {\n      var $this = $(this),\n          $nextSticky = base.$stickies.eq(i + 1);\n\n      var newTop = $.data($nextSticky[0], "pos") - scrollTop - $this.outerHeight() - winScrollTop;\n      $this.data("push-back", parseInt($this.css("top").replace("px", "") - newTop));\n      $this.css({ "top": newTop });\n\n      // TODO: Fix the clip issue\n      // base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n    });\n  };\n\n  base.emulateYScroll = function($sticky, top, winScrollTop, scrollTop, outerScroll) {\n    var height = $sticky.outerHeight() + 50,\n        totalTop = (outerScroll ? outerScroll : base.getOuterScrollTop()) - base.options.marginTop;\n\n    var topClip = totalTop + "px",\n        bottomClip = height + "px",\n        rightClip = $sticky.data("clip-right"),\n        leftClip = $sticky.data("clip-left");\n\n    // Handle the passed clipping\n    if($sticky.hasClass("passed")) {\n      var pushBack = $sticky.data("push-back");\n       topClip = (totalTop + pushBack) + "px";\n    }\n\n    // Update Y clipping data\n    $sticky.data("clip-top", topClip)\n           .data("clip-bottom", bottomClip);\n\n    $sticky.css({\n      "top": top - winScrollTop,\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  base.emulateXScroll = function($sticky, tableWidth, left, scrollLeft, outerScroll) {\n    var leftClip = (scrollLeft + (outerScroll ? outerScroll : base.getOuterScrollLeft())) + "px",\n        rightClip = (tableWidth + scrollLeft - base.scrollBarWidth) + "px",\n        topClip = $sticky.data("clip-top") || "auto",\n        bottomClip = $sticky.data("clip-bottom") || "auto";\n\n    // Update X clipping data\n    $sticky.data("clip-left", leftClip)\n           .data("clip-right", rightClip);\n\n    $sticky.css({\n      "left": left - scrollLeft - base.$window.scrollLeft(),\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  // Applies the alignment of all the outer scroll positions.\n  base.alignment = function(e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n        xScroll = !scroll || scroll.isX(),\n        yScroll = !scroll || scroll.isY(),\n\n        // Top variables\n        winScrollTop = (yScroll ? base.$window.scrollTop() : 0),\n        top = (yScroll ? offset.top + base.options.marginTop : 0),\n        scrollTop = (yScroll ? $table.scrollTop() + base.getOuterScrollTop() : 0),\n\n        // Left variables\n        left = (xScroll ? offset.left + base.options.marginLeft : 0),\n        scrollLeft = (xScroll ? $table.scrollLeft() : 0),\n        outerScrollLeft = (xScroll ? base.getOuterScrollLeft() : 0);\n\n    base.$stickies.filter(".fixed").each(function (i) {\n      var $this = $(this);\n\n      if(!scroll || scroll.isY()) {\n        var newTop = top;\n\n        // Calculate \'passed\' stickies position based on outer scrollTop\'s.\n        if($this.hasClass("passed")) {\n          var $nextSticky = base.$stickies.eq(i + 1);\n          newTop = $.data($nextSticky[0], \'pos\') - scrollTop - $this.outerHeight();\n        }\n\n        base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n\n        // When the scrollbar hides or displays\n        base.updateWidth($this, fullWidth);\n      }\n\n      if(xScroll) {\n        base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n      }\n    });\n  };\n\n  base.getOuterScrollTop = function() {\n    var scrollTop = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollTop += $(this).scrollTop();\n    });\n    return scrollTop;\n  };\n\n  base.getOuterScrollLeft = function() {\n    var scrollLeft = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollLeft += $(this).scrollLeft();\n    });\n    return scrollLeft;\n  };\n\n  base.updateCellWidths = function ($sticky) {\n    // Copy cell widths from header\n    var cellWidths = base.getCellWidths($("th,td", $("thead", $table)));\n    base.setCellWidths(cellWidths, $sticky);\n  };\n\n  base.setCellWidths = function (widths, $sticky) {\n    $sticky.find("th,td").each(function (index) {\n      var $this = $(this),\n          width = widths[index];\n\n      /*$this.css({\n        "min-width": width,\n        "max-width": width\n      });*/\n    });\n  };\n\n  base.getCellWidths = function ($headers) {\n    var widths = [];\n    $headers.each(function (index) {\n      var width, $this = $(this);\n\n      if ($this.css("box-sizing") === "border-box") {\n        // when border-box types are used\n        width = this.getBoundingClientRect().width;\n      } else {\n        var $origTh = $("th", base.$originalHeader);\n        if ($origTh.css("border-collapse") === "collapse") {\n          if (window.getComputedStyle) {\n            width = parseFloat(window.getComputedStyle(this, null).width);\n          } else {\n            // ie8 only\n            var leftPadding = parseFloat($this.css("padding-left"));\n            var rightPadding = parseFloat($this.css("padding-right"));\n            // Needs more investigation - this is assuming constant border \n            // around this cell and it\'s neighbours.\n            var border = parseFloat($this.css("border-width"));\n            width = $this.outerWidth() - leftPadding - rightPadding - border;\n          }\n        } else {\n          width = $this.width();\n        }\n      }\n\n      widths[index] = width;\n    });\n    return widths;\n  };\n\n  base.updateWidth = function($sticky, width) {\n    if(width) {\n      $sticky.width(width);\n    }\n\n    // Calculate new cell widths\n    base.updateCellWidths($sticky);\n  };\n\n  base.updateWidths = function() {\n    base.$stickies.each(function() {\n      base.updateWidth($(this));\n    });\n  };\n\n  base.updateHeights = function() {\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.parent().height($this.outerHeight());\n    });\n  };\n\n  base.setMarginTop = function(marginTop) {\n    base.options.marginTop = marginTop;\n  };\n\n  base.setMarginLeft = function(marginLeft) {\n    base.options.marginLeft = marginLeft;\n  };\n\n  base.isLoaded = function() {\n    return base.loaded;\n  };\n\n  base.getDebugInfo = function() {\n    return base.debug;\n  }\n}\n';
+  return returnTemp;
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1default_1InlineClientBundleGenerator$5_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_default_InlineClientBundleGenerator/5', 263);
@@ -14271,7 +14283,7 @@ function $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$st
 function $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer;
-  $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '112' , emptyMethod);
+  $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$tableSubHeadersInitializer = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '115' , emptyMethod);
   tableSubHeaders = ($location_0[stackIndex] = 'MaterialTableDebugBundle_default_InlineClientBundleGenerator.java:' + '101' , new MaterialTableDebugBundle_default_InlineClientBundleGenerator$5);
   $stackDepth_0 = stackIndex - 1;
 }
@@ -14279,7 +14291,7 @@ function $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$ta
 function MaterialTableDebugBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(264, 1, {520:1}, MaterialTableDebugBundle_en_InlineClientBundleGenerator);
+defineClass(264, 1, {522:1}, MaterialTableDebugBundle_en_InlineClientBundleGenerator);
 _.greedyScroll = function greedyScroll_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = greedyScroll_2;
@@ -14315,7 +14327,7 @@ _.style_2 = function style_3(){
 _.tableSubHeaders = function tableSubHeaders_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = tableSubHeaders_2;
-  returnTemp = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '121' , $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer() , ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '117' , tableSubHeaders_1));
+  returnTemp = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '124' , $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer() , ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '120' , tableSubHeaders_1));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -14337,7 +14349,7 @@ _.getText = function getText_16(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_16;
   $stackDepth_0 = stackIndex - 1;
-  return ';\n(function ($, window, undefined) {\n  "use strict";\n\n  var name = "greedyScroll",\n    id = 0,\n    defaults = {\n      topScrollOnFocus: true,\n      topScrollMargin: 3\n    };\n\n  function Plugin(el, options) {\n    // To avoid scope issues, use "base" instead of "this"\n    // to reference this class from internal events and functions.\n    var base = this;\n\n    // Access to jQuery and DOM versions of element\n    base.$el = $(el);\n    base.el = el;\n    base.id = id++;\n\n    base.$window = $(window);\n    base.$body = $("body");\n    base.locked = [];\n\n    // Listen for destroyed, call teardown\n    base.$el.bind("destroyed", $.proxy(base.teardown, base));\n\n    base.init = function () {\n      base.options = $.extend({}, defaults, options);\n\n      base.$el.attr("tabindex", 0);\n\n      base.bind();\n    };\n\n    base.destroy = function () {\n      base.$el.unbind("destroyed", base.teardown);\n      base.teardown();\n    };\n\n    base.teardown = function () {\n      $.removeData(base.el, "plugin_" + name);\n      base.unbind();\n\n      base.el = null;\n      base.$el = null;\n    };\n\n    base.bind = function () {\n      base.$el\n        .on("focus." + name, base.lockParents)\n        .on("blur." + name, base.unlockParents)\n        .on("scroll." + name, $.throttle(100, base.scroll));\n    };\n\n    base.unbind = function () {\n      base.$el.off("." + name);\n    };\n\n    base.scroll = function(e) {\n      var $this = $(this);\n\n      if(!$this.isScrollEnd() && !$this.isScrollStart()) {\n        base.lockParents();\n      } else if(!$this.is(":focus")) {\n        base.unlockParents();\n      }\n    };\n\n    base.lockParents = function() {\n      // Ensure we are at the top of the panel\n      if(base.options.topScrollOnFocus) {\n        var top = base.$el.offset().top,\n            scrollTop = base.$body.scrollTop();\n\n        if(scrollTop > top) {\n          base.$body.scrollTop(top - base.options.topScrollMargin);\n        }\n      }\n\n      base.$body.addClass("overflow-hidden");\n\n      $(this).parents().each(function(i) {\n        var $this = $(this);\n\n        if($this.hasScrollBar()) {\n          base.locked[i] = $this;\n          $this.addClass("overflow-hidden");\n        }\n      });\n    };\n\n    base.unlockParents = function() {\n      base.$body.removeClass("overflow-hidden");\n\n      for(var i in base.locked) {\n        base.locked[i].removeClass("overflow-hidden");\n      }\n    };\n\n    // Run initializer\n    base.init();\n  }\n\n  // A plugin wrapper around the constructor,\n  // preventing against multiple instantiations\n  $.fn[name] = function (options) {\n    return this.each(function () {\n      var instance = $.data(this, "plugin_" + name);\n      if (instance) {\n        if (typeof options === "string") {\n          instance[options].apply(instance);\n        } else {\n          instance.updateOptions(options);\n        }\n      } else if (options !== "destroy") {\n        $.data(this, "plugin_" + name, new Plugin(this, options));\n      }\n    });\n  };\n\n})(jQuery, window);\n';
+  return '/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/**\n * @author Ben Dol\n */\n;\n(function ($, window, undefined) {\n  "use strict";\n\n  var name = "greedyScroll",\n    id = 0,\n    defaults = {\n      topScrollOnFocus: true,\n      topScrollMargin: 3\n    };\n\n  function Plugin(el, options) {\n    // To avoid scope issues, use "base" instead of "this"\n    // to reference this class from internal events and functions.\n    var base = this;\n\n    // Access to jQuery and DOM versions of element\n    base.$el = $(el);\n    base.el = el;\n    base.id = id++;\n\n    base.$window = $(window);\n    base.$body = $("body");\n    base.locked = [];\n\n    // Listen for destroyed, call teardown\n    base.$el.bind("destroyed", $.proxy(base.teardown, base));\n\n    base.init = function () {\n      base.options = $.extend({}, defaults, options);\n\n      base.$el.attr("tabindex", 0);\n\n      base.bind();\n    };\n\n    base.destroy = function () {\n      base.$el.unbind("destroyed", base.teardown);\n      base.teardown();\n    };\n\n    base.teardown = function () {\n      $.removeData(base.el, "plugin_" + name);\n      base.unbind();\n\n      base.el = null;\n      base.$el = null;\n    };\n\n    base.bind = function () {\n      base.$el\n        .on("focus." + name, base.lockParents)\n        .on("blur." + name, base.unlockParents)\n        .on("scroll." + name, $.throttle(100, base.scroll));\n    };\n\n    base.unbind = function () {\n      base.$el.off("." + name);\n    };\n\n    base.scroll = function(e) {\n      var $this = $(this);\n\n      if(!$this.isScrollEnd() && !$this.isScrollStart()) {\n        base.lockParents();\n      } else if(!$this.is(":focus")) {\n        base.unlockParents();\n      }\n    };\n\n    base.lockParents = function() {\n      // Ensure we are at the top of the panel\n      if(base.options.topScrollOnFocus) {\n        var top = base.$el.offset().top,\n            scrollTop = base.$body.scrollTop();\n\n        if(scrollTop > top) {\n          base.$body.scrollTop(top - base.options.topScrollMargin);\n        }\n      }\n\n      base.$body.addClass("overflow-hidden");\n\n      $(this).parents().each(function(i) {\n        var $this = $(this);\n\n        if($this.hasScrollBar()) {\n          base.locked[i] = $this;\n          $this.addClass("overflow-hidden");\n        }\n      });\n    };\n\n    base.unlockParents = function() {\n      base.$body.removeClass("overflow-hidden");\n\n      for(var i in base.locked) {\n        base.locked[i].removeClass("overflow-hidden");\n      }\n    };\n\n    // Run initializer\n    base.init();\n  }\n\n  // A plugin wrapper around the constructor,\n  // preventing against multiple instantiations\n  $.fn[name] = function (options) {\n    return this.each(function () {\n      var instance = $.data(this, "plugin_" + name);\n      if (instance) {\n        if (typeof options === "string") {\n          instance[options].apply(instance);\n        } else {\n          instance.updateOptions(options);\n        }\n      } else if (options !== "destroy") {\n        $.data(this, "plugin_" + name, new Plugin(this, options));\n      }\n    });\n  };\n\n})(jQuery, window);\n';
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_en_InlineClientBundleGenerator/1', 265);
@@ -14356,7 +14368,7 @@ _.getText = function getText_17(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_17;
   $stackDepth_0 = stackIndex - 1;
-  return '/*\n * jQuery throttle / debounce - v1.1 - 3/7/2010\n * http://benalman.com/projects/jquery-throttle-debounce-plugin/\n * \n * Copyright (c) 2010 "Cowboy" Ben Alman\n * Dual licensed under the MIT and GPL licenses.\n * http://benalman.com/about/license/\n */\n(function(b,c){var $=b.jQuery||b.Cowboy||(b.Cowboy={}),a;$.throttle=a=function(e,f,j,i){var h,d=0;if(typeof f!=="boolean"){i=j;j=f;f=c}function g(){var o=this,m=+new Date()-d,n=arguments;function l(){d=+new Date();j.apply(o,n)}function k(){h=c}if(i&&!h){l()}h&&clearTimeout(h);if(i===c&&m>e){l()}else{if(f!==true){h=setTimeout(i?k:l,i===c?e-m:e)}}}if($.guid){g.guid=j.guid=j.guid||$.guid++}return g};$.debounce=function(d,e,f){return f===c?a(d,e,false):a(d,f,e!==false)}})(this);\n\n/*\n * jQuery Extension Library v1.0\n */\n(function($) {\n  $.fn.insertAt = function(index, element) {\n    var lastIndex = this.children().size();\n    if (index < 0) {\n      index = Math.max(0, lastIndex + 1 + index)\n    }\n    this.append(element);\n    if (index < lastIndex) {\n      this.children().eq(index).before(this.children().last())\n    }\n    return this;\n  };\n\n  $.fn.longpress = function(longCallback, shortCallback, duration) {\n    if (typeof duration === "undefined") {\n      duration = 500;\n    }\n\n    return this.each(function() {\n      var $this = $(this);\n\n      // to keep track of how long something was pressed\n      var mouse_down_time;\n      var timeout;\n\n      // mousedown or touchstart callback\n      function mousedown_callback(e) {\n        mouse_down_time = new Date().getTime();\n        var context = $(this);\n\n        // set a timeout to call the longpress callback when time elapses\n        timeout = setTimeout(function() {\n          if (typeof longCallback === "function") {\n            longCallback.call(context, e);\n          } else {\n            $.error(\'Callback required for long press. You provided: \' + typeof longCallback);\n          }\n        }, duration);\n      }\n\n      // mouseup or touchend callback\n      function mouseup_callback(e) {\n        var press_time = new Date().getTime() - mouse_down_time;\n        if (press_time < duration) {\n          // cancel the timeout\n          clearTimeout(timeout);\n\n          // call the shortCallback if provided\n          if (typeof shortCallback === "function") {\n            shortCallback.call($(this), e);\n          } else if (typeof shortCallback === "undefined") {\n            ;\n          } else {\n            $.error(\'Optional callback for short press should be a function.\');\n          }\n        }\n      }\n\n      // cancel long press event if the finger or mouse was moved\n      function move_callback(e) {\n        clearTimeout(timeout);\n      }\n\n      // Browser Support\n      $this.on(\'mousedown\', mousedown_callback);\n      $this.on(\'mouseup\', mouseup_callback);\n      $this.on(\'mousemove\', move_callback);\n\n      // Mobile Support\n      $this.on(\'touchstart\', mousedown_callback);\n      $this.on(\'touchend\', mouseup_callback);\n      $this.on(\'touchmove\', move_callback);\n      return this;\n    });\n  };\n\n  $.fn.hasVerticalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollHeight > this.innerHeight() : false;\n  };\n\n  $.fn.hasHorizontalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollWidth > this.innerWidth() : false;\n  };\n\n  $.fn.hasScrollBar = function() {\n    return this.hasVerticalScrollBar() || this.hasHorizontalScrollBar();\n  };\n\n  $.scrollBarWidth = function() {\n    var inner = document.createElement("p");\n    inner.style.width = "100%";\n    inner.style.height = "200px";\n  \n    var outer = document.createElement("div");\n    outer.style.position = "absolute";\n    outer.style.top = "0px";\n    outer.style.left = "0px";\n    outer.style.visibility = "hidden";\n    outer.style.width = "200px";\n    outer.style.height = "150px";\n    outer.style.overflow = "hidden";\n    outer.appendChild(inner);\n  \n    document.body.appendChild(outer);\n    var w1 = inner.offsetWidth;\n    outer.style.overflow = "scroll";\n    var w2 = inner.offsetWidth;\n    if (w1 == w2) w2 = outer.clientWidth;\n  \n    document.body.removeChild(outer);\n  \n    return (w1 - w2);\n  };\n\n  $.fn.isScrollEnd = function() {\n    return this.scrollTop() >= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.isScrollStart = function() {\n    return this.scrollTop() <= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.scrollHandler = function(dir, name, handler) {\n    var base = this;\n    var lastScroll = { x: 0, y: 0 };\n    return base.on("scroll." + name, function(e) {\n      var $this = $(this),\n          scrollTop = $this.scrollTop(),\n          scrollLeft = $this.scrollLeft();\n\n      var scroll = {\n            dirs: [], \n            isUp: function() { return $.inArray("up", this.dirs) > -1; },\n            isDown: function() { return $.inArray("down", this.dirs) > -1; },\n            isLeft: function() { return $.inArray("left", this.dirs) > -1; },\n            isRight: function() { return $.inArray("right", this.dirs) > -1; },\n            isX: function() { return this.isLeft() || this.isRight(); },\n            isY: function() { return this.isUp() || this.isDown(); }\n          }, \n          index = 0;\n      if(lastScroll.y > scrollTop) {\n        scroll.dirs[index++] = "up";\n      } else if(lastScroll.y != scrollTop) {\n        scroll.dirs[index++] = "down";\n      }\n\n      if(lastScroll.x > scrollLeft) {\n        scroll.dirs[index++] = "left";\n      } else if(lastScroll.x != scrollLeft) {\n        scroll.dirs[index++] = "right";\n      }\n\n      if(dir) {\n        if($.isArray(dir)) {\n          for(var d in scroll.dirs) {\n            if($.inArray(scroll.dirs[d], dir) > -1) {\n              handler(e, scroll);\n              break; // Found at least one match\n            }\n          }\n        } else if(dir == "any" || $.inArray(dir, scroll.dirs) > -1) {\n          handler(e, scroll);\n        }\n      } else {\n        handler(e, scroll);\n      }\n\n      lastScroll = { x: scrollLeft,  y: scrollTop };\n    });\n  };\n\n  $.fn.smartScroll = function(name, handler) {\n    return this.scrollHandler("any", name, handler);\n  };\n\n  $.fn.scrollY = function(name, handler) {\n    return this.scrollHandler(["up", "down"], name, handler);\n  };\n\n  $.fn.scrollX = function(name, handler) {\n    return this.scrollHandler(["left", "right"], name, handler);\n  };\n\n  $.fn.onScrollUp = function(name, handler) {\n    return this.scrollHandler("up", name, handler);\n  };\n\n  $.fn.onScrollDown = function(name, handler) {\n    return this.scrollHandler("down", name, handler);\n  };\n\n  $.fn.onScrollLeft = function(name, handler) {\n    return this.scrollHandler("left", name, handler);\n  };\n\n  $.fn.onScrollRight = function(name, handler) {\n    return this.scrollHandler("right", name, handler);\n  };\n})(jQuery);';
+  return '/*\n * jQuery throttle / debounce - v1.1 - 3/7/2010\n * http://benalman.com/projects/jquery-throttle-debounce-plugin/\n * \n * Copyright (c) 2010 "Cowboy" Ben Alman\n * Dual licensed under the MIT and GPL licenses.\n * http://benalman.com/about/license/\n */\n(function(b,c){var $=b.jQuery||b.Cowboy||(b.Cowboy={}),a;$.throttle=a=function(e,f,j,i){var h,d=0;if(typeof f!=="boolean"){i=j;j=f;f=c}function g(){var o=this,m=+new Date()-d,n=arguments;function l(){d=+new Date();j.apply(o,n)}function k(){h=c}if(i&&!h){l()}h&&clearTimeout(h);if(i===c&&m>e){l()}else{if(f!==true){h=setTimeout(i?k:l,i===c?e-m:e)}}}if($.guid){g.guid=j.guid=j.guid||$.guid++}return g};$.debounce=function(d,e,f){return f===c?a(d,e,false):a(d,f,e!==false)}})(this);\n\n/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/*\n * jQuery Extension Library v1.0\n *\n * @author Ben Dol\n */\n(function($) {\n  $.fn.insertAt = function(index, element) {\n    var lastIndex = this.children().size();\n    if (index < 0) {\n      index = Math.max(0, lastIndex + 1 + index)\n    }\n    this.append(element);\n    if (index < lastIndex) {\n      this.children().eq(index).before(this.children().last())\n    }\n    return this;\n  };\n\n  $.fn.longpress = function(longCallback, shortCallback, duration) {\n    if (typeof duration === "undefined") {\n      duration = 500;\n    }\n\n    return this.each(function() {\n      var $this = $(this);\n\n      // to keep track of how long something was pressed\n      var mouse_down_time;\n      var timeout;\n\n      // mousedown or touchstart callback\n      function mousedown_callback(e) {\n        mouse_down_time = new Date().getTime();\n        var context = $(this);\n\n        // set a timeout to call the longpress callback when time elapses\n        timeout = setTimeout(function() {\n          if (typeof longCallback === "function") {\n            longCallback.call(context, e);\n          } else {\n            $.error(\'Callback required for long press. You provided: \' + typeof longCallback);\n          }\n        }, duration);\n      }\n\n      // mouseup or touchend callback\n      function mouseup_callback(e) {\n        var press_time = new Date().getTime() - mouse_down_time;\n        if (press_time < duration) {\n          // cancel the timeout\n          clearTimeout(timeout);\n\n          // call the shortCallback if provided\n          if (typeof shortCallback === "function") {\n            shortCallback.call($(this), e);\n          } else if (typeof shortCallback === "undefined") {\n            ;\n          } else {\n            $.error(\'Optional callback for short press should be a function.\');\n          }\n        }\n      }\n\n      // cancel long press event if the finger or mouse was moved\n      function move_callback(e) {\n        clearTimeout(timeout);\n      }\n\n      // Browser Support\n      $this.on(\'mousedown\', mousedown_callback);\n      $this.on(\'mouseup\', mouseup_callback);\n      $this.on(\'mousemove\', move_callback);\n\n      // Mobile Support\n      $this.on(\'touchstart\', mousedown_callback);\n      $this.on(\'touchend\', mouseup_callback);\n      $this.on(\'touchmove\', move_callback);\n      return this;\n    });\n  };\n\n  $.fn.hasVerticalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollHeight > this.innerHeight() : false;\n  };\n\n  $.fn.hasHorizontalScrollBar = function() {\n    return this.get(0) ? this.get(0).scrollWidth > this.innerWidth() : false;\n  };\n\n  $.fn.hasScrollBar = function() {\n    return this.hasVerticalScrollBar() || this.hasHorizontalScrollBar();\n  };\n\n  $.scrollBarWidth = function() {\n    var inner = document.createElement("p");\n    inner.style.width = "100%";\n    inner.style.height = "200px";\n  \n    var outer = document.createElement("div");\n    outer.style.position = "absolute";\n    outer.style.top = "0px";\n    outer.style.left = "0px";\n    outer.style.visibility = "hidden";\n    outer.style.width = "200px";\n    outer.style.height = "150px";\n    outer.style.overflow = "hidden";\n    outer.appendChild(inner);\n  \n    document.body.appendChild(outer);\n    var w1 = inner.offsetWidth;\n    outer.style.overflow = "scroll";\n    var w2 = inner.offsetWidth;\n    if (w1 == w2) w2 = outer.clientWidth;\n  \n    document.body.removeChild(outer);\n  \n    return (w1 - w2);\n  };\n\n  $.fn.isScrollEnd = function() {\n    return this.scrollTop() >= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.isScrollStart = function() {\n    return this.scrollTop() <= this[0].scrollHeight - this.outerHeight();\n  };\n\n  $.fn.scrollHandler = function(dir, name, handler) {\n    var base = this;\n    var lastScroll = { x: 0, y: 0 };\n    return base.on("scroll." + name, function(e) {\n      var $this = $(this),\n          scrollTop = $this.scrollTop(),\n          scrollLeft = $this.scrollLeft();\n\n      var scroll = {\n            dirs: [], \n            isUp: function() { return $.inArray("up", this.dirs) > -1; },\n            isDown: function() { return $.inArray("down", this.dirs) > -1; },\n            isLeft: function() { return $.inArray("left", this.dirs) > -1; },\n            isRight: function() { return $.inArray("right", this.dirs) > -1; },\n            isX: function() { return this.isLeft() || this.isRight(); },\n            isY: function() { return this.isUp() || this.isDown(); }\n          }, \n          index = 0;\n      if(lastScroll.y > scrollTop) {\n        scroll.dirs[index++] = "up";\n      } else if(lastScroll.y != scrollTop) {\n        scroll.dirs[index++] = "down";\n      }\n\n      if(lastScroll.x > scrollLeft) {\n        scroll.dirs[index++] = "left";\n      } else if(lastScroll.x != scrollLeft) {\n        scroll.dirs[index++] = "right";\n      }\n\n      if(dir) {\n        if($.isArray(dir)) {\n          for(var d in scroll.dirs) {\n            if($.inArray(scroll.dirs[d], dir) > -1) {\n              handler(e, scroll);\n              break; // Found at least one match\n            }\n          }\n        } else if(dir == "any" || $.inArray(dir, scroll.dirs) > -1) {\n          handler(e, scroll);\n        }\n      } else {\n        handler(e, scroll);\n      }\n\n      lastScroll = { x: scrollLeft,  y: scrollTop };\n    });\n  };\n\n  $.fn.smartScroll = function(name, handler) {\n    return this.scrollHandler("any", name, handler);\n  };\n\n  $.fn.scrollY = function(name, handler) {\n    return this.scrollHandler(["up", "down"], name, handler);\n  };\n\n  $.fn.scrollX = function(name, handler) {\n    return this.scrollHandler(["left", "right"], name, handler);\n  };\n\n  $.fn.onScrollUp = function(name, handler) {\n    return this.scrollHandler("up", name, handler);\n  };\n\n  $.fn.onScrollDown = function(name, handler) {\n    return this.scrollHandler("down", name, handler);\n  };\n\n  $.fn.onScrollLeft = function(name, handler) {\n    return this.scrollHandler("left", name, handler);\n  };\n\n  $.fn.onScrollRight = function(name, handler) {\n    return this.scrollHandler("right", name, handler);\n  };\n})(jQuery);';
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_en_InlineClientBundleGenerator/2', 266);
@@ -14410,10 +14422,14 @@ _.getName = function getName_20(){
 }
 ;
 _.getText = function getText_20(){
-  var stackIndex;
+  var builder, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_20;
+  builder = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '104' , new StringBuilder);
+  $location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '105' , builder).string += '/*\n * #%L\n * GwtMaterialDesign\n * %%\n * Copyright (C) 2015 GwtMaterial\n * %%\n * Licensed under the Apache License, Version 2.0 (the "License");\n * you may not use this file except in compliance with the License.\n * You may obtain a copy of the License at\n *\n *      http://www.apache.org/licenses/LICENSE-2.0\n *\n * Unless required by applicable law or agreed to in writing, software\n * distributed under the License is distributed on an "AS IS" BASIS,\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n * See the License for the specific language governing permissions and\n * limitations under the License.\n * #L%\n */\n\n/**\n * @author Ben Dol\n */\nTableSubHeaders.id = 0;\n\nTableSubHeaders.newInstance = function($table, $stickies) {\n  return new TableSubHeaders($table, $stickies);\n};\n\nfunction TableSubHeaders($table, $stickies) {\n  TableSubHeaders.id++;\n\n  // To avoid scope issues, use "base" instead of "this"\n  // to reference this class from internal events and functions.\n  var base = this,\n      $base = $(base);\n\n  base.name = "subheaders" + TableSubHeaders.id;\n  base.$window = $(window);\n  base.$document = $(document);\n  base.$tableBody = $table.find("tbody");\n  base.$tableParents = $table.parents();\n  base.$stickies = null;\n  base.options = [];\n  base.cache = [];\n\n  base.loaded = false;\n  base.scrollBarWidth = 13;\n  base.debug = {\n    enabled: true,\n    smartScroll: { table: 0, window: 0, outer: 0 },\n    touchmove: { table: 0, window: 0, outer: 0 },\n    resize: { table: 0, window: 0 }\n  };\n\n  var defaults = {\n    marginTop: 0,\n    marginLeft: 0,\n    scrollThrottle: 20,\n    resizeThrottle: 100\n  };\n\n  base.load = function (opts) {\n    base.options = $.extend({}, defaults, opts);\n\n    // Calculate scrollbar width\n    base.scrollBarWidth = $.scrollBarWidth();\n\n    base.bind();\n    base.detect();\n\n    base.recalculate(true);\n    base.loaded = true;\n  };\n\n  base.unload = function () {\n    base.options = [];\n\n    base.unbind();\n\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n      $this.unwrap();\n      $table.scrollTop(0);\n    });\n\n    base.loaded = false;\n  };\n\n  base.reload = function () {\n    base.unload();\n    base.load();\n  };\n\n  base.detect = function () {\n    base.$stickies = $($stickies, $table);\n\n    // Bind toggle click\n    base.$stickies.off("." + base.name);\n    base.$stickies.on("tap."+base.name+" click."+base.name, function(e) {\n      base.toggle($(this));\n    });\n\n    var filtered = $($stickies, $table).filter(function() {\n      return $(this).parent().is(":not(div)");\n    });\n\n    filtered.each(function () {\n      $(this).wrap("<div style=\'width:100%;z-index:2;cursor:pointer;background-color:#fff;\'/>");\n    });\n  };\n\n  base.bind = function () {\n    base.unbind();\n\n    var scrollThrottle = base.options.scrollThrottle,\n        resizeThrottle = base.options.resizeThrottle;\n\n    $table.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.table++;\n      base.scroll(e, scroll);\n    }));\n    // $table.on("touchmove." + base.name, $.throttle(scrollThrottle, function(e, scroll) {\n    //   if(base.debug.enabled) base.debug.touchmove.table++;\n    //   base.scroll(e, scroll);\n    // }));\n    $table.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.resize.table++;\n      base.recalculate(true);\n    }));\n\n    base.$window.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.window++;\n      base.alignment(e, scroll);\n    }));\n    // base.$window.on("touchmove." + base.name, $.throttle(scrollThrottle, function() {\n    //   if(base.debug.enabled) base.debug.touchmove.window++;\n    //   base.alignment();\n    // }));\n    base.$window.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.debug.resize.window++;\n      base.recalculate(true);\n    }));\n\n    base.detectOuterScrolls();\n  };\n\n  base.unbind = function () {\n    $table.off("." + base.name);\n    base.$window.off("." + base.name);\n\n    // Unbind sticky events\n    if(base.$stickies) {\n      base.$stickies.off("." + base.name);\n    }\n\n    // Unbind \'scroll\' on parent elements that have a scroll bar.\n    base.$tableParents.each(function(index, el) {\n      $(this).off("." + base.name);\n    });\n  };\n\n  base.detectOuterScrolls = function() {\n    var scrollThrottle = base.options.scrollThrottle;\n\n    base.$tableParents.off("." + base.name);\n\n    // Bind parent elements that have a scroll bar.\n    base.$tableParents.filter(function() {\n      return $(this).hasScrollBar();\n    }).smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.outer++;\n      base.alignment(e, scroll);\n    }));\n  };\n\n  base.toggle = function($subheader) {\n    if($subheader.hasClass("expanded")) {\n      base.close($subheader);\n    } else {\n      base.open($subheader);\n    }\n  };\n\n  base.open = function($subheader) {\n    $subheader.addClass("expanded");\n\n    // Trigger an \'opening\' event\n    $base.trigger("opening", [$subheader]);\n\n    // Get all until next subheader\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var closeIcon = $subheader.attr("data-close-icon");\n      if(closeIcon === undefined) {\n        closeIcon = "remove";\n      }\n      $icon.text(closeIcon);\n    }\n\n    var parent = $subheader.parent();\n    // Get rows by \'tr\' rather than \'tr.data-row\' since\n    // expansion content should be touched also.\n    var rows = parent.nextUntil("div", "tr");\n\n    // Invoke .show and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.show(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger an \'opened\' event\n      $subheader.trigger("opened", [$subheader]);\n    });\n  };\n\n  base.close = function($subheader) {\n    $subheader.removeClass("expanded");\n\n    // Trigger a \'closing\' event\n    $base.trigger("closing", [$subheader]);\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var openIcon = $subheader.attr("data-open-icon");\n      if(openIcon === undefined) {\n        openIcon = "add";\n      }\n      $icon.text(openIcon)\n    }\n\n    // Get all until next subheader\n    var rows = $subheader.parent().nextUntil("div");\n\n    // Invoke .hide and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.hide(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger a \'closed\' event\n      $subheader.trigger("closed", [$subheader]);\n    });\n  };\n\n  base.recalculate = function(fireEvents) {\n    if(fireEvents) {\n      $base.trigger("before-recalculate");\n    }\n\n    // Detect any new outer scrolls\n    base.detectOuterScrolls();\n\n    // Calculate any new heights\n    base.updateHeights();\n\n    var scrollTop = $table.scrollTop(),\n        outerScrollTop = base.getOuterScrollTop(),\n        fullWidth = base.$tableBody.outerWidth();\n\n    base.$stickies.each(function () {\n      var $this = $(this);\n\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n\n      // Calculate the new position\n      $.data(this, "pos", $this.offset().top + outerScrollTop + scrollTop + 1);\n\n      base.updateWidth($this, fullWidth - 2);\n    });\n\n    // By default this method will fire, even when bound\n    // to any particular jQuery event.\n    if(fireEvents) {\n      $base.trigger("after-recalculate");\n    }\n\n    base.scroll();\n  };\n\n  // Attempts to perform top scrolls using position: fixed since its the only\n  // way to retain flexible styling with high performance (on mobile, etc).\n  // This method has more overhead to ensure the subheader positions maintain \n  // within the boundries of the table (i.e. automatic edge clipping, etc), \n  // especially with multiple scrollable layers.\n  base.scroll = function (e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n\n        // Top variables\n        top = offset.top + base.options.marginTop,\n        scrollTop = $table.scrollTop() + base.getOuterScrollTop(),\n        winScrollTop = base.$window.scrollTop(),\n\n        // Left variables\n        left = offset.left + base.options.marginLeft,\n        scrollLeft = $table.scrollLeft(),\n        outerScrollLeft = base.getOuterScrollLeft();\n\n    base.$stickies.each(function (i) {\n      var $this = $(this),\n          forceXScroll = false;\n\n      if(!scroll || scroll.isY()) {\n        var $nextSticky = base.$stickies.eq(i + 1),\n            $prevSticky = base.$stickies.eq(i - 1),\n            pos = $.data(this, "pos");\n\n        // Y Axis Scrolling\n        if (pos <= scrollTop + top) {\n          base.emulateYScroll($this, top, winScrollTop, scrollTop);\n\n          if(!$this.hasClass("passed")) {\n            if(!$this.hasClass("fixed")) {\n              $this.addClass("fixed");\n\n              // Ensure the X scroll is performed when\n              // the Y scroll sticks a new subheader.\n              forceXScroll = scroll && !scroll.isX();\n            }\n\n            // Update the subheaders width\n            base.updateWidth($this, fullWidth);\n            \n            $prevSticky.css("display", "none");\n\n            // Try display the current sticky\n            $this.css({ "display": "" });\n\n            if ($nextSticky.length > 0 && scrollTop + top >= pos - $prevSticky.outerHeight()) {\n              $this.addClass("passed");\n            }\n          }\n        } else {\n          var width = $this.outerWidth();\n          $this.removeClass("fixed").removeAttr("style");\n          $this.width(width);\n\n          // Try display the previous sticky\n          $prevSticky.css({ "display": "" });\n\n          if ($prevSticky.length > 0 && scrollTop + top <= pos - $prevSticky.outerHeight()) {\n            $prevSticky.removeClass("passed");\n          }\n        }\n      }\n\n      // X Axis Scrolling\n      if(!scroll || scroll.isX() || forceXScroll) {\n        if($this.hasClass("fixed")) {\n          base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n        }\n      }\n    });\n\n    // Update passed subheaders top position.\n    base.$stickies.filter(".passed").each(function(i, el) {\n      var $this = $(this),\n          $nextSticky = base.$stickies.eq(i + 1);\n\n      var newTop = $.data($nextSticky[0], "pos") - scrollTop - $this.outerHeight() - winScrollTop;\n      $this.data("push-back", parseInt($this.css("top").replace("px", "") - newTop));\n      $this.css({ "top": newTop });\n\n      // TODO: Fix the clip issue\n      // base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n    });\n  };\n\n  base.emulateYScroll = function($sticky, top, winScrollTop, scrollTop, outerScroll) {\n    var height = $sticky.outerHeight() + 50,\n        totalTop = (outerScroll ? outerScroll : base.getOuterScrollTop()) - base.options.marginTop;\n\n    var topClip = totalTop + "px",\n        bottomClip = height + "px",\n        rightClip = $sticky.data("clip-right"),\n        leftClip = $sticky.data("clip-left");\n\n    // Handle the passed clipping\n    if($sticky.hasClass("passed")) {\n      var pushBack = $sticky.data("push-back");\n       topClip = (totalTop + pushBack) + "px";\n    }\n\n    // Update Y clipping data\n    $sticky.data("clip-top", topClip)\n           .data("clip-bottom", bottomClip);\n\n    $sticky.css({\n      "top": top - winScrollTop,\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  base.emulateXScroll = function($sticky, tableWidth, left, scrollLeft, outerScroll) {\n    var leftClip = (scrollLeft + (outerScroll ? outerScroll : base.getOuterScrollLeft())) + "px",\n        rightClip = (tableWidth + scrollLeft - base.scrollBarWidth) + "px",\n        topClip = $sticky.data("clip-top") || "auto",\n        bottomClip = $sticky.data("clip-bottom") || "auto";\n\n    // Update X clipping data\n    $sticky.data("clip-left", leftClip)\n           .data("clip-right", rightClip);\n\n    $sticky.css({\n      "left": left - scrollLeft - base.$window.scrollLeft(),\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  // Applies the alignment of all the outer scroll positions.\n  base.alignment = function(e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n        xScroll = !scroll || scroll.isX(),\n        yScroll = !scroll || scroll.isY(),\n\n        // Top variables\n        winScrollTop = (yScroll ? base.$window.scrollTop() : 0),\n        top = (yScroll ? offset.top + base.options.marginTop : 0),\n        scrollTop = (yScroll ? $table.scrollTop() + base.getOuterScrollTop() : 0),\n\n        // Left variables\n        left = (xScroll ? offset.left + base.options.marginLeft : 0),\n        scrollLeft = (xScroll ? $table.scrollLeft() : 0),\n        outerScrollLeft = (xScroll ? base.getOuterScrollLeft() : 0);\n\n    base.$stickies.filter(".fixed").each(function (i) {\n      var $this = $(this);\n\n      if(!scroll || scroll.isY()) {\n        var newTop = top;\n\n        // Calculate \'passed\' stickies position based on outer scrollTop\'s.\n        if($this.hasClass("passed")) {\n          var $nextSticky = base.$stickies.eq(i + 1);\n          newTop = $.data($nextSticky[0], \'pos\') - scrollTop - $this.outerHeight();\n        }\n\n        base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n\n        // When the scrollbar hides or displays\n        base.updateWidth($this, fullWidth);\n      }\n\n      if(xScroll) {\n        base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n      }\n    });\n  };\n\n  base.getOuterScrollTop = function() {\n    var scrollTop = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollTop += $(this).scrollTop();\n    });\n    return scrollTop;\n  };\n\n  base.getOuterScrollLeft = function() {\n    var scrollLeft = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollLeft += $(this).scrollLeft();\n    });\n    return scrollLeft;\n  };\n\n  base.updateCellWidths = function ($sticky) {\n    // Copy cell widths from header\n    var cellWidths = base.getCellWidths($("th,td", $("thead", $table)));\n    base.setCellWidths(cellWidths, $sticky);\n  };\n\n  base.setCellWidths = function (widths, $sticky) {\n    $sticky.find("th,td").each(function (index) {\n      var $this = $(this),\n          width = widths[index];\n\n      /*$this.css({\n        "min-width": width,\n        "max-width": width\n      });*/\n    });\n  };\n\n  base.getCellWidths = function ($headers) {\n    var widths = [];\n    $headers.each(function (index) {\n      var width, $this = $(this);\n\n      if ($this.css("box-sizing") === "border-box") {\n        // when border-box types are used\n        width = this.getBoundingClientRect().width;\n      } else {\n        var $origTh = $("th", base.$originalHeader);\n        if ($origTh.css("border-collapse") === "collapse") {\n          if (window.getComputedStyle) {\n            width = parseFloat(window.getComputedStyle(this, null).width);\n          } else {\n            // ie8 only\n            var leftPadding = parseFloat($this.css("padding-left"));\n            var rightPadding = parseFloat($this.css("padding-right"));\n            // Needs more investigation - this is assuming constant border \n            // around this cell and it\'s neighbours.\n            var border = parseFloat($this.css("border-width"));\n            width = $this.outerWidth() - leftPadding - rightPadding - border;\n          }\n        } else {\n          width = $this.width();\n        }\n      }\n\n      widths[index] = width;\n    });\n    return widths;\n  };\n\n  base.updateWidth = function($sticky, width) {\n    if(width) {\n      $sticky.width(width);\n    }\n\n    // Calculate new cell widths\n    base.updateCellWidths($sticky);\n  };\n\n  base.updateWidths = function() {\n    base.$stickies.each(function() {\n      base.updateWidth($(this));\n    });\n  };\n\n  base.updateHeights = function() {\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.parent().height($this.outerHeight());\n    });';
+  $location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '106' , builder).string += '\n  };\n\n  base.setMarginTop = function(marginTop) {\n    base.options.marginTop = marginTop;\n  };\n\n  base.setMarginLeft = function(marginLeft) {\n    base.options.marginLeft = marginLeft;\n  };\n\n  base.isLoaded = function() {\n    return base.loaded;\n  };\n\n  base.getDebugInfo = function() {\n    return base.debug;\n  }\n}\n';
+  returnTemp = ($location_0[stackIndex] = 'AbstractStringBuilder.java:' + '108' , ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '107' , builder).string);
   $stackDepth_0 = stackIndex - 1;
-  return 'TableSubHeaders.id = 0;\n\nTableSubHeaders.newInstance = function($table, $stickies) {\n  return new TableSubHeaders($table, $stickies);\n};\n\nfunction TableSubHeaders($table, $stickies) {\n  TableSubHeaders.id++;\n\n  // To avoid scope issues, use "base" instead of "this"\n  // to reference this class from internal events and functions.\n  var base = this,\n      $base = $(base);\n\n  base.name = "subheaders" + TableSubHeaders.id;\n  base.$window = $(window);\n  base.$document = $(document);\n  base.$tableBody = $table.find("tbody");\n  base.$tableParents = $table.parents();\n  base.$stickies = null;\n  base.options = [];\n  base.cache = [];\n\n  base.loaded = false;\n  base.scrollBarWidth = 13;\n  base.debug = {\n    enabled: true,\n    smartScroll: { table: 0, window: 0, outer: 0 },\n    touchmove: { table: 0, window: 0, outer: 0 },\n    resize: { table: 0, window: 0 }\n  };\n\n  var defaults = {\n    marginTop: 0,\n    marginLeft: 0,\n    scrollThrottle: 20,\n    resizeThrottle: 100\n  };\n\n  base.load = function (opts) {\n    base.options = $.extend({}, defaults, opts);\n\n    // Calculate scrollbar width\n    base.scrollBarWidth = $.scrollBarWidth();\n\n    base.bind();\n    base.detect();\n\n    base.recalculate(true);\n    base.loaded = true;\n  };\n\n  base.unload = function () {\n    base.options = [];\n\n    base.unbind();\n\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n      $this.unwrap();\n      $table.scrollTop(0);\n    });\n\n    base.loaded = false;\n  };\n\n  base.reload = function () {\n    base.unload();\n    base.load();\n  };\n\n  base.detect = function () {\n    base.$stickies = $($stickies, $table);\n\n    // Bind toggle click\n    base.$stickies.off("." + base.name);\n    base.$stickies.on("tap."+base.name+" click."+base.name, function(e) {\n      base.toggle($(this));\n    });\n\n    var filtered = $($stickies, $table).filter(function() {\n      return $(this).parent().is(":not(div)");\n    });\n\n    filtered.each(function () {\n      $(this).wrap("<div style=\'width:100%;z-index:2;cursor:pointer;background-color:#fff;\'/>");\n    });\n  };\n\n  base.bind = function () {\n    base.unbind();\n\n    var scrollThrottle = base.options.scrollThrottle,\n        resizeThrottle = base.options.resizeThrottle;\n\n    $table.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.table++;\n      base.scroll(e, scroll);\n    }));\n    // $table.on("touchmove." + base.name, $.throttle(scrollThrottle, function(e, scroll) {\n    //   if(base.debug.enabled) base.debug.touchmove.table++;\n    //   base.scroll(e, scroll);\n    // }));\n    $table.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.resize.table++;\n      base.recalculate(true);\n    }));\n\n    base.$window.smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.window++;\n      base.alignment(e, scroll);\n    }));\n    // base.$window.on("touchmove." + base.name, $.throttle(scrollThrottle, function() {\n    //   if(base.debug.enabled) base.debug.touchmove.window++;\n    //   base.alignment();\n    // }));\n    base.$window.on("resize." + base.name, $.debounce(resizeThrottle, function() {\n      if(base.debug.enabled) base.debug.resize.window++;\n      base.recalculate(true);\n    }));\n\n    base.detectOuterScrolls();\n  };\n\n  base.unbind = function () {\n    $table.off("." + base.name);\n    base.$window.off("." + base.name);\n\n    // Unbind sticky events\n    if(base.$stickies) {\n      base.$stickies.off("." + base.name);\n    }\n\n    // Unbind \'scroll\' on parent elements that have a scroll bar.\n    base.$tableParents.each(function(index, el) {\n      $(this).off("." + base.name);\n    });\n  };\n\n  base.detectOuterScrolls = function() {\n    var scrollThrottle = base.options.scrollThrottle;\n\n    base.$tableParents.off("." + base.name);\n\n    // Bind parent elements that have a scroll bar.\n    base.$tableParents.filter(function() {\n      return $(this).hasScrollBar();\n    }).smartScroll(base.name, $.throttle(scrollThrottle, function(e, scroll) {\n      if(base.debug.enabled) base.debug.smartScroll.outer++;\n      base.alignment(e, scroll);\n    }));\n  };\n\n  base.toggle = function($subheader) {\n    if($subheader.hasClass("expanded")) {\n      base.close($subheader);\n    } else {\n      base.open($subheader);\n    }\n  };\n\n  base.open = function($subheader) {\n    $subheader.addClass("expanded");\n\n    // Trigger an \'opening\' event\n    $base.trigger("opening", [$subheader]);\n\n    // Get all until next subheader\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var closeIcon = $subheader.attr("data-close-icon");\n      if(closeIcon === undefined) {\n        closeIcon = "remove";\n      }\n      $icon.text(closeIcon);\n    }\n\n    var parent = $subheader.parent();\n    // Get rows by \'tr\' rather than \'tr.data-row\' since\n    // expansion content should be touched also.\n    var rows = parent.nextUntil("div", "tr");\n\n    // Invoke .show and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.show(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger an \'opened\' event\n      $subheader.trigger("opened", [$subheader]);\n    });\n  };\n\n  base.close = function($subheader) {\n    $subheader.removeClass("expanded");\n\n    // Trigger a \'closing\' event\n    $base.trigger("closing", [$subheader]);\n\n    var $icon = $subheader.find("i");\n    if($icon != null) {\n      var openIcon = $subheader.attr("data-open-icon");\n      if(openIcon === undefined) {\n        openIcon = "add";\n      }\n      $icon.text(openIcon)\n    }\n\n    // Get all until next subheader\n    var rows = $subheader.parent().nextUntil("div");\n\n    // Invoke .hide and ensure recalculation after finished.\n    // Need to recalculate the positions after showing\n    // to ensure the sticky headers follow.\n    $.when(rows.hide(200)).then(function() {\n      base.recalculate(true);\n\n      // Trigger a \'closed\' event\n      $subheader.trigger("closed", [$subheader]);\n    });\n  };\n\n  base.recalculate = function(fireEvents) {\n    if(fireEvents) {\n      $base.trigger("before-recalculate");\n    }\n\n    // Detect any new outer scrolls\n    base.detectOuterScrolls();\n\n    // Calculate any new heights\n    base.updateHeights();\n\n    var scrollTop = $table.scrollTop(),\n        outerScrollTop = base.getOuterScrollTop(),\n        fullWidth = base.$tableBody.outerWidth();\n\n    base.$stickies.each(function () {\n      var $this = $(this);\n\n      $this.removeClass("fixed").removeClass("passed").removeAttr("style");\n\n      // Calculate the new position\n      $.data(this, "pos", $this.offset().top + outerScrollTop + scrollTop + 1);\n\n      base.updateWidth($this, fullWidth - 2);\n    });\n\n    // By default this method will fire, even when bound\n    // to any particular jQuery event.\n    if(fireEvents) {\n      $base.trigger("after-recalculate");\n    }\n\n    base.scroll();\n  };\n\n  // Attempts to perform top scrolls using position: fixed since its the only\n  // way to retain flexible styling with high performance (on mobile, etc).\n  // This method has more overhead to ensure the subheader positions maintain \n  // within the boundries of the table (i.e. automatic edge clipping, etc), \n  // especially with multiple scrollable layers.\n  base.scroll = function (e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n\n        // Top variables\n        top = offset.top + base.options.marginTop,\n        scrollTop = $table.scrollTop() + base.getOuterScrollTop(),\n        winScrollTop = base.$window.scrollTop(),\n\n        // Left variables\n        left = offset.left + base.options.marginLeft,\n        scrollLeft = $table.scrollLeft(),\n        outerScrollLeft = base.getOuterScrollLeft();\n\n    base.$stickies.each(function (i) {\n      var $this = $(this),\n          forceXScroll = false;\n\n      if(!scroll || scroll.isY()) {\n        var $nextSticky = base.$stickies.eq(i + 1),\n            $prevSticky = base.$stickies.eq(i - 1),\n            pos = $.data(this, "pos");\n\n        // Y Axis Scrolling\n        if (pos <= scrollTop + top) {\n          base.emulateYScroll($this, top, winScrollTop, scrollTop);\n\n          if(!$this.hasClass("passed")) {\n            if(!$this.hasClass("fixed")) {\n              $this.addClass("fixed");\n\n              // Ensure the X scroll is performed when\n              // the Y scroll sticks a new subheader.\n              forceXScroll = scroll && !scroll.isX();\n            }\n\n            // Update the subheaders width\n            base.updateWidth($this, fullWidth);\n            \n            $prevSticky.css("display", "none");\n\n            // Try display the current sticky\n            $this.css({ "display": "" });\n\n            if ($nextSticky.length > 0 && scrollTop + top >= pos - $prevSticky.outerHeight()) {\n              $this.addClass("passed");\n            }\n          }\n        } else {\n          var width = $this.outerWidth();\n          $this.removeClass("fixed").removeAttr("style");\n          $this.width(width);\n\n          // Try display the previous sticky\n          $prevSticky.css({ "display": "" });\n\n          if ($prevSticky.length > 0 && scrollTop + top <= pos - $prevSticky.outerHeight()) {\n            $prevSticky.removeClass("passed");\n          }\n        }\n      }\n\n      // X Axis Scrolling\n      if(!scroll || scroll.isX() || forceXScroll) {\n        if($this.hasClass("fixed")) {\n          base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n        }\n      }\n    });\n\n    // Update passed subheaders top position.\n    base.$stickies.filter(".passed").each(function(i, el) {\n      var $this = $(this),\n          $nextSticky = base.$stickies.eq(i + 1);\n\n      var newTop = $.data($nextSticky[0], "pos") - scrollTop - $this.outerHeight() - winScrollTop;\n      $this.data("push-back", parseInt($this.css("top").replace("px", "") - newTop));\n      $this.css({ "top": newTop });\n\n      // TODO: Fix the clip issue\n      // base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n    });\n  };\n\n  base.emulateYScroll = function($sticky, top, winScrollTop, scrollTop, outerScroll) {\n    var height = $sticky.outerHeight() + 50,\n        totalTop = (outerScroll ? outerScroll : base.getOuterScrollTop()) - base.options.marginTop;\n\n    var topClip = totalTop + "px",\n        bottomClip = height + "px",\n        rightClip = $sticky.data("clip-right"),\n        leftClip = $sticky.data("clip-left");\n\n    // Handle the passed clipping\n    if($sticky.hasClass("passed")) {\n      var pushBack = $sticky.data("push-back");\n       topClip = (totalTop + pushBack) + "px";\n    }\n\n    // Update Y clipping data\n    $sticky.data("clip-top", topClip)\n           .data("clip-bottom", bottomClip);\n\n    $sticky.css({\n      "top": top - winScrollTop,\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  base.emulateXScroll = function($sticky, tableWidth, left, scrollLeft, outerScroll) {\n    var leftClip = (scrollLeft + (outerScroll ? outerScroll : base.getOuterScrollLeft())) + "px",\n        rightClip = (tableWidth + scrollLeft - base.scrollBarWidth) + "px",\n        topClip = $sticky.data("clip-top") || "auto",\n        bottomClip = $sticky.data("clip-bottom") || "auto";\n\n    // Update X clipping data\n    $sticky.data("clip-left", leftClip)\n           .data("clip-right", rightClip);\n\n    $sticky.css({\n      "left": left - scrollLeft - base.$window.scrollLeft(),\n      "clip": "rect("+ topClip +", " + rightClip + ", " + bottomClip + ", " + leftClip + ")"\n    });\n  };\n\n  // Applies the alignment of all the outer scroll positions.\n  base.alignment = function(e, scroll) {\n    var offset = $table.offset(),\n        clipWidth = $table.innerWidth(),\n        fullWidth = base.$tableBody.outerWidth(),\n        xScroll = !scroll || scroll.isX(),\n        yScroll = !scroll || scroll.isY(),\n\n        // Top variables\n        winScrollTop = (yScroll ? base.$window.scrollTop() : 0),\n        top = (yScroll ? offset.top + base.options.marginTop : 0),\n        scrollTop = (yScroll ? $table.scrollTop() + base.getOuterScrollTop() : 0),\n\n        // Left variables\n        left = (xScroll ? offset.left + base.options.marginLeft : 0),\n        scrollLeft = (xScroll ? $table.scrollLeft() : 0),\n        outerScrollLeft = (xScroll ? base.getOuterScrollLeft() : 0);\n\n    base.$stickies.filter(".fixed").each(function (i) {\n      var $this = $(this);\n\n      if(!scroll || scroll.isY()) {\n        var newTop = top;\n\n        // Calculate \'passed\' stickies position based on outer scrollTop\'s.\n        if($this.hasClass("passed")) {\n          var $nextSticky = base.$stickies.eq(i + 1);\n          newTop = $.data($nextSticky[0], \'pos\') - scrollTop - $this.outerHeight();\n        }\n\n        base.emulateYScroll($this, newTop, winScrollTop, scrollTop);\n\n        // When the scrollbar hides or displays\n        base.updateWidth($this, fullWidth);\n      }\n\n      if(xScroll) {\n        base.emulateXScroll($this, clipWidth, left, scrollLeft, outerScrollLeft);\n      }\n    });\n  };\n\n  base.getOuterScrollTop = function() {\n    var scrollTop = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollTop += $(this).scrollTop();\n    });\n    return scrollTop;\n  };\n\n  base.getOuterScrollLeft = function() {\n    var scrollLeft = 0;\n\n    base.$tableParents.filter(":not(body,html)").each(function() {\n      scrollLeft += $(this).scrollLeft();\n    });\n    return scrollLeft;\n  };\n\n  base.updateCellWidths = function ($sticky) {\n    // Copy cell widths from header\n    var cellWidths = base.getCellWidths($("th,td", $("thead", $table)));\n    base.setCellWidths(cellWidths, $sticky);\n  };\n\n  base.setCellWidths = function (widths, $sticky) {\n    $sticky.find("th,td").each(function (index) {\n      var $this = $(this),\n          width = widths[index];\n\n      /*$this.css({\n        "min-width": width,\n        "max-width": width\n      });*/\n    });\n  };\n\n  base.getCellWidths = function ($headers) {\n    var widths = [];\n    $headers.each(function (index) {\n      var width, $this = $(this);\n\n      if ($this.css("box-sizing") === "border-box") {\n        // when border-box types are used\n        width = this.getBoundingClientRect().width;\n      } else {\n        var $origTh = $("th", base.$originalHeader);\n        if ($origTh.css("border-collapse") === "collapse") {\n          if (window.getComputedStyle) {\n            width = parseFloat(window.getComputedStyle(this, null).width);\n          } else {\n            // ie8 only\n            var leftPadding = parseFloat($this.css("padding-left"));\n            var rightPadding = parseFloat($this.css("padding-right"));\n            // Needs more investigation - this is assuming constant border \n            // around this cell and it\'s neighbours.\n            var border = parseFloat($this.css("border-width"));\n            width = $this.outerWidth() - leftPadding - rightPadding - border;\n          }\n        } else {\n          width = $this.width();\n        }\n      }\n\n      widths[index] = width;\n    });\n    return widths;\n  };\n\n  base.updateWidth = function($sticky, width) {\n    if(width) {\n      $sticky.width(width);\n    }\n\n    // Calculate new cell widths\n    base.updateCellWidths($sticky);\n  };\n\n  base.updateWidths = function() {\n    base.$stickies.each(function() {\n      base.updateWidth($(this));\n    });\n  };\n\n  base.updateHeights = function() {\n    base.$stickies.each(function() {\n      var $this = $(this);\n      $this.parent().height($this.outerHeight());\n    });\n  };\n\n  base.setMarginTop = function(marginTop) {\n    base.options.marginTop = marginTop;\n  };\n\n  base.setMarginLeft = function(marginLeft) {\n    base.options.marginLeft = marginLeft;\n  };\n\n  base.isLoaded = function() {\n    return base.loaded;\n  };\n\n  base.getDebugInfo = function() {\n    return base.debug;\n  }\n}\n';
+  return returnTemp;
 }
 ;
 var Lgwt_material_design_client_resources_MaterialTableDebugBundle_1en_1InlineClientBundleGenerator$5_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialTableDebugBundle_en_InlineClientBundleGenerator/5', 269);
@@ -14452,7 +14468,7 @@ function $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$styleIn
 function $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer;
-  $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '112' , emptyMethod);
+  $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSubHeadersInitializer = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '115' , emptyMethod);
   tableSubHeaders_1 = ($location_0[stackIndex] = 'MaterialTableDebugBundle_en_InlineClientBundleGenerator.java:' + '101' , new MaterialTableDebugBundle_en_InlineClientBundleGenerator$5);
   $stackDepth_0 = stackIndex - 1;
 }
@@ -14461,7 +14477,7 @@ function $clinit_WithJQueryDebugResources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_WithJQueryDebugResources;
   $clinit_WithJQueryDebugResources = ($location_0[stackIndex] = 'WithJQueryDebugResources.java:' + '27' , emptyMethod);
-  INSTANCE_5 = castTo(($location_0[stackIndex] = 'WithJQueryDebugResources.java:' + '28' , create_gwt_material_design_client_resources_WithJQueryDebugResources()), 517);
+  INSTANCE_5 = castTo(($location_0[stackIndex] = 'WithJQueryDebugResources.java:' + '28' , create_gwt_material_design_client_resources_WithJQueryDebugResources()), 519);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -14469,7 +14485,7 @@ var INSTANCE_5;
 function WithJQueryDebugResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(231, 1, {517:1}, WithJQueryDebugResources_default_InlineClientBundleGenerator);
+defineClass(231, 1, {519:1}, WithJQueryDebugResources_default_InlineClientBundleGenerator);
 _.jQueryDebug = function jQueryDebug_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = jQueryDebug_0;
@@ -14534,7 +14550,7 @@ function $clinit_WithJQueryDebugResources_default_InlineClientBundleGenerator$jQ
 function WithJQueryDebugResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(229, 1, {517:1}, WithJQueryDebugResources_en_InlineClientBundleGenerator);
+defineClass(229, 1, {519:1}, WithJQueryDebugResources_en_InlineClientBundleGenerator);
 _.jQueryDebug = function jQueryDebug_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = jQueryDebug_2;
@@ -14604,7 +14620,7 @@ function MaterialAnchorButton(text_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(133, 114, $intern_31, MaterialAnchorButton);
+defineClass(134, 115, $intern_31, MaterialAnchorButton);
 _.createElement_0 = function createElement(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createElement;
@@ -14613,7 +14629,7 @@ _.createElement_0 = function createElement(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialAnchorButton_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialAnchorButton', 133);
+var Lgwt_material_design_client_ui_MaterialAnchorButton_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialAnchorButton', 134);
 function $setText_0(this$static, text_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setText_0;
@@ -14672,8 +14688,8 @@ function MaterialBadge_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(105, 71, $intern_30, MaterialBadge, MaterialBadge_0);
-var Lgwt_material_design_client_ui_MaterialBadge_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialBadge', 105);
+defineClass(106, 71, $intern_30, MaterialBadge, MaterialBadge_0);
+var Lgwt_material_design_client_ui_MaterialBadge_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialBadge', 106);
 function MaterialButton(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialButton;
@@ -14693,7 +14709,7 @@ function MaterialButton_0(type_0, icon){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(123, 114, $intern_31, MaterialButton, MaterialButton_0);
+defineClass(124, 115, $intern_31, MaterialButton, MaterialButton_0);
 _.createElement_0 = function createElement_0(){
   var e, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createElement_0;
@@ -14702,7 +14718,7 @@ _.createElement_0 = function createElement_0(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialButton_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialButton', 123);
+var Lgwt_material_design_client_ui_MaterialButton_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialButton', 124);
 function $addClickHandler_0(this$static, handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $addClickHandler_0;
@@ -14766,7 +14782,7 @@ function MaterialCheckBox$1(this$0, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(454, 1, $intern_32, MaterialCheckBox$1);
+defineClass(456, 1, $intern_32, MaterialCheckBox$1);
 _.onClick = function onClick_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_1;
@@ -14774,7 +14790,7 @@ _.onClick = function onClick_1(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialCheckBox$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialCheckBox/1', 454);
+var Lgwt_material_design_client_ui_MaterialCheckBox$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialCheckBox/1', 456);
 function MaterialColumn(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialColumn;
@@ -14942,7 +14958,7 @@ function MaterialDropDown$1(this$0, val$child){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(457, 1, $intern_32, MaterialDropDown$1);
+defineClass(459, 1, $intern_32, MaterialDropDown$1);
 _.onClick = function onClick_2(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_2;
@@ -14950,11 +14966,11 @@ _.onClick = function onClick_2(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialDropDown$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/1', 457);
+var Lgwt_material_design_client_ui_MaterialDropDown$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/1', 459);
 function MaterialDropDown$lambda$0$Type(){
 }
 
-defineClass(458, 1, $intern_32, MaterialDropDown$lambda$0$Type);
+defineClass(460, 1, $intern_32, MaterialDropDown$lambda$0$Type);
 _.onClick = function onClick_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_3;
@@ -14963,7 +14979,7 @@ _.onClick = function onClick_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialDropDown$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$0$Type', 458);
+var Lgwt_material_design_client_ui_MaterialDropDown$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$0$Type', 460);
 function $getIconType(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getIconType;
@@ -15093,7 +15109,7 @@ function MaterialLink(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(29, 114, {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 90:1, 27:1, 7:1, 29:1}, MaterialLink);
+defineClass(29, 115, {14:1, 9:1, 13:1, 19:1, 12:1, 18:1, 15:1, 11:1, 8:1, 90:1, 27:1, 7:1, 29:1}, MaterialLink);
 _.createElement_0 = function createElement_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createElement_2;
@@ -15160,7 +15176,7 @@ function $onChangeInternal(this$static){
    catch ($e0) {
     $e0 = toJava($e0);
     $stackDepth_0 = ($location_0[stackIndex] = 'MaterialListValueBox.java:' + '157' , stackIndex);
-    if (!instanceOf($e0, 42))
+    if (!instanceOf($e0, 43))
       throw toJs($e0);
   }
   $stackDepth_0 = stackIndex - 1;
@@ -15174,7 +15190,7 @@ function $setSelectedValue(this$static, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(463, 7, $intern_40);
+defineClass(465, 7, $intern_40);
 _.addBlurHandler = function addBlurHandler_0(handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = addBlurHandler_0;
@@ -15203,7 +15219,7 @@ _.onLoad = function onLoad_6(){
 }
 ;
 _.initialized = false;
-var Lgwt_material_design_client_ui_MaterialListValueBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox', 463);
+var Lgwt_material_design_client_ui_MaterialListValueBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox', 465);
 function MaterialListBox(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialListBox;
@@ -15219,7 +15235,7 @@ function MaterialListBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(184, 463, $intern_40, MaterialListBox);
+defineClass(184, 465, $intern_40, MaterialListBox);
 var Lgwt_material_design_client_ui_MaterialListBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListBox', 184);
 function MaterialListValueBox$1(this$0, val$handler){
   var stackIndex;
@@ -15229,7 +15245,7 @@ function MaterialListValueBox$1(this$0, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(464, 1, $intern_33, MaterialListValueBox$1);
+defineClass(466, 1, $intern_33, MaterialListValueBox$1);
 _.onValueChange = function onValueChange_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_1;
@@ -15237,7 +15253,7 @@ _.onValueChange = function onValueChange_1(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialListValueBox$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/1', 464);
+var Lgwt_material_design_client_ui_MaterialListValueBox$1_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/1', 466);
 function MaterialListValueBox$2(this$0, val$handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialListValueBox$2;
@@ -15246,7 +15262,7 @@ function MaterialListValueBox$2(this$0, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(465, 1, $intern_35, MaterialListValueBox$2);
+defineClass(467, 1, $intern_35, MaterialListValueBox$2);
 _.onBlur = function onBlur_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur_1;
@@ -15254,7 +15270,7 @@ _.onBlur = function onBlur_1(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialListValueBox$2_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/2', 465);
+var Lgwt_material_design_client_ui_MaterialListValueBox$2_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/2', 467);
 function MaterialListValueBox$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialListValueBox$lambda$0$Type;
@@ -15262,7 +15278,7 @@ function MaterialListValueBox$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(635, $wnd.Function, {}, MaterialListValueBox$lambda$0$Type);
+defineClass(637, $wnd.Function, {}, MaterialListValueBox$lambda$0$Type);
 _.call_3 = function call_24(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_24;
@@ -15286,8 +15302,8 @@ function Div_0(initialClass){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(120, 7, $intern_30, Div);
-var Lgwt_material_design_client_ui_html_Div_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Div', 120);
+defineClass(121, 7, $intern_30, Div);
+var Lgwt_material_design_client_ui_html_Div_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Div', 121);
 function $setType_1(this$static, type_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setType_1;
@@ -15307,8 +15323,8 @@ function MaterialProgress(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(462, 120, $intern_30, MaterialProgress);
-var Lgwt_material_design_client_ui_MaterialProgress_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialProgress', 462);
+defineClass(464, 121, $intern_30, MaterialProgress);
+var Lgwt_material_design_client_ui_MaterialProgress_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialProgress', 464);
 function MaterialRow(element, initialClass){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialRow;
@@ -15316,8 +15332,8 @@ function MaterialRow(element, initialClass){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(443, 7, $intern_30);
-var Lgwt_material_design_client_ui_MaterialRow_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialRow', 443);
+defineClass(445, 7, $intern_30);
+var Lgwt_material_design_client_ui_MaterialRow_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialRow', 445);
 function $removeErrorModifiers(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $removeErrorModifiers;
@@ -15448,12 +15464,12 @@ function fireToast(msg){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(514, 1, {}, MaterialToast);
-var Lgwt_material_design_client_ui_MaterialToast_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialToast', 514);
+defineClass(516, 1, {}, MaterialToast);
+var Lgwt_material_design_client_ui_MaterialToast_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialToast', 516);
 function MaterialToast$lambda$0$Type(){
 }
 
-defineClass(636, $wnd.Function, {}, MaterialToast$lambda$0$Type);
+defineClass(638, $wnd.Function, {}, MaterialToast$lambda$0$Type);
 _.call_7 = function call_25(){
 }
 ;
@@ -15465,7 +15481,7 @@ function MaterialValueBox$12(this$0, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(479, 1, $intern_35, MaterialValueBox$12);
+defineClass(481, 1, $intern_35, MaterialValueBox$12);
 _.onBlur = function onBlur_2(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur_2;
@@ -15473,7 +15489,7 @@ _.onBlur = function onBlur_2(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialValueBox$12_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialValueBox/12', 479);
+var Lgwt_material_design_client_ui_MaterialValueBox$12_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialValueBox/12', 481);
 function Label(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Label;
@@ -15517,7 +15533,7 @@ function Text_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(494, 8, $intern_24, Text_0);
+defineClass(496, 8, $intern_24, Text_0);
 _.isAttached_0 = function isAttached_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isAttached_1;
@@ -15549,7 +15565,7 @@ _.onDetach = function onDetach_1(){
 }
 ;
 _.isAttached = false;
-var Lgwt_material_design_client_ui_html_Text_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Text', 494);
+var Lgwt_material_design_client_ui_html_Text_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Text', 496);
 function MaterialDataPagerBase(table, dataSource){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataPagerBase;
@@ -15591,8 +15607,8 @@ function MaterialDataPagerBase(table, dataSource){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(444, 443, $intern_30);
-var Lgwt_material_design_client_ui_pager_MaterialDataPagerBase_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPagerBase', 444);
+defineClass(446, 445, $intern_30);
+var Lgwt_material_design_client_ui_pager_MaterialDataPagerBase_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPagerBase', 446);
 function $firstPage(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $firstPage;
@@ -15751,7 +15767,7 @@ function MaterialDataPager(table, dataSource){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(445, 444, $intern_30, MaterialDataPager);
+defineClass(447, 446, $intern_30, MaterialDataPager);
 _.onLoad = function onLoad_8(){
   var i, i$array, i$index, i$max, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_8;
@@ -15782,7 +15798,7 @@ _.firstRow = 0;
 _.lastRow = 0;
 _.totalRows = 0;
 _.useRowCountOptions = false;
-var Lgwt_material_design_client_ui_pager_MaterialDataPager_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager', 445);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager', 447);
 function MaterialDataPager$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataPager$lambda$0$Type;
@@ -15790,7 +15806,7 @@ function MaterialDataPager$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(446, 1, $intern_33, MaterialDataPager$lambda$0$Type);
+defineClass(448, 1, $intern_33, MaterialDataPager$lambda$0$Type);
 _.onValueChange = function onValueChange_2(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_2;
@@ -15798,7 +15814,7 @@ _.onValueChange = function onValueChange_2(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$0$Type', 446);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$0$Type', 448);
 function MaterialDataPager$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataPager$lambda$1$Type;
@@ -15806,7 +15822,7 @@ function MaterialDataPager$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(447, 1, $intern_33, MaterialDataPager$lambda$1$Type);
+defineClass(449, 1, $intern_33, MaterialDataPager$lambda$1$Type);
 _.onValueChange = function onValueChange_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_3;
@@ -15814,7 +15830,7 @@ _.onValueChange = function onValueChange_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$1$Type', 447);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$1$Type', 449);
 function MaterialDataPager$lambda$2$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataPager$lambda$2$Type;
@@ -15822,7 +15838,7 @@ function MaterialDataPager$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(448, 1, $intern_32, MaterialDataPager$lambda$2$Type);
+defineClass(450, 1, $intern_32, MaterialDataPager$lambda$2$Type);
 _.onClick = function onClick_4(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_4;
@@ -15830,7 +15846,7 @@ _.onClick = function onClick_4(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$2$Type', 448);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$2$Type', 450);
 function MaterialDataPager$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataPager$lambda$3$Type;
@@ -15838,7 +15854,7 @@ function MaterialDataPager$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(449, 1, $intern_32, MaterialDataPager$lambda$3$Type);
+defineClass(451, 1, $intern_32, MaterialDataPager$lambda$3$Type);
 _.onClick = function onClick_5(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_5;
@@ -15846,12 +15862,12 @@ _.onClick = function onClick_5(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$3$Type', 449);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/lambda$3$Type', 451);
 function $clinit_MaterialDataPagerClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialDataPagerClientBundle;
   $clinit_MaterialDataPagerClientBundle = ($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '32' , emptyMethod);
-  INSTANCE_6 = castTo(($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '34' , create_gwt_material_design_client_ui_pager_MaterialDataPagerClientBundle()), 521);
+  INSTANCE_6 = castTo(($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '34' , create_gwt_material_design_client_ui_pager_MaterialDataPagerClientBundle()), 523);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -15859,7 +15875,7 @@ var INSTANCE_6;
 function MaterialDataPagerClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(272, 1, {521:1}, MaterialDataPagerClientBundle_default_InlineClientBundleGenerator);
+defineClass(272, 1, {523:1}, MaterialDataPagerClientBundle_default_InlineClientBundleGenerator);
 _.dataPagerDebugCss = function dataPagerDebugCss_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataPagerDebugCss_0;
@@ -15900,7 +15916,7 @@ function $clinit_MaterialDataPagerClientBundle_default_InlineClientBundleGenerat
 function MaterialDataPagerClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(270, 1, {521:1}, MaterialDataPagerClientBundle_en_InlineClientBundleGenerator);
+defineClass(270, 1, {523:1}, MaterialDataPagerClientBundle_en_InlineClientBundleGenerator);
 _.dataPagerDebugCss = function dataPagerDebugCss_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataPagerDebugCss_2;
@@ -16127,7 +16143,7 @@ function AbstractDataTable_0(dataView, scaffolding){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(117, 7, $intern_30);
+defineClass(118, 7, $intern_30);
 _.getOpenCategories = function getOpenCategories_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getOpenCategories_0;
@@ -16208,7 +16224,7 @@ _.setup_0 = function setup_1(scaffolding){
 _.refreshing = false;
 _.setup = false;
 var logger_1;
-var Lgwt_material_design_client_ui_table_AbstractDataTable_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractDataTable', 117);
+var Lgwt_material_design_client_ui_table_AbstractDataTable_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractDataTable', 118);
 function $apply(this$static, container){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $apply;
@@ -16233,12 +16249,12 @@ function $build(this$static){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(557, 1, {});
-var Lgwt_material_design_client_ui_table_TableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'TableScaffolding', 557);
+defineClass(559, 1, {});
+var Lgwt_material_design_client_ui_table_TableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'TableScaffolding', 559);
 function AbstractDataTable$DefaultTableScaffolding(){
 }
 
-defineClass(419, 557, {}, AbstractDataTable$DefaultTableScaffolding);
+defineClass(419, 559, {}, AbstractDataTable$DefaultTableScaffolding);
 var Lgwt_material_design_client_ui_table_AbstractDataTable$DefaultTableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractDataTable/DefaultTableScaffolding', 419);
 function $isFocusable(this$static, elem){
   var stackIndex, returnTemp;
@@ -16378,7 +16394,7 @@ function lambda$4(checked_0, el_2){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(142, 117, $intern_30, MaterialDataTable);
+defineClass(142, 118, $intern_30, MaterialDataTable);
 _.setup_0 = function setup_2(scaffolding){
   var infoPanel, toolPanel, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = setup_2;
@@ -16418,7 +16434,7 @@ function MaterialDataTable$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(600, $wnd.Function, {}, MaterialDataTable$lambda$0$Type);
+defineClass(602, $wnd.Function, {}, MaterialDataTable$lambda$0$Type);
 _.call_0 = function call_26(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_26;
@@ -16434,7 +16450,7 @@ function MaterialDataTable$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(601, $wnd.Function, {}, MaterialDataTable$lambda$1$Type);
+defineClass(603, $wnd.Function, {}, MaterialDataTable$lambda$1$Type);
 _.call_0 = function call_27(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_27;
@@ -16446,7 +16462,7 @@ _.call_0 = function call_27(arg0){
 function MaterialDataTable$lambda$2$Type(){
 }
 
-defineClass(602, $wnd.Function, {}, MaterialDataTable$lambda$2$Type);
+defineClass(604, $wnd.Function, {}, MaterialDataTable$lambda$2$Type);
 _.call_0 = function call_28(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_28;
@@ -16462,7 +16478,7 @@ function MaterialDataTable$lambda$3$Type(colOffset_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(603, $wnd.Function, {}, MaterialDataTable$lambda$3$Type);
+defineClass(605, $wnd.Function, {}, MaterialDataTable$lambda$3$Type);
 _.call_2 = function call_29(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_29;
@@ -16478,7 +16494,7 @@ function MaterialDataTable$lambda$4$Type(checked_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(604, $wnd.Function, {}, MaterialDataTable$lambda$4$Type);
+defineClass(606, $wnd.Function, {}, MaterialDataTable$lambda$4$Type);
 _.call_2 = function call_30(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_30;
@@ -16630,7 +16646,7 @@ function $getColumn(this$static, index_0){
    catch ($e0) {
     $e0 = toJava($e0);
     $stackDepth_0 = ($location_0[stackIndex] = 'TableRow.java:' + '57' , stackIndex);
-    if (instanceOf($e0, 42)) {
+    if (instanceOf($e0, 43)) {
       $stackDepth_0 = stackIndex - 1;
       return null;
     }
@@ -16840,8 +16856,8 @@ function TextCell(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(452, 451, {}, TextCell);
-var Lgwt_material_design_client_ui_table_cell_TextCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'TextCell', 452);
+defineClass(454, 453, {}, TextCell);
+var Lgwt_material_design_client_ui_table_cell_TextCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'TextCell', 454);
 function TextColumn(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TextColumn;
@@ -16857,7 +16873,7 @@ function $render_3(){
   throw toJs(new UnsupportedOperationException_0(($tmp = 'Use WidgetCell#render(context, value, cell)' , $location_0[stackIndex] = 'WidgetCell.java:' + '34' , $tmp)));
 }
 
-defineClass(116, 176, {116:1});
+defineClass(117, 176, {117:1});
 _.render = function render_5(context, value_0, sb){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = render_5;
@@ -16866,12 +16882,12 @@ _.render = function render_5(context, value_0, sb){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_table_cell_WidgetCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'WidgetCell', 116);
+var Lgwt_material_design_client_ui_table_cell_WidgetCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'WidgetCell', 117);
 function $render_4(this$static, object){
   var widget, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $render_4;
   widget = castTo(($location_0[stackIndex] = 'WidgetColumn.java:' + '55' , this$static).getValue_0(object), 8);
-  castTo(($location_0[stackIndex] = 'Column.java:' + '100' , ($location_0[stackIndex] = 'WidgetColumn.java:' + '56' , this$static).cell), ($tmp = 116 , $location_0[stackIndex] = 'WidgetColumn.java:' + '56' , $tmp));
+  castTo(($location_0[stackIndex] = 'Column.java:' + '100' , ($location_0[stackIndex] = 'WidgetColumn.java:' + '56' , this$static).cell), ($tmp = 117 , $location_0[stackIndex] = 'WidgetColumn.java:' + '56' , $tmp));
   returnTemp = ($location_0[stackIndex] = 'WidgetColumn.java:' + '57' , widget);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -16899,7 +16915,7 @@ function WidgetColumn$BlankWidgetCell(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(398, 116, {116:1}, WidgetColumn$BlankWidgetCell);
+defineClass(398, 117, {117:1}, WidgetColumn$BlankWidgetCell);
 var Lgwt_material_design_client_ui_table_cell_WidgetColumn$BlankWidgetCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'WidgetColumn/BlankWidgetCell', 398);
 function RowExpand(row, expand){
   var stackIndex;
@@ -17040,25 +17056,25 @@ var Lgwt_material_design_sample_client_MaterialTableSample$lambda$4$Type_2_class
 function $clinit_FakePersonService(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_FakePersonService;
-  $clinit_FakePersonService = ($location_0[stackIndex] = 'FakePersonService.java:' + '12' , emptyMethod);
+  $clinit_FakePersonService = ($location_0[stackIndex] = 'FakePersonService.java:' + '14' , emptyMethod);
   var category, category$iterator, data_0, i, index_0;
-  categories_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '13' , new ArrayList);
-  peopleMap = ($location_0[stackIndex] = 'FakePersonService.java:' + '14' , new HashMap);
-  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '16' , categories_0), 'People');
-  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '17' , categories_0), 'Animal');
-  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '18' , categories_0), 'Plant');
-  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '19' , categories_0), 'Other');
-  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '20' , categories_0), 'Next');
-  $location_0[stackIndex] = 'FakePersonService.java:' + '22' , index_0 = 0;
-  for ($location_0[stackIndex] = 'FakePersonService.java:' + '23' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '23' , categories_0) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '23' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '23' , category$iterator).this$01).array.length;) {
-    category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '23' , category$iterator)));
-    for ($location_0[stackIndex] = 'FakePersonService.java:' + '24' , i = 0; ($location_0[stackIndex] = 'FakePersonService.java:' + '24' , i) < 100; $location_0[stackIndex] = 'FakePersonService.java:' + '24' , ++i , index_0++) {
-      data_0 = castTo($getStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '25' , peopleMap), category), 32);
-      if ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'FakePersonService.java:' + '26' , data_0)) {
-        data_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '27' , new ArrayList);
-        $putStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '28' , peopleMap), category, data_0);
+  categories_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '15' , new ArrayList);
+  peopleMap = ($location_0[stackIndex] = 'FakePersonService.java:' + '16' , new HashMap);
+  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '18' , categories_0), 'People');
+  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '19' , categories_0), 'Animal');
+  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '20' , categories_0), 'Plant');
+  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '21' , categories_0), 'Other');
+  $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '22' , categories_0), 'Next');
+  $location_0[stackIndex] = 'FakePersonService.java:' + '24' , index_0 = 0;
+  for ($location_0[stackIndex] = 'FakePersonService.java:' + '25' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '25' , categories_0) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '25' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '25' , category$iterator).this$01).array.length;) {
+    category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '25' , category$iterator)));
+    for ($location_0[stackIndex] = 'FakePersonService.java:' + '26' , i = 0; ($location_0[stackIndex] = 'FakePersonService.java:' + '26' , i) < 100; $location_0[stackIndex] = 'FakePersonService.java:' + '26' , ++i , index_0++) {
+      data_0 = castTo($getStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '27' , peopleMap), category), 32);
+      if ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'FakePersonService.java:' + '28' , data_0)) {
+        data_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '29' , new ArrayList);
+        $putStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '30' , peopleMap), category, data_0);
       }
-      ($location_0[stackIndex] = 'FakePersonService.java:' + '30' , data_0).add_0(new Person(index_0, ($location_0[stackIndex] = 'FakePersonService.java:' + '32' , category) + index_0, 'Last' + ($location_0[stackIndex] = 'FakePersonService.java:' + '33' , index_0), 'Phone' + ($location_0[stackIndex] = 'FakePersonService.java:' + '34' , index_0), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '35' , category) , $location_0[stackIndex] = 'FakePersonService.java:' + '30' , $tmp)));
+      ($location_0[stackIndex] = 'FakePersonService.java:' + '32' , data_0).add_0(new Person(index_0, ($location_0[stackIndex] = 'FakePersonService.java:' + '34' , category) + index_0, 'Last' + ($location_0[stackIndex] = 'FakePersonService.java:' + '35' , index_0), 'Phone' + ($location_0[stackIndex] = 'FakePersonService.java:' + '36' , index_0), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '37' , category) , $location_0[stackIndex] = 'FakePersonService.java:' + '32' , $tmp)));
     }
   }
   $stackDepth_0 = stackIndex - 1;
@@ -17067,40 +17083,75 @@ function $clinit_FakePersonService(){
 function $getPeople(startIndex, viewSize, categories, async_0){
   var category, category$iterator, flatData, i, people, person, person$iterator, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $getPeople;
-  flatData = ($location_0[stackIndex] = 'FakePersonService.java:' + '42' , new ArrayList);
-  if ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'FakePersonService.java:' + '43' , categories)) {
-    for ($location_0[stackIndex] = 'FakePersonService.java:' + '45' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '45' , categories_0) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '45' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '45' , category$iterator).this$01).array.length;) {
-      category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '45' , category$iterator)));
-      $addAll_0(($location_0[stackIndex] = 'FakePersonService.java:' + '46' , flatData), castTo($getStringValue(peopleMap, category), 35));
+  flatData = ($location_0[stackIndex] = 'FakePersonService.java:' + '44' , new ArrayList);
+  if ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'FakePersonService.java:' + '45' , categories)) {
+    for ($location_0[stackIndex] = 'FakePersonService.java:' + '47' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '47' , categories_0) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '47' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '47' , category$iterator).this$01).array.length;) {
+      category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '47' , category$iterator)));
+      $addAll_0(($location_0[stackIndex] = 'FakePersonService.java:' + '48' , flatData), castTo($getStringValue(peopleMap, category), 35));
     }
   }
    else {
-    for ($location_0[stackIndex] = 'FakePersonService.java:' + '50' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '50' , categories) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '50' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '50' , category$iterator).this$01).array.length;) {
-      category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '50' , category$iterator)));
-      for (person$iterator = castTo($getStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '51' , peopleMap), category), 32).iterator(); ($location_0[stackIndex] = 'FakePersonService.java:' + '51' , person$iterator).hasNext_0();) {
+    for ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , categories) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , category$iterator).this$01).array.length;) {
+      category = castToString($next_2(($location_0[stackIndex] = 'FakePersonService.java:' + '52' , category$iterator)));
+      for (person$iterator = castTo($getStringValue(($location_0[stackIndex] = 'FakePersonService.java:' + '53' , peopleMap), category), 32).iterator(); ($location_0[stackIndex] = 'FakePersonService.java:' + '53' , person$iterator).hasNext_0();) {
         person = castTo(person$iterator.next_0(), 16);
-        $location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , flatData).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , flatData).array).length] = ($location_0[stackIndex] = 'FakePersonService.java:' + '52' , person);
+        $location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'FakePersonService.java:' + '54' , flatData).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'FakePersonService.java:' + '54' , flatData).array).length] = ($location_0[stackIndex] = 'FakePersonService.java:' + '54' , person);
       }
     }
   }
-  people = ($location_0[stackIndex] = 'FakePersonService.java:' + '57' , new People);
-  for (i = ($location_0[stackIndex] = 'FakePersonService.java:' + '58' , startIndex); ($location_0[stackIndex] = 'FakePersonService.java:' + '58' , i) < startIndex + viewSize; $location_0[stackIndex] = 'FakePersonService.java:' + '58' , i++) {
+  people = ($location_0[stackIndex] = 'FakePersonService.java:' + '59' , new People);
+  for (i = ($location_0[stackIndex] = 'FakePersonService.java:' + '60' , startIndex); ($location_0[stackIndex] = 'FakePersonService.java:' + '60' , i) < startIndex + viewSize; $location_0[stackIndex] = 'FakePersonService.java:' + '60' , i++) {
     try {
-      $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '60' , people), (checkCriticalElementIndex(i, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , flatData.array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'FakePersonService.java:' + '60' , flatData).array)[$location_0[stackIndex] = 'FakePersonService.java:' + '60' , i]), ($tmp = 16 , $location_0[stackIndex] = 'FakePersonService.java:' + '60' , $tmp))));
+      $add_6(($location_0[stackIndex] = 'FakePersonService.java:' + '62' , people), (checkCriticalElementIndex(i, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , flatData.array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'FakePersonService.java:' + '62' , flatData).array)[$location_0[stackIndex] = 'FakePersonService.java:' + '62' , i]), ($tmp = 16 , $location_0[stackIndex] = 'FakePersonService.java:' + '62' , $tmp))));
     }
      catch ($e0) {
       $e0 = toJava($e0);
-      $stackDepth_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '61' , stackIndex);
-      if (!instanceOf($e0, 42))
+      $stackDepth_0 = ($location_0[stackIndex] = 'FakePersonService.java:' + '63' , stackIndex);
+      if (!instanceOf($e0, 43))
         throw toJs($e0);
     }
   }
-  $setAbsoluteTotal(($location_0[stackIndex] = 'FakePersonService.java:' + '65' , people), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , flatData.array).length , $location_0[stackIndex] = 'FakePersonService.java:' + '65' , $tmp));
-  $loaded(($location_0[stackIndex] = 'PersonDataSource.java:' + '35' , ($location_0[stackIndex] = 'FakePersonService.java:' + '66' , async_0).val$dataView2), ($location_0[stackIndex] = 'PersonDataSource.java:' + '35' , ($location_0[stackIndex] = 'FakePersonService.java:' + '66' , async_0).val$startIndex3), ($location_0[stackIndex] = 'FakePersonService.java:' + '66' , people), ($location_0[stackIndex] = 'People.java:' + '18' , people.absoluteTotal), ($tmp = true , $location_0[stackIndex] = 'PersonDataSource.java:' + '35' , $tmp));
+  $setAbsoluteTotal(($location_0[stackIndex] = 'FakePersonService.java:' + '67' , people), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '249' , flatData.array).length , $location_0[stackIndex] = 'FakePersonService.java:' + '67' , $tmp));
+  $schedule(new FakePersonService$1(($location_0[stackIndex] = 'FakePersonService.java:' + '69' , async_0), people), ($tmp = min_0(200, nextInt(($tmp = 500 , $location_0[stackIndex] = 'FakePersonService.java:' + '74' , $tmp))) , $location_0[stackIndex] = 'FakePersonService.java:' + '69' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
 var categories_0, peopleMap;
+function FakePersonService$1(val$async, val$people){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = FakePersonService$1;
+  this.val$async2 = ($location_0[stackIndex] = 'FakePersonService.java:' + '69' , val$async);
+  this.val$people3 = val$people;
+  Timer.call(this);
+  $stackDepth_0 = stackIndex - 1;
+}
+
+defineClass(429, 103, {}, FakePersonService$1);
+_.run = function run_0(){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = run_0;
+  $onSuccess_0(($location_0[stackIndex] = 'FakePersonService.java:' + '72' , this.val$async2), ($tmp = this.val$people3 , $location_0[stackIndex] = 'PersonDataSource.java:' + '34' , $tmp));
+  $stackDepth_0 = stackIndex - 1;
+}
+;
+var Lgwt_material_design_sample_client_service_FakePersonService$1_2_classLit = createForClass('gwt.material.design.sample.client.service', 'FakePersonService/1', 429);
+function FakePersonService$2(val$async){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = FakePersonService$2;
+  this.val$async2 = ($location_0[stackIndex] = 'FakePersonService.java:' + '80' , val$async);
+  Timer.call(this);
+  $stackDepth_0 = stackIndex - 1;
+}
+
+defineClass(430, 103, {}, FakePersonService$2);
+_.run = function run_1(){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = run_1;
+  $onSuccess(($location_0[stackIndex] = 'FakePersonService.java:' + '83' , this.val$async2), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '15' , $clinit_FakePersonService() , ($location_0[stackIndex] = 'FakePersonService.java:' + '83' , categories_0)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '61' , $tmp));
+  $stackDepth_0 = stackIndex - 1;
+}
+;
+var Lgwt_material_design_sample_client_service_FakePersonService$2_2_classLit = createForClass('gwt.material.design.sample.client.service', 'FakePersonService/2', 430);
 function $lambda$0_3(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$0_3;
@@ -17186,7 +17237,7 @@ _.onLoad = function onLoad_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_11;
   ($location_0[stackIndex] = 'AbstractDataTable.java:' + '578' , ($location_0[stackIndex] = 'InfiniteTable.java:' + '58' , this.table).dataView).setLoadMask(true);
-  $onSuccess(new InfiniteTable$1(($tmp = this , $location_0[stackIndex] = 'InfiniteTable.java:' + '59' , $tmp)), ($tmp = ($location_0[stackIndex] = 'FakePersonService.java:' + '13' , $clinit_FakePersonService() , ($location_0[stackIndex] = 'FakePersonService.java:' + '71' , categories_0)) , $location_0[stackIndex] = 'InfiniteTable.java:' + '61' , $tmp));
+  $schedule(new FakePersonService$2(($tmp = new InfiniteTable$1(($tmp = this , $location_0[stackIndex] = 'InfiniteTable.java:' + '59' , $tmp)) , $location_0[stackIndex] = 'FakePersonService.java:' + '80' , $tmp)), ($tmp = min_0(200, nextInt(($tmp = 500 , $location_0[stackIndex] = 'FakePersonService.java:' + '85' , $tmp))) , $location_0[stackIndex] = 'FakePersonService.java:' + '80' , $tmp));
   $addColumn(($location_0[stackIndex] = 'InfiniteTable.java:' + '74' , this.table), new InfiniteTable$2);
   $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '90' , this.table), new InfiniteTable$3, 'First Name');
   $addColumn_0(($location_0[stackIndex] = 'InfiniteTable.java:' + '101' , this.table), new InfiniteTable$4, 'Last Name');
@@ -17333,7 +17384,7 @@ function InfiniteTable$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(586, $wnd.Function, {}, InfiniteTable$lambda$0$Type);
+defineClass(588, $wnd.Function, {}, InfiniteTable$lambda$0$Type);
 _.call_5 = function call_31(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_31;
@@ -17349,7 +17400,7 @@ function InfiniteTable$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(587, $wnd.Function, {}, InfiniteTable$lambda$1$Type);
+defineClass(589, $wnd.Function, {}, InfiniteTable$lambda$1$Type);
 _.call_8 = function call_32(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_32;
@@ -17365,7 +17416,7 @@ function InfiniteTable$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(588, $wnd.Function, {}, InfiniteTable$lambda$2$Type);
+defineClass(590, $wnd.Function, {}, InfiniteTable$lambda$2$Type);
 _.call_5 = function call_33(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_33;
@@ -17397,7 +17448,7 @@ function InfiniteTable$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(589, $wnd.Function, {}, InfiniteTable$lambda$4$Type);
+defineClass(591, $wnd.Function, {}, InfiniteTable$lambda$4$Type);
 _.call_5 = function call_34(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_34;
@@ -17416,7 +17467,7 @@ function $build_f_HTMLPanel1(this$static){
   $get(($tmp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '338' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '92' , this$static).domId2Element) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '92' , $tmp));
   ($location_0[stackIndex] = 'UiBinderUtil.java:' + '53' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '95' , __attachRecord__).origParent)?$insertBefore(($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '95' , __attachRecord__).origParent), ($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '95' , __attachRecord__).element), ($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '95' , __attachRecord__).origSibling)):orphan(($location_0[stackIndex] = 'UiBinderUtil.java:' + '56' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '95' , __attachRecord__).element));
   $addAndReplaceElement(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '97' , f_HTMLPanel1), (cbCategories = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '127' , new MaterialCheckBox) , $setTextOrHtml(($location_0[stackIndex] = 'BaseCheckBox.java:' + '433' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '129' , cbCategories).directionalTextHelper)) , $setValue(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '130' , cbCategories), ($tmp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true) , $location_0[stackIndex] = 'BaseCheckBox.java:' + '452' , $tmp)) , $addValueChangeHandler(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '131' , cbCategories), ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '131' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '97' , this$static).handlerMethodWithNameVeryUnlikelyToCollideWithUserFieldNames1)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '133' , cbCategories)), $get(($tmp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '141' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '97' , this$static).domId0Element) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '97' , $tmp)));
-  $addAndReplaceElement(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , f_HTMLPanel1), (table = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '174' , this$static.owner).table , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1642' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '613' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '177' , table).dataView).useCategories = true) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '613' , undefined) , $setSelectionType(($location_0[stackIndex] = 'AbstractDataTable.java:' + '413' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '178' , table).dataView), 2) , ($location_0[stackIndex] = 'InfiniteDataView.java:' + '520' , castTo(($location_0[stackIndex] = 'MaterialInfiniteDataTable.java:' + '54' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '179' , table).dataView), 103).indexOffset = 20) , $setUseStickyHeader(($location_0[stackIndex] = 'AbstractDataTable.java:' + '423' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '180' , table).dataView), true) , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1652' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '623' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '181' , table).dataView).useLoadOverlay = false) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '187' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).height_0 = 'calc(100vh - 131px)') , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '190' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).setup) && $(($tmp = ($location_0[stackIndex] = 'TableScaffolding.java:' + '55' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '191' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).scaffolding).tableBody) , $location_0[stackIndex] = 'AbstractDataTable.java:' + '191' , $tmp)).height('calc(100vh - 131px)') , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '184' , table)), $get(($tmp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '192' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , this$static).domId1Element) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , $tmp)));
+  $addAndReplaceElement(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , f_HTMLPanel1), (table = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '174' , this$static.owner).table , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1642' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '613' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '177' , table).dataView).useCategories = true) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '613' , undefined) , $setSelectionType(($location_0[stackIndex] = 'AbstractDataTable.java:' + '413' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '178' , table).dataView), 2) , ($location_0[stackIndex] = 'InfiniteDataView.java:' + '520' , castTo(($location_0[stackIndex] = 'MaterialInfiniteDataTable.java:' + '54' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '179' , table).dataView), 104).indexOffset = 20) , $setUseStickyHeader(($location_0[stackIndex] = 'AbstractDataTable.java:' + '423' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '180' , table).dataView), true) , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1652' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '623' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '181' , table).dataView).useLoadOverlay = false) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '187' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).height_0 = 'calc(100vh - 131px)') , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '190' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).setup) && $(($tmp = ($location_0[stackIndex] = 'TableScaffolding.java:' + '55' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '191' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '182' , table).scaffolding).tableBody) , $location_0[stackIndex] = 'AbstractDataTable.java:' + '191' , $tmp)).height('calc(100vh - 131px)') , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '184' , table)), $get(($tmp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '192' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , this$static).domId1Element) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '98' , $tmp)));
   $addAndReplaceElement(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '99' , f_HTMLPanel1), (materialPopupMenu = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '225' , new MaterialPopupMenu) , $add_8(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '227' , materialPopupMenu), ($tmp = (f_MaterialLink2 = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '246' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '248' , f_MaterialLink2).element_0).style)['padding'] = ($location_0[stackIndex] = 'MaterialWidget.java:' + '410' , $clinit_Style$Unit() , '12.0px')) , $setIconType(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '249' , f_MaterialLink2), ($location_0[stackIndex] = 'IconType.java:' + '220' , $clinit_IconType() , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '249' , CONTENT_COPY))) , $setDisplay(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '250' , f_MaterialLink2), ($location_0[stackIndex] = 'Display.java:' + '32' , $clinit_Display() , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '250' , BLOCK_0))) , $setText_0(($location_0[stackIndex] = 'AbstractButton.java:' + '170' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '251' , f_MaterialLink2).span_0), 'Copy') , $add_3(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '251' , f_MaterialLink2), ($location_0[stackIndex] = 'AbstractButton.java:' + '171' , f_MaterialLink2.span_0)) , $setTextColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '252' , f_MaterialLink2).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '252' , f_MaterialLink2).colorsMixin_0 = new ColorsMixin(($tmp = f_MaterialLink2 , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '252' , f_MaterialLink2).colorsMixin_0)), ($tmp = 'black' , $location_0[stackIndex] = 'MaterialWidget.java:' + '335' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '254' , f_MaterialLink2)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '227' , $tmp)) , $add_8(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '228' , materialPopupMenu), ($tmp = (f_MaterialLink3 = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '265' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '267' , f_MaterialLink3).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '268' , f_MaterialLink3), CONTENT_PASTE) , $setDisplay(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '269' , f_MaterialLink3), BLOCK_0) , $setText_0(($location_0[stackIndex] = 'AbstractButton.java:' + '170' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '270' , f_MaterialLink3).span_0), 'Paste') , $add_3(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '270' , f_MaterialLink3), ($location_0[stackIndex] = 'AbstractButton.java:' + '171' , f_MaterialLink3.span_0)) , $setTextColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '271' , f_MaterialLink3).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '271' , f_MaterialLink3).colorsMixin_0 = new ColorsMixin(($tmp = f_MaterialLink3 , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '271' , f_MaterialLink3).colorsMixin_0)), ($tmp = 'black' , $location_0[stackIndex] = 'MaterialWidget.java:' + '335' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '273' , f_MaterialLink3)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '228' , $tmp)) , $add_8(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '229' , materialPopupMenu), ($tmp = (f_MaterialLink4 = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '284' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '286' , f_MaterialLink4).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '287' , f_MaterialLink4), SELECT_ALL) , $setDisplay(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '288' , f_MaterialLink4), BLOCK_0) , $setText_0(($location_0[stackIndex] = 'AbstractButton.java:' + '170' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '289' , f_MaterialLink4).span_0), 'Select All') , $add_3(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '289' , f_MaterialLink4), ($location_0[stackIndex] = 'AbstractButton.java:' + '171' , f_MaterialLink4.span_0)) , $setTextColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '290' , f_MaterialLink4).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '290' , f_MaterialLink4).colorsMixin_0 = new ColorsMixin(($tmp = f_MaterialLink4 , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '290' , f_MaterialLink4).colorsMixin_0)), ($tmp = 'black' , $location_0[stackIndex] = 'MaterialWidget.java:' + '335' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '292' , f_MaterialLink4)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '229' , $tmp)) , $add_8(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '230' , materialPopupMenu), ($tmp = (f_MaterialLink5 = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '303' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '305' , f_MaterialLink5).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '306' , f_MaterialLink5), EDIT) , $setDisplay(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '307' , f_MaterialLink5), BLOCK_0) , $setText_0(($location_0[stackIndex] = 'AbstractButton.java:' + '170' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '308' , f_MaterialLink5).span_0), 'Rename') , $add_3(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '308' , f_MaterialLink5), ($location_0[stackIndex] = 'AbstractButton.java:' + '171' , f_MaterialLink5.span_0)) , $setTextColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '309' , f_MaterialLink5).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '309' , f_MaterialLink5).colorsMixin_0 = new ColorsMixin(($tmp = f_MaterialLink5 , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '309' , f_MaterialLink5).colorsMixin_0)), ($tmp = 'black' , $location_0[stackIndex] = 'MaterialWidget.java:' + '335' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '311' , f_MaterialLink5)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '230' , $tmp)) , $add_8(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '231' , materialPopupMenu), ($tmp = (f_MaterialLink6 = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '322' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '324' , f_MaterialLink6).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '325' , f_MaterialLink6), STAR) , $setDisplay(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '326' , f_MaterialLink6), BLOCK_0) , $setText_0(($location_0[stackIndex] = 'AbstractButton.java:' + '170' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '327' , f_MaterialLink6).span_0), 'Add Star') , $add_3(($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '327' , f_MaterialLink6), ($location_0[stackIndex] = 'AbstractButton.java:' + '171' , f_MaterialLink6.span_0)) , $setTextColor((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '204' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '328' , f_MaterialLink6).colorsMixin_0)) && (($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '328' , f_MaterialLink6).colorsMixin_0 = new ColorsMixin(($tmp = f_MaterialLink6 , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '205' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '328' , f_MaterialLink6).colorsMixin_0)), ($tmp = 'black' , $location_0[stackIndex] = 'MaterialWidget.java:' + '335' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '330' , f_MaterialLink6)) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '231' , $tmp)) , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '233' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '99' , this$static).owner).materialPopupMenu = materialPopupMenu , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '235' , materialPopupMenu)), $get(($tmp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '338' , ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '99' , this$static).domId2Element) , $location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '99' , $tmp)));
   returnTemp = ($location_0[stackIndex] = 'InfiniteTable_InfiniteGridUiBinderImpl.java:' + '101' , f_HTMLPanel1);
   $stackDepth_0 = stackIndex - 1;
@@ -17437,8 +17488,8 @@ function InfiniteTable_InfiniteGridUiBinderImpl$Widgets(owner){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(438, 1, {}, InfiniteTable_InfiniteGridUiBinderImpl$Widgets);
-var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets', 438);
+defineClass(440, 1, {}, InfiniteTable_InfiniteGridUiBinderImpl$Widgets);
+var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets', 440);
 function InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1;
@@ -17446,7 +17497,7 @@ function InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(439, 1, $intern_33, InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1);
+defineClass(441, 1, $intern_33, InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1);
 _.onValueChange = function onValueChange_4(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_4;
@@ -17454,7 +17505,7 @@ _.onValueChange = function onValueChange_4(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets/1', 439);
+var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets/1', 441);
 function $html1(arg0, arg1, arg2){
   var sb, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $html1;
@@ -17830,10 +17881,10 @@ function PageTable$7(val$rowExpand, val$section){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(415, 140, {}, PageTable$7);
-_.run = function run_0(){
+defineClass(415, 103, {}, PageTable$7);
+_.run = function run_2(){
   var badge, btn, content_0, icon, textBox, stackIndex;
-  $stack_0[stackIndex = ++$stackDepth_0] = run_0;
+  $stack_0[stackIndex = ++$stackDepth_0] = run_2;
   content_0 = new MaterialWidget(($tmp = ($location_0[stackIndex] = 'RowExpand.java:' + '43' , ($location_0[stackIndex] = 'PageTable.java:' + '201' , this.val$rowExpand2).row).find(($tmp = '.content' , $location_0[stackIndex] = 'PageTable.java:' + '201' , $tmp)).empty().get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'PageTable.java:' + '200' , $tmp));
   badge = ($location_0[stackIndex] = 'PageTable.java:' + '204' , new MaterialBadge_0);
   $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'PageTable.java:' + '205' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'PageTable.java:' + '205' , $clinit_Style$Position() , 'relative');
@@ -17860,7 +17911,7 @@ var Lgwt_material_design_sample_client_ui_PageTable$7_2_classLit = createForClas
 function PageTable$lambda$0$Type(){
 }
 
-defineClass(590, $wnd.Function, {}, PageTable$lambda$0$Type);
+defineClass(592, $wnd.Function, {}, PageTable$lambda$0$Type);
 _.call_3 = function call_35(arg0, arg1){
   var section, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_35;
@@ -17872,7 +17923,7 @@ _.call_3 = function call_35(arg0, arg1){
 function PageTable$lambda$1$Type(){
 }
 
-defineClass(591, $wnd.Function, {}, PageTable$lambda$1$Type);
+defineClass(593, $wnd.Function, {}, PageTable$lambda$1$Type);
 _.call_5 = function call_36(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_36;
@@ -17888,7 +17939,7 @@ function PageTable$lambda$10$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(599, $wnd.Function, {}, PageTable$lambda$10$Type);
+defineClass(601, $wnd.Function, {}, PageTable$lambda$10$Type);
 _.call_5 = function call_37(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_37;
@@ -17904,7 +17955,7 @@ function PageTable$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(592, $wnd.Function, {}, PageTable$lambda$2$Type);
+defineClass(594, $wnd.Function, {}, PageTable$lambda$2$Type);
 _.call_8 = function call_38(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_38;
@@ -17916,7 +17967,7 @@ _.call_8 = function call_38(arg0, arg1, arg2){
 function PageTable$lambda$3$Type(){
 }
 
-defineClass(593, $wnd.Function, {}, PageTable$lambda$3$Type);
+defineClass(595, $wnd.Function, {}, PageTable$lambda$3$Type);
 _.call_8 = function call_39(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_39;
@@ -17928,7 +17979,7 @@ _.call_8 = function call_39(arg0, arg1, arg2){
 function PageTable$lambda$4$Type(){
 }
 
-defineClass(594, $wnd.Function, {}, PageTable$lambda$4$Type);
+defineClass(596, $wnd.Function, {}, PageTable$lambda$4$Type);
 _.call_3 = function call_40(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_40;
@@ -17940,7 +17991,7 @@ _.call_3 = function call_40(arg0, arg1){
 function PageTable$lambda$5$Type(){
 }
 
-defineClass(595, $wnd.Function, {}, PageTable$lambda$5$Type);
+defineClass(597, $wnd.Function, {}, PageTable$lambda$5$Type);
 _.call_3 = function call_41(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_41;
@@ -17952,7 +18003,7 @@ _.call_3 = function call_41(arg0, arg1){
 function PageTable$lambda$6$Type(){
 }
 
-defineClass(596, $wnd.Function, {}, PageTable$lambda$6$Type);
+defineClass(598, $wnd.Function, {}, PageTable$lambda$6$Type);
 _.call_5 = function call_42(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_42;
@@ -17964,7 +18015,7 @@ _.call_5 = function call_42(arg0, arg1, arg2, arg3){
 function PageTable$lambda$7$Type(){
 }
 
-defineClass(597, $wnd.Function, {}, PageTable$lambda$7$Type);
+defineClass(599, $wnd.Function, {}, PageTable$lambda$7$Type);
 _.call_5 = function call_43(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_43;
@@ -17976,7 +18027,7 @@ _.call_5 = function call_43(arg0, arg1, arg2, arg3){
 function PageTable$lambda$8$Type(){
 }
 
-defineClass(598, $wnd.Function, {}, PageTable$lambda$8$Type);
+defineClass(600, $wnd.Function, {}, PageTable$lambda$8$Type);
 _.call_5 = function call_44(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_44;
@@ -18037,8 +18088,8 @@ function PageTable_PageGridUiBinderImpl$Widgets(owner){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(440, 1, {}, PageTable_PageGridUiBinderImpl$Widgets);
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets', 440);
+defineClass(442, 1, {}, PageTable_PageGridUiBinderImpl$Widgets);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets', 442);
 function PageTable_PageGridUiBinderImpl$Widgets$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable_PageGridUiBinderImpl$Widgets$1;
@@ -18046,7 +18097,7 @@ function PageTable_PageGridUiBinderImpl$Widgets$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(441, 1, $intern_32, PageTable_PageGridUiBinderImpl$Widgets$1);
+defineClass(443, 1, $intern_32, PageTable_PageGridUiBinderImpl$Widgets$1);
 _.onClick = function onClick_9(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_9;
@@ -18054,7 +18105,7 @@ _.onClick = function onClick_9(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/1', 441);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/1', 443);
 function PageTable_PageGridUiBinderImpl$Widgets$2(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable_PageGridUiBinderImpl$Widgets$2;
@@ -18062,7 +18113,7 @@ function PageTable_PageGridUiBinderImpl$Widgets$2(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(442, 1, $intern_32, PageTable_PageGridUiBinderImpl$Widgets$2);
+defineClass(444, 1, $intern_32, PageTable_PageGridUiBinderImpl$Widgets$2);
 _.onClick = function onClick_10(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_10;
@@ -18070,7 +18121,7 @@ _.onClick = function onClick_10(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/2', 442);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/2', 444);
 function $html1_0(arg0, arg1, arg2, arg3){
   var sb, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $html1_0;
@@ -18453,10 +18504,10 @@ function StandardTable$7(val$rowExpand, val$section){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(396, 140, {}, StandardTable$7);
-_.run = function run_1(){
+defineClass(396, 103, {}, StandardTable$7);
+_.run = function run_3(){
   var badge, btn, content_0, icon, textBox, stackIndex;
-  $stack_0[stackIndex = ++$stackDepth_0] = run_1;
+  $stack_0[stackIndex = ++$stackDepth_0] = run_3;
   content_0 = new MaterialWidget(($tmp = ($location_0[stackIndex] = 'RowExpand.java:' + '43' , ($location_0[stackIndex] = 'StandardTable.java:' + '211' , this.val$rowExpand2).row).find(($tmp = '.content' , $location_0[stackIndex] = 'StandardTable.java:' + '211' , $tmp)).empty().get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '84' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '210' , $tmp));
   badge = ($location_0[stackIndex] = 'StandardTable.java:' + '214' , new MaterialBadge_0);
   $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '215' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'StandardTable.java:' + '215' , $clinit_Style$Position() , 'relative');
@@ -18500,7 +18551,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$CustomCategoryComponent_
 function StandardTable$lambda$0$Type(){
 }
 
-defineClass(576, $wnd.Function, {}, StandardTable$lambda$0$Type);
+defineClass(578, $wnd.Function, {}, StandardTable$lambda$0$Type);
 _.call_3 = function call_45(arg0, arg1){
   var section, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_45;
@@ -18512,7 +18563,7 @@ _.call_3 = function call_45(arg0, arg1){
 function StandardTable$lambda$1$Type(){
 }
 
-defineClass(577, $wnd.Function, {}, StandardTable$lambda$1$Type);
+defineClass(579, $wnd.Function, {}, StandardTable$lambda$1$Type);
 _.call_5 = function call_46(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_46;
@@ -18528,7 +18579,7 @@ function StandardTable$lambda$10$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(585, $wnd.Function, {}, StandardTable$lambda$10$Type);
+defineClass(587, $wnd.Function, {}, StandardTable$lambda$10$Type);
 _.call_5 = function call_47(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_47;
@@ -18544,7 +18595,7 @@ function StandardTable$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(578, $wnd.Function, {}, StandardTable$lambda$2$Type);
+defineClass(580, $wnd.Function, {}, StandardTable$lambda$2$Type);
 _.call_8 = function call_48(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_48;
@@ -18556,7 +18607,7 @@ _.call_8 = function call_48(arg0, arg1, arg2){
 function StandardTable$lambda$3$Type(){
 }
 
-defineClass(579, $wnd.Function, {}, StandardTable$lambda$3$Type);
+defineClass(581, $wnd.Function, {}, StandardTable$lambda$3$Type);
 _.call_8 = function call_49(arg0, arg1, arg2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_49;
@@ -18568,7 +18619,7 @@ _.call_8 = function call_49(arg0, arg1, arg2){
 function StandardTable$lambda$4$Type(){
 }
 
-defineClass(580, $wnd.Function, {}, StandardTable$lambda$4$Type);
+defineClass(582, $wnd.Function, {}, StandardTable$lambda$4$Type);
 _.call_3 = function call_50(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_50;
@@ -18580,7 +18631,7 @@ _.call_3 = function call_50(arg0, arg1){
 function StandardTable$lambda$5$Type(){
 }
 
-defineClass(581, $wnd.Function, {}, StandardTable$lambda$5$Type);
+defineClass(583, $wnd.Function, {}, StandardTable$lambda$5$Type);
 _.call_3 = function call_51(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_51;
@@ -18592,7 +18643,7 @@ _.call_3 = function call_51(arg0, arg1){
 function StandardTable$lambda$6$Type(){
 }
 
-defineClass(582, $wnd.Function, {}, StandardTable$lambda$6$Type);
+defineClass(584, $wnd.Function, {}, StandardTable$lambda$6$Type);
 _.call_5 = function call_52(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_52;
@@ -18604,7 +18655,7 @@ _.call_5 = function call_52(arg0, arg1, arg2, arg3){
 function StandardTable$lambda$7$Type(){
 }
 
-defineClass(583, $wnd.Function, {}, StandardTable$lambda$7$Type);
+defineClass(585, $wnd.Function, {}, StandardTable$lambda$7$Type);
 _.call_5 = function call_53(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_53;
@@ -18616,7 +18667,7 @@ _.call_5 = function call_53(arg0, arg1, arg2, arg3){
 function StandardTable$lambda$8$Type(){
 }
 
-defineClass(584, $wnd.Function, {}, StandardTable$lambda$8$Type);
+defineClass(586, $wnd.Function, {}, StandardTable$lambda$8$Type);
 _.call_5 = function call_54(arg0, arg1, arg2, arg3){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_54;
@@ -18724,8 +18775,15 @@ function $load(dataView, startIndex, viewSize, categories){
 function PersonDataSource(){
 }
 
-defineClass(143, 558, {143:1}, PersonDataSource);
+defineClass(143, 560, {143:1}, PersonDataSource);
 var Lgwt_material_design_sample_client_ui_datasource_PersonDataSource_2_classLit = createForClass('gwt.material.design.sample.client.ui.datasource', 'PersonDataSource', 143);
+function $onSuccess_0(this$static, people){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = $onSuccess_0;
+  $loaded(($location_0[stackIndex] = 'PersonDataSource.java:' + '35' , this$static).val$dataView2, this$static.val$startIndex3, people, ($location_0[stackIndex] = 'People.java:' + '18' , people.absoluteTotal), ($tmp = true , $location_0[stackIndex] = 'PersonDataSource.java:' + '35' , $tmp));
+  $stackDepth_0 = stackIndex - 1;
+}
+
 function PersonDataSource$1(val$dataView, val$startIndex){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PersonDataSource$1;
@@ -18892,7 +18950,7 @@ function MaterialPopupMenu$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(605, $wnd.Function, {}, MaterialPopupMenu$lambda$0$Type);
+defineClass(607, $wnd.Function, {}, MaterialPopupMenu$lambda$0$Type);
 _.call_0 = function call_55(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_55;
@@ -18908,7 +18966,7 @@ function MaterialPopupMenu$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(606, $wnd.Function, {}, MaterialPopupMenu$lambda$1$Type);
+defineClass(608, $wnd.Function, {}, MaterialPopupMenu$lambda$1$Type);
 _.call_0 = function call_56(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_56;
@@ -18924,7 +18982,7 @@ function MaterialPopupMenu$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(607, $wnd.Function, {}, MaterialPopupMenu$lambda$2$Type);
+defineClass(609, $wnd.Function, {}, MaterialPopupMenu$lambda$2$Type);
 _.call_0 = function call_57(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_57;
@@ -18936,7 +18994,7 @@ _.call_0 = function call_57(arg0){
 function MaterialPopupMenu$lambda$3$Type(){
 }
 
-defineClass(608, $wnd.Function, {}, MaterialPopupMenu$lambda$3$Type);
+defineClass(610, $wnd.Function, {}, MaterialPopupMenu$lambda$3$Type);
 _.call_3 = function call_58(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_58;
@@ -18948,7 +19006,7 @@ _.call_3 = function call_58(arg0, arg1){
 function MaterialPopupMenu$lambda$4$Type(){
 }
 
-defineClass(609, $wnd.Function, {}, MaterialPopupMenu$lambda$4$Type);
+defineClass(611, $wnd.Function, {}, MaterialPopupMenu$lambda$4$Type);
 _.call_3 = function call_59(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_59;
@@ -18977,7 +19035,7 @@ function $clinit_MaterialPopupMenuClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle;
   $clinit_MaterialPopupMenuClientBundle = ($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '32' , emptyMethod);
-  INSTANCE_7 = castTo(($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '34' , create_gwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle()), 525);
+  INSTANCE_7 = castTo(($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '34' , create_gwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle()), 527);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18985,7 +19043,7 @@ var INSTANCE_7;
 function MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(507, 1, {525:1}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator);
+defineClass(509, 1, {527:1}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator);
 _.menuCss = function menuCss_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = menuCss_0;
@@ -18995,11 +19053,11 @@ _.menuCss = function menuCss_0(){
 }
 ;
 var menuCss;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator', 507);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator', 509);
 function MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1(){
 }
 
-defineClass(508, 1, {}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1);
+defineClass(510, 1, {}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1);
 _.getName = function getName_25(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_25;
@@ -19014,7 +19072,7 @@ _.getText = function getText_25(){
   return '.popup-menu {\n    position: absolute;\n    background-color: white;\n    width: 280px;\n    z-index: 999;\n    max-height: 70vh !important;\n}\n\n.popup-menu li a, .popup-menu ul.dropdown-content li a {\n    font-size: 1em;\n}\n\n.popup-menu li:hover {\n    background: #e9e9e9;\n}\n\n.popup-menu li {\n    position: relative;\n}\n\n.popup-menu ul.dropdown-content {\n    position: absolute !important;\n    overflow: visible !important;\n    left: 280px !important;\n    top: 0px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-left {\n    left: -280px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-bottom {\n    bottom: 0;\n    top: initial !important;\n}\n';
 }
 ;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator/1', 508);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator/1', 510);
 function $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$menuCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$menuCssInitializer;
@@ -19026,7 +19084,7 @@ function $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerat
 function MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(505, 1, {525:1}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator);
+defineClass(507, 1, {527:1}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator);
 _.menuCss = function menuCss_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = menuCss_2;
@@ -19036,11 +19094,11 @@ _.menuCss = function menuCss_2(){
 }
 ;
 var menuCss_1;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator', 505);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator', 507);
 function MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1(){
 }
 
-defineClass(506, 1, {}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1);
+defineClass(508, 1, {}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1);
 _.getName = function getName_26(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_26;
@@ -19055,7 +19113,7 @@ _.getText = function getText_26(){
   return '.popup-menu {\n    position: absolute;\n    background-color: white;\n    width: 280px;\n    z-index: 999;\n    max-height: 70vh !important;\n}\n\n.popup-menu li a, .popup-menu ul.dropdown-content li a {\n    font-size: 1em;\n}\n\n.popup-menu li:hover {\n    background: #e9e9e9;\n}\n\n.popup-menu li {\n    position: relative;\n}\n\n.popup-menu ul.dropdown-content {\n    position: absolute !important;\n    overflow: visible !important;\n    left: 280px !important;\n    top: 0px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-left {\n    left: -280px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-bottom {\n    bottom: 0;\n    top: initial !important;\n}\n';
 }
 ;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator/1', 506);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator/1', 508);
 function $clinit_MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$menuCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$menuCssInitializer;
@@ -19089,7 +19147,7 @@ function $clinit_DataTableClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DataTableClientBundle;
   $clinit_DataTableClientBundle = ($location_0[stackIndex] = 'DataTableClientBundle.java:' + '32' , emptyMethod);
-  INSTANCE_8 = castTo(($location_0[stackIndex] = 'DataTableClientBundle.java:' + '34' , create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle()), 518);
+  INSTANCE_8 = castTo(($location_0[stackIndex] = 'DataTableClientBundle.java:' + '34' , create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle()), 520);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -19097,7 +19155,7 @@ var INSTANCE_8;
 function DataTableClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(235, 1, {518:1}, DataTableClientBundle_default_InlineClientBundleGenerator);
+defineClass(235, 1, {520:1}, DataTableClientBundle_default_InlineClientBundleGenerator);
 _.dataTable = function dataTable_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataTable_0;
@@ -19138,7 +19196,7 @@ function $clinit_DataTableClientBundle_default_InlineClientBundleGenerator$dataT
 function DataTableClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(233, 1, {518:1}, DataTableClientBundle_en_InlineClientBundleGenerator);
+defineClass(233, 1, {520:1}, DataTableClientBundle_en_InlineClientBundleGenerator);
 _.dataTable = function dataTable_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataTable_2;
@@ -19190,9 +19248,9 @@ function People(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(497, 26, $intern_39, People);
+defineClass(499, 26, $intern_39, People);
 _.absoluteTotal = 0;
-var Lgwt_material_design_sample_shared_model_People_2_classLit = createForClass('gwt.material.design.sample.shared.model', 'People', 497);
+var Lgwt_material_design_sample_shared_model_People_2_classLit = createForClass('gwt.material.design.sample.shared.model', 'People', 499);
 function Person(id_0, firstName, lastName, phone, category){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Person;
@@ -19205,7 +19263,7 @@ function Person(id_0, firstName, lastName, phone, category){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(16, 1, {567:1, 16:1, 4:1}, Person);
+defineClass(16, 1, {569:1, 16:1, 4:1}, Person);
 _.equals_0 = function equals_16(o){
   var person, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_16;
@@ -19261,7 +19319,7 @@ function AbstractStringBuilder(string){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(139, 1, {205:1});
+defineClass(140, 1, {205:1});
 _.toString_0 = function toString_12(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_12;
@@ -19270,7 +19328,7 @@ _.toString_0 = function toString_12(){
   return returnTemp;
 }
 ;
-var Ljava_lang_AbstractStringBuilder_2_classLit = createForClass('java.lang', 'AbstractStringBuilder', 139);
+var Ljava_lang_AbstractStringBuilder_2_classLit = createForClass('java.lang', 'AbstractStringBuilder', 140);
 function IndexOutOfBoundsException(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = IndexOutOfBoundsException;
@@ -19285,8 +19343,8 @@ function IndexOutOfBoundsException_0(message){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(42, 41, $intern_45, IndexOutOfBoundsException, IndexOutOfBoundsException_0);
-var Ljava_lang_IndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'IndexOutOfBoundsException', 42);
+defineClass(43, 41, $intern_45, IndexOutOfBoundsException, IndexOutOfBoundsException_0);
+var Ljava_lang_IndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'IndexOutOfBoundsException', 43);
 function ArrayIndexOutOfBoundsException(msg){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ArrayIndexOutOfBoundsException;
@@ -19294,8 +19352,8 @@ function ArrayIndexOutOfBoundsException(msg){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(486, 42, $intern_45, ArrayIndexOutOfBoundsException);
-var Ljava_lang_ArrayIndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'ArrayIndexOutOfBoundsException', 486);
+defineClass(494, 43, $intern_45, ArrayIndexOutOfBoundsException);
+var Ljava_lang_ArrayIndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'ArrayIndexOutOfBoundsException', 494);
 function ArrayStoreException(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ArrayStoreException;
@@ -19407,8 +19465,8 @@ function __parseAndValidateInt(s){
   return returnTemp;
 }
 
-defineClass(134, 1, {4:1, 134:1});
-var Ljava_lang_Number_2_classLit = createForClass('java.lang', 'Number', 134);
+defineClass(135, 1, {4:1, 135:1});
+var Ljava_lang_Number_2_classLit = createForClass('java.lang', 'Number', 135);
 function $compareTo_1(this$static, b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $compareTo_1;
@@ -19518,7 +19576,7 @@ function valueOf_1(i){
   return returnTemp;
 }
 
-defineClass(63, 134, {4:1, 6:1, 63:1, 134:1}, Integer);
+defineClass(63, 135, {4:1, 6:1, 63:1, 135:1}, Integer);
 _.compareTo = function compareTo_0(b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compareTo_0;
@@ -19600,7 +19658,7 @@ function NullPointerException_0(message){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(68, 135, $intern_4, NullPointerException, NullPointerException_0);
+defineClass(68, 136, $intern_4, NullPointerException, NullPointerException_0);
 _.createError = function createError_0(msg){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createError_0;
@@ -19617,8 +19675,8 @@ function NumberFormatException(message){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(122, 52, $intern_4, NumberFormatException);
-var Ljava_lang_NumberFormatException_2_classLit = createForClass('java.lang', 'NumberFormatException', 122);
+defineClass(123, 52, $intern_4, NumberFormatException);
+var Ljava_lang_NumberFormatException_2_classLit = createForClass('java.lang', 'NumberFormatException', 123);
 function StackTraceElement(methodName, fileName, lineNumber){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StackTraceElement;
@@ -19709,8 +19767,8 @@ function StringBuilder_1(s){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(45, 139, {205:1}, StringBuilder, StringBuilder_0, StringBuilder_1);
-var Ljava_lang_StringBuilder_2_classLit = createForClass('java.lang', 'StringBuilder', 45);
+defineClass(42, 140, {205:1}, StringBuilder, StringBuilder_0, StringBuilder_1);
+var Ljava_lang_StringBuilder_2_classLit = createForClass('java.lang', 'StringBuilder', 42);
 function $clinit_System(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_System;
@@ -19790,7 +19848,7 @@ function getEntryValueOrNull(entry){
   return returnTemp;
 }
 
-defineClass(547, 1, $intern_46);
+defineClass(549, 1, $intern_46);
 _.containsEntry = function containsEntry(entry){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsEntry;
@@ -19893,7 +19951,7 @@ _.toString_0 = function toString_19(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractMap_2_classLit = createForClass('java.util', 'AbstractMap', 547);
+var Ljava_util_AbstractMap_2_classLit = createForClass('java.util', 'AbstractMap', 549);
 function $containsKey(this$static, key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $containsKey;
@@ -19960,7 +20018,7 @@ function $size(this$static){
   return returnTemp;
 }
 
-defineClass(290, 547, $intern_46);
+defineClass(290, 549, $intern_46);
 _.containsKey = function containsKey_0(key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsKey_0;
@@ -20010,7 +20068,7 @@ _.size_1 = function size_3(){
 }
 ;
 var Ljava_util_AbstractHashMap_2_classLit = createForClass('java.util', 'AbstractHashMap', 290);
-defineClass(546, 540, $intern_47);
+defineClass(548, 542, $intern_47);
 _.equals_0 = function equals_21(o){
   var other, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_21;
@@ -20040,7 +20098,7 @@ _.hashCode_0 = function hashCode_13(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractSet_2_classLit = createForClass('java.util', 'AbstractSet', 546);
+var Ljava_util_AbstractSet_2_classLit = createForClass('java.util', 'AbstractSet', 548);
 function $contains(this$static, o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $contains;
@@ -20060,7 +20118,7 @@ function AbstractHashMap$EntrySet(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(110, 546, $intern_47, AbstractHashMap$EntrySet);
+defineClass(111, 548, $intern_47, AbstractHashMap$EntrySet);
 _.contains_0 = function contains_1(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_1;
@@ -20098,7 +20156,7 @@ _.size_1 = function size_4(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractHashMap$EntrySet_2_classLit = createForClass('java.util', 'AbstractHashMap/EntrySet', 110);
+var Ljava_util_AbstractHashMap$EntrySet_2_classLit = createForClass('java.util', 'AbstractHashMap/EntrySet', 111);
 function $computeHasNext(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $computeHasNext;
@@ -20154,7 +20212,7 @@ function AbstractHashMap$EntrySetIterator(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(111, 1, {}, AbstractHashMap$EntrySetIterator);
+defineClass(112, 1, {}, AbstractHashMap$EntrySetIterator);
 _.next_0 = function next_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = next_1;
@@ -20179,7 +20237,7 @@ _.remove_1 = function remove_11(){
 }
 ;
 _.hasNext = false;
-var Ljava_util_AbstractHashMap$EntrySetIterator_2_classLit = createForClass('java.util', 'AbstractHashMap/EntrySetIterator', 111);
+var Ljava_util_AbstractHashMap$EntrySetIterator_2_classLit = createForClass('java.util', 'AbstractHashMap/EntrySetIterator', 112);
 function $hasNext(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $hasNext;
@@ -20251,7 +20309,7 @@ function AbstractList$ListIteratorImpl(this$0, start_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(137, 161, {}, AbstractList$ListIteratorImpl);
+defineClass(138, 161, {}, AbstractList$ListIteratorImpl);
 _.hasPrevious = function hasPrevious(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = hasPrevious;
@@ -20269,7 +20327,7 @@ _.previous = function previous_0(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractList$ListIteratorImpl_2_classLit = createForClass('java.util', 'AbstractList/ListIteratorImpl', 137);
+var Ljava_util_AbstractList$ListIteratorImpl_2_classLit = createForClass('java.util', 'AbstractList/ListIteratorImpl', 138);
 function AbstractList$SubList(wrapped, fromIndex, toIndex){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractList$SubList;
@@ -20280,7 +20338,7 @@ function AbstractList$SubList(wrapped, fromIndex, toIndex){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(240, 541, $intern_38, AbstractList$SubList);
+defineClass(240, 543, $intern_38, AbstractList$SubList);
 _.add_1 = function add_7(index_0, element){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_7;
@@ -20337,7 +20395,7 @@ function AbstractMap$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(289, 546, $intern_47, AbstractMap$1);
+defineClass(289, 548, $intern_47, AbstractMap$1);
 _.contains_0 = function contains_2(key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_2;
@@ -20418,7 +20476,7 @@ function $setValue_0(this$static, value_0){
   return returnTemp;
 }
 
-defineClass(112, 1, {112:1, 33:1});
+defineClass(113, 1, {113:1, 33:1});
 _.equals_0 = function equals_22(other){
   var entry, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_22;
@@ -20472,7 +20530,7 @@ _.toString_0 = function toString_20(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractMap$AbstractEntry_2_classLit = createForClass('java.util', 'AbstractMap/AbstractEntry', 112);
+var Ljava_util_AbstractMap$AbstractEntry_2_classLit = createForClass('java.util', 'AbstractMap/AbstractEntry', 113);
 function AbstractMap$SimpleEntry(key, value_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractMap$SimpleEntry;
@@ -20481,9 +20539,9 @@ function AbstractMap$SimpleEntry(key, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(94, 112, {112:1, 94:1, 33:1}, AbstractMap$SimpleEntry);
+defineClass(94, 113, {113:1, 94:1, 33:1}, AbstractMap$SimpleEntry);
 var Ljava_util_AbstractMap$SimpleEntry_2_classLit = createForClass('java.util', 'AbstractMap/SimpleEntry', 94);
-defineClass(551, 1, {33:1});
+defineClass(553, 1, {33:1});
 _.equals_0 = function equals_23(other){
   var entry, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_23;
@@ -20513,7 +20571,7 @@ _.toString_0 = function toString_21(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractMapEntry_2_classLit = createForClass('java.util', 'AbstractMapEntry', 551);
+var Ljava_util_AbstractMapEntry_2_classLit = createForClass('java.util', 'AbstractMapEntry', 553);
 function $containsEntry_0(this$static, entry){
   var key, lookupEntry, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $containsEntry_0;
@@ -20532,7 +20590,7 @@ function $containsKey_0(this$static, k){
   return returnTemp;
 }
 
-defineClass(562, 547, $intern_46);
+defineClass(564, 549, $intern_46);
 _.containsEntry = function containsEntry_0(entry){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsEntry_0;
@@ -20565,7 +20623,7 @@ _.get_1 = function get_5(k){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractNavigableMap_2_classLit = createForClass('java.util', 'AbstractNavigableMap', 562);
+var Ljava_util_AbstractNavigableMap_2_classLit = createForClass('java.util', 'AbstractNavigableMap', 564);
 function AbstractNavigableMap$EntrySet(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractNavigableMap$EntrySet;
@@ -20573,7 +20631,7 @@ function AbstractNavigableMap$EntrySet(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(197, 546, $intern_47, AbstractNavigableMap$EntrySet);
+defineClass(197, 548, $intern_47, AbstractNavigableMap$EntrySet);
 _.contains_0 = function contains_3(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_3;
@@ -20619,7 +20677,7 @@ function AbstractNavigableMap$NavigableKeySet(map_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(198, 546, $intern_47, AbstractNavigableMap$NavigableKeySet);
+defineClass(198, 548, $intern_47, AbstractNavigableMap$NavigableKeySet);
 _.contains_0 = function contains_4(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_4;
@@ -20860,7 +20918,7 @@ function unmodifiableList(list){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = unmodifiableList;
   $location_0[stackIndex] = 'Collections.java:' + '1275' , $clinit_Collections();
-  returnTemp = instanceOf(($location_0[stackIndex] = 'Collections.java:' + '1276' , list), 107)?new Collections$UnmodifiableRandomAccessList(($location_0[stackIndex] = 'Collections.java:' + '1277' , list)):new Collections$UnmodifiableList(($tmp = ($location_0[stackIndex] = 'Collections.java:' + '1278' , list) , $location_0[stackIndex] = 'Collections.java:' + '1277' , $tmp));
+  returnTemp = instanceOf(($location_0[stackIndex] = 'Collections.java:' + '1276' , list), 108)?new Collections$UnmodifiableRandomAccessList(($location_0[stackIndex] = 'Collections.java:' + '1277' , list)):new Collections$UnmodifiableList(($tmp = ($location_0[stackIndex] = 'Collections.java:' + '1278' , list) , $location_0[stackIndex] = 'Collections.java:' + '1277' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -20869,7 +20927,7 @@ var EMPTY_LIST, EMPTY_SET;
 function Collections$EmptyList(){
 }
 
-defineClass(297, 541, $intern_39, Collections$EmptyList);
+defineClass(297, 543, $intern_39, Collections$EmptyList);
 _.contains_0 = function contains_5(object){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_5;
@@ -20958,7 +21016,7 @@ var Ljava_util_Collections$EmptyListIterator_2_classLit = createForClass('java.u
 function Collections$EmptyMap(){
 }
 
-defineClass(300, 547, $intern_48, Collections$EmptyMap);
+defineClass(300, 549, $intern_48, Collections$EmptyMap);
 _.containsKey = function containsKey_2(key){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = containsKey_2;
@@ -20992,7 +21050,7 @@ var Ljava_util_Collections$EmptyMap_2_classLit = createForClass('java.util', 'Co
 function Collections$EmptySet(){
 }
 
-defineClass(299, 546, $intern_49, Collections$EmptySet);
+defineClass(299, 548, $intern_49, Collections$EmptySet);
 _.contains_0 = function contains_6(object){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_6;
@@ -21438,7 +21496,7 @@ function Collections$UnmodifiableRandomAccessList(list){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(303, 167, {35:1, 32:1, 107:1}, Collections$UnmodifiableRandomAccessList);
+defineClass(303, 167, {35:1, 32:1, 108:1}, Collections$UnmodifiableRandomAccessList);
 var Ljava_util_Collections$UnmodifiableRandomAccessList_2_classLit = createForClass('java.util', 'Collections/UnmodifiableRandomAccessList', 303);
 function $clinit_Comparators(){
   var stackIndex;
@@ -21470,7 +21528,7 @@ function $compare_1(a, b){
 function Comparators$NaturalOrderComparator(){
 }
 
-defineClass(192, 1, $intern_1, Comparators$NaturalOrderComparator);
+defineClass(194, 1, $intern_1, Comparators$NaturalOrderComparator);
 _.compare = function compare_16(a, b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_16;
@@ -21487,7 +21545,7 @@ _.equals_0 = function equals_28(other){
   return returnTemp;
 }
 ;
-var Ljava_util_Comparators$NaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/NaturalOrderComparator', 192);
+var Ljava_util_Comparators$NaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/NaturalOrderComparator', 194);
 function $compare_2(a, b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $compare_2;
@@ -21499,7 +21557,7 @@ function $compare_2(a, b){
 function Comparators$ReverseNaturalOrderComparator(){
 }
 
-defineClass(487, 1, $intern_1, Comparators$ReverseNaturalOrderComparator);
+defineClass(495, 1, $intern_1, Comparators$ReverseNaturalOrderComparator);
 _.compare = function compare_17(a, b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_17;
@@ -21516,7 +21574,7 @@ _.equals_0 = function equals_29(other){
   return returnTemp;
 }
 ;
-var Ljava_util_Comparators$ReverseNaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/ReverseNaturalOrderComparator', 487);
+var Ljava_util_Comparators$ReverseNaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/ReverseNaturalOrderComparator', 495);
 function checkStructuralChange(host, iterator){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = checkStructuralChange;
@@ -21671,7 +21729,7 @@ function HashSet(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(97, 546, $intern_49, HashSet);
+defineClass(97, 548, $intern_49, HashSet);
 _.add_0 = function add_9(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = add_9;
@@ -22191,7 +22249,7 @@ function InternalStringMap$2(this$0, val$entry, val$lastValueMod){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(306, 551, {33:1}, InternalStringMap$2);
+defineClass(306, 553, {33:1}, InternalStringMap$2);
 _.getKey = function getKey_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getKey_1;
@@ -22229,13 +22287,13 @@ function $clinit_Locale(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(548, 1, {});
+defineClass(550, 1, {});
 var ROOT, defaultLocale;
-var Ljava_util_Locale_2_classLit = createForClass('java.util', 'Locale', 548);
+var Ljava_util_Locale_2_classLit = createForClass('java.util', 'Locale', 550);
 function Locale$1(){
 }
 
-defineClass(292, 548, {}, Locale$1);
+defineClass(292, 550, {}, Locale$1);
 _.toString_0 = function toString_26(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_26;
@@ -22247,7 +22305,7 @@ var Ljava_util_Locale$1_2_classLit = createForClass('java.util', 'Locale/1', 292
 function Locale$2(){
 }
 
-defineClass(293, 548, {}, Locale$2);
+defineClass(293, 550, {}, Locale$2);
 _.toString_0 = function toString_27(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_27;
@@ -22259,7 +22317,7 @@ var Ljava_util_Locale$2_2_classLit = createForClass('java.util', 'Locale/2', 293
 function Locale$3(){
 }
 
-defineClass(294, 548, {}, Locale$3);
+defineClass(294, 550, {}, Locale$3);
 _.toString_0 = function toString_28(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_28;
@@ -22271,7 +22329,7 @@ var Ljava_util_Locale$3_2_classLit = createForClass('java.util', 'Locale/3', 294
 function Locale$4(){
 }
 
-defineClass(295, 548, {}, Locale$4);
+defineClass(295, 550, {}, Locale$4);
 _.toString_0 = function toString_29(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_29;
@@ -22572,7 +22630,7 @@ function TreeMap(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(196, 562, $intern_48, TreeMap);
+defineClass(196, 564, $intern_48, TreeMap);
 _.entrySet_0 = function entrySet_3(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = entrySet_3;
@@ -22641,7 +22699,7 @@ function TreeMap$EntryIterator_0(this$0, type_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(106, 1, {}, TreeMap$EntryIterator);
+defineClass(107, 1, {}, TreeMap$EntryIterator);
 _.next_0 = function next_11(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = next_11;
@@ -22665,7 +22723,7 @@ _.remove_1 = function remove_29(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Ljava_util_TreeMap$EntryIterator_2_classLit = createForClass('java.util', 'TreeMap/EntryIterator', 106);
+var Ljava_util_TreeMap$EntryIterator_2_classLit = createForClass('java.util', 'TreeMap/EntryIterator', 107);
 function TreeMap$EntrySet(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$EntrySet;
@@ -22673,8 +22731,8 @@ function TreeMap$EntrySet(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(125, 197, $intern_47, TreeMap$EntrySet);
-var Ljava_util_TreeMap$EntrySet_2_classLit = createForClass('java.util', 'TreeMap/EntrySet', 125);
+defineClass(126, 197, $intern_47, TreeMap$EntrySet);
+var Ljava_util_TreeMap$EntrySet_2_classLit = createForClass('java.util', 'TreeMap/EntrySet', 126);
 function TreeMap$Node(key, value_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$Node;
@@ -22684,7 +22742,7 @@ function TreeMap$Node(key, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(89, 94, {112:1, 94:1, 33:1, 89:1}, TreeMap$Node);
+defineClass(89, 94, {113:1, 94:1, 33:1, 89:1}, TreeMap$Node);
 _.isRed = false;
 var Ljava_util_TreeMap$Node_2_classLit = createForClass('java.util', 'TreeMap/Node', 89);
 function TreeMap$State(){
@@ -22754,7 +22812,7 @@ function TreeMap$SubMapType$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(511, 67, $intern_50, TreeMap$SubMapType$1);
+defineClass(513, 67, $intern_50, TreeMap$SubMapType$1);
 _.toKeyValid = function toKeyValid_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toKeyValid_0;
@@ -22762,7 +22820,7 @@ _.toKeyValid = function toKeyValid_0(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$1_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/1', 511, null);
+var Ljava_util_TreeMap$SubMapType$1_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/1', 513, null);
 function TreeMap$SubMapType$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$SubMapType$2;
@@ -22770,7 +22828,7 @@ function TreeMap$SubMapType$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(512, 67, $intern_50, TreeMap$SubMapType$2);
+defineClass(514, 67, $intern_50, TreeMap$SubMapType$2);
 _.fromKeyValid = function fromKeyValid_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fromKeyValid_0;
@@ -22785,7 +22843,7 @@ _.toKeyValid = function toKeyValid_1(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$2_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/2', 512, null);
+var Ljava_util_TreeMap$SubMapType$2_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/2', 514, null);
 function TreeMap$SubMapType$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$SubMapType$3;
@@ -22793,7 +22851,7 @@ function TreeMap$SubMapType$3(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(513, 67, $intern_50, TreeMap$SubMapType$3);
+defineClass(515, 67, $intern_50, TreeMap$SubMapType$3);
 _.fromKeyValid = function fromKeyValid_1(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fromKeyValid_1;
@@ -22801,7 +22859,7 @@ _.fromKeyValid = function fromKeyValid_1(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$3_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/3', 513, null);
+var Ljava_util_TreeMap$SubMapType$3_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/3', 515, null);
 function TreeSet(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeSet;
@@ -22809,7 +22867,7 @@ function TreeSet(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(503, 546, $intern_49, TreeSet);
+defineClass(505, 548, $intern_49, TreeSet);
 _.add_0 = function add_10(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = add_10;
@@ -22850,7 +22908,7 @@ _.size_1 = function size_16(){
   return returnTemp;
 }
 ;
-var Ljava_util_TreeSet_2_classLit = createForClass('java.util', 'TreeSet', 503);
+var Ljava_util_TreeSet_2_classLit = createForClass('java.util', 'TreeSet', 505);
 function $clinit_Level(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_Level;
@@ -22915,7 +22973,7 @@ function parse_1(name_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(542, 1, $intern_1);
+defineClass(544, 1, $intern_1);
 _.getName = function getName_30(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_30;
@@ -22939,11 +22997,11 @@ _.toString_0 = function toString_32(){
 }
 ;
 var ALL, CONFIG, FINE, FINER, FINEST, INFO_0, OFF, SEVERE, WARNING_0;
-var Ljava_util_logging_Level_2_classLit = createForClass('java.util.logging', 'Level', 542);
+var Ljava_util_logging_Level_2_classLit = createForClass('java.util.logging', 'Level', 544);
 function Level$LevelAll(){
 }
 
-defineClass(241, 542, $intern_1, Level$LevelAll);
+defineClass(241, 544, $intern_1, Level$LevelAll);
 _.getName = function getName_31(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_31;
@@ -22962,7 +23020,7 @@ var Ljava_util_logging_Level$LevelAll_2_classLit = createForClass('java.util.log
 function Level$LevelConfig(){
 }
 
-defineClass(242, 542, $intern_1, Level$LevelConfig);
+defineClass(242, 544, $intern_1, Level$LevelConfig);
 _.getName = function getName_32(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_32;
@@ -22981,7 +23039,7 @@ var Ljava_util_logging_Level$LevelConfig_2_classLit = createForClass('java.util.
 function Level$LevelFine(){
 }
 
-defineClass(243, 542, $intern_1, Level$LevelFine);
+defineClass(243, 544, $intern_1, Level$LevelFine);
 _.getName = function getName_33(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_33;
@@ -23000,7 +23058,7 @@ var Ljava_util_logging_Level$LevelFine_2_classLit = createForClass('java.util.lo
 function Level$LevelFiner(){
 }
 
-defineClass(244, 542, $intern_1, Level$LevelFiner);
+defineClass(244, 544, $intern_1, Level$LevelFiner);
 _.getName = function getName_34(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_34;
@@ -23019,7 +23077,7 @@ var Ljava_util_logging_Level$LevelFiner_2_classLit = createForClass('java.util.l
 function Level$LevelFinest(){
 }
 
-defineClass(245, 542, $intern_1, Level$LevelFinest);
+defineClass(245, 544, $intern_1, Level$LevelFinest);
 _.getName = function getName_35(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_35;
@@ -23038,7 +23096,7 @@ var Ljava_util_logging_Level$LevelFinest_2_classLit = createForClass('java.util.
 function Level$LevelInfo(){
 }
 
-defineClass(246, 542, $intern_1, Level$LevelInfo);
+defineClass(246, 544, $intern_1, Level$LevelInfo);
 _.getName = function getName_36(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_36;
@@ -23057,7 +23115,7 @@ var Ljava_util_logging_Level$LevelInfo_2_classLit = createForClass('java.util.lo
 function Level$LevelOff(){
 }
 
-defineClass(247, 542, $intern_1, Level$LevelOff);
+defineClass(247, 544, $intern_1, Level$LevelOff);
 _.getName = function getName_37(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_37;
@@ -23076,7 +23134,7 @@ var Ljava_util_logging_Level$LevelOff_2_classLit = createForClass('java.util.log
 function Level$LevelSevere(){
 }
 
-defineClass(248, 542, $intern_1, Level$LevelSevere);
+defineClass(248, 544, $intern_1, Level$LevelSevere);
 _.getName = function getName_38(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_38;
@@ -23095,7 +23153,7 @@ var Ljava_util_logging_Level$LevelSevere_2_classLit = createForClass('java.util.
 function Level$LevelWarning(){
 }
 
-defineClass(249, 542, $intern_1, Level$LevelWarning);
+defineClass(249, 544, $intern_1, Level$LevelWarning);
 _.getName = function getName_39(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_39;
@@ -23121,7 +23179,7 @@ function $addLoggerImpl(this$static, logger){
 function $ensureLogger(this$static, name_0){
   var logger, newLogger, name_1, parentName, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $ensureLogger;
-  $location_0[stackIndex] = 'LogManager.java:' + '92' , logger = castTo($getStringValue(($location_0[stackIndex] = 'LogManager.java:' + '55' , ($location_0[stackIndex] = 'LogManager.java:' + '92' , this$static).loggerMap), ($tmp = ($location_0[stackIndex] = 'LogManager.java:' + '92' , name_0) , $location_0[stackIndex] = 'LogManager.java:' + '55' , $tmp)), 108);
+  $location_0[stackIndex] = 'LogManager.java:' + '92' , logger = castTo($getStringValue(($location_0[stackIndex] = 'LogManager.java:' + '55' , ($location_0[stackIndex] = 'LogManager.java:' + '92' , this$static).loggerMap), ($tmp = ($location_0[stackIndex] = 'LogManager.java:' + '92' , name_0) , $location_0[stackIndex] = 'LogManager.java:' + '55' , $tmp)), 109);
   if ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'LogManager.java:' + '93' , logger)) {
     newLogger = new Logger(($location_0[stackIndex] = 'LogManager.java:' + '94' , name_0));
     $location_0[stackIndex] = 'LogManager.java:' + '71' , name_1 = ($location_0[stackIndex] = 'Logger.java:' + '201' , ($location_0[stackIndex] = 'LogManager.java:' + '95' , newLogger).name_0);
@@ -23231,9 +23289,9 @@ function getLogger(name_0){
   return returnTemp;
 }
 
-defineClass(108, 1, {108:1}, Logger);
+defineClass(109, 1, {109:1}, Logger);
 _.useParentHandlers = false;
-var Ljava_util_logging_Logger_2_classLit = createForClass('java.util.logging', 'Logger', 108);
+var Ljava_util_logging_Logger_2_classLit = createForClass('java.util.logging', 'Logger', 109);
 function applySplice(array, index_0, deleteCount, arrayToAdd){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = applySplice;
