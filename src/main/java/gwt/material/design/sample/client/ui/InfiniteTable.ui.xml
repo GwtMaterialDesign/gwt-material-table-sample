@@ -16,11 +16,11 @@
 
 
     <t:menu.MaterialPopupMenu ui:field="materialPopupMenu">
-      <m:MaterialLink padding="12" display="BLOCK" text="Copy" iconType="CONTENT_COPY" textColor="black"/>
-      <m:MaterialLink padding="12" display="BLOCK" text="Paste" iconType="CONTENT_PASTE" textColor="black"/>
-      <m:MaterialLink padding="12" display="BLOCK" text="Select All" iconType="SELECT_ALL" textColor="black"/>
-      <m:MaterialLink padding="12" display="BLOCK" text="Rename" iconType="EDIT" textColor="black"/>
-      <m:MaterialLink padding="12" display="BLOCK" text="Add Star" iconType="STAR" textColor="black"/>
+      <m:MaterialLink padding="12" display="BLOCK" text="Copy" iconType="CONTENT_COPY" textColor="BLACK"/>
+      <m:MaterialLink padding="12" display="BLOCK" text="Paste" iconType="CONTENT_PASTE" textColor="BLACK"/>
+      <m:MaterialLink padding="12" display="BLOCK" text="Select All" iconType="SELECT_ALL" textColor="BLACK"/>
+      <m:MaterialLink padding="12" display="BLOCK" text="Rename" iconType="EDIT" textColor="BLACK"/>
+      <m:MaterialLink padding="12" display="BLOCK" text="Add Star" iconType="STAR" textColor="BLACK"/>
     </t:menu.MaterialPopupMenu>
 
   </g:HTMLPanel>

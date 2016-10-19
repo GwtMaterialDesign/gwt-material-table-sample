@@ -8,6 +8,7 @@ import com.google.gwt.uibinder.client.UiHandler;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTMLPanel;
+import gwt.material.design.client.constants.Color;
 import gwt.material.design.jquery.client.api.JQueryElement;
 import gwt.material.design.client.data.component.CategoryComponent;
 import gwt.material.design.client.data.infinite.InfiniteDataView;
@@ -80,7 +81,7 @@ public class InfiniteTable extends Composite {
                 profile.setHeight("40px");
                 profile.setPadding(4);
                 profile.setMarginTop(8);
-                profile.setBackgroundColor("grey lighten-2");
+                profile.setBackgroundColor(Color.GREY_LIGHTEN_2);
                 profile.setCircle(true);
                 return profile;
             }

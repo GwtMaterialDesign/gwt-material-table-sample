@@ -70,11 +70,11 @@ public class MaterialPopupMenu extends UnorderedList implements HasSelectionHand
 
                 double dpWidth = dp.width();
                 double dpLeft = dp.offset().left;
-                double conWidth = $(body).width();
+                double conWidth = body().width();
 
                 double dpHeight = 200;
                 double dpTop = dp.offset().top;
-                double conHeight = $(body).height();
+                double conHeight = body().height();
 
                 if(dpWidth + dpLeft > conWidth) {
                     dp.addClass("edge-left");
@@ -128,8 +128,8 @@ public class MaterialPopupMenu extends UnorderedList implements HasSelectionHand
         Scheduler.get().scheduleDeferred(() -> setFocus(true));
 
         // Check if dropdown is out of the container (Left)
-        if($(this).width() +  $(this).offset().left > $(body).width()) {
-            setLeft($(body).width() - $(this).width());
+        if($(this).width() +  $(this).offset().left > body().width()) {
+            setLeft(body().width() - $(this).width());
         }
     }
 
