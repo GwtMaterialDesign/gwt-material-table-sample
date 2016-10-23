@@ -2,8 +2,8 @@ var $wnd = $wnd || window.parent;
 var __gwtModuleFunction = $wnd.gmdtablesample;
 var $sendStats = __gwtModuleFunction.__sendStats;
 $sendStats('moduleStartup', 'moduleEvalStart');
-var $gwt_version = "2.8.0-rc3";
-var $strongName = '19728320E5CF6533F7FC10B864F97507';
+var $gwt_version = "2.8.0";
+var $strongName = 'FB78212C9315B16BB7393E7622580EF1';
 var $gwt = {};
 var $doc = $wnd.document;
 var $moduleName, $moduleBase;
@@ -16101,7 +16101,7 @@ _.getText = function getText_23(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_23;
   $stackDepth_0 = stackIndex - 1;
-  return '.table-container .data-pager {\n    width: 100%;\n    position: relative;\n    padding: 4px;\n    color: #9e9e9e !important;\n    font-size: 0.8em;\n    margin-bottom: 0;\n}\n\n.data-pager .action-page-panel > span, .data-pager .rows-per-page-panel > span, .data-pager .num-page-panel > span, .data-pager .action-page-panel i {\n    float: right;\n    margin-right: 8px;\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel i {\n    margin-top: 4px;\n}\n\n.data-pager .action-page-panel i.disabled {\n    background: white !important;\n    color: #e9e9e9 !important;\n}\n\n.data-pager .rows-per-page-panel .select-wrapper, .data-pager .num-page-panel .select-wrapper {\n    float: right;\n    width: 44px;\n    max-width: 64px;\n    margin-left: 32px;\n}\n\n.data-pager .rows-per-page-panel .select-dropdown, .data-pager .num-page-panel .select-dropdown {\n    border: none;\n    margin-bottom: 0;\n    font-size: 1em;\n}\n\n.data-pager .select-wrapper .caret {\n    color: #9e9e9e !important;\n}';
+  return '.table-container .data-pager {\n    width: 100%;\n    position: relative;\n    padding: 4px;\n    color: #9e9e9e !important;\n    font-size: 0.8em;\n    margin-bottom: 0;\n}\n\n.data-pager .action-page-panel > span, .data-pager .rows-per-page-panel > span, .data-pager .num-page-panel > span, .data-pager .action-page-panel i {\n    float: right;\n    margin-right: 8px;\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel {\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel i {\n    margin-top: 4px;\n}\n\n.data-pager .action-page-panel i.disabled {\n    background: white !important;\n    color: #e9e9e9 !important;\n}\n\n.data-pager .rows-per-page-panel .select-wrapper, .data-pager .num-page-panel .select-wrapper {\n    float: right;\n    width: 44px;\n    max-width: 64px;\n    margin-left: 32px;\n}\n\n.data-pager .rows-per-page-panel .select-dropdown, .data-pager .num-page-panel .select-dropdown {\n    border: none;\n    margin-bottom: 0;\n    font-size: 1em;\n}\n\n.data-pager .select-wrapper .caret {\n    color: #9e9e9e !important;\n}';
 }
 ;
 var Lgwt_material_design_client_ui_pager_MaterialDataPagerClientBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPagerClientBundle_default_InlineClientBundleGenerator/2', 276);
@@ -16142,7 +16142,7 @@ _.getText = function getText_24(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getText_24;
   $stackDepth_0 = stackIndex - 1;
-  return '.table-container .data-pager {\n    width: 100%;\n    position: relative;\n    padding: 4px;\n    color: #9e9e9e !important;\n    font-size: 0.8em;\n    margin-bottom: 0;\n}\n\n.data-pager .action-page-panel > span, .data-pager .rows-per-page-panel > span, .data-pager .num-page-panel > span, .data-pager .action-page-panel i {\n    float: right;\n    margin-right: 8px;\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel i {\n    margin-top: 4px;\n}\n\n.data-pager .action-page-panel i.disabled {\n    background: white !important;\n    color: #e9e9e9 !important;\n}\n\n.data-pager .rows-per-page-panel .select-wrapper, .data-pager .num-page-panel .select-wrapper {\n    float: right;\n    width: 44px;\n    max-width: 64px;\n    margin-left: 32px;\n}\n\n.data-pager .rows-per-page-panel .select-dropdown, .data-pager .num-page-panel .select-dropdown {\n    border: none;\n    margin-bottom: 0;\n    font-size: 1em;\n}\n\n.data-pager .select-wrapper .caret {\n    color: #9e9e9e !important;\n}';
+  return '.table-container .data-pager {\n    width: 100%;\n    position: relative;\n    padding: 4px;\n    color: #9e9e9e !important;\n    font-size: 0.8em;\n    margin-bottom: 0;\n}\n\n.data-pager .action-page-panel > span, .data-pager .rows-per-page-panel > span, .data-pager .num-page-panel > span, .data-pager .action-page-panel i {\n    float: right;\n    margin-right: 8px;\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel {\n    margin-top: 12px;\n}\n\n.data-pager .action-page-panel i {\n    margin-top: 4px;\n}\n\n.data-pager .action-page-panel i.disabled {\n    background: white !important;\n    color: #e9e9e9 !important;\n}\n\n.data-pager .rows-per-page-panel .select-wrapper, .data-pager .num-page-panel .select-wrapper {\n    float: right;\n    width: 44px;\n    max-width: 64px;\n    margin-left: 32px;\n}\n\n.data-pager .rows-per-page-panel .select-dropdown, .data-pager .num-page-panel .select-dropdown {\n    border: none;\n    margin-bottom: 0;\n    font-size: 1em;\n}\n\n.data-pager .select-wrapper .caret {\n    color: #9e9e9e !important;\n}';
 }
 ;
 var Lgwt_material_design_client_ui_pager_MaterialDataPagerClientBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPagerClientBundle_en_InlineClientBundleGenerator/2', 274);
