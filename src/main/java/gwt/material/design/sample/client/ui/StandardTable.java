@@ -29,9 +29,7 @@ import gwt.material.design.sample.client.ui.menu.MaterialPopupMenu;
 import gwt.material.design.sample.client.ui.renderer.CustomRenderer;
 import gwt.material.design.sample.shared.model.Person;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 import static gwt.material.design.jquery.client.api.JQuery.$;
 
@@ -116,6 +114,10 @@ public class StandardTable extends Composite {
             @Override
             public String getValue(Person object) {
                 return object.getFirstName();
+            }
+            @Override
+            public String getHeaderWidth() {
+                return "100px";
             }
         }, "First Name");
 
@@ -274,7 +276,7 @@ public class StandardTable extends Composite {
 
         // Add a row double click handler, called when a row is double clicked.
         table.addRowDoubleClickHandler((e, mouseEvent, model, row) -> {
-           // GWT.log("Row Double Clicked: " + model.getId() + ", x:" + mouseEvent.getPageX() + ", y: " + mouseEvent.getPageY());
+            // GWT.log("Row Double Clicked: " + model.getId() + ", x:" + mouseEvent.getPageX() + ", y: " + mouseEvent.getPageY());
             Window.alert("Row Double Clicked: " + model.getId());
             return true;
         });

@@ -14,7 +14,6 @@
                                indexOffset="20"
                                selectionType="MULTIPLE"/>
 
-
     <t:menu.MaterialPopupMenu ui:field="materialPopupMenu">
       <m:MaterialLink padding="12" display="BLOCK" text="Copy" iconType="CONTENT_COPY" textColor="BLACK"/>
       <m:MaterialLink padding="12" display="BLOCK" text="Paste" iconType="CONTENT_PASTE" textColor="BLACK"/>

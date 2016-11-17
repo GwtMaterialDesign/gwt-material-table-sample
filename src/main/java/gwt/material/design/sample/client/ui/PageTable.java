@@ -63,7 +63,7 @@ public class PageTable extends Composite {
 
         initWidget(ourUiBinder.createAndBindUi(this));
 
-        dataSource = new ListDataSource<>(table);
+        dataSource = new ListDataSource<>();
         dataSource.add(0, people);
     }
 
@@ -208,7 +208,7 @@ public class PageTable extends Composite {
                         content.add(badge);
 
                         MaterialButton btn = new MaterialButton("was made", ButtonType.RAISED,
-                                new MaterialIcon(IconType.FULLSCREEN));
+                            new MaterialIcon(IconType.FULLSCREEN));
                         content.add(btn);
 
                         MaterialTextBox textBox = new MaterialTextBox();
