@@ -384,8 +384,8 @@ function gmdtablesample(){
     }
     var strongName;
     try {
-      unflattenKeylistIntoAnswers(['default'], '192792012BFE88DABE7A8E3E44ACBE52');
-      unflattenKeylistIntoAnswers(['en'], '192792012BFE88DABE7A8E3E44ACBE52' + ':1');
+      unflattenKeylistIntoAnswers(['default'], 'D96328992C0A0032540C01B22B5F765A');
+      unflattenKeylistIntoAnswers(['en'], 'D96328992C0A0032540C01B22B5F765A' + ':1');
       strongName = answers[computePropValue('locale')];
       var idx = strongName.indexOf(':');
       if (idx != -1) {
