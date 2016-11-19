@@ -69,7 +69,7 @@ public class PageTable extends Composite {
         super.onLoad();
 
         pager = new MaterialDataPager<>(table, dataSource);
-        pager.setLimitOptions(18);
+        pager.setLimitOptions(5, 10, 15, 20);
         table.add(pager);
 
         // We will manually add this category otherwise categories
