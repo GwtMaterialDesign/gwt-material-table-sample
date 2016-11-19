@@ -54,11 +54,8 @@ public class PageTable extends Composite {
         // Generate 20 categories
         int rowIndex = 1;
         List<Person> people = new ArrayList<>();
-        for(int k = 1; k <= 10; k++){
-            // Generate 100 rows
-            for(int i = 1; i <= 10; i++, rowIndex++){
-                people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
-            }
+        for(int i = 1; i <= 100; i++, rowIndex++){
+            people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category 1" + ""));
         }
 
         initWidget(ourUiBinder.createAndBindUi(this));
@@ -71,10 +68,8 @@ public class PageTable extends Composite {
     protected void onLoad() {
         super.onLoad();
 
-        table.setVisibleRange(1, 10);
-
         pager = new MaterialDataPager<>(table, dataSource);
-        pager.setRowCountOptions(5, 10, 15, 20);
+        pager.setLimitOptions(18);
         table.add(pager);
 
         // We will manually add this category otherwise categories
