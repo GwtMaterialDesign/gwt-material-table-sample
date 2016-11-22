@@ -1,6 +1,7 @@
 package gwt.material.design.sample.client.ui;
 
 import com.google.gwt.core.client.GWT;
+import com.google.gwt.dom.client.Element;
 import com.google.gwt.dom.client.Style.Display;
 import com.google.gwt.dom.client.Style.Position;
 import com.google.gwt.dom.client.Style.Unit;
@@ -199,8 +200,6 @@ public class StandardTable extends Composite {
         // Here we are adding a row expansion handler.
         // This is invoked when a row is expanded.
         table.addRowExpandHandler((e, rowExpand) -> {
-            JQueryElement section = rowExpand.getOverlay();
-
             if(rowExpand.isExpand()) {
                 // Fake Async Task
                 // This is demonstrating a fake asynchronous call to load
@@ -209,8 +208,9 @@ public class StandardTable extends Composite {
                     @Override
                     public void run() {
                         // Clear the content first.
-                        MaterialWidget content = new MaterialWidget(
-                                rowExpand.getRow().find(".content").empty().asElement());
+                        JQueryElement element = rowExpand.getRow().find(".content").empty();
+                        // Assign the jquery element to a GMD Widget
+                        MaterialWidget content = new MaterialWidget(element);
 
                         // Add new content.
                         MaterialBadge badge = new MaterialBadge("This content", Color.WHITE, Color.BLUE);
@@ -220,7 +220,7 @@ public class StandardTable extends Composite {
                         content.add(badge);
 
                         MaterialButton btn = new MaterialButton("was made", ButtonType.RAISED,
-                                new MaterialIcon(IconType.FULLSCREEN));
+                            new MaterialIcon(IconType.FULLSCREEN));
                         content.add(btn);
 
                         MaterialTextBox textBox = new MaterialTextBox();
@@ -235,8 +235,8 @@ public class StandardTable extends Composite {
                         content.add(icon);
 
                         // Hide the expansion elements overlay section.
-                        // The overlay is retrieved using EowExpand#getOverlay()
-                        section.css("display", "none");
+                        // The overlay is retrieved using RowExpand#getOverlay()
+                        rowExpand.getOverlay().css("display", "none");
                     }
                 }.schedule(2000);
             }
