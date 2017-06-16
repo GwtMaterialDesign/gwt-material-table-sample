@@ -362,6 +362,38 @@ function gmdtablesample(){
     }
     ;
     values['locale'] = {'default':0, 'en':1};
+    providers['user.agent'] = function(){
+      var ua = navigator.userAgent.toLowerCase();
+      var docMode = $doc_0.documentMode;
+      if (function(){
+        return ua.indexOf('webkit') != -1;
+      }
+      ())
+        return 'safari';
+      if (function(){
+        return ua.indexOf('msie') != -1 && (docMode >= 10 && docMode < 11);
+      }
+      ())
+        return 'ie10';
+      if (function(){
+        return ua.indexOf('msie') != -1 && (docMode >= 9 && docMode < 11);
+      }
+      ())
+        return 'ie9';
+      if (function(){
+        return ua.indexOf('msie') != -1 && (docMode >= 8 && docMode < 11);
+      }
+      ())
+        return 'ie8';
+      if (function(){
+        return ua.indexOf('gecko') != -1 || docMode >= 11;
+      }
+      ())
+        return 'gecko1_8';
+      return '';
+    }
+    ;
+    values['user.agent'] = {'gecko1_8':0, 'ie10':1, 'ie8':2, 'ie9':3, 'safari':4};
     __gwt_isKnownPropertyValue = function(propName, propValue){
       return propValue in values[propName];
     }
@@ -384,9 +416,13 @@ function gmdtablesample(){
     }
     var strongName;
     try {
-      unflattenKeylistIntoAnswers(['default'], 'ACD1FC84508E177B14E9C700C1D4D8CE');
-      unflattenKeylistIntoAnswers(['en'], 'ACD1FC84508E177B14E9C700C1D4D8CE' + ':1');
-      strongName = answers[computePropValue('locale')];
+      unflattenKeylistIntoAnswers(['default', 'gecko1_8'], '845AF05BAE9523618455CC37B9B3637D');
+      unflattenKeylistIntoAnswers(['default', 'ie10'], '845AF05BAE9523618455CC37B9B3637D' + ':1');
+      unflattenKeylistIntoAnswers(['default', 'safari'], '845AF05BAE9523618455CC37B9B3637D' + ':2');
+      unflattenKeylistIntoAnswers(['en', 'gecko1_8'], '845AF05BAE9523618455CC37B9B3637D' + ':3');
+      unflattenKeylistIntoAnswers(['en', 'ie10'], '845AF05BAE9523618455CC37B9B3637D' + ':4');
+      unflattenKeylistIntoAnswers(['en', 'safari'], '845AF05BAE9523618455CC37B9B3637D' + ':5');
+      strongName = answers[computePropValue('locale')][computePropValue('user.agent')];
       var idx = strongName.indexOf(':');
       if (idx != -1) {
         softPermutationId = parseInt(strongName.substring(idx + 1), 10);
@@ -414,10 +450,10 @@ function gmdtablesample(){
     }
 
     sendStats('loadExternalRefs', 'begin');
-    installOneStylesheet('css/overridecss.css');
     installOneStylesheet('css/animation.css');
     installOneStylesheet('css/material-icons.css');
     installOneStylesheet('css/materialize.min.css');
+    installOneStylesheet('css/overridecss.css');
     sendStats('loadExternalRefs', 'end');
   }
 
