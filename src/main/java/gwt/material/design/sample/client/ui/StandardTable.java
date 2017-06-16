@@ -1,7 +1,6 @@
 package gwt.material.design.sample.client.ui;
 
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.dom.client.Element;
 import com.google.gwt.dom.client.Style.Display;
 import com.google.gwt.dom.client.Style.Position;
 import com.google.gwt.dom.client.Style.Unit;
@@ -62,11 +61,6 @@ public class StandardTable extends Composite {
 
     public StandardTable() {
         initWidget(ourUiBinder.createAndBindUi(this));
-    }
-
-    @Override
-    protected void onLoad() {
-        super.onLoad();
 
         // We will manually add this category otherwise categories
         // can be loaded on the fly with HasDataCategory, or a custom
@@ -91,115 +85,128 @@ public class StandardTable extends Composite {
         // Now we will add our tables columns.
         // There are a number of methods that can provide custom column configurations.
 
-        // Add an image profile on each category rows
-        table.addColumn(new WidgetColumn<Person, MaterialImage>() {
-            @Override
-            public MaterialImage getValue(Person object) {
-                MaterialImage profile = new MaterialImage();
-                profile.setUrl(object.getPicture());
-                profile.setWidth("40px");
-                profile.setHeight("40px");
-                profile.setPadding(4);
-                profile.setMarginTop(8);
-                profile.setBackgroundColor(Color.GREY_LIGHTEN_2);
-                profile.setCircle(true);
-                return profile;
-            }
-        });
+        table.setUseStickyHeader(false);
 
-        table.addColumn(new TextColumn<Person>() {
-            @Override
-            public Comparator<? super RowComponent<Person>> getSortComparator() {
-                return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
-            }
-            @Override
-            public String getValue(Person object) {
-                return object.getFirstName();
-            }
-            @Override
-            public String getHeaderWidth() {
-                return "100px";
-            }
-        }, "First Name");
+        table.setLoadedCallback(() -> {
+            // Add an image profile on each category rows
+            table.addColumn(new WidgetColumn<Person, MaterialImage>() {
+                @Override
+                public MaterialImage getValue(Person object) {
+                    MaterialImage profile = new MaterialImage();
+                    profile.setUrl(object.getPicture());
+                    profile.setWidth("40px");
+                    profile.setHeight("40px");
+                    profile.setPadding(4);
+                    profile.setMarginTop(8);
+                    profile.setBackgroundColor(Color.GREY_LIGHTEN_2);
+                    profile.setCircle(true);
+                    return profile;
+                }
+            });
 
-        table.addColumn(new TextColumn<Person>() {
-            @Override
-            public Comparator<? super RowComponent<Person>> getSortComparator() {
-                return (o1, o2) -> o1.getData().getLastName().compareToIgnoreCase(o2.getData().getLastName());
-            }
-            @Override
-            public String getValue(Person object) {
-                return object.getLastName();
-            }
-        }, "Last Name");
-
-        table.addColumn(new TextColumn<Person>() {
-            @Override
-            public boolean isNumeric() {
-                return true;
-            }
-            @Override
-            public HideOn getHideOn() {
-                return HideOn.HIDE_ON_MED_DOWN;
-            }
-            @Override
-            public Comparator<? super RowComponent<Person>> getSortComparator() {
-                return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
-            }
-            @Override
-            public String getValue(Person object) {
-                return object.getPhone();
-            }
-        }, "Phone");
-
-        for(int i = 0; i < 4; i++) {
-            final int index = i;
             table.addColumn(new TextColumn<Person>() {
+                @Override
+                public Comparator<? super RowComponent<Person>> getSortComparator() {
+                    return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
+                }
+                @Override
+                public String getValue(Person object) {
+                    return object.getFirstName();
+                }
+                @Override
+                public String getHeaderWidth() {
+                    return "100px";
+                }
+            }, "First Name");
+
+            table.addColumn(new TextColumn<Person>() {
+                @Override
+                public Comparator<? super RowComponent<Person>> getSortComparator() {
+                    return (o1, o2) -> o1.getData().getLastName().compareToIgnoreCase(o2.getData().getLastName());
+                }
+                @Override
+                public String getValue(Person object) {
+                    return object.getLastName();
+                }
+            }, "Last Name");
+
+            table.addColumn(new TextColumn<Person>() {
+                @Override
+                public boolean isNumeric() {
+                    return true;
+                }
+                @Override
+                public HideOn getHideOn() {
+                    return HideOn.HIDE_ON_MED_DOWN;
+                }
                 @Override
                 public Comparator<? super RowComponent<Person>> getSortComparator() {
                     return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
                 }
                 @Override
                 public String getValue(Person object) {
-                    return object.getPhone() + " " + index;
+                    return object.getPhone();
                 }
-            }, "Column " + index);
-        }
+            }, "Phone");
 
-        // Example of a widget column!
-        // You can add any handler to the column cells widget.
-        table.addColumn(new WidgetColumn<Person, MaterialBadge>() {
-            @Override
-            public TextAlign getTextAlign() {
-                return TextAlign.CENTER;
+            for (int i = 0; i < 4; i++) {
+                final int index = i;
+                table.addColumn(new TextColumn<Person>() {
+                    @Override
+                    public Comparator<? super RowComponent<Person>> getSortComparator() {
+                        return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
+                    }
+                    @Override
+                    public String getValue(Person object) {
+                        return object.getPhone() + " " + index;
+                    }
+                }, "Column " + index);
             }
-            @Override
-            public MaterialBadge getValue(Person object) {
-                MaterialBadge badge = new MaterialBadge();
-                badge.setText("badge " + object.getId());
-                badge.setBackgroundColor(Color.BLUE);
-                badge.setLayoutPosition(Position.RELATIVE);
-                return badge;
+
+            // Example of a widget column!
+            // You can add any handler to the column cells widget.
+            table.addColumn(new WidgetColumn<Person, MaterialBadge>() {
+                @Override
+                public TextAlign getTextAlign() {
+                    return TextAlign.CENTER;
+                }
+
+                @Override
+                public MaterialBadge getValue(Person object) {
+                    MaterialBadge badge = new MaterialBadge();
+                    badge.setText("badge " + object.getId());
+                    badge.setBackgroundColor(Color.BLUE);
+                    badge.setLayoutPosition(Position.RELATIVE);
+                    return badge;
+                }
+            });
+
+            // Generate 20 categories
+            int rowIndex = 0;
+            List<Person> people = new ArrayList<>();
+            for(int k = 1; k <= 10; k++){
+                // Generate 100 rows
+                for(int i = 1; i <= 15; i++, rowIndex++) {
+                    people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
+                }
             }
+            table.setRowData(0, people);
+
+            // Added access to ToolPanel to add icon widget
+            Panel panel = table.getScaffolding().getToolPanel();
+            MaterialIcon polyIcon = new MaterialIcon(IconType.POLYMER);
+            polyIcon.setWaves(WavesType.LIGHT);
+            polyIcon.setCircle(true);
+            panel.add(polyIcon);
         });
 
-        // Set the visible range of the table for  pager (later)
+        // Set the visible range of the table for pager (later)
         table.setVisibleRange(0, 2001);
-
-        // Generate 20 categories
-        int rowIndex = 0;
-        List<Person> people = new ArrayList<>();
-        for(int k = 1; k <= 10; k++){
-            // Generate 100 rows
-            for(int i = 1; i <= 15; i++, rowIndex++) {
-                people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
-            }
-        }
-        table.setRowData(0, people);
 
         // Here we are adding a row expansion handler.
         // This is invoked when a row is expanded.
         table.addRowExpandHandler((e, rowExpand) -> {
+            Window.alert(rowExpand.getModel().toString());
             if(rowExpand.isExpand()) {
                 // Fake Async Task
                 // This is demonstrating a fake asynchronous call to load
@@ -220,7 +227,7 @@ public class StandardTable extends Composite {
                         content.add(badge);
 
                         MaterialButton btn = new MaterialButton("was made", ButtonType.RAISED,
-                            new MaterialIcon(IconType.FULLSCREEN));
+                                new MaterialIcon(IconType.FULLSCREEN));
                         content.add(btn);
 
                         MaterialTextBox textBox = new MaterialTextBox();
@@ -312,13 +319,6 @@ public class StandardTable extends Composite {
             popupMenu.open();
             return true;
         });
-
-        // Added access to ToolPanel to add icon widget
-        Panel panel = table.getScaffolding().getToolPanel();
-        MaterialIcon polyIcon = new MaterialIcon(IconType.POLYMER);
-        polyIcon.setWaves(WavesType.LIGHT);
-        polyIcon.setCircle(true);
-        panel.add(polyIcon);
     }
 
     @UiHandler("cbCategories")
@@ -326,7 +326,7 @@ public class StandardTable extends Composite {
         if(e.getValue()){
             table.setUseCategories(true);
             GWT.log("Categories checked");
-        }else{
+        } else {
             table.setUseCategories(false);
             GWT.log("Categories not checked");
         }
