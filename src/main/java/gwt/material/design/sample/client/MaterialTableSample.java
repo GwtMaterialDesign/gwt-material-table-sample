@@ -26,7 +26,6 @@ import com.google.gwt.core.client.Scheduler;
 import com.google.gwt.dom.client.StyleInjector;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.RootPanel;
-import gwt.material.design.client.MaterialDesignBase;
 import gwt.material.design.sample.client.ui.InfiniteTable;
 import gwt.material.design.sample.client.ui.PageTable;
 import gwt.material.design.sample.client.ui.StandardTable;
@@ -37,8 +36,6 @@ public class MaterialTableSample implements EntryPoint {
 
     @Override
     public void onModuleLoad() {
-        GWT.log("isProvidingJQuery: " + String.valueOf(MaterialDesignBase.isProvidingJQuery()));
-
         GWT.setUncaughtExceptionHandler(e -> GWT.log(e.getMessage(), e));
         StyleInjector.inject(DataTableClientBundle.INSTANCE.dataTable().getText());
         Scheduler.get().scheduleDeferred(() -> {
@@ -47,16 +44,21 @@ public class MaterialTableSample implements EntryPoint {
             MaterialAnchorButton stdBtn = new MaterialAnchorButton("Standard");
             RootPanel.get().add(stdBtn);
             stdBtn.addClickHandler(e -> {
-                if(table[1] == null) {
-                    table[1] = new StandardTable();
+                if(table[1] != null) {
+                    table[1].removeFromParent();
                 }
+                table[1] = new StandardTable();
                 RootPanel.get().add(table[1]);
             });
 
             MaterialAnchorButton infBtn = new MaterialAnchorButton("Infinite");
             RootPanel.get().add(infBtn);
             infBtn.addClickHandler(e -> {
-                table[1].removeFromParent();
+                if(table[1] != null) {
+                    table[1].removeFromParent();
+                }
+                table[1] = new InfiniteTable();
+                RootPanel.get().add(table[1]);
             });
 
             MaterialAnchorButton pageBtn = new MaterialAnchorButton("With Pager");
