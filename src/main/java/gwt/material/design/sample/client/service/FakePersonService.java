@@ -1,5 +1,6 @@
 package gwt.material.design.sample.client.service;
 
+import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.Random;
 import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.rpc.AsyncCallback;
@@ -50,9 +51,7 @@ public class FakePersonService implements PersonServiceAsync {
         } else {
             // Load data by categories
             for (String category : categories) {
-                for (Person person : peopleMap.get(category)) {
-                    flatData.add(person);
-                }
+                flatData.addAll(peopleMap.get(category));
             }
         }
 

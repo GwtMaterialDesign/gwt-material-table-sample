@@ -18,6 +18,7 @@ import gwt.material.design.client.ui.table.cell.WidgetColumn;
 import gwt.material.design.sample.client.service.FakePersonService;
 import gwt.material.design.sample.client.ui.datasource.PersonDataSource;
 import gwt.material.design.sample.client.service.PersonServiceAsync;
+import gwt.material.design.sample.client.ui.factory.CustomCategoryFactory;
 import gwt.material.design.sample.client.ui.menu.MaterialPopupMenu;
 import gwt.material.design.sample.shared.model.Person;
 import gwt.material.design.client.ui.table.MaterialInfiniteDataTable;
@@ -55,13 +56,15 @@ public class InfiniteTable extends Composite {
     protected void onLoad() {
         super.onLoad();
 
+        table.setCategoryFactory(new CustomCategoryFactory());
+
         // Load the categories from the server
         table.setLoadMask(true);
         personService.getCategories(new AsyncCallback<List<String>>() {
             @Override
             public void onSuccess(List<String> categories) {
                 for(String category : categories) {
-                    table.addCategory(new CategoryComponent(category));
+                    table.addCategory(category);
                 }
                 table.setLoadMask(false);
             }

@@ -14,6 +14,7 @@ import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTMLPanel;
 import com.google.gwt.user.client.ui.Panel;
 import gwt.material.design.client.base.MaterialWidget;
+import gwt.material.design.client.base.constants.StyleName;
 import gwt.material.design.client.constants.*;
 import gwt.material.design.client.data.component.CategoryComponent;
 import gwt.material.design.client.data.component.RowComponent;
@@ -62,34 +63,32 @@ public class StandardTable extends Composite {
     public StandardTable() {
         initWidget(ourUiBinder.createAndBindUi(this));
 
-        // We will manually add this category otherwise categories
-        // can be loaded on the fly with HasDataCategory, or a custom
-        // RowComponentFactory as demonstrated below
-        //table.addCategory(new CustomCategoryComponent("Custom Category"));
+        table.addAttachHandler(event -> {
+            // We will manually add this category otherwise categories
+            // can be loaded on the fly with HasDataCategory, or a custom
+            // RowComponentFactory as demonstrated below
+            //table.addCategory(new CustomCategoryComponent("Custom Category"));
 
-        // We will define our own person row factory to generate the
-        // category name. This can be used to generate your own
-        // RowComponent's too, if custom functionality is required.
-        table.setRowFactory(new PersonRowFactory());
+            // We will define our own person row factory to generate the
+            // category name. This can be used to generate your own
+            // RowComponent's too, if custom functionality is required.
+            table.setRowFactory(new PersonRowFactory());
 
-        // If we want to generate all our categories using CustomCategoryComponent
-        // We can define our own CategoryComponentFactory. There we can define our
-        // own CategoryComponent implementations.
-        table.setCategoryFactory(new CustomCategoryFactory());
+            // If we want to generate all our categories using CustomCategoryComponent
+            // We can define our own CategoryComponentFactory. There we can define our
+            // own CategoryComponent implementations.
+            table.setCategoryFactory(new CustomCategoryFactory());
 
-        // It is possible to create your own custom renderer per table
-        // When you use the BaseRenderer you can override certain draw
-        // methods to create elements the way you would like.
-        table.setRenderer(new CustomRenderer<>());
+            // It is possible to create your own custom renderer per table
+            // When you use the BaseRenderer you can override certain draw
+            // methods to create elements the way you would like.
+            table.setRenderer(new CustomRenderer<>());
 
-        // Now we will add our tables columns.
-        // There are a number of methods that can provide custom column configurations.
+            // Now we will add our tables columns.
+            // There are a number of methods that can provide custom column configurations.
 
-        table.setUseStickyHeader(false);
-
-        table.setLoadedCallback(() -> {
             // Add an image profile on each category rows
-            table.addColumn(new WidgetColumn<Person, MaterialImage>() {
+            /*table.addColumn(new WidgetColumn<Person, MaterialImage>() {
                 @Override
                 public MaterialImage getValue(Person object) {
                     MaterialImage profile = new MaterialImage();
@@ -102,11 +101,11 @@ public class StandardTable extends Composite {
                     profile.setCircle(true);
                     return profile;
                 }
-            });
+            });*/
 
             table.addColumn(new TextColumn<Person>() {
                 @Override
-                public Comparator<? super RowComponent<Person>> getSortComparator() {
+                public Comparator<? super RowComponent<Person>> sortComparator() {
                     return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
                 }
                 @Override
@@ -114,46 +113,32 @@ public class StandardTable extends Composite {
                     return object.getFirstName();
                 }
                 @Override
-                public String getHeaderWidth() {
+                public String width() {
                     return "100px";
                 }
             }, "First Name");
 
             table.addColumn(new TextColumn<Person>() {
                 @Override
-                public Comparator<? super RowComponent<Person>> getSortComparator() {
+                public Comparator<? super RowComponent<Person>> sortComparator() {
                     return (o1, o2) -> o1.getData().getLastName().compareToIgnoreCase(o2.getData().getLastName());
                 }
                 @Override
                 public String getValue(Person object) {
                     return object.getLastName();
                 }
-            }, "Last Name");
 
-            table.addColumn(new TextColumn<Person>() {
                 @Override
-                public boolean isNumeric() {
+                public boolean autoSort() {
                     return true;
                 }
-                @Override
-                public HideOn getHideOn() {
-                    return HideOn.HIDE_ON_MED_DOWN;
-                }
-                @Override
-                public Comparator<? super RowComponent<Person>> getSortComparator() {
-                    return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
-                }
-                @Override
-                public String getValue(Person object) {
-                    return object.getPhone();
-                }
-            }, "Phone");
+            }, "Last Name");
 
             for (int i = 0; i < 4; i++) {
                 final int index = i;
                 table.addColumn(new TextColumn<Person>() {
                     @Override
-                    public Comparator<? super RowComponent<Person>> getSortComparator() {
+                    public Comparator<? super RowComponent<Person>> sortComparator() {
                         return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
                     }
                     @Override
@@ -163,14 +148,39 @@ public class StandardTable extends Composite {
                 }, "Column " + index);
             }
 
+            table.addColumn(new TextColumn<Person>() {
+                @Override
+                public boolean numeric() {
+                    return true;
+                }
+                @Override
+                public Comparator<? super RowComponent<Person>> sortComparator() {
+                    return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
+                }
+                @Override
+                public String getValue(Person object) {
+                    return object.getPhone();
+                }
+            }, "Phone2332");
+
+            table.addColumn(new TextColumn<Person>() {
+                @Override
+                public Comparator<? super RowComponent<Person>> sortComparator() {
+                    return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
+                }
+                @Override
+                public String getValue(Person object) {
+                    return object.getPhone();
+                }
+            }, "Ph56656656");
+
             // Example of a widget column!
             // You can add any handler to the column cells widget.
             table.addColumn(new WidgetColumn<Person, MaterialBadge>() {
                 @Override
-                public TextAlign getTextAlign() {
+                public TextAlign textAlign() {
                     return TextAlign.CENTER;
                 }
-
                 @Override
                 public MaterialBadge getValue(Person object) {
                     MaterialBadge badge = new MaterialBadge();
@@ -184,7 +194,7 @@ public class StandardTable extends Composite {
             // Generate 20 categories
             int rowIndex = 0;
             List<Person> people = new ArrayList<>();
-            for(int k = 1; k <= 10; k++){
+            for(int k = 1; k <= 5; k++){
                 // Generate 100 rows
                 for(int i = 1; i <= 15; i++, rowIndex++) {
                     people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
@@ -192,13 +202,17 @@ public class StandardTable extends Composite {
             }
             table.setRowData(0, people);
 
-            // Added access to ToolPanel to add icon widget
-            Panel panel = table.getScaffolding().getToolPanel();
-            MaterialIcon polyIcon = new MaterialIcon(IconType.POLYMER);
-            polyIcon.setWaves(WavesType.LIGHT);
-            polyIcon.setCircle(true);
-            panel.add(polyIcon);
+            if(event.isAttached()) {
+                // Added access to ToolPanel to add icon widget
+                Panel panel = table.getScaffolding().getToolPanel();
+                MaterialIcon polyIcon = new MaterialIcon(IconType.POLYMER);
+                polyIcon.setWaves(WavesType.LIGHT);
+                polyIcon.setCircle(true);
+                panel.add(polyIcon);
+            }
         });
+
+
 
         // Set the visible range of the table for pager (later)
         table.setVisibleRange(0, 2001);
@@ -206,7 +220,6 @@ public class StandardTable extends Composite {
         // Here we are adding a row expansion handler.
         // This is invoked when a row is expanded.
         table.addRowExpandHandler((e, rowExpand) -> {
-            Window.alert(rowExpand.getModel().toString());
             if(rowExpand.isExpand()) {
                 // Fake Async Task
                 // This is demonstrating a fake asynchronous call to load
