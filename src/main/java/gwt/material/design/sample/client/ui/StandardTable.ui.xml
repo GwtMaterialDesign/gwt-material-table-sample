@@ -5,6 +5,7 @@
              xmlns:m.table='urn:import:gwt.material.design.client.ui.table'>
 
   <g:HTMLPanel>
+    <m:MaterialButton ui:field="sortBtn" text="Sort" />
     <m:MaterialCheckBox ui:field="cbCategories" value="true" text="With Categories"/>
 
     <m.table:MaterialDataTable ui:field="table"
@@ -12,6 +13,7 @@
                                useStickyHeader="true"
                                useCategories="true"
                                useRowExpansion="true"
+                               destroyOnUnload="false"
                                selectionType="NONE"/>
 
     <t:menu.MaterialPopupMenu ui:field="popupMenu">

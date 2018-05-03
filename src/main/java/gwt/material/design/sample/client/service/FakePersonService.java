@@ -13,8 +13,8 @@ import java.util.List;
 import java.util.Map;
 
 public class FakePersonService implements PersonServiceAsync {
-    private static List<String> categories = new ArrayList<>();
-    private static Map<String, List<Person>> peopleMap = new HashMap<>();
+    public static List<String> categories = new ArrayList<>();
+    public static Map<String, List<Person>> peopleMap = new HashMap<>();
     static {
         categories.add("People");
         categories.add("Animal");
@@ -31,11 +31,11 @@ public class FakePersonService implements PersonServiceAsync {
                     peopleMap.put(category, data);
                 }
                 data.add(new Person(index,
-                        "http://joashpereira.com/templates/material_one_pager/img/avatar1.png",
-                        category+index,
-                        "Last"+index,
-                        "Phone"+index,
-                        category));
+                    "http://joashpereira.com/templates/material_one_pager/img/avatar1.png",
+                    category+index,
+                    "Last"+index,
+                    "Phone"+index,
+                    category));
             }
         }
     }

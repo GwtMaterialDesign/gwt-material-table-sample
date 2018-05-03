@@ -26,6 +26,9 @@ import com.google.gwt.core.client.Scheduler;
 import com.google.gwt.dom.client.StyleInjector;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.RootPanel;
+import gwt.material.design.client.base.viewport.Resolution;
+import gwt.material.design.client.base.viewport.ViewPort;
+import gwt.material.design.client.ui.MaterialToast;
 import gwt.material.design.sample.client.ui.InfiniteTable;
 import gwt.material.design.sample.client.ui.PageTable;
 import gwt.material.design.sample.client.ui.StandardTable;
@@ -41,13 +44,22 @@ public class MaterialTableSample implements EntryPoint {
         Scheduler.get().scheduleDeferred(() -> {
             final Composite[] table = new Composite[1];
 
+            MaterialAnchorButton clearBtn = new MaterialAnchorButton("Clear");
+            RootPanel.get().add(clearBtn);
+            clearBtn.addClickHandler(event -> {
+                if(table[1] != null) {
+                    table[1].removeFromParent();
+                }
+            });
+
             MaterialAnchorButton stdBtn = new MaterialAnchorButton("Standard");
             RootPanel.get().add(stdBtn);
             stdBtn.addClickHandler(e -> {
                 if(table[1] != null) {
                     table[1].removeFromParent();
+                } else {
+                    table[1] = new StandardTable();
                 }
-                table[1] = new StandardTable();
                 RootPanel.get().add(table[1]);
             });
 
@@ -70,6 +82,13 @@ public class MaterialTableSample implements EntryPoint {
                 table[1] = new PageTable();
                 RootPanel.get().add(table[1]);
             });
+        });
+
+        ViewPort.when(Resolution.ALL_MOBILE).then(port -> {
+            MaterialToast.fireToast(port.getWidth() + " " + port.getHeight());
+        }, (fallback) -> {
+            MaterialToast.fireToast("fallback " + fallback.getWidth() + " " + fallback.getHeight());
+            return true;
         });
     }
 }

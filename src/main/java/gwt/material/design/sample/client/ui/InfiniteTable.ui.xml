@@ -9,9 +9,8 @@
     <m.table:MaterialInfiniteDataTable ui:field="table"
                                height="calc(100vh - 131px)"
                                useLoadOverlay="false"
-                               useStickyHeader="false"
-                               useCategories="true"
-                               indexOffset="10"
+                               useStickyHeader="true"
+                               useCategories="false"
                                selectionType="MULTIPLE"/>
 
     <t:menu.MaterialPopupMenu ui:field="materialPopupMenu">

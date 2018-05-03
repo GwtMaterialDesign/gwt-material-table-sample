@@ -9,14 +9,13 @@ import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTMLPanel;
 import gwt.material.design.client.constants.Color;
+import gwt.material.design.client.data.MapDataSource;
 import gwt.material.design.jquery.client.api.JQueryElement;
-import gwt.material.design.client.data.component.CategoryComponent;
 import gwt.material.design.client.data.infinite.InfiniteDataView;
 import gwt.material.design.client.ui.MaterialImage;
 import gwt.material.design.client.ui.MaterialToast;
 import gwt.material.design.client.ui.table.cell.WidgetColumn;
 import gwt.material.design.sample.client.service.FakePersonService;
-import gwt.material.design.sample.client.ui.datasource.PersonDataSource;
 import gwt.material.design.sample.client.service.PersonServiceAsync;
 import gwt.material.design.sample.client.ui.factory.CustomCategoryFactory;
 import gwt.material.design.sample.client.ui.menu.MaterialPopupMenu;
@@ -24,7 +23,9 @@ import gwt.material.design.sample.shared.model.Person;
 import gwt.material.design.client.ui.table.MaterialInfiniteDataTable;
 import gwt.material.design.client.ui.table.cell.TextColumn;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 import static gwt.material.design.jquery.client.api.JQuery.$;
 
@@ -46,27 +47,30 @@ public class InfiniteTable extends Composite {
     MaterialPopupMenu materialPopupMenu;
 
     public InfiniteTable() {
+        MapDataSource<Person> dataSource = new MapDataSource<>();
+
         table = new MaterialInfiniteDataTable<>(20,
-            InfiniteDataView.DYNAMIC_VIEW, new PersonDataSource(personService));
+            InfiniteDataView.DYNAMIC_VIEW, dataSource/*new PersonDataSource(personService)*/);
 
         initWidget(ourUiBinder.createAndBindUi(this));
-    }
 
-    @Override
-    protected void onLoad() {
-        super.onLoad();
+        List<Person> flatData = new ArrayList<>();
+        for(Map.Entry<String, List<Person>> entry : FakePersonService.peopleMap.entrySet()) {
+            flatData.addAll(entry.getValue());
+        }
+        dataSource.add(flatData);
 
         table.setCategoryFactory(new CustomCategoryFactory());
 
         // Load the categories from the server
-        table.setLoadMask(true);
+        table.getView().setLoadMask(true);
         personService.getCategories(new AsyncCallback<List<String>>() {
             @Override
             public void onSuccess(List<String> categories) {
                 for(String category : categories) {
                     table.addCategory(category);
                 }
-                table.setLoadMask(false);
+                table.getView().setLoadMask(false);
             }
             @Override
             public void onFailure(Throwable throwable) {
@@ -89,7 +93,7 @@ public class InfiniteTable extends Composite {
                 return profile;
             }
         });
-        
+
         // Add the tables columns
         table.addColumn(new TextColumn<Person>() {
             @Override
@@ -124,30 +128,20 @@ public class InfiniteTable extends Composite {
             }
         }, "Phone");
 
-        table.addRowSelectHandler((e, model, elem, selected) -> {
+        table.addRowSelectHandler(event -> {
             updateSelectedRows(table.getSelectedRowModels(false).size());
-            GWT.log(model.getId() + ": " + selected);
-            return true;
+            GWT.log(event.getModel().getId() + ": " + event.isSelected());
         });
 
-        table.addSortColumnHandler((e, sortContext, columnIndex) -> {
-            GWT.log("Sorted: " + sortContext.getSortDir() + ", columnIndex: " + columnIndex);
-            table.refreshView();
-            return true;
+        table.addColumnSortHandler(event -> {
+            GWT.log("Sorted: " + event.getSortContext().getSortDir() + ", columnIndex: " + event.getColumnIndex());
+            table.getView().refresh();
         });
 
-        table.addSelectAllHandler((e, models, elems, selected) -> {
+        table.addSelectAllHandler(event -> {
             updateSelectedRows(table.getSelectedRowModels(false).size());
-            GWT.log("Selected["+selected+"]: " + models.size() + " models");
-            return true;
+            GWT.log("Selected["+event.isSelected()+"]: " + event.getModels().size() + " models");
         });
-
-        if(!table.isUseCategories()) {
-            // Since we aren't using categories for this table
-            // we will forcefully invoke a table refresh that
-            // sends a request for data.
-            table.refreshView();
-        }
 
         materialPopupMenu.addSelectionHandler(selectionEvent -> {
             JQueryElement span = $(selectionEvent.getSelectedItem()).find("span");
@@ -161,27 +155,38 @@ public class InfiniteTable extends Composite {
             }
         });
 
-        table.addRowContextMenuHandler((e, mouseEvent, model, row) -> {
+        table.addRowContextMenuHandler(event -> {
             // Firing Row Context will automatically select the row where it was right clicked
-            table.selectRow($(row).asElement(), true);
-            materialPopupMenu.setSelected(model);
-            materialPopupMenu.setPopupPosition(mouseEvent.getClientX(), mouseEvent.getClientY());
+            table.selectRow($(event.getRow()).asElement(), true);
+            materialPopupMenu.setSelected(event.getModel());
+            materialPopupMenu.setPopupPosition(event.getMouseEvent().getClientX(), event.getMouseEvent().getClientY());
             materialPopupMenu.open();
-            return true;
         });
+    }
+
+    @Override
+    protected void onLoad() {
+        super.onLoad();
+
+        if(!table.isUseCategories()) {
+            // Since we aren't using categories for this table
+            // we will forcefully invoke a table refresh that
+            // sends a request for data.
+            table.getView().refresh();
+        }
     }
 
     @UiHandler("cbCategories")
     void onCategories(ValueChangeEvent<Boolean> e) {
         if(e.getValue()){
-            table.setUseCategories(true);
+            //table.setUseCategories(true);
             GWT.log("Categories checked");
         }else{
-            table.setUseCategories(false);
+            //table.setUseCategories(false);
             GWT.log("Categories not checked");
         }
-        table.setRedraw(true);
-        table.refreshView();
+        table.getView().setRedraw(true);
+        table.getView().refresh();
     }
 
     private void updateSelectedRows(int size) {

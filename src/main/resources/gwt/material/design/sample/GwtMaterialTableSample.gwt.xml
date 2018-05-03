@@ -7,6 +7,7 @@
 
     <inherits name="gwt.material.design.GwtMaterialWithJQueryDebug"/>
     <inherits name="gwt.material.design.GwtMaterialTableDebug"/>
+    <inherits name="gwt.material.design.addins.GwtMaterialAddinsDebug"/>
     <inherits name="gwt.material.design.jquery.JQuery" />
 
     <!-- Specify the paths for translatable code -->
