@@ -416,12 +416,12 @@ function gmdtablesample(){
     }
     var strongName;
     try {
-      unflattenKeylistIntoAnswers(['default', 'gecko1_8'], 'C5FCE52A5DD9CC865DB18DE6A850711D');
-      unflattenKeylistIntoAnswers(['default', 'ie10'], 'C5FCE52A5DD9CC865DB18DE6A850711D' + ':1');
-      unflattenKeylistIntoAnswers(['default', 'safari'], 'C5FCE52A5DD9CC865DB18DE6A850711D' + ':2');
-      unflattenKeylistIntoAnswers(['en', 'gecko1_8'], 'C5FCE52A5DD9CC865DB18DE6A850711D' + ':3');
-      unflattenKeylistIntoAnswers(['en', 'ie10'], 'C5FCE52A5DD9CC865DB18DE6A850711D' + ':4');
-      unflattenKeylistIntoAnswers(['en', 'safari'], 'C5FCE52A5DD9CC865DB18DE6A850711D' + ':5');
+      unflattenKeylistIntoAnswers(['default', 'gecko1_8'], '4714433F61AEDC05CD75385535EE62EC');
+      unflattenKeylistIntoAnswers(['default', 'ie10'], '4714433F61AEDC05CD75385535EE62EC' + ':1');
+      unflattenKeylistIntoAnswers(['default', 'safari'], '4714433F61AEDC05CD75385535EE62EC' + ':2');
+      unflattenKeylistIntoAnswers(['en', 'gecko1_8'], '4714433F61AEDC05CD75385535EE62EC' + ':3');
+      unflattenKeylistIntoAnswers(['en', 'ie10'], '4714433F61AEDC05CD75385535EE62EC' + ':4');
+      unflattenKeylistIntoAnswers(['en', 'safari'], '4714433F61AEDC05CD75385535EE62EC' + ':5');
       strongName = answers[computePropValue('locale')][computePropValue('user.agent')];
       var idx = strongName.indexOf(':');
       if (idx != -1) {
@@ -452,7 +452,7 @@ function gmdtablesample(){
     sendStats('loadExternalRefs', 'begin');
     installOneStylesheet('css/animation.css');
     installOneStylesheet('css/material-icons.css');
-    installOneStylesheet('css/materialize.min.css');
+    installOneStylesheet('css/materialize.css');
     installOneStylesheet('css/overridecss.css');
     sendStats('loadExternalRefs', 'end');
   }
