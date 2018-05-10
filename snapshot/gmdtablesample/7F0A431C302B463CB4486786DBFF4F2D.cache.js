@@ -3,7 +3,7 @@ var __gwtModuleFunction = $wnd.gmdtablesample;
 var $sendStats = __gwtModuleFunction.__sendStats;
 $sendStats('moduleStartup', 'moduleEvalStart');
 var $gwt_version = "2.8.0";
-var $strongName = '4714433F61AEDC05CD75385535EE62EC';
+var $strongName = '7F0A431C302B463CB4486786DBFF4F2D';
 var $gwt = {};
 var $doc = $wnd.document;
 var $moduleName, $moduleBase;
@@ -22,7 +22,7 @@ var $stats = $wnd.__gwtStatsEvent ? function(a) {
 return $wnd.__gwtStatsEvent && $wnd.__gwtStatsEvent(a);
 } : null;
 var $sessionId = $wnd.__gwtStatsSessionId ? $wnd.__gwtStatsSessionId : null;
-var $intern_0 = 2147483647, $intern_1 = {4:1, 6:1}, $intern_2 = {4:1, 34:1, 25:1}, $intern_3 = {82:1}, $intern_4 = {4:1, 24:1, 6:1}, $intern_5 = {31:1, 18:1, 4:1, 8:1, 7:1}, $intern_6 = {30:1, 18:1, 4:1, 8:1, 7:1}, $intern_7 = {77:1, 18:1, 4:1, 8:1, 7:1}, $intern_8 = {18:1, 64:1, 4:1, 8:1, 7:1}, $intern_9 = {41:1, 4:1, 8:1, 7:1}, $intern_10 = {11:1}, $intern_11 = {84:1, 4:1, 34:1, 25:1}, $intern_12 = {117:1}, $intern_13 = 4194303, $intern_14 = 1048575, $intern_15 = 4194304, $intern_16 = 17592186044416, $intern_17 = 524288, $intern_18 = -2147483648, $intern_19 = {147:1, 4:1}, $intern_20 = 65536, $intern_21 = 131072, $intern_22 = 16777216, $intern_23 = 33554432, $intern_24 = 67108864, $intern_25 = {87:1}, $intern_26 = {17:1, 11:1, 15:1, 14:1, 16:1, 13:1, 10:1}, $intern_27 = {17:1, 11:1, 15:1, 14:1, 26:1, 16:1, 13:1, 10:1}, $intern_28 = {17:1, 11:1, 15:1, 23:1, 14:1, 16:1, 13:1, 10:1}, $intern_29 = {17:1, 11:1, 15:1, 108:1, 14:1, 228:1, 16:1, 13:1, 10:1}, $intern_30 = {17:1, 11:1, 15:1, 14:1, 26:1, 16:1, 114:1, 13:1, 10:1}, $intern_31 = {69:1, 4:1, 8:1, 7:1}, $intern_32 = {106:1, 141:1}, $intern_33 = {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1}, $intern_34 = {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 94:1, 29:1, 9:1}, $intern_35 = {72:1, 12:1}, $intern_36 = {227:1, 12:1}, $intern_37 = {52:1, 12:1}, $intern_38 = {644:1, 12:1}, $intern_39 = {96:1, 12:1}, $intern_40 = {4:1}, $intern_41 = {32:1}, $intern_42 = {104:1, 4:1, 8:1, 7:1}, $intern_43 = {35:1, 53:1}, $intern_44 = {36:1, 39:1}, $intern_45 = {4:1, 36:1, 39:1, 145:1}, $intern_46 = {12:1, 647:1}, $intern_47 = {12:1, 648:1}, $intern_48 = {12:1, 229:1}, $intern_49 = {12:1, 651:1}, $intern_50 = {17:1, 12:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1, 652:1}, $intern_51 = {71:1}, $intern_52 = {4:1, 71:1}, $intern_53 = {32:1, 49:1}, $intern_54 = {649:1, 12:1}, $intern_55 = {12:1, 650:1}, $intern_56 = {4:1, 34:1, 45:1, 25:1}, $intern_57 = {36:1, 70:1}, $intern_58 = {4:1, 36:1, 70:1}, $intern_59 = {4:1, 8:1, 7:1, 76:1}, $intern_60 = {4:1, 6:1, 225:1};
+var $intern_0 = 2147483647, $intern_1 = {4:1, 6:1}, $intern_2 = {4:1, 34:1, 25:1}, $intern_3 = {82:1}, $intern_4 = {4:1, 24:1, 6:1}, $intern_5 = {31:1, 18:1, 4:1, 8:1, 7:1}, $intern_6 = {30:1, 18:1, 4:1, 8:1, 7:1}, $intern_7 = {77:1, 18:1, 4:1, 8:1, 7:1}, $intern_8 = {18:1, 64:1, 4:1, 8:1, 7:1}, $intern_9 = {41:1, 4:1, 8:1, 7:1}, $intern_10 = {11:1}, $intern_11 = {84:1, 4:1, 34:1, 25:1}, $intern_12 = {118:1}, $intern_13 = 4194303, $intern_14 = 1048575, $intern_15 = 4194304, $intern_16 = 17592186044416, $intern_17 = 524288, $intern_18 = -2147483648, $intern_19 = {147:1, 4:1}, $intern_20 = 65536, $intern_21 = 131072, $intern_22 = 16777216, $intern_23 = 33554432, $intern_24 = 67108864, $intern_25 = {87:1}, $intern_26 = {17:1, 11:1, 15:1, 14:1, 16:1, 13:1, 10:1}, $intern_27 = {17:1, 11:1, 15:1, 14:1, 26:1, 16:1, 13:1, 10:1}, $intern_28 = {17:1, 11:1, 15:1, 23:1, 14:1, 16:1, 13:1, 10:1}, $intern_29 = {17:1, 11:1, 15:1, 109:1, 14:1, 228:1, 16:1, 13:1, 10:1}, $intern_30 = {17:1, 11:1, 15:1, 14:1, 26:1, 16:1, 115:1, 13:1, 10:1}, $intern_31 = {69:1, 4:1, 8:1, 7:1}, $intern_32 = {107:1, 141:1}, $intern_33 = {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1}, $intern_34 = {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 95:1, 29:1, 9:1}, $intern_35 = {72:1, 12:1}, $intern_36 = {227:1, 12:1}, $intern_37 = {52:1, 12:1}, $intern_38 = {645:1, 12:1}, $intern_39 = {97:1, 12:1}, $intern_40 = {4:1}, $intern_41 = {32:1}, $intern_42 = {105:1, 4:1, 8:1, 7:1}, $intern_43 = {35:1, 53:1}, $intern_44 = {36:1, 39:1}, $intern_45 = {4:1, 36:1, 39:1, 145:1}, $intern_46 = {12:1, 648:1}, $intern_47 = {12:1, 649:1}, $intern_48 = {12:1, 229:1}, $intern_49 = {12:1, 652:1}, $intern_50 = {17:1, 12:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1, 653:1}, $intern_51 = {71:1}, $intern_52 = {4:1, 71:1}, $intern_53 = {32:1, 49:1}, $intern_54 = {650:1, 12:1}, $intern_55 = {12:1, 651:1}, $intern_56 = {4:1, 34:1, 45:1, 25:1}, $intern_57 = {36:1, 70:1}, $intern_58 = {4:1, 36:1, 70:1}, $intern_59 = {4:1, 8:1, 7:1, 76:1}, $intern_60 = {4:1, 6:1, 225:1};
 var _, prototypesByTypeId_0, initFnList_0, permutationId = -1, $stack_0 = [], $stackDepth_0 = -1, $location_0 = [], $tmp;
 function create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle(){
   var stackIndex, returnTemp;
@@ -937,7 +937,7 @@ function AbstractSafeHtmlCell(renderer, consumedEvents){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(531, 199, {});
+defineClass(533, 199, {});
 _.render_0 = function render(context, data_0, sb){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = render;
@@ -945,7 +945,7 @@ _.render_0 = function render(context, data_0, sb){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_cell_client_AbstractSafeHtmlCell_2_classLit = createForClass('com.google.gwt.cell.client', 'AbstractSafeHtmlCell', 531);
+var Lcom_google_gwt_cell_client_AbstractSafeHtmlCell_2_classLit = createForClass('com.google.gwt.cell.client', 'AbstractSafeHtmlCell', 533);
 function Cell$Context(){
 }
 
@@ -972,7 +972,7 @@ var uncaughtExceptionHandler = null;
 function $$init(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $$init;
-  ($location_0[stackIndex] = 'Throwable.java:' + '52' , this$static).stackTrace = initUnidimensionalArray(Ljava_lang_StackTraceElement_2_classLit, $intern_1, 97, 0, 0, 1);
+  ($location_0[stackIndex] = 'Throwable.java:' + '52' , this$static).stackTrace = initUnidimensionalArray(Ljava_lang_StackTraceElement_2_classLit, $intern_1, 98, 0, 0, 1);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -1185,7 +1185,7 @@ function getExceptionName0(e){
   return returnTemp;
 }
 
-defineClass(98, 253, {98:1, 4:1, 34:1, 25:1}, JavaScriptException);
+defineClass(99, 253, {99:1, 4:1, 34:1, 25:1}, JavaScriptException);
 _.getMessage = function getMessage_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getMessage_0;
@@ -1204,7 +1204,7 @@ _.getThrown = function getThrown(){
 }
 ;
 var NOT_SET;
-var Lcom_google_gwt_core_client_JavaScriptException_2_classLit = createForClass('com.google.gwt.core.client', 'JavaScriptException', 98);
+var Lcom_google_gwt_core_client_JavaScriptException_2_classLit = createForClass('com.google.gwt.core.client', 'JavaScriptException', 99);
 function $equals(this$static, other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $equals;
@@ -1242,8 +1242,8 @@ function now_1(){
   return returnTemp;
 }
 
-defineClass(656, 1, {});
-var Lcom_google_gwt_core_client_Scheduler_2_classLit = createForClass('com.google.gwt.core.client', 'Scheduler', 656);
+defineClass(657, 1, {});
+var Lcom_google_gwt_core_client_Scheduler_2_classLit = createForClass('com.google.gwt.core.client', 'Scheduler', 657);
 function $clinit_ScriptInjector(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ScriptInjector;
@@ -1435,7 +1435,7 @@ function reportUncaughtException(e){
     $stackDepth_0 = stackIndex - 1;
     return;
   }
-  reportToBrowser(($tmp = instanceOf(($location_0[stackIndex] = 'Impl.java:' + '192' , e), ($tmp = 98 , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp))?castTo(($location_0[stackIndex] = 'Impl.java:' + '192' , e), ($tmp = 98 , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp)).getThrown():($location_0[stackIndex] = 'Impl.java:' + '192' , e) , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp));
+  reportToBrowser(($tmp = instanceOf(($location_0[stackIndex] = 'Impl.java:' + '192' , e), ($tmp = 99 , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp))?castTo(($location_0[stackIndex] = 'Impl.java:' + '192' , e), ($tmp = 99 , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp)).getThrown():($location_0[stackIndex] = 'Impl.java:' + '192' , e) , $location_0[stackIndex] = 'Impl.java:' + '200' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -1648,7 +1648,7 @@ function scheduleFixedDelayImpl(cmd, delayMs){
   $stackDepth_0 = stackIndex_0 - 1;
 }
 
-defineClass(271, 656, {}, SchedulerImpl);
+defineClass(271, 657, {}, SchedulerImpl);
 _.flushRunning = false;
 _.shouldBeRunning = false;
 var INSTANCE;
@@ -1759,8 +1759,8 @@ function supportsErrorStack(){
 }
 
 var collector;
-defineClass(669, 1, {});
-var Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/Collector', 669);
+defineClass(670, 1, {});
+var Lcom_google_gwt_core_client_impl_StackTraceCreator$Collector_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/Collector', 670);
 function $collect(error){
   var fnStack = [], name_1, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $collect;
@@ -1778,7 +1778,7 @@ function $getStackTrace(t){
   var fileName, frame_0, i, idx, lineNumber, location_0, name_0, stack_0, stackTrace, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getStackTrace;
   $location_0[stackIndex] = 'StackTraceCreator.java:' + '135' , stack_0 = ($location_0[stackIndex] = 'StackTraceCreator.java:' + '361' , $clinit_StackTraceCreator() , ($location_0[stackIndex] = 'StackTraceCreator.java:' + '135' , t) && ($location_0[stackIndex] = 'StackTraceCreator.java:' + '362' , t['fnStack'])?($location_0[stackIndex] = 'StackTraceCreator.java:' + '362' , ($location_0[stackIndex] = 'StackTraceCreator.java:' + '135' , t)['fnStack']):[]);
-  stackTrace = initUnidimensionalArray(($location_0[stackIndex] = 'StackTraceCreator.java:' + '137' , Ljava_lang_StackTraceElement_2_classLit), $intern_1, 97, ($location_0[stackIndex] = 'JsArray.java:' + '77' , stack_0.length), 0, ($tmp = 1 , $location_0[stackIndex] = 'StackTraceCreator.java:' + '137' , $tmp));
+  stackTrace = initUnidimensionalArray(($location_0[stackIndex] = 'StackTraceCreator.java:' + '137' , Ljava_lang_StackTraceElement_2_classLit), $intern_1, 98, ($location_0[stackIndex] = 'JsArray.java:' + '77' , stack_0.length), 0, ($tmp = 1 , $location_0[stackIndex] = 'StackTraceCreator.java:' + '137' , $tmp));
   for ($location_0[stackIndex] = 'StackTraceCreator.java:' + '138' , i = 0; ($location_0[stackIndex] = 'StackTraceCreator.java:' + '138' , i) < stackTrace.length; $location_0[stackIndex] = 'StackTraceCreator.java:' + '138' , i++) {
     $location_0[stackIndex] = 'StackTraceCreator.java:' + '139' , frame_0 = ($location_0[stackIndex] = 'JsArray.java:' + '49' , ($location_0[stackIndex] = 'StackTraceCreator.java:' + '139' , stack_0)[i]);
     $location_0[stackIndex] = 'StackTraceCreator.java:' + '140' , name_0 = ($location_0[stackIndex] = 'JsArrayString.java:' + '42' , ($location_0[stackIndex] = 'StackTraceCreator.java:' + '140' , frame_0)[0]);
@@ -1805,7 +1805,7 @@ function $getStackTrace(t){
 function StackTraceCreator$CollectorEmulated(){
 }
 
-defineClass(254, 669, {}, StackTraceCreator$CollectorEmulated);
+defineClass(254, 670, {}, StackTraceCreator$CollectorEmulated);
 var Lcom_google_gwt_core_client_impl_StackTraceCreator$CollectorEmulated_2_classLit = createForClass('com.google.gwt.core.client.impl', 'StackTraceCreator/CollectorEmulated', 254);
 function $clinit_GWT(){
   var stackIndex;
@@ -2189,7 +2189,7 @@ _.toString_1 = function toString_2(elem){
 ;
 var impl_0;
 var Lcom_google_gwt_dom_client_DOMImpl_2_classLit = createForClass('com.google.gwt.dom.client', 'DOMImpl', 82);
-defineClass(670, 82, $intern_3);
+defineClass(671, 82, $intern_3);
 _.createHtmlEvent = function createHtmlEvent(doc, type_0, canBubble, cancelable){
   var evt = ($location_0[stackIndex] = 'DOMImplStandard.java:' + '28' , doc).createEvent('HTMLEvents'), stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createHtmlEvent;
@@ -2245,8 +2245,8 @@ _.setInnerText = function setInnerText_0(elem, text_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_dom_client_DOMImplStandard_2_classLit = createForClass('com.google.gwt.dom.client', 'DOMImplStandard', 670);
-defineClass(671, 670, $intern_3);
+var Lcom_google_gwt_dom_client_DOMImplStandard_2_classLit = createForClass('com.google.gwt.dom.client', 'DOMImplStandard', 671);
+defineClass(672, 671, $intern_3);
 _.createButtonElement = function createButtonElement_0(doc, type_0){
   var e = ($location_0[stackIndex] = 'DOMImplStandardBase.java:' + '155' , doc).createElement('BUTTON'), stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createButtonElement_0;
@@ -2282,7 +2282,7 @@ _.getTabIndex = function getTabIndex_0(elem){
   return returnTemp;
 }
 ;
-var Lcom_google_gwt_dom_client_DOMImplStandardBase_2_classLit = createForClass('com.google.gwt.dom.client', 'DOMImplStandardBase', 671);
+var Lcom_google_gwt_dom_client_DOMImplStandardBase_2_classLit = createForClass('com.google.gwt.dom.client', 'DOMImplStandardBase', 672);
 function DOMImplIE9(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DOMImplIE9;
@@ -2290,7 +2290,7 @@ function DOMImplIE9(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(257, 671, $intern_3, DOMImplIE9);
+defineClass(257, 672, $intern_3, DOMImplIE9);
 _.getTabIndex = function getTabIndex_1(elem){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getTabIndex_1;
@@ -2315,7 +2315,7 @@ function DOMImplMozilla(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(256, 670, $intern_3, DOMImplMozilla);
+defineClass(256, 671, $intern_3, DOMImplMozilla);
 _.eventGetRelatedTarget = function eventGetRelatedTarget_0(evt){
   var relatedTarget = ($location_0[stackIndex] = 'DOMImplMozilla.java:' + '128' , evt).relatedTarget, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = eventGetRelatedTarget_0;
@@ -2393,7 +2393,7 @@ function DOMImplWebkit(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(255, 671, $intern_3, DOMImplWebkit);
+defineClass(255, 672, $intern_3, DOMImplWebkit);
 _.eventGetTarget = function eventGetTarget_0(evt){
   var target = ($location_0[stackIndex] = 'DOMImplWebkit.java:' + '45' , evt).target, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = eventGetTarget_0;
@@ -3898,7 +3898,7 @@ function $setData(this$static, data_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(681, 1, {});
+defineClass(682, 1, {});
 _.toString_0 = function toString_5(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_5;
@@ -3906,7 +3906,7 @@ _.toString_0 = function toString_5(){
   return 'An event type';
 }
 ;
-var Lcom_google_web_bindery_event_shared_Event_2_classLit = createForClass('com.google.web.bindery.event.shared', 'Event', 681);
+var Lcom_google_web_bindery_event_shared_Event_2_classLit = createForClass('com.google.web.bindery.event.shared', 'Event', 682);
 function $overrideSource(this$static, source){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $overrideSource;
@@ -3914,9 +3914,9 @@ function $overrideSource(this$static, source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(682, 681, {});
+defineClass(683, 682, {});
 _.dead = false;
-var Lcom_google_gwt_event_shared_GwtEvent_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent', 682);
+var Lcom_google_gwt_event_shared_GwtEvent_2_classLit = createForClass('com.google.gwt.event.shared', 'GwtEvent', 683);
 function $setNativeEvent(this$static, nativeEvent){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setNativeEvent;
@@ -3952,7 +3952,7 @@ function fireNativeEvent(nativeEvent, handlerSource, relativeElem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(690, 682, {});
+defineClass(691, 683, {});
 _.getAssociatedType = function getAssociatedType(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getAssociatedType;
@@ -3962,7 +3962,7 @@ _.getAssociatedType = function getAssociatedType(){
 }
 ;
 var registered;
-var Lcom_google_gwt_event_dom_client_DomEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent', 690);
+var Lcom_google_gwt_event_dom_client_DomEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent', 691);
 function $clinit_BlurEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_BlurEvent;
@@ -3974,7 +3974,7 @@ function $clinit_BlurEvent(){
 function BlurEvent(){
 }
 
-defineClass(603, 690, {}, BlurEvent);
+defineClass(604, 691, {}, BlurEvent);
 _.dispatch = function dispatch(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch;
@@ -3991,7 +3991,7 @@ _.getAssociatedType_0 = function getAssociatedType_0(){
 }
 ;
 var TYPE;
-var Lcom_google_gwt_event_dom_client_BlurEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'BlurEvent', 603);
+var Lcom_google_gwt_event_dom_client_BlurEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'BlurEvent', 604);
 function $clinit_ChangeEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ChangeEvent;
@@ -4010,11 +4010,11 @@ function $dispatch(handler){
 function ChangeEvent(){
 }
 
-defineClass(602, 690, {}, ChangeEvent);
+defineClass(603, 691, {}, ChangeEvent);
 _.dispatch = function dispatch_0(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_0;
-  $dispatch(castTo(($location_0[stackIndex] = 'ChangeEvent.java:' + '55' , handler), 711));
+  $dispatch(castTo(($location_0[stackIndex] = 'ChangeEvent.java:' + '55' , handler), 714));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4027,11 +4027,11 @@ _.getAssociatedType_0 = function getAssociatedType_1(){
 }
 ;
 var TYPE_0;
-var Lcom_google_gwt_event_dom_client_ChangeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'ChangeEvent', 602);
-defineClass(691, 690, {});
-var Lcom_google_gwt_event_dom_client_HumanInputEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'HumanInputEvent', 691);
+var Lcom_google_gwt_event_dom_client_ChangeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'ChangeEvent', 603);
 defineClass(692, 691, {});
-var Lcom_google_gwt_event_dom_client_MouseEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'MouseEvent', 692);
+var Lcom_google_gwt_event_dom_client_HumanInputEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'HumanInputEvent', 692);
+defineClass(693, 692, {});
+var Lcom_google_gwt_event_dom_client_MouseEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'MouseEvent', 693);
 function $clinit_ClickEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ClickEvent;
@@ -4043,7 +4043,7 @@ function $clinit_ClickEvent(){
 function ClickEvent(){
 }
 
-defineClass(424, 692, {}, ClickEvent);
+defineClass(424, 693, {}, ClickEvent);
 _.dispatch = function dispatch_1(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_1;
@@ -4107,10 +4107,10 @@ function DomEvent$Type(eventName, flyweight){
 
 defineClass(89, 28, {89:1}, DomEvent$Type);
 var Lcom_google_gwt_event_dom_client_DomEvent$Type_2_classLit = createForClass('com.google.gwt.event.dom.client', 'DomEvent/Type', 89);
-defineClass(695, 690, {});
-var Lcom_google_gwt_event_dom_client_KeyEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyEvent', 695);
-defineClass(696, 695, {});
-var Lcom_google_gwt_event_dom_client_KeyCodeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyCodeEvent', 696);
+defineClass(696, 691, {});
+var Lcom_google_gwt_event_dom_client_KeyEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyEvent', 696);
+defineClass(697, 696, {});
+var Lcom_google_gwt_event_dom_client_KeyCodeEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyCodeEvent', 697);
 function $clinit_KeyDownEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_KeyDownEvent;
@@ -4122,11 +4122,11 @@ function $clinit_KeyDownEvent(){
 function KeyDownEvent(){
 }
 
-defineClass(583, 696, {}, KeyDownEvent);
+defineClass(585, 697, {}, KeyDownEvent);
 _.dispatch = function dispatch_2(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_2;
-  castTo(($location_0[stackIndex] = 'KeyDownEvent.java:' + '55' , handler), 644).onKeyDown(($tmp = this , $location_0[stackIndex] = 'KeyDownEvent.java:' + '56' , $tmp));
+  castTo(($location_0[stackIndex] = 'KeyDownEvent.java:' + '55' , handler), 645).onKeyDown(($tmp = this , $location_0[stackIndex] = 'KeyDownEvent.java:' + '56' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4139,7 +4139,7 @@ _.getAssociatedType_0 = function getAssociatedType_3(){
 }
 ;
 var TYPE_2;
-var Lcom_google_gwt_event_dom_client_KeyDownEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyDownEvent', 583);
+var Lcom_google_gwt_event_dom_client_KeyDownEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyDownEvent', 585);
 function $clinit_KeyUpEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_KeyUpEvent;
@@ -4151,11 +4151,11 @@ function $clinit_KeyUpEvent(){
 function KeyUpEvent(){
 }
 
-defineClass(630, 696, {}, KeyUpEvent);
+defineClass(631, 697, {}, KeyUpEvent);
 _.dispatch = function dispatch_3(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_3;
-  castTo(($location_0[stackIndex] = 'KeyUpEvent.java:' + '55' , handler), 702).onKeyUp(($tmp = this , $location_0[stackIndex] = 'KeyUpEvent.java:' + '56' , $tmp));
+  castTo(($location_0[stackIndex] = 'KeyUpEvent.java:' + '55' , handler), 703).onKeyUp(($tmp = this , $location_0[stackIndex] = 'KeyUpEvent.java:' + '56' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4168,7 +4168,7 @@ _.getAssociatedType_0 = function getAssociatedType_4(){
 }
 ;
 var TYPE_3;
-var Lcom_google_gwt_event_dom_client_KeyUpEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyUpEvent', 630);
+var Lcom_google_gwt_event_dom_client_KeyUpEvent_2_classLit = createForClass('com.google.gwt.event.dom.client', 'KeyUpEvent', 631);
 function $unsafeGet(this$static, key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $unsafeGet;
@@ -4210,7 +4210,7 @@ function fire(source, attached){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(329, 682, {}, AttachEvent);
+defineClass(329, 683, {}, AttachEvent);
 _.dispatch = function dispatch_4(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_4;
@@ -4242,11 +4242,11 @@ function fire_0(source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(420, 682, {}, CloseEvent_0);
+defineClass(420, 683, {}, CloseEvent_0);
 _.dispatch = function dispatch_5(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_5;
-  castTo(($location_0[stackIndex] = 'CloseEvent.java:' + '111' , handler), 703);
+  castTo(($location_0[stackIndex] = 'CloseEvent.java:' + '111' , handler), 704);
   $location_0[stackIndex] = 'RootPanel.java:' + '265' , detachWidgets();
   $stackDepth_0 = stackIndex - 1;
 }
@@ -4286,11 +4286,11 @@ function fire_1(source, width_0, height){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(349, 682, {}, ResizeEvent);
+defineClass(349, 683, {}, ResizeEvent);
 _.dispatch = function dispatch_6(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_6;
-  $dispatch_0(this, castTo(($location_0[stackIndex] = 'ResizeEvent.java:' + '104' , handler), 700));
+  $dispatch_0(this, castTo(($location_0[stackIndex] = 'ResizeEvent.java:' + '104' , handler), 701));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4323,11 +4323,11 @@ function fire_2(source, selectedItem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(504, 682, {}, SelectionEvent);
+defineClass(505, 683, {}, SelectionEvent);
 _.dispatch = function dispatch_7(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_7;
-  castTo(($location_0[stackIndex] = 'SelectionEvent.java:' + '88' , handler), 649).onSelection(($tmp = this , $location_0[stackIndex] = 'SelectionEvent.java:' + '89' , $tmp));
+  castTo(($location_0[stackIndex] = 'SelectionEvent.java:' + '88' , handler), 650).onSelection(($tmp = this , $location_0[stackIndex] = 'SelectionEvent.java:' + '89' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4340,7 +4340,7 @@ _.getAssociatedType = function getAssociatedType_8(){
 }
 ;
 var TYPE_7;
-var Lcom_google_gwt_event_logical_shared_SelectionEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'SelectionEvent', 504);
+var Lcom_google_gwt_event_logical_shared_SelectionEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'SelectionEvent', 505);
 function ValueChangeEvent(value_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueChangeEvent;
@@ -4368,11 +4368,11 @@ function fireIfNotEqual(source, oldValue, newValue){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(215, 682, {}, ValueChangeEvent);
+defineClass(215, 683, {}, ValueChangeEvent);
 _.dispatch = function dispatch_8(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_8;
-  castTo(($location_0[stackIndex] = 'ValueChangeEvent.java:' + '127' , handler), 96).onValueChange(($tmp = this , $location_0[stackIndex] = 'ValueChangeEvent.java:' + '128' , $tmp));
+  castTo(($location_0[stackIndex] = 'ValueChangeEvent.java:' + '127' , handler), 97).onValueChange(($tmp = this , $location_0[stackIndex] = 'ValueChangeEvent.java:' + '128' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -4386,8 +4386,8 @@ _.getAssociatedType = function getAssociatedType_9(){
 ;
 var TYPE_8;
 var Lcom_google_gwt_event_logical_shared_ValueChangeEvent_2_classLit = createForClass('com.google.gwt.event.logical.shared', 'ValueChangeEvent', 215);
-defineClass(683, 1, {});
-var Lcom_google_web_bindery_event_shared_EventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'EventBus', 683);
+defineClass(684, 1, {});
+var Lcom_google_web_bindery_event_shared_EventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'EventBus', 684);
 function $castFireEvent(this$static, event_0){
   var e, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $castFireEvent;
@@ -4407,8 +4407,8 @@ function $castFireEvent(this$static, event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(697, 683, $intern_10);
-var Lcom_google_gwt_event_shared_EventBus_2_classLit = createForClass('com.google.gwt.event.shared', 'EventBus', 697);
+defineClass(698, 684, $intern_10);
+var Lcom_google_gwt_event_shared_EventBus_2_classLit = createForClass('com.google.gwt.event.shared', 'EventBus', 698);
 function $addHandler(this$static, type_0, handler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $addHandler;
@@ -4584,7 +4584,7 @@ function $handleQueuedAddsAndRemoves(this$static){
   if (($location_0[stackIndex] = 'SimpleEventBus.java:' + '287' , this$static).deferredDeltas) {
     try {
       for ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , this$static).deferredDeltas , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator).this$01).array.length;) {
-        c = castTo($next_3(($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator)), 645);
+        c = castTo($next_3(($location_0[stackIndex] = 'SimpleEventBus.java:' + '289' , c$iterator)), 646);
         ($location_0[stackIndex] = 'SimpleEventBus.java:' + '290' , c).execute_0();
       }
     }
@@ -4615,7 +4615,7 @@ function SimpleEventBus_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(160, 683, {}, SimpleEventBus);
+defineClass(160, 684, {}, SimpleEventBus);
 _.firingDepth = 0;
 _.isReverseOrder = false;
 var Lcom_google_web_bindery_event_shared_SimpleEventBus_2_classLit = createForClass('com.google.web.bindery.event.shared', 'SimpleEventBus', 160);
@@ -4643,7 +4643,7 @@ function LegacyHandlerWrapper(real){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(409, 1, {226:1, 701:1}, LegacyHandlerWrapper);
+defineClass(409, 1, {226:1, 702:1}, LegacyHandlerWrapper);
 _.removeHandler = function removeHandler(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = removeHandler;
@@ -4659,7 +4659,7 @@ function SimpleEventBus_1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(601, 697, $intern_10, SimpleEventBus_1);
+defineClass(602, 698, $intern_10, SimpleEventBus_1);
 _.fireEvent = function fireEvent_1(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fireEvent_1;
@@ -4667,7 +4667,7 @@ _.fireEvent = function fireEvent_1(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_event_shared_SimpleEventBus_2_classLit = createForClass('com.google.gwt.event.shared', 'SimpleEventBus', 601);
+var Lcom_google_gwt_event_shared_SimpleEventBus_2_classLit = createForClass('com.google.gwt.event.shared', 'SimpleEventBus', 602);
 function UmbrellaException(causes){
   var cause, cause$iterator, i, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = UmbrellaException;
@@ -4760,7 +4760,7 @@ function AutoDirectionHandler(target, directionEstimator){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(568, 1, {702:1, 12:1}, AutoDirectionHandler);
+defineClass(570, 1, {703:1, 12:1}, AutoDirectionHandler);
 _.onKeyUp = function onKeyUp(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onKeyUp;
@@ -4768,7 +4768,7 @@ _.onKeyUp = function onKeyUp(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_i18n_client_AutoDirectionHandler_2_classLit = createForClass('com.google.gwt.i18n.client', 'AutoDirectionHandler', 568);
+var Lcom_google_gwt_i18n_client_AutoDirectionHandler_2_classLit = createForClass('com.google.gwt.i18n.client', 'AutoDirectionHandler', 570);
 function getDirectionOnElement(elem){
   var dirPropertyValue, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getDirectionOnElement;
@@ -4835,19 +4835,19 @@ function values_5(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_5;
   $location_0[stackIndex] = 'HasDirection.java:' + '34' , $clinit_HasDirection$Direction();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lcom_google_gwt_i18n_client_HasDirection$Direction_2_classLit, 1), $intern_4, 116, 0, [RTL, LTR, DEFAULT_0]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lcom_google_gwt_i18n_client_HasDirection$Direction_2_classLit, 1), $intern_4, 117, 0, [RTL, LTR, DEFAULT_0]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(116, 7, {116:1, 4:1, 8:1, 7:1}, HasDirection$Direction);
+defineClass(117, 7, {117:1, 4:1, 8:1, 7:1}, HasDirection$Direction);
 var DEFAULT_0, LTR, RTL;
-var Lcom_google_gwt_i18n_client_HasDirection$Direction_2_classLit = createForEnum('com.google.gwt.i18n.client', 'HasDirection/Direction', 116, values_5);
+var Lcom_google_gwt_i18n_client_HasDirection$Direction_2_classLit = createForEnum('com.google.gwt.i18n.client', 'HasDirection/Direction', 117, values_5);
 function $clinit_LocaleInfo(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_LocaleInfo;
   $clinit_LocaleInfo = ($location_0[stackIndex] = 'LocaleInfo.java:' + '29' , emptyMethod);
-  instance = new LocaleInfo(($tmp = castTo(($location_0[stackIndex] = 'LocaleInfo.java:' + '37' , create_com_google_gwt_i18n_client_impl_LocaleInfoImpl()), 117) , $location_0[stackIndex] = 'LocaleInfo.java:' + '36' , $tmp));
+  instance = new LocaleInfo(($tmp = castTo(($location_0[stackIndex] = 'LocaleInfo.java:' + '37' , create_com_google_gwt_i18n_client_impl_LocaleInfoImpl()), 118) , $location_0[stackIndex] = 'LocaleInfo.java:' + '36' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -4861,7 +4861,7 @@ function LocaleInfo(impl){
 defineClass(413, 1, {}, LocaleInfo);
 var instance;
 var Lcom_google_gwt_i18n_client_LocaleInfo_2_classLit = createForClass('com.google.gwt.i18n.client', 'LocaleInfo', 413);
-defineClass(117, 1, $intern_12);
+defineClass(118, 1, $intern_12);
 _.hasAnyRTL = function hasAnyRTL(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = hasAnyRTL;
@@ -4869,8 +4869,8 @@ _.hasAnyRTL = function hasAnyRTL(){
   return false;
 }
 ;
-var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl', 117);
-defineClass(689, 117, $intern_12);
+var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl', 118);
+defineClass(690, 118, $intern_12);
 _.hasAnyRTL = function hasAnyRTL_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = hasAnyRTL_0;
@@ -4878,16 +4878,16 @@ _.hasAnyRTL = function hasAnyRTL_0(){
   return false;
 }
 ;
-var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1shared_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_shared', 689);
+var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1shared_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_shared', 690);
 function LocaleInfoImpl_(){
 }
 
-defineClass(422, 689, $intern_12, LocaleInfoImpl_);
+defineClass(422, 690, $intern_12, LocaleInfoImpl_);
 var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_', 422);
 function LocaleInfoImpl_en(){
 }
 
-defineClass(421, 689, $intern_12, LocaleInfoImpl_en);
+defineClass(421, 690, $intern_12, LocaleInfoImpl_en);
 var Lcom_google_gwt_i18n_client_impl_LocaleInfoImpl_1en_2_classLit = createForClass('com.google.gwt.i18n.client.impl', 'LocaleInfoImpl_en', 421);
 function $clinit_BidiUtils(){
   var stackIndex;
@@ -4928,8 +4928,8 @@ function $estimateDirection(str){
 }
 
 var FIRST_STRONG_IS_RTL_RE, HAS_ANY_LTR_RE, HAS_NUMERALS_RE, IS_REQUIRED_LTR_RE, LTR_CHARS = 'A-Za-z\xC0-\xD6\xD8-\xF6\xF8-\u02B8\u0300-\u0590\u0800-\u1FFF\u2C00-\uFB1C\uFDFE-\uFE6F\uFEFD-\uFFFF', RTL_CHARS = '\u0591-\u07FF\uFB1D-\uFDFD\uFE70-\uFEFC', WORD_SEPARATOR_RE;
-defineClass(694, 1, {});
-var Lcom_google_gwt_i18n_shared_DirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'DirectionEstimator', 694);
+defineClass(695, 1, {});
+var Lcom_google_gwt_i18n_shared_DirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'DirectionEstimator', 695);
 function $clinit_WordCountDirectionEstimator(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_WordCountDirectionEstimator;
@@ -4949,9 +4949,9 @@ function $estimateDirection_0(str){
 function WordCountDirectionEstimator(){
 }
 
-defineClass(576, 694, {}, WordCountDirectionEstimator);
+defineClass(578, 695, {}, WordCountDirectionEstimator);
 var instance_0;
-var Lcom_google_gwt_i18n_shared_WordCountDirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'WordCountDirectionEstimator', 576);
+var Lcom_google_gwt_i18n_shared_WordCountDirectionEstimator_2_classLit = createForClass('com.google.gwt.i18n.shared', 'WordCountDirectionEstimator', 578);
 function canSet(array, value_0){
   var elementTypeCategory, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = canSet;
@@ -5428,8 +5428,8 @@ function $setLevel(this$static, newLevel){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(110, 1, {110:1});
-var Ljava_util_logging_Handler_2_classLit = createForClass('java.util.logging', 'Handler', 110);
+defineClass(111, 1, {111:1});
+var Ljava_util_logging_Handler_2_classLit = createForClass('java.util.logging', 'Handler', 111);
 function ConsoleLogHandler(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ConsoleLogHandler;
@@ -5438,7 +5438,7 @@ function ConsoleLogHandler(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(234, 110, {110:1}, ConsoleLogHandler);
+defineClass(234, 111, {111:1}, ConsoleLogHandler);
 _.publish = function publish(record){
   var msg, val, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = publish;
@@ -5461,7 +5461,7 @@ function DevelopmentModeLogHandler(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(235, 110, {110:1}, DevelopmentModeLogHandler);
+defineClass(235, 111, {111:1}, DevelopmentModeLogHandler);
 _.publish = function publish_0(record){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = publish_0;
@@ -5540,22 +5540,22 @@ function $setLevels(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(657, 1, {});
-var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplRegular_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplRegular', 657);
+defineClass(658, 1, {});
+var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplRegular_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplRegular', 658);
 function LogConfiguration$LogConfigurationImplSevere(){
 }
 
-defineClass(232, 657, {}, LogConfiguration$LogConfigurationImplSevere);
+defineClass(232, 658, {}, LogConfiguration$LogConfigurationImplSevere);
 var Lcom_google_gwt_logging_client_LogConfiguration$LogConfigurationImplSevere_2_classLit = createForClass('com.google.gwt.logging.client', 'LogConfiguration/LogConfigurationImplSevere', 232);
-defineClass(684, 1, {});
-var Ljava_util_logging_Formatter_2_classLit = createForClass('java.util.logging', 'Formatter', 684);
-defineClass(685, 684, {});
-var Lcom_google_gwt_logging_impl_FormatterImpl_2_classLit = createForClass('com.google.gwt.logging.impl', 'FormatterImpl', 685);
+defineClass(685, 1, {});
+var Ljava_util_logging_Formatter_2_classLit = createForClass('java.util.logging', 'Formatter', 685);
+defineClass(686, 685, {});
+var Lcom_google_gwt_logging_impl_FormatterImpl_2_classLit = createForClass('com.google.gwt.logging.impl', 'FormatterImpl', 686);
 function $format(this$static, event_0){
   var message, date, s, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $format;
   message = ($location_0[stackIndex] = 'TextLogFormatter.java:' + '36' , new StringBuilder);
-  $append_1(($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , message), ($tmp = (date = new Date_0(($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '56' , event_0.millis) , $location_0[stackIndex] = 'FormatterImpl.java:' + '36' , $tmp)) , s = ($location_0[stackIndex] = 'FormatterImpl.java:' + '37' , new StringBuilder) , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '38' , s), $toString_1(date)) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '39' , s).string += ' ') , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '40' , s), ($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '48' , ($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , event_0).loggerName) , $location_0[stackIndex] = 'FormatterImpl.java:' + '40' , $tmp)) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '41' , s).string += '\n') , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '42' , s), ($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '44' , ($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , event_0).level) , $location_0[stackIndex] = 'FormatterImpl.java:' + '42' , $tmp).getName()) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '43' , s).string += ': ') , ($location_0[stackIndex] = 'AbstractStringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '44' , s).string)) , $location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , $tmp));
+  $append_1(($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , message), ($tmp = (date = new Date_1(($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '56' , event_0.millis) , $location_0[stackIndex] = 'FormatterImpl.java:' + '36' , $tmp)) , s = ($location_0[stackIndex] = 'FormatterImpl.java:' + '37' , new StringBuilder) , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '38' , s), $toString_1(date)) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '39' , s).string += ' ') , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '40' , s), ($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '48' , ($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , event_0).loggerName) , $location_0[stackIndex] = 'FormatterImpl.java:' + '40' , $tmp)) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '41' , s).string += '\n') , $append_1(($location_0[stackIndex] = 'FormatterImpl.java:' + '42' , s), ($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '44' , ($location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , event_0).level) , $location_0[stackIndex] = 'FormatterImpl.java:' + '42' , $tmp).getName()) , ($location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '43' , s).string += ': ') , ($location_0[stackIndex] = 'AbstractStringBuilder.java:' + '108' , ($location_0[stackIndex] = 'FormatterImpl.java:' + '44' , s).string)) , $location_0[stackIndex] = 'TextLogFormatter.java:' + '37' , $tmp));
   $append_1(($location_0[stackIndex] = 'TextLogFormatter.java:' + '38' , message), ($tmp = ($location_0[stackIndex] = 'LogRecord.java:' + '52' , event_0.msg) , $location_0[stackIndex] = 'TextLogFormatter.java:' + '38' , $tmp));
   if (($location_0[stackIndex] = 'TextLogFormatter.java:' + '39' , this$static).showStackTraces && !($location_0[stackIndex] = 'Cast.java:' + '267' , !($location_0[stackIndex] = 'LogRecord.java:' + '60' , event_0.thrown))) {
     $location_0[stackIndex] = 'StringBuilder.java:' + '108' , ($location_0[stackIndex] = 'TextLogFormatter.java:' + '40' , message).string += '\n';
@@ -5573,15 +5573,15 @@ function TextLogFormatter(showStackTraces){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(195, 685, {}, TextLogFormatter);
+defineClass(195, 686, {}, TextLogFormatter);
 _.showStackTraces = false;
 var Lcom_google_gwt_logging_client_TextLogFormatter_2_classLit = createForClass('com.google.gwt.logging.client', 'TextLogFormatter', 195);
-defineClass(672, 1, {});
-var Ljava_io_OutputStream_2_classLit = createForClass('java.io', 'OutputStream', 672);
+defineClass(673, 1, {});
+var Ljava_io_OutputStream_2_classLit = createForClass('java.io', 'OutputStream', 673);
 function FilterOutputStream(out){
 }
 
-defineClass(186, 672, {}, FilterOutputStream);
+defineClass(186, 673, {}, FilterOutputStream);
 var Ljava_io_FilterOutputStream_2_classLit = createForClass('java.io', 'FilterOutputStream', 186);
 function PrintStream(out){
   var stackIndex;
@@ -5692,8 +5692,8 @@ function SafeHtmlBuilder(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(571, 1, {}, SafeHtmlBuilder);
-var Lcom_google_gwt_safehtml_shared_SafeHtmlBuilder_2_classLit = createForClass('com.google.gwt.safehtml.shared', 'SafeHtmlBuilder', 571);
+defineClass(573, 1, {}, SafeHtmlBuilder);
+var Lcom_google_gwt_safehtml_shared_SafeHtmlBuilder_2_classLit = createForClass('com.google.gwt.safehtml.shared', 'SafeHtmlBuilder', 573);
 function SafeHtmlString(html){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SafeHtmlString;
@@ -5776,8 +5776,8 @@ function htmlEscape(s){
 }
 
 var AMP_RE, EMPTY_SAFE_HTML, GT_RE, HTML_CHARS_RE, LT_RE, QUOT_RE, SQUOT_RE;
-defineClass(699, 1, {});
-var Lcom_google_gwt_text_shared_AbstractRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'AbstractRenderer', 699);
+defineClass(700, 1, {});
+var Lcom_google_gwt_text_shared_AbstractRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'AbstractRenderer', 700);
 function $render(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $render;
@@ -5789,13 +5789,13 @@ function $render(object){
 function SimpleSafeHtmlRenderer(){
 }
 
-defineClass(534, 1, {}, SimpleSafeHtmlRenderer);
+defineClass(536, 1, {}, SimpleSafeHtmlRenderer);
 var instance_1;
-var Lcom_google_gwt_text_shared_SimpleSafeHtmlRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'SimpleSafeHtmlRenderer', 534);
+var Lcom_google_gwt_text_shared_SimpleSafeHtmlRenderer_2_classLit = createForClass('com.google.gwt.text.shared', 'SimpleSafeHtmlRenderer', 536);
 function PassthroughParser(){
 }
 
-defineClass(636, 1, {}, PassthroughParser);
+defineClass(637, 1, {}, PassthroughParser);
 _.parse_0 = function parse_0(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = parse_0;
@@ -5805,11 +5805,11 @@ _.parse_0 = function parse_0(object){
 }
 ;
 var INSTANCE_0;
-var Lcom_google_gwt_text_shared_testing_PassthroughParser_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughParser', 636);
+var Lcom_google_gwt_text_shared_testing_PassthroughParser_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughParser', 637);
 function PassthroughRenderer(){
 }
 
-defineClass(635, 699, {}, PassthroughRenderer);
+defineClass(636, 700, {}, PassthroughRenderer);
 _.render_1 = function render_0(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = render_0;
@@ -5819,7 +5819,7 @@ _.render_1 = function render_0(object){
 }
 ;
 var INSTANCE_1;
-var Lcom_google_gwt_text_shared_testing_PassthroughRenderer_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughRenderer', 635);
+var Lcom_google_gwt_text_shared_testing_PassthroughRenderer_2_classLit = createForClass('com.google.gwt.text.shared.testing', 'PassthroughRenderer', 636);
 function $get(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $get;
@@ -5884,8 +5884,8 @@ function UiBinderUtil$TempAttachment(origParent, origSibling, element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(558, 1, {}, UiBinderUtil$TempAttachment);
-var Lcom_google_gwt_uibinder_client_UiBinderUtil$TempAttachment_2_classLit = createForClass('com.google.gwt.uibinder.client', 'UiBinderUtil/TempAttachment', 558);
+defineClass(560, 1, {}, UiBinderUtil$TempAttachment);
+var Lcom_google_gwt_uibinder_client_UiBinderUtil$TempAttachment_2_classLit = createForClass('com.google.gwt.uibinder.client', 'UiBinderUtil/TempAttachment', 560);
 function $clinit_DOM(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DOM;
@@ -6082,7 +6082,7 @@ function $clinit_Window(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_Window;
   $clinit_Window = ($location_0[stackIndex] = 'Window.java:' + '45' , emptyMethod);
-  impl_3 = castTo(($location_0[stackIndex] = 'Window.java:' + '514' , create_com_google_gwt_user_client_impl_WindowImpl()), 113);
+  impl_3 = castTo(($location_0[stackIndex] = 'Window.java:' + '514' , create_com_google_gwt_user_client_impl_WindowImpl()), 114);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -6199,7 +6199,7 @@ function Window$ClosingEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(332, 682, {}, Window$ClosingEvent);
+defineClass(332, 683, {}, Window$ClosingEvent);
 _.dispatch = function dispatch_9(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_9;
@@ -6238,7 +6238,7 @@ function buildListParamMap(queryString){
        catch ($e0) {
         $e0 = toJava($e0);
         $stackDepth_0 = ($location_0[stackIndex] = 'Window.java:' + '310' , stackIndex);
-        if (instanceOf($e0, 98)) {
+        if (instanceOf($e0, 99)) {
           $location_0[stackIndex] = 'GWT.java:' + '247' , $clinit_GWT();
         }
          else 
@@ -6548,7 +6548,7 @@ function getFirstAncestorWithListener(evt){
   return returnTemp;
 }
 
-defineClass(687, 87, $intern_25);
+defineClass(688, 87, $intern_25);
 _.initEventSystem = function initEventSystem(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = initEventSystem;
@@ -6597,9 +6597,9 @@ _.sinkEvents = function sinkEvents_1(elem, bits){
 }
 ;
 var bitlessEventDispatchers, captureElem, captureEventDispatchers, dispatchEvent_1, dispatchUnhandledEvent;
-var Lcom_google_gwt_user_client_impl_DOMImplStandard_2_classLit = createForClass('com.google.gwt.user.client.impl', 'DOMImplStandard', 687);
-defineClass(688, 687, $intern_25);
-var Lcom_google_gwt_user_client_impl_DOMImplStandardBase_2_classLit = createForClass('com.google.gwt.user.client.impl', 'DOMImplStandardBase', 688);
+var Lcom_google_gwt_user_client_impl_DOMImplStandard_2_classLit = createForClass('com.google.gwt.user.client.impl', 'DOMImplStandard', 688);
+defineClass(689, 688, $intern_25);
+var Lcom_google_gwt_user_client_impl_DOMImplStandardBase_2_classLit = createForClass('com.google.gwt.user.client.impl', 'DOMImplStandardBase', 689);
 function DOMImplIE9_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DOMImplIE9_0;
@@ -6607,7 +6607,7 @@ function DOMImplIE9_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(410, 688, $intern_25, DOMImplIE9_0);
+defineClass(410, 689, $intern_25, DOMImplIE9_0);
 _.sinkBitlessEventImpl = function sinkBitlessEventImpl_0(elem, eventTypeName){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = sinkBitlessEventImpl_0;
@@ -6652,7 +6652,7 @@ function DOMImplMozilla_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(411, 687, $intern_25, DOMImplMozilla_0);
+defineClass(411, 688, $intern_25, DOMImplMozilla_0);
 _.initEventSystem = function initEventSystem_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = initEventSystem_0;
@@ -6678,7 +6678,7 @@ function DOMImplWebkit_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(412, 688, $intern_25, DOMImplWebkit_0);
+defineClass(412, 689, $intern_25, DOMImplWebkit_0);
 var Lcom_google_gwt_user_client_impl_DOMImplWebkit_2_classLit = createForClass('com.google.gwt.user.client.impl', 'DOMImplWebkit', 412);
 function foreach_0(map_0, fn){
   var stackIndex;
@@ -6692,7 +6692,7 @@ function foreach_0(map_0, fn){
 function WindowImpl(){
 }
 
-defineClass(113, 1, {113:1}, WindowImpl);
+defineClass(114, 1, {114:1}, WindowImpl);
 _.getQueryString = function getQueryString(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getQueryString;
@@ -6780,7 +6780,7 @@ _.initWindowResizeHandler = function initWindowResizeHandler(){
   $stackDepth_0 = stackIndex_0 - 1;
 }
 ;
-var Lcom_google_gwt_user_client_impl_WindowImpl_2_classLit = createForClass('com.google.gwt.user.client.impl', 'WindowImpl', 113);
+var Lcom_google_gwt_user_client_impl_WindowImpl_2_classLit = createForClass('com.google.gwt.user.client.impl', 'WindowImpl', 114);
 function $initHandler(initFunc, cmd){
   var scriptElem, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $initHandler;
@@ -6794,7 +6794,7 @@ function $initHandler(initFunc, cmd){
 function WindowImplIE(){
 }
 
-defineClass(345, 113, {113:1}, WindowImplIE);
+defineClass(345, 114, {114:1}, WindowImplIE);
 _.getQueryString = function getQueryString_0(){
   var href_0 = ($location_0[stackIndex] = 'WindowImplIE.java:' + '72' , $wnd).location.href, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getQueryString_0;
@@ -6849,7 +6849,7 @@ function $clinit_WindowImplIE$Resources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_WindowImplIE$Resources;
   $clinit_WindowImplIE$Resources = ($location_0[stackIndex] = 'WindowImplIE.java:' + '33' , emptyMethod);
-  INSTANCE_2 = castTo(($location_0[stackIndex] = 'WindowImplIE.java:' + '34' , create_com_google_gwt_user_client_impl_WindowImplIE_Resources()), 646);
+  INSTANCE_2 = castTo(($location_0[stackIndex] = 'WindowImplIE.java:' + '34' , create_com_google_gwt_user_client_impl_WindowImplIE_Resources()), 647);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -6857,7 +6857,7 @@ var INSTANCE_2;
 function WindowImplIE_Resources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(414, 1, {646:1}, WindowImplIE_Resources_default_InlineClientBundleGenerator);
+defineClass(414, 1, {647:1}, WindowImplIE_Resources_default_InlineClientBundleGenerator);
 _.initWindowCloseHandler_0 = function initWindowCloseHandler_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = initWindowCloseHandler_2;
@@ -6933,7 +6933,7 @@ function $clinit_WindowImplIE_Resources_default_InlineClientBundleGenerator$init
 function WindowImplIE_Resources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(417, 1, {646:1}, WindowImplIE_Resources_en_InlineClientBundleGenerator);
+defineClass(417, 1, {647:1}, WindowImplIE_Resources_en_InlineClientBundleGenerator);
 _.initWindowCloseHandler_0 = function initWindowCloseHandler_4(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = initWindowCloseHandler_4;
@@ -7009,7 +7009,7 @@ function $clinit_WindowImplIE_Resources_en_InlineClientBundleGenerator$initWindo
 function WindowImplMozilla(){
 }
 
-defineClass(348, 113, {113:1}, WindowImplMozilla);
+defineClass(348, 114, {114:1}, WindowImplMozilla);
 var Lcom_google_gwt_user_client_impl_WindowImplMozilla_2_classLit = createForClass('com.google.gwt.user.client.impl', 'WindowImplMozilla', 348);
 function $addStyleName(this$static, style){
   var stackIndex;
@@ -7402,7 +7402,7 @@ function $clear_0(this$static){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(680, 10, $intern_27);
+defineClass(681, 10, $intern_27);
 _.doAttachChildren = function doAttachChildren_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = doAttachChildren_0;
@@ -7417,7 +7417,7 @@ _.doDetachChildren = function doDetachChildren_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lcom_google_gwt_user_client_ui_Panel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Panel', 680);
+var Lcom_google_gwt_user_client_ui_Panel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Panel', 681);
 function $add(this$static, child, container){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add;
@@ -7523,7 +7523,7 @@ function ComplexPanel(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(112, 680, $intern_27);
+defineClass(113, 681, $intern_27);
 _.getChildren = function getChildren(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getChildren;
@@ -7548,7 +7548,7 @@ _.remove_0 = function remove_0(w){
   return returnTemp;
 }
 ;
-var Lcom_google_gwt_user_client_ui_ComplexPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ComplexPanel', 112);
+var Lcom_google_gwt_user_client_ui_ComplexPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ComplexPanel', 113);
 function $add_1(this$static, w){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add_1;
@@ -7565,7 +7565,7 @@ function changeToStaticPositioning(elem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(405, 112, $intern_27);
+defineClass(405, 113, $intern_27);
 _.remove_0 = function remove_1(w){
   var removed, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = remove_1;
@@ -7713,8 +7713,8 @@ _.setTabIndex = function setTabIndex(index_0){
 }
 ;
 var Lcom_google_gwt_user_client_ui_FocusWidget_2_classLit = createForClass('com.google.gwt.user.client.ui', 'FocusWidget', 170);
-defineClass(550, 170, $intern_28);
-var Lcom_google_gwt_user_client_ui_ButtonBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ButtonBase', 550);
+defineClass(552, 170, $intern_28);
+var Lcom_google_gwt_user_client_ui_ButtonBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ButtonBase', 552);
 function $checkInit(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $checkInit;
@@ -7739,7 +7739,7 @@ function $initWidget(this$static, widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(108, 10, $intern_29);
+defineClass(109, 10, $intern_29);
 _.isAttached_0 = function isAttached_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isAttached_0;
@@ -7802,7 +7802,7 @@ _.resolvePotentialElement = function resolvePotentialElement_0(){
   return returnTemp;
 }
 ;
-var Lcom_google_gwt_user_client_ui_Composite_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Composite', 108);
+var Lcom_google_gwt_user_client_ui_Composite_2_classLit = createForClass('com.google.gwt.user.client.ui', 'Composite', 109);
 function $clinit_DirectionalTextHelper(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DirectionalTextHelper;
@@ -7832,8 +7832,8 @@ function DirectionalTextHelper(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(561, 1, {}, DirectionalTextHelper);
-var Lcom_google_gwt_user_client_ui_DirectionalTextHelper_2_classLit = createForClass('com.google.gwt.user.client.ui', 'DirectionalTextHelper', 561);
+defineClass(563, 1, {}, DirectionalTextHelper);
+var Lcom_google_gwt_user_client_ui_DirectionalTextHelper_2_classLit = createForClass('com.google.gwt.user.client.ui', 'DirectionalTextHelper', 563);
 function $addAndReplaceElement(this$static, widget, toReplace){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $addAndReplaceElement;
@@ -7882,7 +7882,7 @@ function HTMLPanel(html){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(168, 112, $intern_27, HTMLPanel);
+defineClass(168, 113, $intern_27, HTMLPanel);
 var Lcom_google_gwt_user_client_ui_HTMLPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'HTMLPanel', 168);
 function $clinit_ListBox(){
   var stackIndex;
@@ -7944,8 +7944,8 @@ function ListBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(584, 170, $intern_28, ListBox);
-var Lcom_google_gwt_user_client_ui_ListBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ListBox', 584);
+defineClass(586, 170, $intern_28, ListBox);
+var Lcom_google_gwt_user_client_ui_ListBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ListBox', 586);
 function $clinit_PotentialElement(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_PotentialElement;
@@ -8073,7 +8073,7 @@ function get_0(id_0){
   $stack_0[stackIndex = ++$stackDepth_0] = get_0;
   $location_0[stackIndex] = 'RootPanel.java:' + '164' , $clinit_RootPanel();
   var elem, rp;
-  rp = castTo($getStringValue(($location_0[stackIndex] = 'RootPanel.java:' + '166' , rootPanels), id_0), 114);
+  rp = castTo($getStringValue(($location_0[stackIndex] = 'RootPanel.java:' + '166' , rootPanels), id_0), 115);
   $location_0[stackIndex] = 'RootPanel.java:' + '169' , elem = null;
   if (($location_0[stackIndex] = 'RootPanel.java:' + '170' , id_0) != null) {
     if ($location_0[stackIndex] = 'Cast.java:' + '275' , !(elem = $getElementById(($location_0[stackIndex] = 'Document.java:' + '52' , $doc), ($location_0[stackIndex] = 'RootPanel.java:' + '172' , id_0)))) {
@@ -8100,9 +8100,9 @@ function get_0(id_0){
   return returnTemp;
 }
 
-defineClass(114, 405, $intern_30, RootPanel);
+defineClass(115, 405, $intern_30, RootPanel);
 var maybeDetachCommand, rootPanels, widgetsToDetach;
-var Lcom_google_gwt_user_client_ui_RootPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'RootPanel', 114);
+var Lcom_google_gwt_user_client_ui_RootPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'RootPanel', 115);
 function RootPanel$1(){
 }
 
@@ -8118,7 +8118,7 @@ var Lcom_google_gwt_user_client_ui_RootPanel$1_2_classLit = createForClass('com.
 function RootPanel$2(){
 }
 
-defineClass(408, 1, {703:1, 12:1}, RootPanel$2);
+defineClass(408, 1, {704:1, 12:1}, RootPanel$2);
 var Lcom_google_gwt_user_client_ui_RootPanel$2_2_classLit = createForClass('com.google.gwt.user.client.ui', 'RootPanel/2', 408);
 function RootPanel$DefaultRootPanel(){
   var stackIndex;
@@ -8127,7 +8127,7 @@ function RootPanel$DefaultRootPanel(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(406, 114, $intern_30, RootPanel$DefaultRootPanel);
+defineClass(406, 115, $intern_30, RootPanel$DefaultRootPanel);
 var Lcom_google_gwt_user_client_ui_RootPanel$DefaultRootPanel_2_classLit = createForClass('com.google.gwt.user.client.ui', 'RootPanel/DefaultRootPanel', 406);
 function $addValueChangeHandler(this$static, handler){
   var stackIndex, returnTemp;
@@ -8239,7 +8239,7 @@ function $clinit_TextBoxBase(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(634, 214, $intern_28);
+defineClass(635, 214, $intern_28);
 _.getValue = function getValue_0(){
   var raw, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_0;
@@ -8248,7 +8248,7 @@ _.getValue = function getValue_0(){
   return returnTemp;
 }
 ;
-var Lcom_google_gwt_user_client_ui_TextBoxBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'TextBoxBase', 634);
+var Lcom_google_gwt_user_client_ui_TextBoxBase_2_classLit = createForClass('com.google.gwt.user.client.ui', 'TextBoxBase', 635);
 function TextBox(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TextBox;
@@ -8265,7 +8265,7 @@ function TextBox_0(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(224, 634, $intern_28, TextBox);
+defineClass(224, 635, $intern_28, TextBox);
 var Lcom_google_gwt_user_client_ui_TextBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'TextBox', 224);
 function ValueBox(element, renderer, parser){
   var stackIndex;
@@ -8276,8 +8276,8 @@ function ValueBox(element, renderer, parser){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(587, 214, $intern_28);
-var Lcom_google_gwt_user_client_ui_ValueBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ValueBox', 587);
+defineClass(588, 214, $intern_28);
+var Lcom_google_gwt_user_client_ui_ValueBox_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ValueBox', 588);
 function ValueBoxBase$1(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueBoxBase$1;
@@ -8285,8 +8285,8 @@ function ValueBoxBase$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(582, 1, {711:1, 12:1}, ValueBoxBase$1);
-var Lcom_google_gwt_user_client_ui_ValueBoxBase$1_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ValueBoxBase/1', 582);
+defineClass(584, 1, {714:1, 12:1}, ValueBoxBase$1);
+var Lcom_google_gwt_user_client_ui_ValueBoxBase$1_2_classLit = createForClass('com.google.gwt.user.client.ui', 'ValueBoxBase/1', 584);
 function $clinit_ValueBoxBase$TextAlignment(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ValueBoxBase$TextAlignment;
@@ -8324,8 +8324,8 @@ function ValueBoxBase$TextAlignment$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(578, 69, $intern_31, ValueBoxBase$TextAlignment$1);
-var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$1_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/1', 578, null);
+defineClass(580, 69, $intern_31, ValueBoxBase$TextAlignment$1);
+var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$1_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/1', 580, null);
 function ValueBoxBase$TextAlignment$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueBoxBase$TextAlignment$2;
@@ -8333,8 +8333,8 @@ function ValueBoxBase$TextAlignment$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(579, 69, $intern_31, ValueBoxBase$TextAlignment$2);
-var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$2_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/2', 579, null);
+defineClass(581, 69, $intern_31, ValueBoxBase$TextAlignment$2);
+var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$2_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/2', 581, null);
 function ValueBoxBase$TextAlignment$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueBoxBase$TextAlignment$3;
@@ -8342,8 +8342,8 @@ function ValueBoxBase$TextAlignment$3(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(580, 69, $intern_31, ValueBoxBase$TextAlignment$3);
-var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$3_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/3', 580, null);
+defineClass(582, 69, $intern_31, ValueBoxBase$TextAlignment$3);
+var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$3_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/3', 582, null);
 function ValueBoxBase$TextAlignment$4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ValueBoxBase$TextAlignment$4;
@@ -8351,8 +8351,8 @@ function ValueBoxBase$TextAlignment$4(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(581, 69, $intern_31, ValueBoxBase$TextAlignment$4);
-var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$4_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/4', 581, null);
+defineClass(583, 69, $intern_31, ValueBoxBase$TextAlignment$4);
+var Lcom_google_gwt_user_client_ui_ValueBoxBase$TextAlignment$4_2_classLit = createForEnum('com.google.gwt.user.client.ui', 'ValueBoxBase/TextAlignment/4', 583, null);
 function $add_2(this$static, w){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add_2;
@@ -8512,7 +8512,7 @@ function $clinit_FocusImpl(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_FocusImpl;
   $clinit_FocusImpl = ($location_0[stackIndex] = 'FocusImpl.java:' + '26' , emptyMethod);
-  implPanel = castTo(($location_0[stackIndex] = 'FocusImpl.java:' + '28' , create_com_google_gwt_user_client_ui_impl_FocusImpl()), 106);
+  implPanel = castTo(($location_0[stackIndex] = 'FocusImpl.java:' + '28' , create_com_google_gwt_user_client_ui_impl_FocusImpl()), 107);
   instanceOf(($location_0[stackIndex] = 'FocusImpl.java:' + '38' , implPanel), 141)?($location_0[stackIndex] = 'FocusImpl.java:' + '39' , new FocusImpl):implPanel;
   $stackDepth_0 = stackIndex - 1;
 }
@@ -8532,9 +8532,9 @@ function FocusImpl(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(106, 1, {106:1}, FocusImpl);
+defineClass(107, 1, {107:1}, FocusImpl);
 var implPanel;
-var Lcom_google_gwt_user_client_ui_impl_FocusImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImpl', 106);
+var Lcom_google_gwt_user_client_ui_impl_FocusImpl_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImpl', 107);
 function FocusImplStandard(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = FocusImplStandard;
@@ -8542,7 +8542,7 @@ function FocusImplStandard(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(141, 106, $intern_32, FocusImplStandard);
+defineClass(141, 107, $intern_32, FocusImplStandard);
 var Lcom_google_gwt_user_client_ui_impl_FocusImplStandard_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplStandard', 141);
 function FocusImplSafari(){
   var stackIndex;
@@ -8551,8 +8551,8 @@ function FocusImplSafari(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(575, 141, $intern_32, FocusImplSafari);
-var Lcom_google_gwt_user_client_ui_impl_FocusImplSafari_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplSafari', 575);
+defineClass(577, 141, $intern_32, FocusImplSafari);
+var Lcom_google_gwt_user_client_ui_impl_FocusImplSafari_2_classLit = createForClass('com.google.gwt.user.client.ui.impl', 'FocusImplSafari', 577);
 function Range_0(start_0, length_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Range_0;
@@ -8611,7 +8611,7 @@ function SimpleEventBus$1(this$0, val$type, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(334, 1, {701:1}, SimpleEventBus$1);
+defineClass(334, 1, {702:1}, SimpleEventBus$1);
 _.removeHandler = function removeHandler_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = removeHandler_0;
@@ -8630,7 +8630,7 @@ function SimpleEventBus$2(this$0, val$type, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(335, 1, {645:1}, SimpleEventBus$2);
+defineClass(335, 1, {646:1}, SimpleEventBus$2);
 _.execute_0 = function execute_8(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_8;
@@ -8649,7 +8649,7 @@ function SimpleEventBus$3(this$0, val$type, val$source, val$handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(336, 1, {645:1}, SimpleEventBus$3);
+defineClass(336, 1, {646:1}, SimpleEventBus$3);
 _.execute_0 = function execute_9(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_9;
@@ -8659,12 +8659,12 @@ _.execute_0 = function execute_9(){
 ;
 var Lcom_google_web_bindery_event_shared_SimpleEventBus$3_2_classLit = createForClass('com.google.web.bindery.event.shared', 'SimpleEventBus/3', 336);
 var startupState;
-defineClass(674, 1, {});
-var Lgwt_material_design_addins_client_StartupState_2_classLit = createForClass('gwt.material.design.addins.client', 'StartupState', 674);
+defineClass(675, 1, {});
+var Lgwt_material_design_addins_client_StartupState_2_classLit = createForClass('gwt.material.design.addins.client', 'StartupState', 675);
 function StartupState$DebugState(){
 }
 
-defineClass(182, 674, {}, StartupState$DebugState);
+defineClass(182, 675, {}, StartupState$DebugState);
 var Lgwt_material_design_addins_client_StartupState$DebugState_2_classLit = createForClass('gwt.material.design.addins.client', 'StartupState/DebugState', 182);
 function $$this(this$static){
   var stackIndex, returnTemp;
@@ -8926,7 +8926,7 @@ function lambda$1(handler_0, registration_1, event_2){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(9, 112, $intern_33, MaterialWidget, MaterialWidget_1);
+defineClass(9, 113, $intern_33, MaterialWidget, MaterialWidget_1);
 _.getChildren = function getChildren_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getChildren_0;
@@ -9210,7 +9210,7 @@ function MaterialComboBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(593, 140, $intern_33, MaterialComboBox);
+defineClass(594, 140, $intern_33, MaterialComboBox);
 _.getEnabledMixin = function getEnabledMixin_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getEnabledMixin_0;
@@ -9265,7 +9265,7 @@ _.setEnabled = function setEnabled_1(enabled){
 }
 ;
 _.suppressChangeEvent = false;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBox_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox', 593);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBox_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox', 594);
 function MaterialComboBox$1methodref$addItem$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialComboBox$1methodref$addItem$Type;
@@ -9273,8 +9273,8 @@ function MaterialComboBox$1methodref$addItem$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(595, 1, {}, MaterialComboBox$1methodref$addItem$Type);
-var Lgwt_material_design_addins_client_combobox_MaterialComboBox$1methodref$addItem$Type_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox/1methodref$addItem$Type', 595);
+defineClass(596, 1, {}, MaterialComboBox$1methodref$addItem$Type);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBox$1methodref$addItem$Type_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox/1methodref$addItem$Type', 596);
 function MaterialComboBox$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialComboBox$lambda$0$Type;
@@ -9282,8 +9282,8 @@ function MaterialComboBox$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(594, 1, {12:1, 712:1}, MaterialComboBox$lambda$0$Type);
-var Lgwt_material_design_addins_client_combobox_MaterialComboBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox/lambda$0$Type', 594);
+defineClass(595, 1, {12:1, 715:1}, MaterialComboBox$lambda$0$Type);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBox/lambda$0$Type', 595);
 function MaterialComboBox$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialComboBox$lambda$1$Type;
@@ -9291,7 +9291,7 @@ function MaterialComboBox$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(768, $wnd.Function, {}, MaterialComboBox$lambda$1$Type);
+defineClass(770, $wnd.Function, {}, MaterialComboBox$lambda$1$Type);
 _.call_0 = function call_0(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_0;
@@ -9307,7 +9307,7 @@ function MaterialComboBox$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(769, $wnd.Function, {}, MaterialComboBox$lambda$2$Type);
+defineClass(771, $wnd.Function, {}, MaterialComboBox$lambda$2$Type);
 _.call_0 = function call_1(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_1;
@@ -9323,7 +9323,7 @@ function MaterialComboBox$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(770, $wnd.Function, {}, MaterialComboBox$lambda$3$Type);
+defineClass(772, $wnd.Function, {}, MaterialComboBox$lambda$3$Type);
 _.call_0 = function call_2(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_2;
@@ -9335,7 +9335,7 @@ _.call_0 = function call_2(arg0){
 function MaterialComboBox$lambda$4$Type(){
 }
 
-defineClass(771, $wnd.Function, {}, MaterialComboBox$lambda$4$Type);
+defineClass(773, $wnd.Function, {}, MaterialComboBox$lambda$4$Type);
 _.call_1 = function call_3(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_3;
@@ -9351,7 +9351,7 @@ function MaterialComboBox$lambda$5$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(772, $wnd.Function, {}, MaterialComboBox$lambda$5$Type);
+defineClass(774, $wnd.Function, {}, MaterialComboBox$lambda$5$Type);
 _.call_1 = function call_4(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_4;
@@ -9364,7 +9364,7 @@ function $clinit_MaterialComboBoxClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxClientBundle;
   $clinit_MaterialComboBoxClientBundle = ($location_0[stackIndex] = 'MaterialComboBoxClientBundle.java:' + '31' , emptyMethod);
-  INSTANCE_3 = castTo(($location_0[stackIndex] = 'MaterialComboBoxClientBundle.java:' + '33' , create_gwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle()), 655);
+  INSTANCE_3 = castTo(($location_0[stackIndex] = 'MaterialComboBoxClientBundle.java:' + '33' , create_gwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle()), 656);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -9372,7 +9372,7 @@ var INSTANCE_3;
 function MaterialComboBoxClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(624, 1, {655:1}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator);
+defineClass(625, 1, {656:1}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator);
 _.select2Css = function select2Css_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = select2Css_0;
@@ -9390,11 +9390,11 @@ _.select2Js = function select2Js_0(){
 }
 ;
 var select2Css, select2Js;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator', 624);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator', 625);
 function MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$1(){
 }
 
-defineClass(625, 1, {}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$1);
+defineClass(626, 1, {}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$1);
 _.getName = function getName_3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_3;
@@ -9413,11 +9413,11 @@ _.getText = function getText_3(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator/1', 625);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator/1', 626);
 function MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$2(){
 }
 
-defineClass(626, 1, {}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$2);
+defineClass(627, 1, {}, MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$2);
 _.getName = function getName_4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_4;
@@ -9438,7 +9438,7 @@ _.getText = function getText_4(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator/2', 626);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_default_InlineClientBundleGenerator/2', 627);
 function $clinit_MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$select2CssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxClientBundle_default_InlineClientBundleGenerator$select2CssInitializer;
@@ -9458,7 +9458,7 @@ function $clinit_MaterialComboBoxClientBundle_default_InlineClientBundleGenerato
 function MaterialComboBoxClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(627, 1, {655:1}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator);
+defineClass(628, 1, {656:1}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator);
 _.select2Css = function select2Css_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = select2Css_2;
@@ -9476,11 +9476,11 @@ _.select2Js = function select2Js_2(){
 }
 ;
 var select2Css_1, select2Js_1;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator', 627);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator', 628);
 function MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$1(){
 }
 
-defineClass(628, 1, {}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$1);
+defineClass(629, 1, {}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$1);
 _.getName = function getName_5(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_5;
@@ -9499,11 +9499,11 @@ _.getText = function getText_5(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator/1', 628);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator/1', 629);
 function MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$2(){
 }
 
-defineClass(629, 1, {}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$2);
+defineClass(630, 1, {}, MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$2);
 _.getName = function getName_6(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_6;
@@ -9524,7 +9524,7 @@ _.getText = function getText_6(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator/2', 629);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxClientBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxClientBundle_en_InlineClientBundleGenerator/2', 630);
 function $clinit_MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$select2CssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxClientBundle_en_InlineClientBundleGenerator$select2CssInitializer;
@@ -9545,7 +9545,7 @@ function $clinit_MaterialComboBoxDebugClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxDebugClientBundle;
   $clinit_MaterialComboBoxDebugClientBundle = ($location_0[stackIndex] = 'MaterialComboBoxDebugClientBundle.java:' + '31' , emptyMethod);
-  INSTANCE_4 = castTo(($location_0[stackIndex] = 'MaterialComboBoxDebugClientBundle.java:' + '33' , create_gwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle()), 654);
+  INSTANCE_4 = castTo(($location_0[stackIndex] = 'MaterialComboBoxDebugClientBundle.java:' + '33' , create_gwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle()), 655);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -9553,7 +9553,7 @@ var INSTANCE_4;
 function MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(618, 1, {654:1}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator);
+defineClass(619, 1, {655:1}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator);
 _.select2DebugCss = function select2DebugCss_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = select2DebugCss_0;
@@ -9571,11 +9571,11 @@ _.select2DebugJs = function select2DebugJs_0(){
 }
 ;
 var select2DebugCss, select2DebugJs;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator', 618);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator', 619);
 function MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$1(){
 }
 
-defineClass(619, 1, {}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$1);
+defineClass(620, 1, {}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$1);
 _.getName = function getName_7(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_7;
@@ -9594,11 +9594,11 @@ _.getText = function getText_7(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator/1', 619);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator/1', 620);
 function MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$2(){
 }
 
-defineClass(620, 1, {}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$2);
+defineClass(621, 1, {}, MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$2);
 _.getName = function getName_8(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_8;
@@ -9624,7 +9624,7 @@ _.getText = function getText_8(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator/2', 620);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1default_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator/2', 621);
 function $clinit_MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$select2DebugCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxDebugClientBundle_default_InlineClientBundleGenerator$select2DebugCssInitializer;
@@ -9644,7 +9644,7 @@ function $clinit_MaterialComboBoxDebugClientBundle_default_InlineClientBundleGen
 function MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(621, 1, {654:1}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator);
+defineClass(622, 1, {655:1}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator);
 _.select2DebugCss = function select2DebugCss_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = select2DebugCss_2;
@@ -9662,11 +9662,11 @@ _.select2DebugJs = function select2DebugJs_2(){
 }
 ;
 var select2DebugCss_1, select2DebugJs_1;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator', 621);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator', 622);
 function MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$1(){
 }
 
-defineClass(622, 1, {}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$1);
+defineClass(623, 1, {}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$1);
 _.getName = function getName_9(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_9;
@@ -9685,11 +9685,11 @@ _.getText = function getText_9(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator/1', 622);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator/1', 623);
 function MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$2(){
 }
 
-defineClass(623, 1, {}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$2);
+defineClass(624, 1, {}, MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$2);
 _.getName = function getName_10(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_10;
@@ -9715,7 +9715,7 @@ _.getText = function getText_10(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator/2', 623);
+var Lgwt_material_design_addins_client_combobox_MaterialComboBoxDebugClientBundle_1en_1InlineClientBundleGenerator$2_2_classLit = createForClass('gwt.material.design.addins.client.combobox', 'MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator/2', 624);
 function $clinit_MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$select2DebugCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialComboBoxDebugClientBundle_en_InlineClientBundleGenerator$select2DebugCssInitializer;
@@ -9742,11 +9742,11 @@ function fire_5(source){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(596, 682, {}, SelectItemEvent);
+defineClass(597, 683, {}, SelectItemEvent);
 _.dispatch = function dispatch_10(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_10;
-  $lambda$0_0(($location_0[stackIndex] = 'MaterialComboBox.java:' + '128' , castTo(($location_0[stackIndex] = 'SelectItemEvent.java:' + '67' , handler), 712).$$outer_0));
+  $lambda$0_0(($location_0[stackIndex] = 'MaterialComboBox.java:' + '128' , castTo(($location_0[stackIndex] = 'SelectItemEvent.java:' + '67' , handler), 715).$$outer_0));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -9759,13 +9759,13 @@ _.getAssociatedType = function getAssociatedType_11(){
 }
 ;
 var TYPE_10;
-var Lgwt_material_design_addins_client_combobox_events_SelectItemEvent_2_classLit = createForClass('gwt.material.design.addins.client.combobox.events', 'SelectItemEvent', 596);
-defineClass(673, 1, {});
-var Lgwt_material_design_client_JQueryProvider_2_classLit = createForClass('gwt.material.design.client', 'JQueryProvider', 673);
+var Lgwt_material_design_addins_client_combobox_events_SelectItemEvent_2_classLit = createForClass('gwt.material.design.addins.client.combobox.events', 'SelectItemEvent', 597);
+defineClass(674, 1, {});
+var Lgwt_material_design_client_JQueryProvider_2_classLit = createForClass('gwt.material.design.client', 'JQueryProvider', 674);
 function $jQuery(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $jQuery;
-  ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'JQueryProvider.java:' + '43' , this$static).resources) && (($location_0[stackIndex] = 'JQueryProvider.java:' + '44' , this$static).resources = castTo(create_gwt_material_design_client_resources_WithJQueryDebugResources(), 638));
+  ($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'JQueryProvider.java:' + '43' , this$static).resources) && (($location_0[stackIndex] = 'JQueryProvider.java:' + '44' , this$static).resources = castTo(create_gwt_material_design_client_resources_WithJQueryDebugResources(), 639));
   returnTemp = ($location_0[stackIndex] = 'JQueryProvider.java:' + '46' , this$static).resources.jQueryDebug();
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -9774,7 +9774,7 @@ function $jQuery(this$static){
 function JQueryProvider$JQueryDebug(){
 }
 
-defineClass(236, 673, {}, JQueryProvider$JQueryDebug);
+defineClass(236, 674, {}, JQueryProvider$JQueryDebug);
 var Lgwt_material_design_client_JQueryProvider$JQueryDebug_2_classLit = createForClass('gwt.material.design.client', 'JQueryProvider/JQueryDebug', 236);
 function $clinit_MaterialDesignBase(){
   var stackIndex;
@@ -9900,7 +9900,7 @@ function AbstractButton_1(initialClass){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(99, 9, $intern_34);
+defineClass(100, 9, $intern_34);
 _.setActivates = function setActivates(activates){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = setActivates;
@@ -9908,7 +9908,7 @@ _.setActivates = function setActivates(activates){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_AbstractButton_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractButton', 99);
+var Lgwt_material_design_client_base_AbstractButton_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractButton', 100);
 function $$init_0(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $$init_0;
@@ -9958,7 +9958,7 @@ function AbstractIconButton_0(type_0, text_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(162, 99, $intern_34);
+defineClass(162, 100, $intern_34);
 var Lgwt_material_design_client_base_AbstractIconButton_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractIconButton', 162);
 function AbstractValueWidget$lambda$0$Type($$outer_0, inputWidget_1){
   var stackIndex;
@@ -9968,7 +9968,7 @@ function AbstractValueWidget$lambda$0$Type($$outer_0, inputWidget_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(566, 1, $intern_35, AbstractValueWidget$lambda$0$Type);
+defineClass(568, 1, $intern_35, AbstractValueWidget$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach;
@@ -9976,7 +9976,7 @@ _.onAttachOrDetach = function onAttachOrDetach(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_AbstractValueWidget$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$0$Type', 566);
+var Lgwt_material_design_client_base_AbstractValueWidget$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$0$Type', 568);
 function AbstractValueWidget$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractValueWidget$lambda$1$Type;
@@ -9984,7 +9984,7 @@ function AbstractValueWidget$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(567, 1, $intern_36, AbstractValueWidget$lambda$1$Type);
+defineClass(569, 1, $intern_36, AbstractValueWidget$lambda$1$Type);
 _.onBlur = function onBlur(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur;
@@ -9992,7 +9992,7 @@ _.onBlur = function onBlur(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_AbstractValueWidget$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$1$Type', 567);
+var Lgwt_material_design_client_base_AbstractValueWidget$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$1$Type', 569);
 function AbstractValueWidget$lambda$4$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractValueWidget$lambda$4$Type;
@@ -10000,7 +10000,7 @@ function AbstractValueWidget$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(565, 1, $intern_36, AbstractValueWidget$lambda$4$Type);
+defineClass(567, 1, $intern_36, AbstractValueWidget$lambda$4$Type);
 _.onBlur = function onBlur_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onBlur_0;
@@ -10008,7 +10008,7 @@ _.onBlur = function onBlur_0(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_AbstractValueWidget$lambda$4$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$4$Type', 565);
+var Lgwt_material_design_client_base_AbstractValueWidget$lambda$4$Type_2_classLit = createForClass('gwt.material.design.client.base', 'AbstractValueWidget/lambda$4$Type', 567);
 function $clinit_BaseCheckBox(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_BaseCheckBox;
@@ -10069,7 +10069,7 @@ function BaseCheckBox(elem){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(171, 550, $intern_28);
+defineClass(171, 552, $intern_28);
 _.getTabIndex_0 = function getTabIndex_3(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getTabIndex_3;
@@ -10126,7 +10126,7 @@ function BaseCheckBox$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(551, 1, $intern_37, BaseCheckBox$lambda$0$Type);
+defineClass(553, 1, $intern_37, BaseCheckBox$lambda$0$Type);
 _.onClick = function onClick(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick;
@@ -10134,7 +10134,7 @@ _.onClick = function onClick(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_BaseCheckBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/lambda$0$Type', 551);
+var Lgwt_material_design_client_base_BaseCheckBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'BaseCheckBox/lambda$0$Type', 553);
 function $delay(this$static, delay){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $delay;
@@ -10143,8 +10143,8 @@ function $delay(this$static, delay){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(511, 1, {});
-var Lgwt_material_design_client_base_InterruptibleTask_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask', 511);
+defineClass(513, 1, {});
+var Lgwt_material_design_client_base_InterruptibleTask_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask', 513);
 function InterruptibleTask$1(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InterruptibleTask$1;
@@ -10153,7 +10153,7 @@ function InterruptibleTask$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(521, 164, {}, InterruptibleTask$1);
+defineClass(523, 164, {}, InterruptibleTask$1);
 _.run = function run(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = run;
@@ -10161,11 +10161,11 @@ _.run = function run(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_InterruptibleTask$1_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask/1', 521);
+var Lgwt_material_design_client_base_InterruptibleTask$1_2_classLit = createForClass('gwt.material.design.client.base', 'InterruptibleTask/1', 523);
 function MaterialWidget$lambda$0$Type(){
 }
 
-defineClass(721, $wnd.Function, {}, MaterialWidget$lambda$0$Type);
+defineClass(724, $wnd.Function, {}, MaterialWidget$lambda$0$Type);
 _.call_0 = function call_5(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_5;
@@ -10250,8 +10250,8 @@ function NumberBox(handler){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(588, 587, $intern_28, NumberBox);
-var Lgwt_material_design_client_base_NumberBox_2_classLit = createForClass('gwt.material.design.client.base', 'NumberBox', 588);
+defineClass(589, 588, $intern_28, NumberBox);
+var Lgwt_material_design_client_base_NumberBox_2_classLit = createForClass('gwt.material.design.client.base', 'NumberBox', 589);
 function NumberBox$NumberHandler(numberBox){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = NumberBox$NumberHandler;
@@ -10259,7 +10259,7 @@ function NumberBox$NumberHandler(numberBox){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(589, 1, {}, NumberBox$NumberHandler);
+defineClass(590, 1, {}, NumberBox$NumberHandler);
 _.parse_0 = function parse_1(text_0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = parse_1;
@@ -10280,7 +10280,7 @@ _.render_1 = function render_1(object){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_base_NumberBox$NumberHandler_2_classLit = createForClass('gwt.material.design.client.base', 'NumberBox/NumberHandler', 589);
+var Lgwt_material_design_client_base_NumberBox$NumberHandler_2_classLit = createForClass('gwt.material.design.client.base', 'NumberBox/NumberHandler', 590);
 function detectAndApply(widget){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = detectAndApply;
@@ -10291,7 +10291,7 @@ function detectAndApply(widget){
 function Waves$lambda$0$Type(){
 }
 
-defineClass(533, 1, $intern_35, Waves$lambda$0$Type);
+defineClass(535, 1, $intern_35, Waves$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach_1(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_1;
@@ -10299,7 +10299,7 @@ _.onAttachOrDetach = function onAttachOrDetach_1(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_Waves$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'Waves/lambda$0$Type', 533);
+var Lgwt_material_design_client_base_Waves$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base', 'Waves/lambda$0$Type', 535);
 function $clinit_StyleName(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_StyleName;
@@ -10383,7 +10383,7 @@ function BasicEditorError(message){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(180, 1, {713:1, 180:1}, BasicEditorError);
+defineClass(180, 1, {716:1, 180:1}, BasicEditorError);
 _.message_0 = null;
 var Lgwt_material_design_client_base_error_BasicEditorError_2_classLit = createForClass('gwt.material.design.client.base.error', 'BasicEditorError', 180);
 function $clearErrors(this$static){
@@ -10439,7 +10439,7 @@ function $showErrors(this$static, errors){
   $init(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '133' , this$static));
   $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '134' , errorMsg = '';
   for ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '135' , index_0 = 0; ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '135' , index_0) < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , errors.array).length; $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '135' , index_0++) {
-    $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errorMsg = ($location_0[stackIndex] = 'BasicEditorError.java:' + '64' , (checkCriticalElementIndex(0, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errors).array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errors).array)[0], ($tmp = 713 , $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , $tmp)), 180)).message_0);
+    $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errorMsg = ($location_0[stackIndex] = 'BasicEditorError.java:' + '64' , (checkCriticalElementIndex(0, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errors).array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , errors).array)[0], ($tmp = 716 , $location_0[stackIndex] = 'DefaultErrorHandler.java:' + '136' , $tmp)), 180)).message_0);
     ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '137' , index_0) + 1 < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , errors.array).length && ($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '138' , errorMsg += '; ');
   }
   !($location_0[stackIndex] = 'Cast.java:' + '267' , !($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '142' , this$static).inputWidget) && $setError(($location_0[stackIndex] = 'DefaultErrorHandler.java:' + '143' , this$static).inputWidget, errorMsg);
@@ -10454,9 +10454,9 @@ function DefaultErrorHandler(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(612, 1, {}, DefaultErrorHandler);
+defineClass(613, 1, {}, DefaultErrorHandler);
 _.initialized = false;
-var Lgwt_material_design_client_base_error_DefaultErrorHandler_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler', 612);
+var Lgwt_material_design_client_base_error_DefaultErrorHandler_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler', 613);
 function DefaultErrorHandler$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DefaultErrorHandler$lambda$0$Type;
@@ -10464,7 +10464,7 @@ function DefaultErrorHandler$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(613, 1, $intern_35, DefaultErrorHandler$lambda$0$Type);
+defineClass(614, 1, $intern_35, DefaultErrorHandler$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach_2(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_2;
@@ -10472,7 +10472,7 @@ _.onAttachOrDetach = function onAttachOrDetach_2(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_error_DefaultErrorHandler$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler/lambda$0$Type', 613);
+var Lgwt_material_design_client_base_error_DefaultErrorHandler$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.error', 'DefaultErrorHandler/lambda$0$Type', 614);
 function getElementByAttribute(elems, value_0){
   var child, i, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getElementByAttribute;
@@ -10542,7 +10542,7 @@ function EventHelper$lambda$0$Type(handler_0, reg_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(574, 1, $intern_35, EventHelper$lambda$0$Type);
+defineClass(576, 1, $intern_35, EventHelper$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_3;
@@ -10550,7 +10550,7 @@ _.onAttachOrDetach = function onAttachOrDetach_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_helper_EventHelper$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.helper', 'EventHelper/lambda$0$Type', 574);
+var Lgwt_material_design_client_base_helper_EventHelper$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.helper', 'EventHelper/lambda$0$Type', 576);
 function containsStyle(styleNames, style){
   var s, s$index, s$max, styles, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = containsStyle;
@@ -10600,8 +10600,8 @@ function $setAttribute_0(this$static, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(577, 48, {});
-var Lgwt_material_design_client_base_mixin_AttributeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'AttributeMixin', 577);
+defineClass(579, 48, {});
+var Lgwt_material_design_client_base_mixin_AttributeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'AttributeMixin', 579);
 function $getActivates(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getActivates;
@@ -10625,7 +10625,7 @@ function ActivatesMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(174, 577, {}, ActivatesMixin);
+defineClass(174, 579, {}, ActivatesMixin);
 _.setActivates = function setActivates_0(activates){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = setActivates_0;
@@ -10681,8 +10681,8 @@ function ColorsMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(93, 48, {}, ColorsMixin);
-var Lgwt_material_design_client_base_mixin_ColorsMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ColorsMixin', 93);
+defineClass(94, 48, {}, ColorsMixin);
+var Lgwt_material_design_client_base_mixin_ColorsMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ColorsMixin', 94);
 function $setStyle(this$static, style){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setStyle;
@@ -10803,7 +10803,7 @@ function EnabledMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(90, 48, {}, EnabledMixin);
+defineClass(91, 48, {}, EnabledMixin);
 _.setUiObject = function setUiObject_0(uiObject){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = setUiObject_0;
@@ -10819,7 +10819,7 @@ _.setEnabled = function setEnabled_3(enabled){
 }
 ;
 _.propagateToChildren = false;
-var Lgwt_material_design_client_base_mixin_EnabledMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'EnabledMixin', 90);
+var Lgwt_material_design_client_base_mixin_EnabledMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'EnabledMixin', 91);
 function EnabledMixin$lambda$0$Type($$outer_0, enabled_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = EnabledMixin$lambda$0$Type;
@@ -10951,8 +10951,8 @@ function FontSizeMixin(widget){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(633, 48, {}, FontSizeMixin);
-var Lgwt_material_design_client_base_mixin_FontSizeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FontSizeMixin', 633);
+defineClass(634, 48, {}, FontSizeMixin);
+var Lgwt_material_design_client_base_mixin_FontSizeMixin_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'FontSizeMixin', 634);
 function $setId_1(this$static, id_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setId_1;
@@ -11108,7 +11108,7 @@ function ValidatorMixin$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(590, 1, $intern_39, ValidatorMixin$lambda$0$Type);
+defineClass(591, 1, $intern_39, ValidatorMixin$lambda$0$Type);
 _.onValueChange = function onValueChange(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange;
@@ -11116,7 +11116,7 @@ _.onValueChange = function onValueChange(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_base_mixin_ValidatorMixin$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin/lambda$0$Type', 590);
+var Lgwt_material_design_client_base_mixin_ValidatorMixin$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.mixin', 'ValidatorMixin/lambda$0$Type', 591);
 function $setWaves_0(this$static, waves){
   var enabled, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setWaves_0;
@@ -11191,8 +11191,8 @@ function AbstractValidator(messageValueArgs){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(591, 1, {});
-var Lgwt_material_design_client_base_validator_AbstractValidator_2_classLit = createForClass('gwt.material.design.client.base.validator', 'AbstractValidator', 591);
+defineClass(592, 1, {});
+var Lgwt_material_design_client_base_validator_AbstractValidator_2_classLit = createForClass('gwt.material.design.client.base.validator', 'AbstractValidator', 592);
 function $isValid(value_0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $isValid;
@@ -11213,8 +11213,8 @@ function BlankValidator(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(592, 591, {}, BlankValidator);
-var Lgwt_material_design_client_base_validator_BlankValidator_2_classLit = createForClass('gwt.material.design.client.base.validator', 'BlankValidator', 592);
+defineClass(593, 592, {}, BlankValidator);
+var Lgwt_material_design_client_base_validator_BlankValidator_2_classLit = createForClass('gwt.material.design.client.base.validator', 'BlankValidator', 593);
 function $lookup(this$static, key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lookup;
@@ -11253,8 +11253,8 @@ function DefaultValidatorMessageMixin(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(617, 1, {}, DefaultValidatorMessageMixin);
-var Lgwt_material_design_client_base_validator_DefaultValidatorMessageMixin_2_classLit = createForClass('gwt.material.design.client.base.validator', 'DefaultValidatorMessageMixin', 617);
+defineClass(618, 1, {}, DefaultValidatorMessageMixin);
+var Lgwt_material_design_client_base_validator_DefaultValidatorMessageMixin_2_classLit = createForClass('gwt.material.design.client.base.validator', 'DefaultValidatorMessageMixin', 618);
 function format(pattern, arguments_0){
   var index_0, msg, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = format;
@@ -11285,7 +11285,7 @@ function ValidationChangedEvent(valid){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(173, 682, {173:1}, ValidationChangedEvent);
+defineClass(173, 683, {173:1}, ValidationChangedEvent);
 _.dispatch = function dispatch_11(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_11;
@@ -11402,8 +11402,8 @@ function ValidationMessages_en(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(631, 1, {}, ValidationMessages_en);
-var Lgwt_material_design_client_base_validator_ValidationMessages_1en_2_classLit = createForClass('gwt.material.design.client.base.validator', 'ValidationMessages_en', 631);
+defineClass(632, 1, {}, ValidationMessages_en);
+var Lgwt_material_design_client_base_validator_ValidationMessages_1en_2_classLit = createForClass('gwt.material.design.client.base.validator', 'ValidationMessages_en', 632);
 function $compareTo_0(this$static, other){
   var result, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $compareTo_0;
@@ -11618,7 +11618,7 @@ function ViewPortHandler$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(262, 1, {700:1, 12:1}, ViewPortHandler$lambda$0$Type);
+defineClass(262, 1, {701:1, 12:1}, ViewPortHandler$lambda$0$Type);
 var Lgwt_material_design_client_base_viewport_ViewPortHandler$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.base.viewport', 'ViewPortHandler/lambda$0$Type', 262);
 function $asMediaQuery(this$static){
   var stackIndex, returnTemp;
@@ -11671,12 +11671,12 @@ function values_9(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_9;
   $location_0[stackIndex] = 'Alignment.java:' + '25' , $clinit_Alignment();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_Alignment_2_classLit, 1), $intern_4, 105, 0, [DEFAULT_1, LEFT_2, RIGHT_2, CENTER_0]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_Alignment_2_classLit, 1), $intern_4, 106, 0, [DEFAULT_1, LEFT_2, RIGHT_2, CENTER_0]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(105, 7, {18:1, 105:1, 4:1, 8:1, 7:1}, Alignment);
+defineClass(106, 7, {18:1, 106:1, 4:1, 8:1, 7:1}, Alignment);
 _.getCssName = function getCssName_43(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_43;
@@ -11686,7 +11686,7 @@ _.getCssName = function getCssName_43(){
 }
 ;
 var CENTER_0, DEFAULT_1, LEFT_2, RIGHT_2;
-var Lgwt_material_design_client_constants_Alignment_2_classLit = createForEnum('gwt.material.design.client.constants', 'Alignment', 105, values_9);
+var Lgwt_material_design_client_constants_Alignment_2_classLit = createForEnum('gwt.material.design.client.constants', 'Alignment', 106, values_9);
 function $clinit_ButtonType(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ButtonType;
@@ -11710,12 +11710,12 @@ function values_10(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_10;
   $location_0[stackIndex] = 'ButtonType.java:' + '30' , $clinit_ButtonType();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_ButtonType_2_classLit, 1), $intern_4, 100, 0, [LINK, RAISED, FLAT, FLOATING]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_ButtonType_2_classLit, 1), $intern_4, 101, 0, [LINK, RAISED, FLAT, FLOATING]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(100, 7, {18:1, 100:1, 146:1, 95:1, 4:1, 8:1, 7:1}, ButtonType);
+defineClass(101, 7, {18:1, 101:1, 146:1, 96:1, 4:1, 8:1, 7:1}, ButtonType);
 _.getCssName = function getCssName_44(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_44;
@@ -11725,7 +11725,7 @@ _.getCssName = function getCssName_44(){
 }
 ;
 var FLAT, FLOATING, LINK, RAISED;
-var Lgwt_material_design_client_constants_ButtonType_2_classLit = createForEnum('gwt.material.design.client.constants', 'ButtonType', 100, values_10);
+var Lgwt_material_design_client_constants_ButtonType_2_classLit = createForEnum('gwt.material.design.client.constants', 'ButtonType', 101, values_10);
 function $clinit_Color(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_Color;
@@ -12008,7 +12008,7 @@ function values_11(){
   return returnTemp;
 }
 
-defineClass(5, 7, {18:1, 5:1, 146:1, 95:1, 4:1, 8:1, 7:1}, Color);
+defineClass(5, 7, {18:1, 5:1, 146:1, 96:1, 4:1, 8:1, 7:1}, Color);
 _.getCssName = function getCssName_45(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_45;
@@ -12128,7 +12128,7 @@ function values_13(){
   return returnTemp;
 }
 
-defineClass(75, 7, {18:1, 146:1, 75:1, 95:1, 4:1, 8:1, 7:1}, HideOn);
+defineClass(75, 7, {18:1, 146:1, 75:1, 96:1, 4:1, 8:1, 7:1}, HideOn);
 _.getCssName = function getCssName_47(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_47;
@@ -12200,12 +12200,12 @@ function values_15(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_15;
   $location_0[stackIndex] = 'IconSize.java:' + '28' , $clinit_IconSize();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_IconSize_2_classLit, 1), $intern_4, 91, 0, [TINY, SMALL, MEDIUM, LARGE]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_IconSize_2_classLit, 1), $intern_4, 92, 0, [TINY, SMALL, MEDIUM, LARGE]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(91, 7, {18:1, 91:1, 95:1, 4:1, 8:1, 7:1}, IconSize);
+defineClass(92, 7, {18:1, 92:1, 96:1, 4:1, 8:1, 7:1}, IconSize);
 _.getCssName = function getCssName_49(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_49;
@@ -12215,7 +12215,7 @@ _.getCssName = function getCssName_49(){
 }
 ;
 var LARGE, MEDIUM, SMALL, TINY;
-var Lgwt_material_design_client_constants_IconSize_2_classLit = createForEnum('gwt.material.design.client.constants', 'IconSize', 91, values_15);
+var Lgwt_material_design_client_constants_IconSize_2_classLit = createForEnum('gwt.material.design.client.constants', 'IconSize', 92, values_15);
 function $clinit_IconType(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_IconType;
@@ -13173,7 +13173,7 @@ function values_16(){
   return returnTemp;
 }
 
-defineClass(3, 7, {18:1, 146:1, 3:1, 95:1, 4:1, 8:1, 7:1}, IconType);
+defineClass(3, 7, {18:1, 146:1, 3:1, 96:1, 4:1, 8:1, 7:1}, IconType);
 _.getCssName = function getCssName_50(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_50;
@@ -13225,7 +13225,7 @@ function values_17(){
   return returnTemp;
 }
 
-defineClass(43, 7, {43:1, 95:1, 4:1, 8:1, 7:1}, InputType);
+defineClass(43, 7, {43:1, 96:1, 4:1, 8:1, 7:1}, InputType);
 var CHECKBOX, COLOR_0, DATE, DATETIME, DATETIME_LOCAL, EMAIL_0, FILE, MONTH, NUMBER, PASSWORD, RANGE, SEARCH_0, TEL, TEXT_0, TIME, URL_0, WEEK;
 var Lgwt_material_design_client_constants_InputType_2_classLit = createForEnum('gwt.material.design.client.constants', 'InputType', 43, values_17);
 function $clinit_ProgressType(){
@@ -13254,7 +13254,7 @@ function values_18(){
   return returnTemp;
 }
 
-defineClass(139, 7, {18:1, 146:1, 139:1, 95:1, 4:1, 8:1, 7:1}, ProgressType);
+defineClass(139, 7, {18:1, 146:1, 139:1, 96:1, 4:1, 8:1, 7:1}, ProgressType);
 _.getCssName = function getCssName_51(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_51;
@@ -13288,12 +13288,12 @@ function values_19(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_19;
   $location_0[stackIndex] = 'TextAlign.java:' + '25' , $clinit_TextAlign();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_TextAlign_2_classLit, 1), $intern_4, 102, 0, [DEFAULT_4, LEFT_4, RIGHT_4, CENTER_1]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_constants_TextAlign_2_classLit, 1), $intern_4, 103, 0, [DEFAULT_4, LEFT_4, RIGHT_4, CENTER_1]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(102, 7, {18:1, 102:1, 4:1, 8:1, 7:1}, TextAlign);
+defineClass(103, 7, {18:1, 103:1, 4:1, 8:1, 7:1}, TextAlign);
 _.getCssName = function getCssName_52(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_52;
@@ -13303,7 +13303,7 @@ _.getCssName = function getCssName_52(){
 }
 ;
 var CENTER_1, DEFAULT_4, LEFT_4, RIGHT_4;
-var Lgwt_material_design_client_constants_TextAlign_2_classLit = createForEnum('gwt.material.design.client.constants', 'TextAlign', 102, values_19);
+var Lgwt_material_design_client_constants_TextAlign_2_classLit = createForEnum('gwt.material.design.client.constants', 'TextAlign', 103, values_19);
 function $clinit_WavesType(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_WavesType;
@@ -13336,7 +13336,7 @@ function values_20(){
   return returnTemp;
 }
 
-defineClass(66, 7, {18:1, 95:1, 66:1, 4:1, 8:1, 7:1}, WavesType);
+defineClass(66, 7, {18:1, 96:1, 66:1, 4:1, 8:1, 7:1}, WavesType);
 _.getCssName = function getCssName_53(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_53;
@@ -13657,8 +13657,8 @@ function $getOrphansCategory(this$static){
   $stack_0[stackIndex = ++$stackDepth_0] = $getOrphansCategory;
   for ($location_0[stackIndex] = 'AbstractDataView.java:' + '2126' , category$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataView.java:' + '2126' , this$static).categories , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '2126' , category$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '2126' , category$iterator).this$01).array.length;) {
     category = castTo($next_3(($location_0[stackIndex] = 'AbstractDataView.java:' + '2126' , category$iterator)), 35);
-    if (instanceOf(($location_0[stackIndex] = 'AbstractDataView.java:' + '2127' , category), 101)) {
-      returnTemp = castTo(($location_0[stackIndex] = 'AbstractDataView.java:' + '2128' , category), 101);
+    if (instanceOf(($location_0[stackIndex] = 'AbstractDataView.java:' + '2127' , category), 102)) {
+      returnTemp = castTo(($location_0[stackIndex] = 'AbstractDataView.java:' + '2128' , category), 102);
       $stackDepth_0 = stackIndex - 1;
       return returnTemp;
     }
@@ -13732,7 +13732,7 @@ function $getVisibleHeaderIndexes(this$static){
   var index_0, visibleHeaders, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getVisibleHeaderIndexes;
   visibleHeaders = ($location_0[stackIndex] = 'AbstractDataView.java:' + '273' , new ArrayList);
-  for ($location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0 = ($location_0[stackIndex] = 'AbstractDataView.java:' + '1206' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '274' , this$static).selectionType) == ($location_0[stackIndex] = 'SelectionType.java:' + '31' , $clinit_SelectionType() , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1206' , NONE_4))?0:1; ($location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0) < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1227' , this$static.columns).array).length; $location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0++) {
+  for ($location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0 = 0; ($location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0) < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '1227' , this$static.columns).array).length; $location_0[stackIndex] = 'AbstractDataView.java:' + '274' , index_0++) {
     ($location_0[stackIndex] = 'AbstractDataView.java:' + '275' , index_0) < ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '960' , this$static.headers).array).length && ($$this(castTo($get_1(($location_0[stackIndex] = 'AbstractDataView.java:' + '960' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '275' , this$static).headers), ($tmp = ($location_0[stackIndex] = 'AbstractDataView.java:' + '275' , index_0) , $location_0[stackIndex] = 'AbstractDataView.java:' + '960' , $tmp)), 46)).is(':visible') || $isVisible(castTo($get_1(($location_0[stackIndex] = 'AbstractDataView.java:' + '960' , ($location_0[stackIndex] = 'AbstractDataView.java:' + '275' , this$static).headers), ($tmp = ($location_0[stackIndex] = 'AbstractDataView.java:' + '275' , index_0) , $location_0[stackIndex] = 'AbstractDataView.java:' + '960' , $tmp)), 46))) && $add_7(($location_0[stackIndex] = 'AbstractDataView.java:' + '276' , visibleHeaders), valueOf_1(index_0));
   }
   returnTemp = ($location_0[stackIndex] = 'AbstractDataView.java:' + '279' , visibleHeaders);
@@ -13867,7 +13867,7 @@ function $lambda$13(this$static, e_0){
 function $lambda$14(this$static, e_0){
   var content_0, copy, expanding, expansion, recalculated, row, rowExpansion, tr, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$14;
-  recalculated = stampJavaTypeInfo(getClassLiteralForArray(($location_0[stackIndex] = 'AbstractDataView.java:' + '782' , Z_classLit), 1), $intern_40, 637, 16, [false]);
+  recalculated = stampJavaTypeInfo(getClassLiteralForArray(($location_0[stackIndex] = 'AbstractDataView.java:' + '782' , Z_classLit), 1), $intern_40, 638, 16, [false]);
   tr = ($location_0[stackIndex] = 'AbstractDataView.java:' + '784' , $wnd).$(($tmp = ($location_0[stackIndex] = 'Event.java:' + '61' , e_0.currentTarget) , $location_0[stackIndex] = 'AbstractDataView.java:' + '784' , $tmp)).parent().parent();
   if (!($location_0[stackIndex] = 'AbstractDataView.java:' + '785' , tr).hasClass('disabled') && !tr.is('[disabled]')) {
     expansion = [($location_0[stackIndex] = 'AbstractDataView.java:' + '786' , tr).next().find('td.expansion div')];
@@ -14989,7 +14989,7 @@ var Lgwt_material_design_client_data_AbstractDataView_2_classLit = createForClas
 function AbstractDataView$0methodref$ctor$Type(){
 }
 
-defineClass(518, 1, {}, AbstractDataView$0methodref$ctor$Type);
+defineClass(520, 1, {}, AbstractDataView$0methodref$ctor$Type);
 _.clone_0 = function clone_0(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = clone_0;
@@ -14998,7 +14998,7 @@ _.clone_0 = function clone_0(arg0){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/0methodref$ctor$Type', 518);
+var Lgwt_material_design_client_data_AbstractDataView$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/0methodref$ctor$Type', 520);
 function $compare(o1, o2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $compare;
@@ -15010,7 +15010,7 @@ function $compare(o1, o2){
 function AbstractDataView$1(){
 }
 
-defineClass(520, 1, {}, AbstractDataView$1);
+defineClass(522, 1, {}, AbstractDataView$1);
 _.compare = function compare_2(o1, o2){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_2;
@@ -15027,7 +15027,7 @@ _.equals_0 = function equals_6(other){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$1_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/1', 520);
+var Lgwt_material_design_client_data_AbstractDataView$1_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/1', 522);
 function AbstractDataView$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$0$Type;
@@ -15035,7 +15035,7 @@ function AbstractDataView$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(515, 1, $intern_35, AbstractDataView$lambda$0$Type);
+defineClass(517, 1, $intern_35, AbstractDataView$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach_5(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_5;
@@ -15043,7 +15043,7 @@ _.onAttachOrDetach = function onAttachOrDetach_5(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$0$Type', 515);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$0$Type', 517);
 function AbstractDataView$lambda$1$Type($$outer_0, categoryComponent_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$1$Type;
@@ -15052,7 +15052,7 @@ function AbstractDataView$lambda$1$Type($$outer_0, categoryComponent_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(516, 1, $intern_35, AbstractDataView$lambda$1$Type);
+defineClass(518, 1, $intern_35, AbstractDataView$lambda$1$Type);
 _.onAttachOrDetach = function onAttachOrDetach_6(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_6;
@@ -15060,7 +15060,7 @@ _.onAttachOrDetach = function onAttachOrDetach_6(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$1$Type', 516);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$1$Type', 518);
 function AbstractDataView$lambda$10$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$10$Type;
@@ -15068,7 +15068,7 @@ function AbstractDataView$lambda$10$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(746, $wnd.Function, {}, AbstractDataView$lambda$10$Type);
+defineClass(748, $wnd.Function, {}, AbstractDataView$lambda$10$Type);
 _.call_1 = function call_6(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_6;
@@ -15084,7 +15084,7 @@ function AbstractDataView$lambda$11$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(747, $wnd.Function, {}, AbstractDataView$lambda$11$Type);
+defineClass(749, $wnd.Function, {}, AbstractDataView$lambda$11$Type);
 _.call_1 = function call_7(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_7;
@@ -15100,7 +15100,7 @@ function AbstractDataView$lambda$12$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(748, $wnd.Function, {}, AbstractDataView$lambda$12$Type);
+defineClass(750, $wnd.Function, {}, AbstractDataView$lambda$12$Type);
 _.call_2 = function call_8(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_8;
@@ -15116,7 +15116,7 @@ function AbstractDataView$lambda$13$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(749, $wnd.Function, {}, AbstractDataView$lambda$13$Type);
+defineClass(751, $wnd.Function, {}, AbstractDataView$lambda$13$Type);
 _.call_2 = function call_9(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_9;
@@ -15132,7 +15132,7 @@ function AbstractDataView$lambda$14$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(750, $wnd.Function, {}, AbstractDataView$lambda$14$Type);
+defineClass(752, $wnd.Function, {}, AbstractDataView$lambda$14$Type);
 _.call_0 = function call_10(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_10;
@@ -15149,7 +15149,7 @@ function AbstractDataView$lambda$15$Type($$outer_0, header_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(751, $wnd.Function, {}, AbstractDataView$lambda$15$Type);
+defineClass(753, $wnd.Function, {}, AbstractDataView$lambda$15$Type);
 _.call_0 = function call_11(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_11;
@@ -15161,7 +15161,7 @@ _.call_0 = function call_11(arg0){
 function AbstractDataView$lambda$16$Type(){
 }
 
-defineClass(519, 1, {}, AbstractDataView$lambda$16$Type);
+defineClass(521, 1, {}, AbstractDataView$lambda$16$Type);
 _.apply_0 = function apply_1(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = apply_1;
@@ -15170,7 +15170,7 @@ _.apply_0 = function apply_1(arg0){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$16$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$16$Type', 519);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$16$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$16$Type', 521);
 function AbstractDataView$lambda$17$Type($$outer_0, th_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$17$Type;
@@ -15179,7 +15179,7 @@ function AbstractDataView$lambda$17$Type($$outer_0, th_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(752, $wnd.Function, {}, AbstractDataView$lambda$17$Type);
+defineClass(754, $wnd.Function, {}, AbstractDataView$lambda$17$Type);
 _.call_0 = function call_12(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_12;
@@ -15195,7 +15195,7 @@ function AbstractDataView$lambda$18$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(753, $wnd.Function, {}, AbstractDataView$lambda$18$Type);
+defineClass(755, $wnd.Function, {}, AbstractDataView$lambda$18$Type);
 _.call_3 = function call_13(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_13;
@@ -15211,7 +15211,7 @@ function AbstractDataView$lambda$19$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(754, $wnd.Function, {}, AbstractDataView$lambda$19$Type);
+defineClass(756, $wnd.Function, {}, AbstractDataView$lambda$19$Type);
 _.call_3 = function call_14(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_14;
@@ -15229,7 +15229,7 @@ function AbstractDataView$lambda$2$Type($$outer_0, th_1, column_2){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(738, $wnd.Function, {}, AbstractDataView$lambda$2$Type);
+defineClass(740, $wnd.Function, {}, AbstractDataView$lambda$2$Type);
 _.call_0 = function call_15(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_15;
@@ -15246,7 +15246,7 @@ function AbstractDataView$lambda$20$Type(select_0, rows_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(755, $wnd.Function, {}, AbstractDataView$lambda$20$Type);
+defineClass(757, $wnd.Function, {}, AbstractDataView$lambda$20$Type);
 _.call_4 = function call_16(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_16;
@@ -15263,7 +15263,7 @@ function AbstractDataView$lambda$21$Type($$outer_0, models_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(756, $wnd.Function, {}, AbstractDataView$lambda$21$Type);
+defineClass(758, $wnd.Function, {}, AbstractDataView$lambda$21$Type);
 _.call_4 = function call_17(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_17;
@@ -15279,7 +15279,7 @@ function AbstractDataView$lambda$22$Type($$outer_0, category_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(757, $wnd.Function, {}, AbstractDataView$lambda$22$Type);
+defineClass(759, $wnd.Function, {}, AbstractDataView$lambda$22$Type);
 _.call_1 = function call_18(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_18;
@@ -15296,7 +15296,7 @@ function AbstractDataView$lambda$23$Type($$outer_0, category_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(758, $wnd.Function, {}, AbstractDataView$lambda$23$Type);
+defineClass(760, $wnd.Function, {}, AbstractDataView$lambda$23$Type);
 _.call_1 = function call_19(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_19;
@@ -15312,7 +15312,7 @@ function AbstractDataView$lambda$24$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(759, $wnd.Function, {}, AbstractDataView$lambda$24$Type);
+defineClass(761, $wnd.Function, {}, AbstractDataView$lambda$24$Type);
 _.call_4 = function call_20(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_20;
@@ -15327,7 +15327,7 @@ function AbstractDataView$lambda$25$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(760, $wnd.Function, {}, AbstractDataView$lambda$25$Type);
+defineClass(762, $wnd.Function, {}, AbstractDataView$lambda$25$Type);
 _.call_4 = function call_21(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_21;
@@ -15346,7 +15346,7 @@ function AbstractDataView$lambda$26$Type($$outer_0, recalculated_1, row_2, expan
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(761, $wnd.Function, {}, AbstractDataView$lambda$26$Type);
+defineClass(763, $wnd.Function, {}, AbstractDataView$lambda$26$Type);
 _.call_1 = function call_22(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_22;
@@ -15364,7 +15364,7 @@ function AbstractDataView$lambda$27$Type(copy_0, expansion_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(517, 1, {}, AbstractDataView$lambda$27$Type);
+defineClass(519, 1, {}, AbstractDataView$lambda$27$Type);
 _.execute_0 = function execute_10(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_10;
@@ -15372,7 +15372,7 @@ _.execute_0 = function execute_10(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_AbstractDataView$lambda$27$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$27$Type', 517);
+var Lgwt_material_design_client_data_AbstractDataView$lambda$27$Type_2_classLit = createForClass('gwt.material.design.client.data', 'AbstractDataView/lambda$27$Type', 519);
 function AbstractDataView$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractDataView$lambda$3$Type;
@@ -15380,7 +15380,7 @@ function AbstractDataView$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(739, $wnd.Function, {}, AbstractDataView$lambda$3$Type);
+defineClass(741, $wnd.Function, {}, AbstractDataView$lambda$3$Type);
 _.call_0 = function call_23(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_23;
@@ -15396,7 +15396,7 @@ function AbstractDataView$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(740, $wnd.Function, {}, AbstractDataView$lambda$4$Type);
+defineClass(742, $wnd.Function, {}, AbstractDataView$lambda$4$Type);
 _.call_0 = function call_24(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_24;
@@ -15412,7 +15412,7 @@ function AbstractDataView$lambda$5$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(741, $wnd.Function, {}, AbstractDataView$lambda$5$Type);
+defineClass(743, $wnd.Function, {}, AbstractDataView$lambda$5$Type);
 _.call_0 = function call_25(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_25;
@@ -15429,7 +15429,7 @@ function AbstractDataView$lambda$6$Type($$outer_0, $xScrollPanel_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(742, $wnd.Function, {}, AbstractDataView$lambda$6$Type);
+defineClass(744, $wnd.Function, {}, AbstractDataView$lambda$6$Type);
 _.call_0 = function call_26(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_26;
@@ -15446,7 +15446,7 @@ function AbstractDataView$lambda$7$Type($$outer_0, $xScrollPanel_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(743, $wnd.Function, {}, AbstractDataView$lambda$7$Type);
+defineClass(745, $wnd.Function, {}, AbstractDataView$lambda$7$Type);
 _.call_0 = function call_27(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_27;
@@ -15462,7 +15462,7 @@ function AbstractDataView$lambda$8$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(744, $wnd.Function, {}, AbstractDataView$lambda$8$Type);
+defineClass(746, $wnd.Function, {}, AbstractDataView$lambda$8$Type);
 _.call_4 = function call_28(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_28;
@@ -15477,7 +15477,7 @@ function AbstractDataView$lambda$9$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(745, $wnd.Function, {}, AbstractDataView$lambda$9$Type);
+defineClass(747, $wnd.Function, {}, AbstractDataView$lambda$9$Type);
 _.call_1 = function call_29(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_29;
@@ -15622,7 +15622,7 @@ function $drawRow(this$static, dataView, rowComponent, columns, redraw){
       colIndex = ($location_0[stackIndex] = 'BaseRenderer.java:' + '137' , c) + colOffset;
       context = ($location_0[stackIndex] = 'BaseRenderer.java:' + '138' , new Cell$Context);
       column = (checkCriticalElementIndex(($location_0[stackIndex] = 'BaseRenderer.java:' + '139' , c), ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , columns.array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'BaseRenderer.java:' + '139' , columns).array)[$location_0[stackIndex] = 'BaseRenderer.java:' + '139' , c]), ($tmp = 32 , $location_0[stackIndex] = 'BaseRenderer.java:' + '139' , $tmp)));
-      td = $drawColumn(($location_0[stackIndex] = 'BaseRenderer.java:' + '140' , row), context, data_0, column, colIndex, ($tmp = $indexOf_0(($location_0[stackIndex] = 'BaseRenderer.java:' + '429' , this$static.visibleHeaders), valueOf_1(($tmp = ($location_0[stackIndex] = 'BaseRenderer.java:' + '140' , colIndex) , $location_0[stackIndex] = 'BaseRenderer.java:' + '429' , $tmp)), ($tmp = 0 , $location_0[stackIndex] = 'ArrayList.java:' + '140' , $tmp)) != -1 , $location_0[stackIndex] = 'BaseRenderer.java:' + '140' , $tmp));
+      td = $drawColumn(($location_0[stackIndex] = 'BaseRenderer.java:' + '140' , row), context, data_0, column, colIndex, ($tmp = $indexOf_0(($location_0[stackIndex] = 'BaseRenderer.java:' + '429' , this$static.visibleHeaders), valueOf_1(($tmp = ($location_0[stackIndex] = 'BaseRenderer.java:' + '140' , c) , $location_0[stackIndex] = 'BaseRenderer.java:' + '429' , $tmp)), ($tmp = 0 , $location_0[stackIndex] = 'ArrayList.java:' + '140' , $tmp)) != -1 , $location_0[stackIndex] = 'BaseRenderer.java:' + '140' , $tmp));
       $location_0[stackIndex] = 'BaseRenderer.java:' + '141' , frozenProps = ($location_0[stackIndex] = 'Column.java:' + '319' , ($location_0[stackIndex] = 'BaseRenderer.java:' + '141' , column).frozenProps);
       !($location_0[stackIndex] = 'Cast.java:' + '267' , !($location_0[stackIndex] = 'BaseRenderer.java:' + '142' , frozenProps)) && $drawColumnFreeze(($location_0[stackIndex] = 'BaseRenderer.java:' + '143' , td), rowComponent, (checkCriticalElementIndex(colIndex, ($tmp = ($location_0[stackIndex] = 'ArrayList.java:' + '134' , headers.array).length , $location_0[stackIndex] = 'InternalPreconditions.java:' + '472' , $tmp)) , castTo(($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'ArrayList.java:' + '135' , ($location_0[stackIndex] = 'BaseRenderer.java:' + '143' , headers).array)[$location_0[stackIndex] = 'BaseRenderer.java:' + '143' , colIndex]), ($tmp = 46 , $location_0[stackIndex] = 'BaseRenderer.java:' + '143' , $tmp))), column, ($tmp = ($location_0[stackIndex] = 'FrozenProperties.java:' + '123' , frozenProps.side) , $location_0[stackIndex] = 'BaseRenderer.java:' + '143' , $tmp));
     }
@@ -15953,7 +15953,7 @@ function BaseRenderer$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(483, 58, $intern_41, BaseRenderer$1);
+defineClass(484, 58, $intern_41, BaseRenderer$1);
 _.getValue_0 = function getValue_1(object){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_1;
@@ -15969,7 +15969,7 @@ _.frozenProperties = function frozenProperties_0(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$1_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/1', 483);
+var Lgwt_material_design_client_data_BaseRenderer$1_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/1', 484);
 function BaseRenderer$lambda$0$Type($$outer_0, rowComponent_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BaseRenderer$lambda$0$Type;
@@ -15978,7 +15978,7 @@ function BaseRenderer$lambda$0$Type($$outer_0, rowComponent_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(484, 1, {}, BaseRenderer$lambda$0$Type);
+defineClass(485, 1, {}, BaseRenderer$lambda$0$Type);
 _.execute_0 = function execute_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_11;
@@ -15986,11 +15986,11 @@ _.execute_0 = function execute_11(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$0$Type', 484);
+var Lgwt_material_design_client_data_BaseRenderer$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$0$Type', 485);
 function BaseRenderer$lambda$1$Type(){
 }
 
-defineClass(485, 1, $intern_37, BaseRenderer$lambda$1$Type);
+defineClass(486, 1, $intern_37, BaseRenderer$lambda$1$Type);
 _.onClick = function onClick_1(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_1;
@@ -15998,7 +15998,7 @@ _.onClick = function onClick_1(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$1$Type', 485);
+var Lgwt_material_design_client_data_BaseRenderer$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$1$Type', 486);
 function BaseRenderer$lambda$4$Type(td_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BaseRenderer$lambda$4$Type;
@@ -16006,7 +16006,7 @@ function BaseRenderer$lambda$4$Type(td_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(730, $wnd.Function, {}, BaseRenderer$lambda$4$Type);
+defineClass(732, $wnd.Function, {}, BaseRenderer$lambda$4$Type);
 _.call_1 = function call_30(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_30;
@@ -16022,7 +16022,7 @@ function BaseRenderer$lambda$5$Type(td_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(731, $wnd.Function, {}, BaseRenderer$lambda$5$Type);
+defineClass(733, $wnd.Function, {}, BaseRenderer$lambda$5$Type);
 _.call_1 = function call_31(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_31;
@@ -16042,7 +16042,7 @@ function BaseRenderer$lambda$6$Type(header_0, rowComponent_1, td_2, column_3, si
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(488, 1, $intern_35, BaseRenderer$lambda$6$Type);
+defineClass(489, 1, $intern_35, BaseRenderer$lambda$6$Type);
 _.onAttachOrDetach = function onAttachOrDetach_7(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_7;
@@ -16050,7 +16050,7 @@ _.onAttachOrDetach = function onAttachOrDetach_7(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$lambda$6$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$6$Type', 488);
+var Lgwt_material_design_client_data_BaseRenderer$lambda$6$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$6$Type', 489);
 function BaseRenderer$lambda$7$Type(styleTd_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BaseRenderer$lambda$7$Type;
@@ -16058,7 +16058,7 @@ function BaseRenderer$lambda$7$Type(styleTd_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(486, 1, {}, BaseRenderer$lambda$7$Type);
+defineClass(487, 1, {}, BaseRenderer$lambda$7$Type);
 _.accept = function accept(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = accept;
@@ -16066,7 +16066,7 @@ _.accept = function accept(arg0, arg1){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$lambda$7$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$7$Type', 486);
+var Lgwt_material_design_client_data_BaseRenderer$lambda$7$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$7$Type', 487);
 function BaseRenderer$lambda$8$Type(styleHeader_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = BaseRenderer$lambda$8$Type;
@@ -16074,7 +16074,7 @@ function BaseRenderer$lambda$8$Type(styleHeader_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(487, 1, {}, BaseRenderer$lambda$8$Type);
+defineClass(488, 1, {}, BaseRenderer$lambda$8$Type);
 _.accept = function accept_0(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = accept_0;
@@ -16082,7 +16082,7 @@ _.accept = function accept_0(arg0, arg1){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_BaseRenderer$lambda$8$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$8$Type', 487);
+var Lgwt_material_design_client_data_BaseRenderer$lambda$8$Type_2_classLit = createForClass('gwt.material.design.client.data', 'BaseRenderer/lambda$8$Type', 488);
 function DataSort(itemComparator, direction){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = DataSort;
@@ -16148,8 +16148,8 @@ function ListDataSource(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(490, 1, {}, ListDataSource);
-var Lgwt_material_design_client_data_ListDataSource_2_classLit = createForClass('gwt.material.design.client.data', 'ListDataSource', 490);
+defineClass(491, 1, {}, ListDataSource);
+var Lgwt_material_design_client_data_ListDataSource_2_classLit = createForClass('gwt.material.design.client.data', 'ListDataSource', 491);
 function $clinit_MapDataSource(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MapDataSource;
@@ -16227,13 +16227,13 @@ function MapDataSource(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(491, 1, {}, MapDataSource);
+defineClass(492, 1, {}, MapDataSource);
 var logger_2;
-var Lgwt_material_design_client_data_MapDataSource_2_classLit = createForClass('gwt.material.design.client.data', 'MapDataSource', 491);
+var Lgwt_material_design_client_data_MapDataSource_2_classLit = createForClass('gwt.material.design.client.data', 'MapDataSource', 492);
 function MapDataSource$lambda$0$Type(){
 }
 
-defineClass(492, 1, {}, MapDataSource$lambda$0$Type);
+defineClass(493, 1, {}, MapDataSource$lambda$0$Type);
 _.apply_0 = function apply_2(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = apply_2;
@@ -16242,7 +16242,7 @@ _.apply_0 = function apply_2(arg0){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_MapDataSource$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'MapDataSource/lambda$0$Type', 492);
+var Lgwt_material_design_client_data_MapDataSource$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data', 'MapDataSource/lambda$0$Type', 493);
 function RowExpansion(row){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = RowExpansion;
@@ -16251,8 +16251,8 @@ function RowExpansion(row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(598, 1, {}, RowExpansion);
-var Lgwt_material_design_client_data_RowExpansion_2_classLit = createForClass('gwt.material.design.client.data', 'RowExpansion', 598);
+defineClass(599, 1, {}, RowExpansion);
+var Lgwt_material_design_client_data_RowExpansion_2_classLit = createForClass('gwt.material.design.client.data', 'RowExpansion', 599);
 function $clinit_SelectionType(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_SelectionType;
@@ -16280,7 +16280,7 @@ function values_21(){
   return returnTemp;
 }
 
-defineClass(123, 7, {18:1, 146:1, 95:1, 123:1, 4:1, 8:1, 7:1}, SelectionType);
+defineClass(123, 7, {18:1, 146:1, 96:1, 123:1, 4:1, 8:1, 7:1}, SelectionType);
 _.getCssName = function getCssName_54(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCssName_54;
@@ -16379,14 +16379,14 @@ function values_22(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = values_22;
   $location_0[stackIndex] = 'SortDir.java:' + '24' , $clinit_SortDir();
-  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_data_SortDir_2_classLit, 1), $intern_4, 104, 0, [ASC, DESC]);
+  returnTemp = stampJavaTypeInfo(getClassLiteralForArray(Lgwt_material_design_client_data_SortDir_2_classLit, 1), $intern_4, 105, 0, [ASC, DESC]);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 
-defineClass(104, 7, $intern_42);
+defineClass(105, 7, $intern_42);
 var ASC, DESC;
-var Lgwt_material_design_client_data_SortDir_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir', 104, values_22);
+var Lgwt_material_design_client_data_SortDir_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir', 105, values_22);
 function SortDir$1(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SortDir$1;
@@ -16394,8 +16394,8 @@ function SortDir$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(548, 104, $intern_42, SortDir$1);
-var Lgwt_material_design_client_data_SortDir$1_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/1', 548, null);
+defineClass(550, 105, $intern_42, SortDir$1);
+var Lgwt_material_design_client_data_SortDir$1_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/1', 550, null);
 function SortDir$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = SortDir$2;
@@ -16403,8 +16403,8 @@ function SortDir$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(549, 104, $intern_42, SortDir$2);
-var Lgwt_material_design_client_data_SortDir$2_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/2', 549, null);
+defineClass(551, 105, $intern_42, SortDir$2);
+var Lgwt_material_design_client_data_SortDir$2_2_classLit = createForEnum('gwt.material.design.client.data', 'SortDir/2', 551, null);
 function StandardDataView(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardDataView;
@@ -16535,7 +16535,7 @@ function CategoryComponent$OrphanCategoryComponent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(101, 35, {35:1, 101:1, 53:1}, CategoryComponent$OrphanCategoryComponent);
+defineClass(102, 35, {35:1, 102:1, 53:1}, CategoryComponent$OrphanCategoryComponent);
 _.render_3 = function render_5(subheader, columnCount){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = render_5;
@@ -16543,7 +16543,7 @@ _.render_3 = function render_5(subheader, columnCount){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_component_CategoryComponent$OrphanCategoryComponent_2_classLit = createForClass('gwt.material.design.client.data.component', 'CategoryComponent/OrphanCategoryComponent', 101);
+var Lgwt_material_design_client_data_component_CategoryComponent$OrphanCategoryComponent_2_classLit = createForClass('gwt.material.design.client.data.component', 'CategoryComponent/OrphanCategoryComponent', 102);
 function $advanceToFind(this$static, o, remove){
   var e, iter, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $advanceToFind;
@@ -16574,7 +16574,7 @@ function $containsAll(this$static, c){
   return true;
 }
 
-defineClass(675, 1, {36:1});
+defineClass(676, 1, {36:1});
 _.add_0 = function add_1(o){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_1;
@@ -16641,7 +16641,7 @@ _.toString_0 = function toString_13(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractCollection_2_classLit = createForClass('java.util', 'AbstractCollection', 675);
+var Ljava_util_AbstractCollection_2_classLit = createForClass('java.util', 'AbstractCollection', 676);
 function $sort_4(this$static, c){
   var a, i, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $sort_4;
@@ -16653,7 +16653,7 @@ function $sort_4(this$static, c){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(676, 675, $intern_44);
+defineClass(677, 676, $intern_44);
 _.sort_0 = function sort_0(c){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = sort_0;
@@ -16748,7 +16748,7 @@ _.set_0 = function set_1(index_0, o){
   throw toJs(new UnsupportedOperationException_0(($tmp = 'Set not supported on this list' , $location_0[stackIndex] = 'AbstractList.java:' + '280' , $tmp)));
 }
 ;
-var Ljava_util_AbstractList_2_classLit = createForClass('java.util', 'AbstractList', 676);
+var Ljava_util_AbstractList_2_classLit = createForClass('java.util', 'AbstractList', 677);
 function $$init_2(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $$init_2;
@@ -16904,7 +16904,7 @@ function ArrayList_0(c){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(22, 676, $intern_45, ArrayList, ArrayList_0);
+defineClass(22, 677, $intern_45, ArrayList, ArrayList_0);
 _.add_1 = function add_4(index_0, o){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_4;
@@ -17174,11 +17174,11 @@ function CategoryClosedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(500, 682, {}, CategoryClosedEvent);
+defineClass(501, 683, {}, CategoryClosedEvent);
 _.dispatch = function dispatch_12(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_12;
-  castTo(($location_0[stackIndex] = 'CategoryClosedEvent.java:' + '49' , handler), 648).onCategoryClosed(($tmp = this , $location_0[stackIndex] = 'CategoryClosedEvent.java:' + '50' , $tmp));
+  castTo(($location_0[stackIndex] = 'CategoryClosedEvent.java:' + '49' , handler), 649).onCategoryClosed(($tmp = this , $location_0[stackIndex] = 'CategoryClosedEvent.java:' + '50' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17191,7 +17191,7 @@ _.getAssociatedType = function getAssociatedType_13(){
 }
 ;
 var TYPE_12;
-var Lgwt_material_design_client_data_events_CategoryClosedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'CategoryClosedEvent', 500);
+var Lgwt_material_design_client_data_events_CategoryClosedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'CategoryClosedEvent', 501);
 function $clinit_CategoryOpenedEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_CategoryOpenedEvent;
@@ -17207,11 +17207,11 @@ function CategoryOpenedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(499, 682, {}, CategoryOpenedEvent);
+defineClass(500, 683, {}, CategoryOpenedEvent);
 _.dispatch = function dispatch_13(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_13;
-  castTo(($location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '49' , handler), 647).onCategoryOpened(($tmp = this , $location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '50' , $tmp));
+  castTo(($location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '49' , handler), 648).onCategoryOpened(($tmp = this , $location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '50' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17224,7 +17224,7 @@ _.getAssociatedType = function getAssociatedType_14(){
 }
 ;
 var TYPE_13;
-var Lgwt_material_design_client_data_events_CategoryOpenedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'CategoryOpenedEvent', 499);
+var Lgwt_material_design_client_data_events_CategoryOpenedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'CategoryOpenedEvent', 500);
 function $clinit_ColumnSortEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ColumnSortEvent;
@@ -17240,11 +17240,11 @@ function ColumnSortEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(524, 682, {}, ColumnSortEvent);
+defineClass(526, 683, {}, ColumnSortEvent);
 _.dispatch = function dispatch_14(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_14;
-  $lambda$1_6(($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , castTo(($location_0[stackIndex] = 'ColumnSortEvent.java:' + '57' , handler), 708).$$outer_0));
+  $lambda$1_6(($location_0[stackIndex] = 'InfiniteTable.java:' + '136' , castTo(($location_0[stackIndex] = 'ColumnSortEvent.java:' + '57' , handler), 711).$$outer_0));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17257,7 +17257,7 @@ _.getAssociatedType = function getAssociatedType_15(){
 }
 ;
 var TYPE_14;
-var Lgwt_material_design_client_data_events_ColumnSortEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'ColumnSortEvent', 524);
+var Lgwt_material_design_client_data_events_ColumnSortEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'ColumnSortEvent', 526);
 function $clinit_ComponentsRenderedEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_ComponentsRenderedEvent;
@@ -17273,7 +17273,7 @@ function ComponentsRenderedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(585, 682, {}, ComponentsRenderedEvent);
+defineClass(587, 683, {}, ComponentsRenderedEvent);
 _.dispatch = function dispatch_15(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_15;
@@ -17291,7 +17291,7 @@ _.getAssociatedType = function getAssociatedType_16(){
 }
 ;
 var TYPE_15;
-var Lgwt_material_design_client_data_events_ComponentsRenderedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'ComponentsRenderedEvent', 585);
+var Lgwt_material_design_client_data_events_ComponentsRenderedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'ComponentsRenderedEvent', 587);
 function $clinit_DestroyEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DestroyEvent;
@@ -17307,7 +17307,7 @@ function DestroyEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(538, 682, {}, DestroyEvent);
+defineClass(540, 683, {}, DestroyEvent);
 _.dispatch = function dispatch_16(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_16;
@@ -17325,7 +17325,7 @@ _.getAssociatedType = function getAssociatedType_17(){
 }
 ;
 var TYPE_16;
-var Lgwt_material_design_client_data_events_DestroyEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'DestroyEvent', 538);
+var Lgwt_material_design_client_data_events_DestroyEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'DestroyEvent', 540);
 function $clinit_InsertColumnEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_InsertColumnEvent;
@@ -17344,11 +17344,11 @@ function InsertColumnEvent(beforeIndex, column, header){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(547, 682, {}, InsertColumnEvent);
+defineClass(549, 683, {}, InsertColumnEvent);
 _.dispatch = function dispatch_17(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_17;
-  castTo(($location_0[stackIndex] = 'InsertColumnEvent.java:' + '62' , handler), 652).onInsertColumn(($tmp = this , $location_0[stackIndex] = 'InsertColumnEvent.java:' + '63' , $tmp));
+  castTo(($location_0[stackIndex] = 'InsertColumnEvent.java:' + '62' , handler), 653).onInsertColumn(($tmp = this , $location_0[stackIndex] = 'InsertColumnEvent.java:' + '63' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17362,7 +17362,7 @@ _.getAssociatedType = function getAssociatedType_18(){
 ;
 _.beforeIndex = 0;
 var TYPE_17;
-var Lgwt_material_design_client_data_events_InsertColumnEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'InsertColumnEvent', 547);
+var Lgwt_material_design_client_data_events_InsertColumnEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'InsertColumnEvent', 549);
 function $clinit_RangeChangeEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RangeChangeEvent;
@@ -17378,7 +17378,7 @@ function RangeChangeEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(555, 682, {}, RangeChangeEvent);
+defineClass(557, 683, {}, RangeChangeEvent);
 _.dispatch = function dispatch_18(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_18;
@@ -17396,7 +17396,7 @@ _.getAssociatedType = function getAssociatedType_19(){
 }
 ;
 var TYPE_18;
-var Lgwt_material_design_client_data_events_RangeChangeEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RangeChangeEvent', 555);
+var Lgwt_material_design_client_data_events_RangeChangeEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RangeChangeEvent', 557);
 function $clinit_RemoveColumnEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RemoveColumnEvent;
@@ -17421,12 +17421,14 @@ function RenderedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(586, 682, {}, RenderedEvent);
+defineClass(507, 683, {}, RenderedEvent);
 _.dispatch = function dispatch_19(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_19;
-  throwClassCastExceptionUnlessNull(($location_0[stackIndex] = 'RenderedEvent.java:' + '39' , handler));
-  ($tmp = null , $location_0[stackIndex] = 'RenderedEvent.java:' + '40' , $tmp).$_nullMethod();
+  castTo(($location_0[stackIndex] = 'RenderedEvent.java:' + '39' , handler), 710);
+  $location_0[stackIndex] = 'StandardTable.java:' + '378' , $clinit_StandardTable();
+  fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , ($location_0[stackIndex] = 'StandardTable.java:' + '379' , new Date_0).jsdate).getTime());
+  $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17439,7 +17441,7 @@ _.getAssociatedType = function getAssociatedType_20(){
 }
 ;
 var TYPE_20;
-var Lgwt_material_design_client_data_events_RenderedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RenderedEvent', 586);
+var Lgwt_material_design_client_data_events_RenderedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RenderedEvent', 507);
 function $clinit_RowCollapsedEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowCollapsedEvent;
@@ -17455,7 +17457,7 @@ function RowCollapsedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(611, 682, {}, RowCollapsedEvent);
+defineClass(612, 683, {}, RowCollapsedEvent);
 _.dispatch = function dispatch_20(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_20;
@@ -17473,7 +17475,7 @@ _.getAssociatedType = function getAssociatedType_21(){
 }
 ;
 var TYPE_21;
-var Lgwt_material_design_client_data_events_RowCollapsedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowCollapsedEvent', 611);
+var Lgwt_material_design_client_data_events_RowCollapsedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowCollapsedEvent', 612);
 function $clinit_RowCollapsingEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowCollapsingEvent;
@@ -17489,7 +17491,7 @@ function RowCollapsingEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(599, 682, {}, RowCollapsingEvent);
+defineClass(600, 683, {}, RowCollapsingEvent);
 _.dispatch = function dispatch_21(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_21;
@@ -17507,7 +17509,7 @@ _.getAssociatedType = function getAssociatedType_22(){
 }
 ;
 var TYPE_22;
-var Lgwt_material_design_client_data_events_RowCollapsingEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowCollapsingEvent', 599);
+var Lgwt_material_design_client_data_events_RowCollapsingEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowCollapsingEvent', 600);
 function RowEvent(event_0, model, row){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = RowEvent;
@@ -17517,7 +17519,7 @@ function RowEvent(event_0, model, row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(122, 682, {});
+defineClass(122, 683, {});
 var Lgwt_material_design_client_data_events_RowEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowEvent', 122);
 function $clinit_RowContextMenuEvent(){
   var stackIndex;
@@ -17535,11 +17537,11 @@ function RowContextMenuEvent(event_0, model, row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(505, 122, {}, RowContextMenuEvent);
+defineClass(506, 122, {}, RowContextMenuEvent);
 _.dispatch = function dispatch_22(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_22;
-  castTo(($location_0[stackIndex] = 'RowContextMenuEvent.java:' + '46' , handler), 650).onRowContextMenu(($tmp = this , $location_0[stackIndex] = 'RowContextMenuEvent.java:' + '47' , $tmp));
+  castTo(($location_0[stackIndex] = 'RowContextMenuEvent.java:' + '46' , handler), 651).onRowContextMenu(($tmp = this , $location_0[stackIndex] = 'RowContextMenuEvent.java:' + '47' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17552,7 +17554,7 @@ _.getAssociatedType = function getAssociatedType_23(){
 }
 ;
 var TYPE_23;
-var Lgwt_material_design_client_data_events_RowContextMenuEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowContextMenuEvent', 505);
+var Lgwt_material_design_client_data_events_RowContextMenuEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowContextMenuEvent', 506);
 function $clinit_RowDoubleClickEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowDoubleClickEvent;
@@ -17564,8 +17566,8 @@ function $clinit_RowDoubleClickEvent(){
 function $dispatch_1(this$static){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $dispatch_1;
-  $location_0[stackIndex] = 'StandardTable.java:' + '342' , $clinit_StandardTable();
-  alert_0(($tmp = 'Row Double Clicked: ' + ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(($location_0[stackIndex] = 'RowEvent.java:' + '58' , ($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '47' , this$static).model), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '344' , $tmp)).id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '344' , $tmp));
+  $location_0[stackIndex] = 'StandardTable.java:' + '344' , $clinit_StandardTable();
+  alert_0(($tmp = 'Row Double Clicked: ' + ($location_0[stackIndex] = 'Person.java:' + '37' , castTo(($location_0[stackIndex] = 'RowEvent.java:' + '58' , ($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '47' , this$static).model), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '346' , $tmp)).id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '346' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -17577,11 +17579,11 @@ function RowDoubleClickEvent(event_0, model, row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(501, 122, {}, RowDoubleClickEvent);
+defineClass(502, 122, {}, RowDoubleClickEvent);
 _.dispatch = function dispatch_23(handler){
   var lastArg, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_23;
-  $dispatch_1(($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '46' , lastArg = this , castTo(handler, 705) , lastArg));
+  $dispatch_1(($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '46' , lastArg = this , castTo(handler, 707) , lastArg));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17594,7 +17596,7 @@ _.getAssociatedType = function getAssociatedType_24(){
 }
 ;
 var TYPE_24;
-var Lgwt_material_design_client_data_events_RowDoubleClickEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowDoubleClickEvent', 501);
+var Lgwt_material_design_client_data_events_RowDoubleClickEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowDoubleClickEvent', 502);
 function $clinit_RowExpandedEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowExpandedEvent;
@@ -17610,7 +17612,7 @@ function RowExpandedEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(610, 682, {}, RowExpandedEvent);
+defineClass(611, 683, {}, RowExpandedEvent);
 _.dispatch = function dispatch_24(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_24;
@@ -17628,7 +17630,7 @@ _.getAssociatedType = function getAssociatedType_25(){
 }
 ;
 var TYPE_25;
-var Lgwt_material_design_client_data_events_RowExpandedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowExpandedEvent', 610);
+var Lgwt_material_design_client_data_events_RowExpandedEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowExpandedEvent', 611);
 function $clinit_RowExpandingEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowExpandingEvent;
@@ -17645,11 +17647,11 @@ function RowExpandingEvent(expansion){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(498, 682, {}, RowExpandingEvent);
+defineClass(499, 683, {}, RowExpandingEvent);
 _.dispatch = function dispatch_25(handler){
   var lastArg, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_25;
-  $schedule(new StandardTable$8(($tmp = ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '51' , lastArg = this , castTo(handler, 704) , lastArg) , $location_0[stackIndex] = 'StandardTable.java:' + '289' , $tmp)), 2000);
+  $schedule(new StandardTable$8(($tmp = ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '51' , lastArg = this , castTo(handler, 706) , lastArg) , $location_0[stackIndex] = 'StandardTable.java:' + '291' , $tmp)), 2000);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17662,7 +17664,7 @@ _.getAssociatedType = function getAssociatedType_26(){
 }
 ;
 var TYPE_26;
-var Lgwt_material_design_client_data_events_RowExpandingEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowExpandingEvent', 498);
+var Lgwt_material_design_client_data_events_RowExpandingEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowExpandingEvent', 499);
 function $clinit_RowLongPressEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowLongPressEvent;
@@ -17679,12 +17681,12 @@ function RowLongPressEvent(event_0, model, row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(502, 122, {}, RowLongPressEvent);
+defineClass(503, 122, {}, RowLongPressEvent);
 _.dispatch = function dispatch_26(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_26;
-  castTo(($location_0[stackIndex] = 'RowLongPressEvent.java:' + '45' , handler), 706);
-  $location_0[stackIndex] = 'StandardTable.java:' + '352' , $clinit_StandardTable();
+  castTo(($location_0[stackIndex] = 'RowLongPressEvent.java:' + '45' , handler), 708);
+  $location_0[stackIndex] = 'StandardTable.java:' + '354' , $clinit_StandardTable();
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17697,7 +17699,7 @@ _.getAssociatedType = function getAssociatedType_27(){
 }
 ;
 var TYPE_27;
-var Lgwt_material_design_client_data_events_RowLongPressEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowLongPressEvent', 502);
+var Lgwt_material_design_client_data_events_RowLongPressEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowLongPressEvent', 503);
 function $clinit_RowSelectEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_RowSelectEvent;
@@ -17750,12 +17752,12 @@ function RowShortPressEvent(event_0, model, row){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(503, 122, {}, RowShortPressEvent);
+defineClass(504, 122, {}, RowShortPressEvent);
 _.dispatch = function dispatch_28(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_28;
-  castTo(($location_0[stackIndex] = 'RowShortPressEvent.java:' + '45' , handler), 707);
-  $location_0[stackIndex] = 'StandardTable.java:' + '357' , $clinit_StandardTable();
+  castTo(($location_0[stackIndex] = 'RowShortPressEvent.java:' + '45' , handler), 709);
+  $location_0[stackIndex] = 'StandardTable.java:' + '359' , $clinit_StandardTable();
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17768,7 +17770,7 @@ _.getAssociatedType = function getAssociatedType_29(){
 }
 ;
 var TYPE_29;
-var Lgwt_material_design_client_data_events_RowShortPressEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowShortPressEvent', 503);
+var Lgwt_material_design_client_data_events_RowShortPressEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'RowShortPressEvent', 504);
 function $clinit_SelectAllEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_SelectAllEvent;
@@ -17786,11 +17788,11 @@ function SelectAllEvent(models, selected){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(525, 682, {}, SelectAllEvent);
+defineClass(527, 683, {}, SelectAllEvent);
 _.dispatch = function dispatch_29(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_29;
-  castTo(($location_0[stackIndex] = 'SelectAllEvent.java:' + '65' , handler), 651).onSelectAll(($tmp = this , $location_0[stackIndex] = 'SelectAllEvent.java:' + '66' , $tmp));
+  castTo(($location_0[stackIndex] = 'SelectAllEvent.java:' + '65' , handler), 652).onSelectAll(($tmp = this , $location_0[stackIndex] = 'SelectAllEvent.java:' + '66' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17804,7 +17806,7 @@ _.getAssociatedType = function getAssociatedType_30(){
 ;
 _.selected = false;
 var TYPE_30;
-var Lgwt_material_design_client_data_events_SelectAllEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'SelectAllEvent', 525);
+var Lgwt_material_design_client_data_events_SelectAllEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'SelectAllEvent', 527);
 function $clinit_SetupEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_SetupEvent;
@@ -17827,11 +17829,11 @@ function SetupEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(537, 682, {}, SetupEvent);
+defineClass(539, 683, {}, SetupEvent);
 _.dispatch = function dispatch_30(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_30;
-  $dispatch_2(castTo(($location_0[stackIndex] = 'SetupEvent.java:' + '50' , handler), 709));
+  $dispatch_2(castTo(($location_0[stackIndex] = 'SetupEvent.java:' + '50' , handler), 712));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -17844,11 +17846,11 @@ _.getAssociatedType = function getAssociatedType_31(){
 }
 ;
 var TYPE_31;
-var Lgwt_material_design_client_data_events_SetupEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'SetupEvent', 537);
+var Lgwt_material_design_client_data_events_SetupEvent_2_classLit = createForClass('gwt.material.design.client.data.events', 'SetupEvent', 539);
 function CategoryComponentFactory(){
 }
 
-defineClass(482, 1, {}, CategoryComponentFactory);
+defineClass(483, 1, {}, CategoryComponentFactory);
 _.generate = function generate(dataView, categoryName){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = generate;
@@ -17857,7 +17859,7 @@ _.generate = function generate(dataView, categoryName){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_factory_CategoryComponentFactory_2_classLit = createForClass('gwt.material.design.client.data.factory', 'CategoryComponentFactory', 482);
+var Lgwt_material_design_client_data_factory_CategoryComponentFactory_2_classLit = createForClass('gwt.material.design.client.data.factory', 'CategoryComponentFactory', 483);
 function $generate(this$static, dataView, model){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $generate;
@@ -17869,7 +17871,7 @@ function $generate(this$static, dataView, model){
 function RowComponentFactory(){
 }
 
-defineClass(481, 1, {}, RowComponentFactory);
+defineClass(482, 1, {}, RowComponentFactory);
 _.generate_0 = function generate_0(dataView, model){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = generate_0;
@@ -17881,12 +17883,12 @@ _.generate_0 = function generate_0(dataView, model){
 _.getCategory_0 = function getCategory_0(model){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getCategory_0;
-  returnTemp = ($location_0[stackIndex] = 'RowComponentFactory.java:' + '41' , model) != null && instanceOf(model, 19)?($location_0[stackIndex] = 'Person.java:' + '81' , castTo(castTo(model, 710), 19).category):null;
+  returnTemp = ($location_0[stackIndex] = 'RowComponentFactory.java:' + '41' , model) != null && instanceOf(model, 19)?($location_0[stackIndex] = 'Person.java:' + '81' , castTo(castTo(model, 713), 19).category):null;
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 ;
-var Lgwt_material_design_client_data_factory_RowComponentFactory_2_classLit = createForClass('gwt.material.design.client.data.factory', 'RowComponentFactory', 481);
+var Lgwt_material_design_client_data_factory_RowComponentFactory_2_classLit = createForClass('gwt.material.design.client.data.factory', 'RowComponentFactory', 482);
 function $addCache(this$static, startIndex, data_0){
   var cacheOffset, i, i0, value_0, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $addCache;
@@ -17931,8 +17933,8 @@ function InfiniteDataCache(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(535, 22, $intern_45, InfiniteDataCache);
-var Lgwt_material_design_client_data_infinite_InfiniteDataCache_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataCache', 535);
+defineClass(537, 22, $intern_45, InfiniteDataCache);
+var Lgwt_material_design_client_data_infinite_InfiniteDataCache_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataCache', 537);
 function $clinit_InfiniteDataView(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_InfiniteDataView;
@@ -18115,7 +18117,7 @@ function InfiniteDataView(dataSource){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(506, 138, $intern_10, InfiniteDataView);
+defineClass(508, 138, $intern_10, InfiniteDataView);
 _.addCategory = function addCategory_0(category){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = addCategory_0;
@@ -18285,7 +18287,7 @@ _.loading = false;
 _.viewIndex = 0;
 _.viewSize = 0;
 var logger_3;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView', 506);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView', 508);
 function $onExecute(this$static){
   var cachedData, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onExecute;
@@ -18306,9 +18308,9 @@ function InfiniteDataView$1(this$0, val$checkCache){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(512, 511, {}, InfiniteDataView$1);
+defineClass(514, 513, {}, InfiniteDataView$1);
 _.val$checkCache2 = false;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$1_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/1', 512);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$1_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/1', 514);
 function $onSuccess(this$static, result){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onSuccess;
@@ -18323,8 +18325,8 @@ function InfiniteDataView$2(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(513, 1, {}, InfiniteDataView$2);
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$2_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/2', 513);
+defineClass(515, 1, {}, InfiniteDataView$2);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$2_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/2', 515);
 function InfiniteDataView$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$0$Type;
@@ -18332,7 +18334,7 @@ function InfiniteDataView$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(507, 1, $intern_46, InfiniteDataView$lambda$0$Type);
+defineClass(509, 1, $intern_46, InfiniteDataView$lambda$0$Type);
 _.onCategoryOpened = function onCategoryOpened(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onCategoryOpened;
@@ -18340,7 +18342,7 @@ _.onCategoryOpened = function onCategoryOpened(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$0$Type', 507);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$0$Type', 509);
 function InfiniteDataView$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$1$Type;
@@ -18348,7 +18350,7 @@ function InfiniteDataView$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(508, 1, $intern_47, InfiniteDataView$lambda$1$Type);
+defineClass(510, 1, $intern_47, InfiniteDataView$lambda$1$Type);
 _.onCategoryClosed = function onCategoryClosed(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onCategoryClosed;
@@ -18356,7 +18358,7 @@ _.onCategoryClosed = function onCategoryClosed(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$1$Type', 508);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$1$Type', 510);
 function InfiniteDataView$lambda$2$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$2$Type;
@@ -18364,7 +18366,7 @@ function InfiniteDataView$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(509, 1, $intern_48, InfiniteDataView$lambda$2$Type);
+defineClass(511, 1, $intern_48, InfiniteDataView$lambda$2$Type);
 _.onRowSelect = function onRowSelect(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onRowSelect;
@@ -18372,7 +18374,7 @@ _.onRowSelect = function onRowSelect(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$2$Type', 509);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$2$Type', 511);
 function InfiniteDataView$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$3$Type;
@@ -18380,7 +18382,7 @@ function InfiniteDataView$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(510, 1, $intern_49, InfiniteDataView$lambda$3$Type);
+defineClass(512, 1, $intern_49, InfiniteDataView$lambda$3$Type);
 _.onSelectAll = function onSelectAll(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelectAll;
@@ -18388,7 +18390,7 @@ _.onSelectAll = function onSelectAll(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$3$Type', 510);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$3$Type', 512);
 function InfiniteDataView$lambda$4$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteDataView$lambda$4$Type;
@@ -18396,7 +18398,7 @@ function InfiniteDataView$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(737, $wnd.Function, {}, InfiniteDataView$lambda$4$Type);
+defineClass(739, $wnd.Function, {}, InfiniteDataView$lambda$4$Type);
 _.call_5 = function call_32(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_32;
@@ -18413,7 +18415,7 @@ function InfiniteDataView$lambda$5$Type($$outer_0, loadMask_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(514, 1, {}, InfiniteDataView$lambda$5$Type);
+defineClass(516, 1, {}, InfiniteDataView$lambda$5$Type);
 _.execute_0 = function execute_12(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_12;
@@ -18422,7 +18424,7 @@ _.execute_0 = function execute_12(){
 }
 ;
 _.loadMask_1 = false;
-var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$5$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$5$Type', 514);
+var Lgwt_material_design_client_data_infinite_InfiniteDataView$lambda$5$Type_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteDataView/lambda$5$Type', 516);
 function InfiniteRenderer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteRenderer;
@@ -18430,8 +18432,8 @@ function InfiniteRenderer(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(559, 166, {}, InfiniteRenderer);
-var Lgwt_material_design_client_data_infinite_InfiniteRenderer_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteRenderer', 559);
+defineClass(561, 166, {}, InfiniteRenderer);
+var Lgwt_material_design_client_data_infinite_InfiniteRenderer_2_classLit = createForClass('gwt.material.design.client.data.infinite', 'InfiniteRenderer', 561);
 function LoadConfig(offset, limit, sortContext, openCategories){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = LoadConfig;
@@ -18556,7 +18558,7 @@ function $clinit_MaterialDebugResources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialDebugResources;
   $clinit_MaterialDebugResources = ($location_0[stackIndex] = 'MaterialDebugResources.java:' + '26' , emptyMethod);
-  INSTANCE_5 = castTo(($location_0[stackIndex] = 'MaterialDebugResources.java:' + '27' , create_gwt_material_design_client_resources_MaterialDebugResources()), 643);
+  INSTANCE_5 = castTo(($location_0[stackIndex] = 'MaterialDebugResources.java:' + '27' , create_gwt_material_design_client_resources_MaterialDebugResources()), 644);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18564,7 +18566,7 @@ var INSTANCE_5;
 function MaterialDebugResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(306, 1, {643:1}, MaterialDebugResources_default_InlineClientBundleGenerator);
+defineClass(306, 1, {644:1}, MaterialDebugResources_default_InlineClientBundleGenerator);
 _.animationJsDebug = function animationJsDebug_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJsDebug_0;
@@ -18695,7 +18697,7 @@ function $clinit_MaterialDebugResources_default_InlineClientBundleGenerator$mate
 function MaterialDebugResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(310, 1, {643:1}, MaterialDebugResources_en_InlineClientBundleGenerator);
+defineClass(310, 1, {644:1}, MaterialDebugResources_en_InlineClientBundleGenerator);
 _.animationJsDebug = function animationJsDebug_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = animationJsDebug_2;
@@ -18827,25 +18829,25 @@ function $clinit_MaterialResources(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialResources;
   $clinit_MaterialResources = ($location_0[stackIndex] = 'MaterialResources.java:' + '26' , emptyMethod);
-  castTo(($location_0[stackIndex] = 'MaterialResources.java:' + '27' , create_gwt_material_design_client_resources_MaterialResources()), 640);
+  castTo(($location_0[stackIndex] = 'MaterialResources.java:' + '27' , create_gwt_material_design_client_resources_MaterialResources()), 641);
   $stackDepth_0 = stackIndex - 1;
 }
 
 function MaterialResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(284, 1, {640:1}, MaterialResources_default_InlineClientBundleGenerator);
+defineClass(284, 1, {641:1}, MaterialResources_default_InlineClientBundleGenerator);
 var Lgwt_material_design_client_resources_MaterialResources_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialResources_default_InlineClientBundleGenerator', 284);
 function MaterialResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(285, 1, {640:1}, MaterialResources_en_InlineClientBundleGenerator);
+defineClass(285, 1, {641:1}, MaterialResources_en_InlineClientBundleGenerator);
 var Lgwt_material_design_client_resources_MaterialResources_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.client.resources', 'MaterialResources_en_InlineClientBundleGenerator', 285);
 function $clinit_MaterialTableDebugBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialTableDebugBundle;
   $clinit_MaterialTableDebugBundle = ($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '29' , emptyMethod);
-  INSTANCE_6 = castTo(($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '30' , create_gwt_material_design_client_resources_MaterialTableDebugBundle()), 641);
+  INSTANCE_6 = castTo(($location_0[stackIndex] = 'MaterialTableDebugBundle.java:' + '30' , create_gwt_material_design_client_resources_MaterialTableDebugBundle()), 642);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -18853,7 +18855,7 @@ var INSTANCE_6;
 function MaterialTableDebugBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(286, 1, {641:1}, MaterialTableDebugBundle_default_InlineClientBundleGenerator);
+defineClass(286, 1, {642:1}, MaterialTableDebugBundle_default_InlineClientBundleGenerator);
 _.greedyScroll = function greedyScroll_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = greedyScroll_0;
@@ -19108,7 +19110,7 @@ function $clinit_MaterialTableDebugBundle_default_InlineClientBundleGenerator$ta
 function MaterialTableDebugBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(294, 1, {641:1}, MaterialTableDebugBundle_en_InlineClientBundleGenerator);
+defineClass(294, 1, {642:1}, MaterialTableDebugBundle_en_InlineClientBundleGenerator);
 _.greedyScroll = function greedyScroll_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = greedyScroll_2;
@@ -19363,7 +19365,7 @@ function $clinit_MaterialTableDebugBundle_en_InlineClientBundleGenerator$tableSu
 function WithJQueryDebugResources_default_InlineClientBundleGenerator(){
 }
 
-defineClass(340, 1, {638:1}, WithJQueryDebugResources_default_InlineClientBundleGenerator);
+defineClass(340, 1, {639:1}, WithJQueryDebugResources_default_InlineClientBundleGenerator);
 _.jQueryDebug = function jQueryDebug_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = jQueryDebug_0;
@@ -19428,7 +19430,7 @@ function $clinit_WithJQueryDebugResources_default_InlineClientBundleGenerator$jQ
 function WithJQueryDebugResources_en_InlineClientBundleGenerator(){
 }
 
-defineClass(338, 1, {638:1}, WithJQueryDebugResources_en_InlineClientBundleGenerator);
+defineClass(338, 1, {639:1}, WithJQueryDebugResources_en_InlineClientBundleGenerator);
 _.jQueryDebug = function jQueryDebug_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = jQueryDebug_2;
@@ -19709,9 +19711,9 @@ function $load_2(this$static){
   var parent_0, uid, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $load_2;
   $location_0[stackIndex] = 'MaterialDropDown.java:' + '139' , parent_0 = ($location_0[stackIndex] = 'Widget.java:' + '149' , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '139' , this$static).parent_0);
-  if (instanceOf(($location_0[stackIndex] = 'MaterialDropDown.java:' + '140' , parent_0), 94)) {
+  if (instanceOf(($location_0[stackIndex] = 'MaterialDropDown.java:' + '140' , parent_0), 95)) {
     $location_0[stackIndex] = 'MaterialDropDown.java:' + '141' , uid = ($location_0[stackIndex] = 'MaterialDropDown.java:' + '141' , $clinit_DOM() , $createUniqueId(($tmp = ($location_0[stackIndex] = 'Document.java:' + '52' , $doc) , $location_0[stackIndex] = 'DOM.java:' + '417' , $tmp)));
-    castTo(($location_0[stackIndex] = 'MaterialDropDown.java:' + '142' , parent_0), 94).setActivates(uid);
+    castTo(($location_0[stackIndex] = 'MaterialDropDown.java:' + '142' , parent_0), 95).setActivates(uid);
     $setId_1((($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '1314' , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '143' , this$static).idMixin)) && (($location_0[stackIndex] = 'MaterialDropDown.java:' + '143' , this$static).idMixin = new IdMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialWidget.java:' + '1315' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '1317' , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '143' , this$static).idMixin)), ($tmp = ($location_0[stackIndex] = 'MaterialDropDown.java:' + '143' , uid) , $location_0[stackIndex] = 'MaterialWidget.java:' + '260' , $tmp));
     $location_0[stackIndex] = 'MaterialDropDown.java:' + '144' , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '144' , this$static).activatorElement = ($location_0[stackIndex] = 'UIObject.java:' + '561' , parent_0.element_0);
   }
@@ -19788,7 +19790,7 @@ var Lgwt_material_design_client_ui_MaterialDropDown_2_classLit = createForClass(
 function MaterialDropDown$0methodref$stopPropagation$Type(){
 }
 
-defineClass(554, 1, $intern_37, MaterialDropDown$0methodref$stopPropagation$Type);
+defineClass(556, 1, $intern_37, MaterialDropDown$0methodref$stopPropagation$Type);
 _.onClick = function onClick_2(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_2;
@@ -19796,7 +19798,7 @@ _.onClick = function onClick_2(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialDropDown$0methodref$stopPropagation$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/0methodref$stopPropagation$Type', 554);
+var Lgwt_material_design_client_ui_MaterialDropDown$0methodref$stopPropagation$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/0methodref$stopPropagation$Type', 556);
 function MaterialDropDown$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDropDown$lambda$0$Type;
@@ -19804,8 +19806,8 @@ function MaterialDropDown$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(553, 1, {}, MaterialDropDown$lambda$0$Type);
-var Lgwt_material_design_client_ui_MaterialDropDown$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$0$Type', 553);
+defineClass(555, 1, {}, MaterialDropDown$lambda$0$Type);
+var Lgwt_material_design_client_ui_MaterialDropDown$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$0$Type', 555);
 function MaterialDropDown$lambda$2$Type($$outer_0, child_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDropDown$lambda$2$Type;
@@ -19814,7 +19816,7 @@ function MaterialDropDown$lambda$2$Type($$outer_0, child_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(552, 1, $intern_37, MaterialDropDown$lambda$2$Type);
+defineClass(554, 1, $intern_37, MaterialDropDown$lambda$2$Type);
 _.onClick = function onClick_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_3;
@@ -19822,11 +19824,11 @@ _.onClick = function onClick_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialDropDown$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$2$Type', 552);
+var Lgwt_material_design_client_ui_MaterialDropDown$lambda$2$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialDropDown/lambda$2$Type', 554);
 function $getIconSize(this$static){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getIconSize;
-  returnTemp = castTo(($location_0[stackIndex] = 'CssNameMixin.java:' + '42' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialIcon.java:' + '164' , ($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin)) && (($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin = new CssNameMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialIcon.java:' + '165' , $tmp))) , ($location_0[stackIndex] = 'MaterialIcon.java:' + '167' , ($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin)).style_0), ($tmp = 91 , $location_0[stackIndex] = 'MaterialIcon.java:' + '128' , $tmp));
+  returnTemp = castTo(($location_0[stackIndex] = 'CssNameMixin.java:' + '42' , (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialIcon.java:' + '164' , ($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin)) && (($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin = new CssNameMixin(($tmp = this$static , $location_0[stackIndex] = 'MaterialIcon.java:' + '165' , $tmp))) , ($location_0[stackIndex] = 'MaterialIcon.java:' + '167' , ($location_0[stackIndex] = 'MaterialIcon.java:' + '128' , this$static).sizeMixin)).style_0), ($tmp = 92 , $location_0[stackIndex] = 'MaterialIcon.java:' + '128' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -19889,7 +19891,7 @@ function MaterialIcon_0(iconType){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(47, 99, $intern_34, MaterialIcon, MaterialIcon_0);
+defineClass(47, 100, $intern_34, MaterialIcon, MaterialIcon_0);
 _.createElement_0 = function createElement_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createElement_1;
@@ -20039,8 +20041,8 @@ function $getValue_0(this$static){
   return null;
 }
 
-defineClass(562, 172, $intern_33);
-var Lgwt_material_design_client_ui_MaterialNumberBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialNumberBox', 562);
+defineClass(564, 172, $intern_33);
+var Lgwt_material_design_client_ui_MaterialNumberBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialNumberBox', 564);
 function $parseNumber(number){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $parseNumber;
@@ -20063,8 +20065,8 @@ function MaterialIntegerBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(563, 562, $intern_33, MaterialIntegerBox);
-var Lgwt_material_design_client_ui_MaterialIntegerBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialIntegerBox', 563);
+defineClass(565, 564, $intern_33, MaterialIntegerBox);
+var Lgwt_material_design_client_ui_MaterialIntegerBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialIntegerBox', 565);
 function $setText_4(this$static, text_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setText_4;
@@ -20089,7 +20091,7 @@ function MaterialLink(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(33, 162, {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 94:1, 29:1, 9:1, 33:1}, MaterialLink);
+defineClass(33, 162, {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 95:1, 29:1, 9:1, 33:1}, MaterialLink);
 _.createElement_0 = function createElement_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = createElement_2;
@@ -20282,7 +20284,7 @@ function MaterialListValueBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(569, 140, $intern_33, MaterialListValueBox);
+defineClass(571, 140, $intern_33, MaterialListValueBox);
 _.isEnabled = function isEnabled_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isEnabled_1;
@@ -20321,7 +20323,7 @@ _.setEnabled = function setEnabled_6(enabled){
 }
 ;
 _.loaded = false;
-var Lgwt_material_design_client_ui_MaterialListValueBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox', 569);
+var Lgwt_material_design_client_ui_MaterialListValueBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox', 571);
 function MaterialListValueBox$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialListValueBox$lambda$0$Type;
@@ -20329,7 +20331,7 @@ function MaterialListValueBox$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(570, 1, $intern_39, MaterialListValueBox$lambda$0$Type);
+defineClass(572, 1, $intern_39, MaterialListValueBox$lambda$0$Type);
 _.onValueChange = function onValueChange_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_0;
@@ -20337,11 +20339,11 @@ _.onValueChange = function onValueChange_0(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialListValueBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/lambda$0$Type', 570);
+var Lgwt_material_design_client_ui_MaterialListValueBox$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialListValueBox/lambda$0$Type', 572);
 function MaterialListValueBox$lambda$1$Type(){
 }
 
-defineClass(763, $wnd.Function, {}, MaterialListValueBox$lambda$1$Type);
+defineClass(765, $wnd.Function, {}, MaterialListValueBox$lambda$1$Type);
 _.call_6 = function call_33(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_33;
@@ -20356,7 +20358,7 @@ function MaterialListValueBox$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(764, $wnd.Function, {}, MaterialListValueBox$lambda$2$Type);
+defineClass(766, $wnd.Function, {}, MaterialListValueBox$lambda$2$Type);
 _.call_1 = function call_34(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_34;
@@ -20372,7 +20374,7 @@ function MaterialListValueBox$lambda$3$Type(listBoxElement_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(765, $wnd.Function, {}, MaterialListValueBox$lambda$3$Type);
+defineClass(767, $wnd.Function, {}, MaterialListValueBox$lambda$3$Type);
 _.call_7 = function call_35(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_35;
@@ -20388,7 +20390,7 @@ function MaterialListValueBox$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(766, $wnd.Function, {}, MaterialListValueBox$lambda$4$Type);
+defineClass(768, $wnd.Function, {}, MaterialListValueBox$lambda$4$Type);
 _.call_1 = function call_36(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_36;
@@ -20404,7 +20406,7 @@ function MaterialListValueBox$lambda$5$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(767, $wnd.Function, {}, MaterialListValueBox$lambda$5$Type);
+defineClass(769, $wnd.Function, {}, MaterialListValueBox$lambda$5$Type);
 _.call_1 = function call_37(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_37;
@@ -20420,8 +20422,8 @@ function MaterialPanel(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(560, 9, $intern_33, MaterialPanel);
-var Lgwt_material_design_client_ui_MaterialPanel_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialPanel', 560);
+defineClass(562, 9, $intern_33, MaterialPanel);
+var Lgwt_material_design_client_ui_MaterialPanel_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialPanel', 562);
 function Div(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Div;
@@ -20436,8 +20438,8 @@ function Div_0(initialClass){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(103, 9, $intern_33, Div);
-var Lgwt_material_design_client_ui_html_Div_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Div', 103);
+defineClass(104, 9, $intern_33, Div);
+var Lgwt_material_design_client_ui_html_Div_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Div', 104);
 function $setType_1(this$static, type_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setType_1;
@@ -20456,8 +20458,8 @@ function MaterialProgress(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(536, 103, $intern_33, MaterialProgress);
-var Lgwt_material_design_client_ui_MaterialProgress_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialProgress', 536);
+defineClass(538, 104, $intern_33, MaterialProgress);
+var Lgwt_material_design_client_ui_MaterialProgress_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialProgress', 538);
 function MaterialTextBox(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialTextBox;
@@ -20466,8 +20468,8 @@ function MaterialTextBox(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(632, 172, $intern_33, MaterialTextBox);
-var Lgwt_material_design_client_ui_MaterialTextBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialTextBox', 632);
+defineClass(633, 172, $intern_33, MaterialTextBox);
+var Lgwt_material_design_client_ui_MaterialTextBox_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialTextBox', 633);
 function $toast(this$static, msg, className){
   var genId, widget, widget$array, widget$index, widget$max, duration, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $toast;
@@ -20512,7 +20514,7 @@ var Lgwt_material_design_client_ui_MaterialToast_2_classLit = createForClass('gw
 function MaterialToast$lambda$0$Type(){
 }
 
-defineClass(722, $wnd.Function, {}, MaterialToast$lambda$0$Type);
+defineClass(725, $wnd.Function, {}, MaterialToast$lambda$0$Type);
 _.call_6 = function call_38(){
 }
 ;
@@ -20524,7 +20526,7 @@ function MaterialValueBox$lambda$1$Type($$outer_0, handler_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(564, 1, $intern_39, MaterialValueBox$lambda$1$Type);
+defineClass(566, 1, $intern_39, MaterialValueBox$lambda$1$Type);
 _.onValueChange = function onValueChange_1(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_1;
@@ -20532,7 +20534,7 @@ _.onValueChange = function onValueChange_1(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_MaterialValueBox$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialValueBox/lambda$1$Type', 564);
+var Lgwt_material_design_client_ui_MaterialValueBox$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui', 'MaterialValueBox/lambda$1$Type', 566);
 function Label(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Label;
@@ -20573,7 +20575,7 @@ function Option_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(609, 9, $intern_33, Option_0);
+defineClass(610, 9, $intern_33, Option_0);
 _.setEnabled = function setEnabled_7(enabled){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = setEnabled_7;
@@ -20582,7 +20584,7 @@ _.setEnabled = function setEnabled_7(enabled){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_html_Option_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Option', 609);
+var Lgwt_material_design_client_ui_html_Option_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Option', 610);
 function $setText_5(this$static, txt){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $setText_5;
@@ -20598,7 +20600,7 @@ function Text_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(597, 10, $intern_26, Text_0);
+defineClass(598, 10, $intern_26, Text_0);
 _.isAttached_0 = function isAttached_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = isAttached_1;
@@ -20630,7 +20632,7 @@ _.onDetach = function onDetach_1(){
 }
 ;
 _.isAttached = false;
-var Lgwt_material_design_client_ui_html_Text_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Text', 597);
+var Lgwt_material_design_client_ui_html_Text_2_classLit = createForClass('gwt.material.design.client.ui.html', 'Text', 598);
 function $adjustToPageLimits(this$static, page){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $adjustToPageLimits;
@@ -20736,7 +20738,7 @@ function MaterialDataPager(table, dataSource){
   $location_0[stackIndex] = 'MaterialDataPager.java:' + '43' , this.limit = 0;
   $location_0[stackIndex] = 'MaterialDataPager.java:' + '44' , this.currentPage = 1;
   $location_0[stackIndex] = 'MaterialDataPager.java:' + '45' , this.totalRows = 0;
-  this.limitOptions = stampJavaTypeInfo(getClassLiteralForArray(($location_0[stackIndex] = 'MaterialDataPager.java:' + '46' , I_classLit), 1), $intern_40, 637, 15, [5, 10, 20]);
+  this.limitOptions = stampJavaTypeInfo(getClassLiteralForArray(($location_0[stackIndex] = 'MaterialDataPager.java:' + '46' , I_classLit), 1), $intern_40, 638, 15, [5, 10, 20]);
   this.actionsPanel = new PageActionsPanel(($tmp = this , $location_0[stackIndex] = 'MaterialDataPager.java:' + '48' , $tmp));
   this.pageNumberSelection = new PageNumberSelection(($tmp = this , $location_0[stackIndex] = 'MaterialDataPager.java:' + '49' , $tmp));
   this.pageRowSelection = new PageRowSelection(($tmp = this , $location_0[stackIndex] = 'MaterialDataPager.java:' + '50' , $tmp));
@@ -20782,13 +20784,13 @@ function MaterialDataPager$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(529, 1, {}, MaterialDataPager$1);
-var Lgwt_material_design_client_ui_pager_MaterialDataPager$1_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/1', 529);
+defineClass(531, 1, {}, MaterialDataPager$1);
+var Lgwt_material_design_client_ui_pager_MaterialDataPager$1_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'MaterialDataPager/1', 531);
 function $clinit_MaterialDataPagerClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialDataPagerClientBundle;
   $clinit_MaterialDataPagerClientBundle = ($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '30' , emptyMethod);
-  INSTANCE_7 = castTo(($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '32' , create_gwt_material_design_client_ui_pager_MaterialDataPagerClientBundle()), 642);
+  INSTANCE_7 = castTo(($location_0[stackIndex] = 'MaterialDataPagerClientBundle.java:' + '32' , create_gwt_material_design_client_ui_pager_MaterialDataPagerClientBundle()), 643);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -20796,7 +20798,7 @@ var INSTANCE_7;
 function MaterialDataPagerClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(304, 1, {642:1}, MaterialDataPagerClientBundle_default_InlineClientBundleGenerator);
+defineClass(304, 1, {643:1}, MaterialDataPagerClientBundle_default_InlineClientBundleGenerator);
 _.dataPagerDebugCss = function dataPagerDebugCss_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataPagerDebugCss_0;
@@ -20837,7 +20839,7 @@ function $clinit_MaterialDataPagerClientBundle_default_InlineClientBundleGenerat
 function MaterialDataPagerClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(302, 1, {642:1}, MaterialDataPagerClientBundle_en_InlineClientBundleGenerator);
+defineClass(302, 1, {643:1}, MaterialDataPagerClientBundle_en_InlineClientBundleGenerator);
 _.dataPagerDebugCss = function dataPagerDebugCss_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataPagerDebugCss_2;
@@ -20888,7 +20890,7 @@ function PageActionsPanel(pager){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(539, 9, $intern_33, PageActionsPanel);
+defineClass(541, 9, $intern_33, PageActionsPanel);
 _.onLoad = function onLoad_10(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_10;
@@ -20905,7 +20907,7 @@ _.onLoad = function onLoad_10(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageActionsPanel_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel', 539);
+var Lgwt_material_design_client_ui_pager_PageActionsPanel_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel', 541);
 function PageActionsPanel$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageActionsPanel$lambda$0$Type;
@@ -20913,7 +20915,7 @@ function PageActionsPanel$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(540, 1, $intern_37, PageActionsPanel$lambda$0$Type);
+defineClass(542, 1, $intern_37, PageActionsPanel$lambda$0$Type);
 _.onClick = function onClick_4(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_4;
@@ -20921,7 +20923,7 @@ _.onClick = function onClick_4(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageActionsPanel$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel/lambda$0$Type', 540);
+var Lgwt_material_design_client_ui_pager_PageActionsPanel$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel/lambda$0$Type', 542);
 function PageActionsPanel$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageActionsPanel$lambda$1$Type;
@@ -20929,7 +20931,7 @@ function PageActionsPanel$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(541, 1, $intern_37, PageActionsPanel$lambda$1$Type);
+defineClass(543, 1, $intern_37, PageActionsPanel$lambda$1$Type);
 _.onClick = function onClick_5(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_5;
@@ -20937,7 +20939,7 @@ _.onClick = function onClick_5(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageActionsPanel$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel/lambda$1$Type', 541);
+var Lgwt_material_design_client_ui_pager_PageActionsPanel$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageActionsPanel/lambda$1$Type', 543);
 function $addValueChangeHandler_2(this$static, valueChangeHandler){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $addValueChangeHandler_2;
@@ -20977,7 +20979,7 @@ function PageNumberSelection(pager){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(544, 9, $intern_33, PageNumberSelection);
+defineClass(546, 9, $intern_33, PageNumberSelection);
 _.onLoad = function onLoad_11(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_11;
@@ -20990,7 +20992,7 @@ _.onLoad = function onLoad_11(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageNumberSelection_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection', 544);
+var Lgwt_material_design_client_ui_pager_PageNumberSelection_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection', 546);
 function PageNumberSelection$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageNumberSelection$lambda$0$Type;
@@ -20998,7 +21000,7 @@ function PageNumberSelection$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(545, 1, $intern_39, PageNumberSelection$lambda$0$Type);
+defineClass(547, 1, $intern_39, PageNumberSelection$lambda$0$Type);
 _.onValueChange = function onValueChange_2(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_2;
@@ -21006,7 +21008,7 @@ _.onValueChange = function onValueChange_2(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageNumberSelection$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection/lambda$0$Type', 545);
+var Lgwt_material_design_client_ui_pager_PageNumberSelection$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection/lambda$0$Type', 547);
 function PageNumberSelection$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageNumberSelection$lambda$1$Type;
@@ -21014,7 +21016,7 @@ function PageNumberSelection$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(546, 1, $intern_38, PageNumberSelection$lambda$1$Type);
+defineClass(548, 1, $intern_38, PageNumberSelection$lambda$1$Type);
 _.onKeyDown = function onKeyDown_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onKeyDown_0;
@@ -21022,7 +21024,7 @@ _.onKeyDown = function onKeyDown_0(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageNumberSelection$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection/lambda$1$Type', 546);
+var Lgwt_material_design_client_ui_pager_PageNumberSelection$lambda$1$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageNumberSelection/lambda$1$Type', 548);
 function $lambda$0_11(this$static, valueChangeEvent_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$0_11;
@@ -21042,7 +21044,7 @@ function PageRowSelection(pager){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(542, 9, $intern_33, PageRowSelection);
+defineClass(544, 9, $intern_33, PageRowSelection);
 _.onLoad = function onLoad_12(){
   var limitOption, limitOption$array, limitOption$index, limitOption$max, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_12;
@@ -21059,7 +21061,7 @@ _.onLoad = function onLoad_12(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageRowSelection_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageRowSelection', 542);
+var Lgwt_material_design_client_ui_pager_PageRowSelection_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageRowSelection', 544);
 function PageRowSelection$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageRowSelection$lambda$0$Type;
@@ -21067,7 +21069,7 @@ function PageRowSelection$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(543, 1, $intern_39, PageRowSelection$lambda$0$Type);
+defineClass(545, 1, $intern_39, PageRowSelection$lambda$0$Type);
 _.onValueChange = function onValueChange_3(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_3;
@@ -21075,7 +21077,7 @@ _.onValueChange = function onValueChange_3(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_pager_PageRowSelection$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageRowSelection/lambda$0$Type', 543);
+var Lgwt_material_design_client_ui_pager_PageRowSelection$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.pager', 'PageRowSelection/lambda$0$Type', 545);
 function $clinit_AbstractDataTable(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_AbstractDataTable;
@@ -21327,13 +21329,13 @@ function $wrapInnerScroll(table){
   return returnTemp;
 }
 
-defineClass(693, 1, {});
-var Lgwt_material_design_client_ui_table_AbstractTableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractTableScaffolding', 693);
+defineClass(694, 1, {});
+var Lgwt_material_design_client_ui_table_AbstractTableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractTableScaffolding', 694);
 function AbstractDataTable$DefaultTableScaffolding(){
 }
 
-defineClass(479, 693, {}, AbstractDataTable$DefaultTableScaffolding);
-var Lgwt_material_design_client_ui_table_AbstractDataTable$DefaultTableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractDataTable/DefaultTableScaffolding', 479);
+defineClass(480, 694, {}, AbstractDataTable$DefaultTableScaffolding);
+var Lgwt_material_design_client_ui_table_AbstractDataTable$DefaultTableScaffolding_2_classLit = createForClass('gwt.material.design.client.ui.table', 'AbstractDataTable/DefaultTableScaffolding', 480);
 function $isFocusable(this$static, elem){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $isFocusable;
@@ -21548,7 +21550,7 @@ function MaterialDataTable$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(725, $wnd.Function, {}, MaterialDataTable$lambda$0$Type);
+defineClass(727, $wnd.Function, {}, MaterialDataTable$lambda$0$Type);
 _.call_0 = function call_39(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_39;
@@ -21564,7 +21566,7 @@ function MaterialDataTable$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(726, $wnd.Function, {}, MaterialDataTable$lambda$1$Type);
+defineClass(728, $wnd.Function, {}, MaterialDataTable$lambda$1$Type);
 _.call_0 = function call_40(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_40;
@@ -21576,7 +21578,7 @@ _.call_0 = function call_40(arg0){
 function MaterialDataTable$lambda$2$Type(){
 }
 
-defineClass(727, $wnd.Function, {}, MaterialDataTable$lambda$2$Type);
+defineClass(729, $wnd.Function, {}, MaterialDataTable$lambda$2$Type);
 _.call_0 = function call_41(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_41;
@@ -21595,9 +21597,9 @@ function MaterialDataTable$lambda$3$Type($$outer_0, beforeIndex_1, column_2, hea
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(480, 1, {12:1, 709:1}, MaterialDataTable$lambda$3$Type);
+defineClass(481, 1, {12:1, 712:1}, MaterialDataTable$lambda$3$Type);
 _.beforeIndex_1 = 0;
-var Lgwt_material_design_client_ui_table_MaterialDataTable$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.ui.table', 'MaterialDataTable/lambda$3$Type', 480);
+var Lgwt_material_design_client_ui_table_MaterialDataTable$lambda$3$Type_2_classLit = createForClass('gwt.material.design.client.ui.table', 'MaterialDataTable/lambda$3$Type', 481);
 function MaterialDataTable$lambda$5$Type($$outer_0, colOffset_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = MaterialDataTable$lambda$5$Type;
@@ -21606,7 +21608,7 @@ function MaterialDataTable$lambda$5$Type($$outer_0, colOffset_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(729, $wnd.Function, {}, MaterialDataTable$lambda$5$Type);
+defineClass(731, $wnd.Function, {}, MaterialDataTable$lambda$5$Type);
 _.call_4 = function call_42(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_42;
@@ -21622,7 +21624,7 @@ function MaterialDataTable$lambda$6$Type(checked_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(728, $wnd.Function, {}, MaterialDataTable$lambda$6$Type);
+defineClass(730, $wnd.Function, {}, MaterialDataTable$lambda$6$Type);
 _.call_4 = function call_43(arg0, arg1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_43;
@@ -21639,8 +21641,8 @@ function MaterialInfiniteDataTable(dataSource){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(493, 165, $intern_50, MaterialInfiniteDataTable);
-var Lgwt_material_design_client_ui_table_MaterialInfiniteDataTable_2_classLit = createForClass('gwt.material.design.client.ui.table', 'MaterialInfiniteDataTable', 493);
+defineClass(494, 165, $intern_50, MaterialInfiniteDataTable);
+var Lgwt_material_design_client_ui_table_MaterialInfiniteDataTable_2_classLit = createForClass('gwt.material.design.client.ui.table', 'MaterialInfiniteDataTable', 494);
 function $addBody(this$static, tbody){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $addBody;
@@ -21825,8 +21827,8 @@ function TableRow_1(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(92, 9, $intern_33, TableRow_0);
-var Lgwt_material_design_client_ui_table_TableRow_2_classLit = createForClass('gwt.material.design.client.ui.table', 'TableRow', 92);
+defineClass(93, 9, $intern_33, TableRow_0);
+var Lgwt_material_design_client_ui_table_TableRow_2_classLit = createForClass('gwt.material.design.client.ui.table', 'TableRow', 93);
 function $add_11(this$static, tableHeader){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $add_11;
@@ -21918,7 +21920,7 @@ function TableSubHeader(category, columnCount){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(50, 92, {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1, 50:1}, TableSubHeader);
+defineClass(50, 93, {17:1, 11:1, 15:1, 23:1, 14:1, 26:1, 16:1, 13:1, 10:1, 29:1, 9:1, 50:1}, TableSubHeader);
 _.removeFromParent = function removeFromParent_0(){
   var parent_0, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = removeFromParent_0;
@@ -21976,8 +21978,8 @@ function XScrollPanel(container){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(556, 103, $intern_33, XScrollPanel);
-var Lgwt_material_design_client_ui_table_XScrollPanel_2_classLit = createForClass('gwt.material.design.client.ui.table', 'XScrollPanel', 556);
+defineClass(558, 104, $intern_33, XScrollPanel);
+var Lgwt_material_design_client_ui_table_XScrollPanel_2_classLit = createForClass('gwt.material.design.client.ui.table', 'XScrollPanel', 558);
 function XScrollPanel$lambda$0$Type($$outer_0, container_1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = XScrollPanel$lambda$0$Type;
@@ -21986,7 +21988,7 @@ function XScrollPanel$lambda$0$Type($$outer_0, container_1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(557, 1, $intern_35, XScrollPanel$lambda$0$Type);
+defineClass(559, 1, $intern_35, XScrollPanel$lambda$0$Type);
 _.onAttachOrDetach = function onAttachOrDetach_9(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onAttachOrDetach_9;
@@ -21994,7 +21996,7 @@ _.onAttachOrDetach = function onAttachOrDetach_9(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_client_ui_table_XScrollPanel$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.table', 'XScrollPanel/lambda$0$Type', 557);
+var Lgwt_material_design_client_ui_table_XScrollPanel$lambda$0$Type_2_classLit = createForClass('gwt.material.design.client.ui.table', 'XScrollPanel/lambda$0$Type', 559);
 function $computeIfAbsent(this$static, key, remappingFunction){
   var value_0, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $computeIfAbsent;
@@ -22074,7 +22076,7 @@ function getEntryValueOrNull(entry){
   return returnTemp;
 }
 
-defineClass(679, 1, $intern_51);
+defineClass(680, 1, $intern_51);
 _.containsEntry = function containsEntry(entry){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsEntry;
@@ -22177,7 +22179,7 @@ _.toString_0 = function toString_17(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractMap_2_classLit = createForClass('java.util', 'AbstractMap', 679);
+var Ljava_util_AbstractMap_2_classLit = createForClass('java.util', 'AbstractMap', 680);
 function $containsKey(this$static, key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $containsKey;
@@ -22244,7 +22246,7 @@ function $size(this$static){
   return returnTemp;
 }
 
-defineClass(337, 679, $intern_51);
+defineClass(337, 680, $intern_51);
 _.containsKey = function containsKey_0(key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsKey_0;
@@ -22365,8 +22367,8 @@ function FrozenProperties(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(530, 57, $intern_52, FrozenProperties);
-var Lgwt_material_design_client_ui_table_cell_FrozenProperties_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'FrozenProperties', 530);
+defineClass(532, 57, $intern_52, FrozenProperties);
+var Lgwt_material_design_client_ui_table_cell_FrozenProperties_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'FrozenProperties', 532);
 function $clinit_FrozenSide(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_FrozenSide;
@@ -22410,8 +22412,8 @@ function TextCell(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(532, 531, {}, TextCell);
-var Lgwt_material_design_client_ui_table_cell_TextCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'TextCell', 532);
+defineClass(534, 533, {}, TextCell);
+var Lgwt_material_design_client_ui_table_cell_TextCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'TextCell', 534);
 function $render_3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $render_3;
@@ -22460,8 +22462,8 @@ function WidgetColumn$BlankWidgetCell(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(458, 136, {136:1}, WidgetColumn$BlankWidgetCell);
-var Lgwt_material_design_client_ui_table_cell_WidgetColumn$BlankWidgetCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'WidgetColumn/BlankWidgetCell', 458);
+defineClass(459, 136, {136:1}, WidgetColumn$BlankWidgetCell);
+var Lgwt_material_design_client_ui_table_cell_WidgetColumn$BlankWidgetCell_2_classLit = createForClass('gwt.material.design.client.ui.table.cell', 'WidgetColumn/BlankWidgetCell', 459);
 function $clinit_StretchEvent(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_StretchEvent;
@@ -22477,7 +22479,7 @@ function StretchEvent(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(600, 682, {}, StretchEvent);
+defineClass(601, 683, {}, StretchEvent);
 _.dispatch = function dispatch_31(handler){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = dispatch_31;
@@ -22495,7 +22497,7 @@ _.getAssociatedType = function getAssociatedType_32(){
 }
 ;
 var TYPE_32;
-var Lgwt_material_design_client_ui_table_events_StretchEvent_2_classLit = createForClass('gwt.material.design.client.ui.table.events', 'StretchEvent', 600);
+var Lgwt_material_design_client_ui_table_events_StretchEvent_2_classLit = createForClass('gwt.material.design.client.ui.table.events', 'StretchEvent', 601);
 function $(uiObject){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $;
@@ -22565,7 +22567,7 @@ defineClass(238, 1, {}, MaterialTableSample$lambda$1$Type);
 _.execute_0 = function execute_13(){
   var table, clearBtn, stdBtn, infBtn, pageBtn, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_13;
-  table = initUnidimensionalArray(($location_0[stackIndex] = 'MaterialTableSample.java:' + '45' , Lcom_google_gwt_user_client_ui_Composite_2_classLit), $intern_1, 108, 1, 0, 1);
+  table = initUnidimensionalArray(($location_0[stackIndex] = 'MaterialTableSample.java:' + '45' , Lcom_google_gwt_user_client_ui_Composite_2_classLit), $intern_1, 109, 1, 0, 1);
   clearBtn = new MaterialAnchorButton(($tmp = 'Clear' , $location_0[stackIndex] = 'MaterialTableSample.java:' + '47' , $tmp));
   $add_1(($location_0[stackIndex] = 'MaterialTableSample.java:' + '48' , $clinit_RootPanel() , get_0(($tmp = null , $location_0[stackIndex] = 'RootPanel.java:' + '151' , $tmp))), ($location_0[stackIndex] = 'MaterialTableSample.java:' + '48' , clearBtn));
   $addClickHandler(($location_0[stackIndex] = 'MaterialTableSample.java:' + '49' , clearBtn), new MaterialTableSample$lambda$4$Type(table));
@@ -22592,7 +22594,7 @@ function $call(arg0){
 function MaterialTableSample$lambda$2$Type(){
 }
 
-defineClass(715, $wnd.Function, {}, MaterialTableSample$lambda$2$Type);
+defineClass(718, $wnd.Function, {}, MaterialTableSample$lambda$2$Type);
 _.call_8 = function call_44(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = call_44;
@@ -22713,7 +22715,7 @@ function FakePersonService$2(val$async){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(494, 164, {}, FakePersonService$2);
+defineClass(495, 164, {}, FakePersonService$2);
 _.run = function run_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = run_0;
@@ -22721,7 +22723,7 @@ _.run = function run_0(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_service_FakePersonService$2_2_classLit = createForClass('gwt.material.design.sample.client.service', 'FakePersonService/2', 494);
+var Lgwt_material_design_sample_client_service_FakePersonService$2_2_classLit = createForClass('gwt.material.design.sample.client.service', 'FakePersonService/2', 495);
 function $lambda$0_14(this$static, event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$0_14;
@@ -22824,7 +22826,7 @@ function InfiniteTable(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(245, 108, $intern_29, InfiniteTable);
+defineClass(245, 109, $intern_29, InfiniteTable);
 _.onLoad = function onLoad_16(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_16;
@@ -22851,8 +22853,8 @@ function InfiniteTable$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(459, 1, {}, InfiniteTable$1);
-var Lgwt_material_design_sample_client_ui_InfiniteTable$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/1', 459);
+defineClass(460, 1, {}, InfiniteTable$1);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/1', 460);
 function $getValue_2(object){
   var profile, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getValue_2;
@@ -22876,7 +22878,7 @@ function InfiniteTable$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(460, 49, $intern_53, InfiniteTable$2);
+defineClass(461, 49, $intern_53, InfiniteTable$2);
 _.getValue_0 = function getValue_2(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_2;
@@ -22885,7 +22887,7 @@ _.getValue_0 = function getValue_2(object){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/2', 460);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/2', 461);
 function InfiniteTable$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$3;
@@ -22893,7 +22895,7 @@ function InfiniteTable$3(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(461, 58, $intern_41, InfiniteTable$3);
+defineClass(462, 58, $intern_41, InfiniteTable$3);
 _.getValue_0 = function getValue_3(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_3;
@@ -22909,7 +22911,7 @@ _.isSortable = function isSortable_0(){
   return true;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$3_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/3', 461);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$3_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/3', 462);
 function InfiniteTable$4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$4;
@@ -22917,7 +22919,7 @@ function InfiniteTable$4(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(462, 58, $intern_41, InfiniteTable$4);
+defineClass(463, 58, $intern_41, InfiniteTable$4);
 _.getValue_0 = function getValue_4(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_4;
@@ -22933,7 +22935,7 @@ _.isSortable = function isSortable_1(){
   return true;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$4_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/4', 462);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$4_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/4', 463);
 function InfiniteTable$5(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$5;
@@ -22941,7 +22943,7 @@ function InfiniteTable$5(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(463, 58, $intern_41, InfiniteTable$5);
+defineClass(464, 58, $intern_41, InfiniteTable$5);
 _.getValue_0 = function getValue_5(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_5;
@@ -22957,7 +22959,7 @@ _.isSortable = function isSortable_2(){
   return true;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$5_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/5', 463);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$5_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/5', 464);
 function InfiniteTable$lambda$0$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$0$Type;
@@ -22965,7 +22967,7 @@ function InfiniteTable$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(464, 1, $intern_48, InfiniteTable$lambda$0$Type);
+defineClass(465, 1, $intern_48, InfiniteTable$lambda$0$Type);
 _.onRowSelect = function onRowSelect_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onRowSelect_0;
@@ -22973,7 +22975,7 @@ _.onRowSelect = function onRowSelect_0(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$0$Type', 464);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$0$Type', 465);
 function InfiniteTable$lambda$1$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$1$Type;
@@ -22981,8 +22983,8 @@ function InfiniteTable$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(465, 1, {12:1, 708:1}, InfiniteTable$lambda$1$Type);
-var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$1$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$1$Type', 465);
+defineClass(466, 1, {12:1, 711:1}, InfiniteTable$lambda$1$Type);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$1$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$1$Type', 466);
 function InfiniteTable$lambda$2$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$2$Type;
@@ -22990,7 +22992,7 @@ function InfiniteTable$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(466, 1, $intern_49, InfiniteTable$lambda$2$Type);
+defineClass(467, 1, $intern_49, InfiniteTable$lambda$2$Type);
 _.onSelectAll = function onSelectAll_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelectAll_0;
@@ -22998,7 +23000,7 @@ _.onSelectAll = function onSelectAll_0(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$2$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$2$Type', 466);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$2$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$2$Type', 467);
 function InfiniteTable$lambda$3$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$3$Type;
@@ -23006,7 +23008,7 @@ function InfiniteTable$lambda$3$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(467, 1, $intern_54, InfiniteTable$lambda$3$Type);
+defineClass(468, 1, $intern_54, InfiniteTable$lambda$3$Type);
 _.onSelection = function onSelection(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelection;
@@ -23014,7 +23016,7 @@ _.onSelection = function onSelection(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$3$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$3$Type', 467);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$3$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$3$Type', 468);
 function InfiniteTable$lambda$4$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable$lambda$4$Type;
@@ -23022,7 +23024,7 @@ function InfiniteTable$lambda$4$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(468, 1, $intern_55, InfiniteTable$lambda$4$Type);
+defineClass(469, 1, $intern_55, InfiniteTable$lambda$4$Type);
 _.onRowContextMenu = function onRowContextMenu(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onRowContextMenu;
@@ -23030,7 +23032,7 @@ _.onRowContextMenu = function onRowContextMenu(arg0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$4$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$4$Type', 468);
+var Lgwt_material_design_sample_client_ui_InfiniteTable$lambda$4$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable/lambda$4$Type', 469);
 function $build_f_HTMLPanel1(this$static){
   var __attachRecord__, f_HTMLPanel1, cbCategories, table, materialPopupMenu, f_MaterialLink2, f_MaterialLink3, f_MaterialLink4, f_MaterialLink5, f_MaterialLink6, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $build_f_HTMLPanel1;
@@ -23062,8 +23064,8 @@ function InfiniteTable_InfiniteGridUiBinderImpl$Widgets(owner){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(522, 1, {}, InfiniteTable_InfiniteGridUiBinderImpl$Widgets);
-var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets', 522);
+defineClass(524, 1, {}, InfiniteTable_InfiniteGridUiBinderImpl$Widgets);
+var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets', 524);
 function InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1;
@@ -23071,7 +23073,7 @@ function InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(523, 1, $intern_39, InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1);
+defineClass(525, 1, $intern_39, InfiniteTable_InfiniteGridUiBinderImpl$Widgets$1);
 _.onValueChange = function onValueChange_4(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_4;
@@ -23079,7 +23081,7 @@ _.onValueChange = function onValueChange_4(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets/1', 523);
+var Lgwt_material_design_sample_client_ui_InfiniteTable_1InfiniteGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'InfiniteTable_InfiniteGridUiBinderImpl/Widgets/1', 525);
 function $html1(arg0, arg1, arg2){
   var sb, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $html1;
@@ -23110,7 +23112,7 @@ function PageTable(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(246, 108, $intern_29, PageTable);
+defineClass(246, 109, $intern_29, PageTable);
 _.onLoad = function onLoad_17(){
   var i, panel, polyIcon, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onLoad_17;
@@ -23158,7 +23160,7 @@ function PageTable$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(469, 49, $intern_53, PageTable$1);
+defineClass(470, 49, $intern_53, PageTable$1);
 _.getValue_0 = function getValue_6(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_6;
@@ -23167,7 +23169,7 @@ _.getValue_0 = function getValue_6(object){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/1', 469);
+var Lgwt_material_design_sample_client_ui_PageTable$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/1', 470);
 function PageTable$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable$2;
@@ -23175,7 +23177,7 @@ function PageTable$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(470, 58, $intern_41, PageTable$2);
+defineClass(471, 58, $intern_41, PageTable$2);
 _.getValue_0 = function getValue_7(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_7;
@@ -23192,11 +23194,11 @@ _.sortComparator_0 = function sortComparator_1(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/2', 470);
+var Lgwt_material_design_sample_client_ui_PageTable$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/2', 471);
 function PageTable$2$lambda$0$Type(){
 }
 
-defineClass(471, 1, {}, PageTable$2$lambda$0$Type);
+defineClass(472, 1, {}, PageTable$2$lambda$0$Type);
 _.equals_0 = function equals_12(other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_12;
@@ -23213,7 +23215,7 @@ _.compare = function compare_4(arg0, arg1){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$2$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/2/lambda$0$Type', 471);
+var Lgwt_material_design_sample_client_ui_PageTable$2$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/2/lambda$0$Type', 472);
 function PageTable$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable$3;
@@ -23221,7 +23223,7 @@ function PageTable$3(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(472, 58, $intern_41, PageTable$3);
+defineClass(473, 58, $intern_41, PageTable$3);
 _.getValue_0 = function getValue_8(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_8;
@@ -23238,11 +23240,11 @@ _.sortComparator_0 = function sortComparator_2(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$3_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/3', 472);
+var Lgwt_material_design_sample_client_ui_PageTable$3_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/3', 473);
 function PageTable$3$lambda$0$Type(){
 }
 
-defineClass(473, 1, {}, PageTable$3$lambda$0$Type);
+defineClass(474, 1, {}, PageTable$3$lambda$0$Type);
 _.equals_0 = function equals_13(other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_13;
@@ -23259,7 +23261,7 @@ _.compare = function compare_5(arg0, arg1){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$3$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/3/lambda$0$Type', 473);
+var Lgwt_material_design_sample_client_ui_PageTable$3$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/3/lambda$0$Type', 474);
 function PageTable$4(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable$4;
@@ -23267,7 +23269,7 @@ function PageTable$4(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(474, 58, $intern_41, PageTable$4);
+defineClass(475, 58, $intern_41, PageTable$4);
 _.getValue_0 = function getValue_9(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_9;
@@ -23299,11 +23301,11 @@ _.sortComparator_0 = function sortComparator_3(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$4_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/4', 474);
+var Lgwt_material_design_sample_client_ui_PageTable$4_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/4', 475);
 function PageTable$4$lambda$0$Type(){
 }
 
-defineClass(475, 1, {}, PageTable$4$lambda$0$Type);
+defineClass(476, 1, {}, PageTable$4$lambda$0$Type);
 _.equals_0 = function equals_14(other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_14;
@@ -23320,7 +23322,7 @@ _.compare = function compare_6(arg0, arg1){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$4$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/4/lambda$0$Type', 475);
+var Lgwt_material_design_sample_client_ui_PageTable$4$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/4/lambda$0$Type', 476);
 function PageTable$5(val$index){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable$5;
@@ -23329,7 +23331,7 @@ function PageTable$5(val$index){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(476, 58, $intern_41, PageTable$5);
+defineClass(477, 58, $intern_41, PageTable$5);
 _.getValue_0 = function getValue_10(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_10;
@@ -23347,11 +23349,11 @@ _.sortComparator_0 = function sortComparator_4(){
 }
 ;
 _.val$index2 = 0;
-var Lgwt_material_design_sample_client_ui_PageTable$5_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/5', 476);
+var Lgwt_material_design_sample_client_ui_PageTable$5_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/5', 477);
 function PageTable$5$lambda$0$Type(){
 }
 
-defineClass(477, 1, {}, PageTable$5$lambda$0$Type);
+defineClass(478, 1, {}, PageTable$5$lambda$0$Type);
 _.equals_0 = function equals_15(other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_15;
@@ -23368,7 +23370,7 @@ _.compare = function compare_7(arg0, arg1){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$5$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/5/lambda$0$Type', 477);
+var Lgwt_material_design_sample_client_ui_PageTable$5$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/5/lambda$0$Type', 478);
 function $getValue_4(object){
   var badge, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getValue_4;
@@ -23388,7 +23390,7 @@ function PageTable$6(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(478, 49, $intern_53, PageTable$6);
+defineClass(479, 49, $intern_53, PageTable$6);
 _.getValue_0 = function getValue_11(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_11;
@@ -23405,7 +23407,7 @@ _.textAlign_0 = function textAlign_1(){
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable$6_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/6', 478);
+var Lgwt_material_design_sample_client_ui_PageTable$6_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable/6', 479);
 function $build_f_HTMLPanel1_0(this$static){
   var __attachRecord__, f_HTMLPanel1, btnGotoFirstPage, btnGotoLastPage, table, popupMenu, f_MaterialLink2, f_MaterialLink3, f_MaterialLink4, f_MaterialLink5, f_MaterialDropDown6, f_MaterialLink7, f_MaterialLink8, f_MaterialLink9, f_MaterialLink10, f_MaterialDropDown11, f_MaterialLink12, f_MaterialLink13, f_MaterialLink14, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $build_f_HTMLPanel1_0;
@@ -23442,8 +23444,8 @@ function PageTable_PageGridUiBinderImpl$Widgets(owner){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(526, 1, {}, PageTable_PageGridUiBinderImpl$Widgets);
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets', 526);
+defineClass(528, 1, {}, PageTable_PageGridUiBinderImpl$Widgets);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets', 528);
 function PageTable_PageGridUiBinderImpl$Widgets$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable_PageGridUiBinderImpl$Widgets$1;
@@ -23451,7 +23453,7 @@ function PageTable_PageGridUiBinderImpl$Widgets$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(527, 1, $intern_37, PageTable_PageGridUiBinderImpl$Widgets$1);
+defineClass(529, 1, $intern_37, PageTable_PageGridUiBinderImpl$Widgets$1);
 _.onClick = function onClick_10(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_10;
@@ -23459,7 +23461,7 @@ _.onClick = function onClick_10(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/1', 527);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/1', 529);
 function PageTable_PageGridUiBinderImpl$Widgets$2(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = PageTable_PageGridUiBinderImpl$Widgets$2;
@@ -23467,7 +23469,7 @@ function PageTable_PageGridUiBinderImpl$Widgets$2(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(528, 1, $intern_37, PageTable_PageGridUiBinderImpl$Widgets$2);
+defineClass(530, 1, $intern_37, PageTable_PageGridUiBinderImpl$Widgets$2);
 _.onClick = function onClick_11(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_11;
@@ -23475,7 +23477,7 @@ _.onClick = function onClick_11(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/2', 528);
+var Lgwt_material_design_sample_client_ui_PageTable_1PageGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'PageTable_PageGridUiBinderImpl/Widgets/2', 530);
 function $html1_0(arg0, arg1, arg2, arg3){
   var sb, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $html1_0;
@@ -23511,10 +23513,10 @@ function $clinit_StandardTable(){
 function $lambda$7_0(this$static, selectionEvent_0){
   var per, per$iterator, span_0, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$7_0;
-  span_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '362' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'StandardTable.java:' + '362' , $tmp))).find('span');
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '363' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '477' , ($location_0[stackIndex] = 'StandardTable.java:' + '363' , this$static).table.view).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '363' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '363' , per$iterator).this$01).array.length;) {
-    per = castTo($next_3(($location_0[stackIndex] = 'StandardTable.java:' + '363' , per$iterator)), 19);
-    fireToast_0(($tmp = $getInnerHTML(($tmp = ($location_0[stackIndex] = 'StandardTable.java:' + '364' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '96' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '364' , $tmp)) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , per.firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '76' , $tmp));
+  span_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '364' , $wnd).$(castToJso(($tmp = ($location_0[stackIndex] = 'SelectionEvent.java:' + '84' , selectionEvent_0.selectedItem) , $location_0[stackIndex] = 'StandardTable.java:' + '364' , $tmp))).find('span');
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '365' , per$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '477' , ($location_0[stackIndex] = 'StandardTable.java:' + '365' , this$static).table.view).getSelectedRowModels(false) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '365' , per$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '365' , per$iterator).this$01).array.length;) {
+    per = castTo($next_3(($location_0[stackIndex] = 'StandardTable.java:' + '365' , per$iterator)), 19);
+    fireToast_0(($tmp = $getInnerHTML(($tmp = ($location_0[stackIndex] = 'StandardTable.java:' + '366' , $wnd).$(span_0).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '96' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '366' , $tmp)) + ' : ' + ($location_0[stackIndex] = 'Person.java:' + '45' , per.firstName) , $location_0[stackIndex] = 'MaterialToast.java:' + '76' , $tmp));
   }
   $stackDepth_0 = stackIndex - 1;
 }
@@ -23522,40 +23524,40 @@ function $lambda$7_0(this$static, selectionEvent_0){
 function $lambda$8_0(this$static, event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $lambda$8_0;
-  $selectRow_0(($location_0[stackIndex] = 'StandardTable.java:' + '370' , this$static).table, ($tmp = $wnd.$(($tmp = ($location_0[stackIndex] = 'RowEvent.java:' + '65' , event_0.row) , $location_0[stackIndex] = 'StandardTable.java:' + '370' , $tmp)).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '96' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '370' , $tmp));
-  $setPopupPosition(($location_0[stackIndex] = 'StandardTable.java:' + '372' , this$static).popupMenu, ($location_0[stackIndex] = 'MouseEvent.java:' + '62' , castToNative(($location_0[stackIndex] = 'RowEvent.java:' + '44' , event_0.event_0), ($location_0[stackIndex] = 'RowEvent.java:' + '51' , $wnd).jQuery.Event).clientX), ($tmp = ($location_0[stackIndex] = 'MouseEvent.java:' + '70' , castToNative(($location_0[stackIndex] = 'RowEvent.java:' + '44' , ($location_0[stackIndex] = 'StandardTable.java:' + '372' , event_0).event_0), ($location_0[stackIndex] = 'RowEvent.java:' + '51' , $wnd).jQuery.Event).clientY) , $location_0[stackIndex] = 'StandardTable.java:' + '372' , $tmp));
-  $open(($location_0[stackIndex] = 'StandardTable.java:' + '373' , this$static).popupMenu);
+  $selectRow_0(($location_0[stackIndex] = 'StandardTable.java:' + '372' , this$static).table, ($tmp = $wnd.$(($tmp = ($location_0[stackIndex] = 'RowEvent.java:' + '65' , event_0.row) , $location_0[stackIndex] = 'StandardTable.java:' + '372' , $tmp)).get(($tmp = 0 , $location_0[stackIndex] = 'JQueryElement.java:' + '96' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '372' , $tmp));
+  $setPopupPosition(($location_0[stackIndex] = 'StandardTable.java:' + '374' , this$static).popupMenu, ($location_0[stackIndex] = 'MouseEvent.java:' + '62' , castToNative(($location_0[stackIndex] = 'RowEvent.java:' + '44' , event_0.event_0), ($location_0[stackIndex] = 'RowEvent.java:' + '51' , $wnd).jQuery.Event).clientX), ($tmp = ($location_0[stackIndex] = 'MouseEvent.java:' + '70' , castToNative(($location_0[stackIndex] = 'RowEvent.java:' + '44' , ($location_0[stackIndex] = 'StandardTable.java:' + '374' , event_0).event_0), ($location_0[stackIndex] = 'RowEvent.java:' + '51' , $wnd).jQuery.Event).clientY) , $location_0[stackIndex] = 'StandardTable.java:' + '374' , $tmp));
+  $open(($location_0[stackIndex] = 'StandardTable.java:' + '375' , this$static).popupMenu);
   $stackDepth_0 = stackIndex - 1;
 }
 
 function $onCategories_0(this$static, e){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onCategories_0;
-  if (checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'StandardTable.java:' + '410' , e).value_0) , $location_0[stackIndex] = 'StandardTable.java:' + '410' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))) {
-    $setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '411' , this$static).table, true);
+  if (checkNotNull(($tmp = castToBoolean(($tmp = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '118' , ($location_0[stackIndex] = 'StandardTable.java:' + '417' , e).value_0) , $location_0[stackIndex] = 'StandardTable.java:' + '417' , $tmp)) , $location_0[stackIndex] = 'Boolean.java:' + '92' , $tmp))) {
+    $setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '418' , this$static).table, true);
     $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   }
    else {
-    $setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '414' , this$static).table, false);
+    $setUseCategories_0(($location_0[stackIndex] = 'StandardTable.java:' + '421' , this$static).table, false);
     $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   }
-  $setRedraw(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '181' , ($location_0[stackIndex] = 'StandardTable.java:' + '417' , this$static).table.view) , $location_0[stackIndex] = 'StandardTable.java:' + '417' , $tmp));
-  ($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '181' , ($location_0[stackIndex] = 'StandardTable.java:' + '418' , this$static).table.view) , $location_0[stackIndex] = 'StandardTable.java:' + '418' , $tmp).refresh();
+  $setRedraw(($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '181' , ($location_0[stackIndex] = 'StandardTable.java:' + '424' , this$static).table.view) , $location_0[stackIndex] = 'StandardTable.java:' + '424' , $tmp));
+  ($tmp = ($location_0[stackIndex] = 'AbstractDataTable.java:' + '181' , ($location_0[stackIndex] = 'StandardTable.java:' + '425' , this$static).table.view) , $location_0[stackIndex] = 'StandardTable.java:' + '425' , $tmp).refresh();
   $stackDepth_0 = stackIndex - 1;
 }
 
 function $onSortBtnClick(this$static){
   var ascRows, beforeRows, descRows, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $onSortBtnClick;
-  beforeRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '387' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '387' , new StandardTable$0methodref$ctor$Type));
-  $sort_3(($location_0[stackIndex] = 'StandardTable.java:' + '388' , this$static).table, ($location_0[stackIndex] = 'SortDir.java:' + '38' , $clinit_SortDir() , ($location_0[stackIndex] = 'StandardTable.java:' + '388' , DESC)));
-  descRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '389' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '389' , new StandardTable$1methodref$ctor$Type));
-  $sort_3(($location_0[stackIndex] = 'StandardTable.java:' + '390' , this$static).table, ASC);
-  ascRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '391' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '391' , new StandardTable$2methodref$ctor$Type));
+  beforeRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '394' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '394' , new StandardTable$0methodref$ctor$Type));
+  $sort_3(($location_0[stackIndex] = 'StandardTable.java:' + '395' , this$static).table, ($location_0[stackIndex] = 'SortDir.java:' + '38' , $clinit_SortDir() , ($location_0[stackIndex] = 'StandardTable.java:' + '395' , DESC)));
+  descRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '396' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '396' , new StandardTable$1methodref$ctor$Type));
+  $sort_3(($location_0[stackIndex] = 'StandardTable.java:' + '397' , this$static).table, ASC);
+  ascRows = new Components_3(unmodifiableList(($location_0[stackIndex] = 'AbstractDataView.java:' + '2098' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '401' , ($location_0[stackIndex] = 'StandardTable.java:' + '398' , this$static).table.view).rows_0)), ($location_0[stackIndex] = 'StandardTable.java:' + '398' , new StandardTable$2methodref$ctor$Type));
   $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
-  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '393' , beforeRows));
-  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '395' , descRows));
-  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '397' , ascRows));
+  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '400' , beforeRows));
+  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '402' , descRows));
+  printRows(($location_0[stackIndex] = 'StandardTable.java:' + '404' , ascRows));
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23564,79 +23566,81 @@ function StandardTable(){
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable;
   $location_0[stackIndex] = 'StandardTable.java:' + '89' , $clinit_StandardTable();
   var i, i0, k, panel, people, polyIcon, rowIndex;
-  $initWidget(this, ($tmp = $build_f_HTMLPanel1_1(($tmp = new StandardTable_StandardGridUiBinderImpl$Widgets(($tmp = this , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '31' , $tmp)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '87' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '90' , $tmp));
-  $setRowFactory_0(($location_0[stackIndex] = 'StandardTable.java:' + '100' , this.table), new PersonRowFactory);
-  $setCategoryFactory_0(($location_0[stackIndex] = 'StandardTable.java:' + '105' , this.table), new CustomCategoryFactory);
-  $setRenderer_0(($location_0[stackIndex] = 'StandardTable.java:' + '110' , this.table), new CustomRenderer);
-  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '131' , this.table), new StandardTable$1, 'First Name');
-  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '153' , this.table), new StandardTable$2, 'First Name2');
-  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '187' , this.table), new StandardTable$3, 'Last Name');
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '203' , i0 = 0; ($location_0[stackIndex] = 'StandardTable.java:' + '203' , i0) < 4; $location_0[stackIndex] = 'StandardTable.java:' + '203' , i0++) {
-    $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '205' , this.table), new StandardTable$4(i0), ($tmp = 'Column ' + ($location_0[stackIndex] = 'StandardTable.java:' + '214' , i0) , $location_0[stackIndex] = 'StandardTable.java:' + '205' , $tmp));
+  fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , ($location_0[stackIndex] = 'StandardTable.java:' + '90' , new Date_0).jsdate).getTime());
+  $initWidget(this, ($tmp = $build_f_HTMLPanel1_1(($tmp = new StandardTable_StandardGridUiBinderImpl$Widgets(($tmp = this , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '31' , $tmp)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '87' , $tmp)) , $location_0[stackIndex] = 'StandardTable.java:' + '92' , $tmp));
+  $setRowFactory_0(($location_0[stackIndex] = 'StandardTable.java:' + '102' , this.table), new PersonRowFactory);
+  $setCategoryFactory_0(($location_0[stackIndex] = 'StandardTable.java:' + '107' , this.table), new CustomCategoryFactory);
+  $setRenderer_0(($location_0[stackIndex] = 'StandardTable.java:' + '112' , this.table), new CustomRenderer);
+  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '133' , this.table), new StandardTable$1, 'First Name');
+  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '155' , this.table), new StandardTable$2, 'First Name2');
+  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '189' , this.table), new StandardTable$3, 'Last Name');
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '205' , i0 = 0; ($location_0[stackIndex] = 'StandardTable.java:' + '205' , i0) < 4; $location_0[stackIndex] = 'StandardTable.java:' + '205' , i0++) {
+    $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '207' , this.table), new StandardTable$4(i0), ($tmp = 'Column ' + ($location_0[stackIndex] = 'StandardTable.java:' + '216' , i0) , $location_0[stackIndex] = 'StandardTable.java:' + '207' , $tmp));
   }
-  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '217' , this.table), new StandardTable$5, 'Phone2332');
-  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '232' , this.table), new StandardTable$6, 'Ph56656656');
-  $addColumn_1(($location_0[stackIndex] = 'StandardTable.java:' + '245' , this.table), new StandardTable$7);
-  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '260' , this.table), 0, 100);
-  people = ($location_0[stackIndex] = 'StandardTable.java:' + '263' , new ArrayList);
-  $location_0[stackIndex] = 'StandardTable.java:' + '264' , rowIndex = 0;
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '265' , k = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '265' , k) <= 5; $location_0[stackIndex] = 'StandardTable.java:' + '265' , k++) {
-    for ($location_0[stackIndex] = 'StandardTable.java:' + '267' , i = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '267' , i) <= 15; $location_0[stackIndex] = 'StandardTable.java:' + '267' , ++i , rowIndex++) {
-      $add_7(($location_0[stackIndex] = 'StandardTable.java:' + '268' , people), new Person_0(i, 'Field ' + rowIndex, 'Field ' + i, 'No ' + i, 'Category ' + k));
+  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '219' , this.table), new StandardTable$5, 'Phone2332');
+  $addColumn_2(($location_0[stackIndex] = 'StandardTable.java:' + '234' , this.table), new StandardTable$6, 'Ph56656656');
+  $addColumn_1(($location_0[stackIndex] = 'StandardTable.java:' + '247' , this.table), new StandardTable$7);
+  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '262' , this.table), 0, 200);
+  people = ($location_0[stackIndex] = 'StandardTable.java:' + '265' , new ArrayList);
+  $location_0[stackIndex] = 'StandardTable.java:' + '266' , rowIndex = 0;
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '267' , k = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '267' , k) <= 5; $location_0[stackIndex] = 'StandardTable.java:' + '267' , k++) {
+    for ($location_0[stackIndex] = 'StandardTable.java:' + '269' , i = 1; ($location_0[stackIndex] = 'StandardTable.java:' + '269' , i) <= 20; $location_0[stackIndex] = 'StandardTable.java:' + '269' , ++i , rowIndex++) {
+      $add_7(($location_0[stackIndex] = 'StandardTable.java:' + '270' , people), new Person_0(i, 'Field ' + rowIndex, 'Field ' + i, 'No ' + i, 'Category ' + k));
     }
   }
-  $setRowData_0(($location_0[stackIndex] = 'StandardTable.java:' + '271' , this.table), people);
-  $location_0[stackIndex] = 'StandardTable.java:' + '274' , panel = ($location_0[stackIndex] = 'AbstractTableScaffolding.java:' + '73' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '657' , ($location_0[stackIndex] = 'StandardTable.java:' + '274' , this.table).scaffolding).toolPanel);
-  polyIcon = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '680' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '275' , POLYMER)));
-  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '276' , polyIcon), ($location_0[stackIndex] = 'WavesType.java:' + '30' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '276' , LIGHT)));
-  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '1405' , ($location_0[stackIndex] = 'StandardTable.java:' + '277' , polyIcon).circleMixin)) && (($location_0[stackIndex] = 'StandardTable.java:' + '277' , polyIcon).circleMixin = new ToggleStyleMixin(($tmp = polyIcon , $location_0[stackIndex] = 'MaterialWidget.java:' + '1406' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '1408' , ($location_0[stackIndex] = 'StandardTable.java:' + '277' , polyIcon).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '484' , $tmp));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '278' , panel), polyIcon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '278' , panel).element_0)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
-  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '281' , this.table), 0, 2001);
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '285' , this.table), new StandardTable$lambda$0$Type, ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '28' , $clinit_RowExpandingEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '738' , TYPE_26)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '327' , this.table), new StandardTable$lambda$1$Type, ($location_0[stackIndex] = 'RowSelectEvent.java:' + '28' , $clinit_RowSelectEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '733' , TYPE_28)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '332' , this.table), new StandardTable$lambda$2$Type, ($location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '27' , $clinit_CategoryOpenedEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '783' , TYPE_13)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '337' , this.table), new StandardTable$lambda$3$Type, ($location_0[stackIndex] = 'CategoryClosedEvent.java:' + '27' , $clinit_CategoryClosedEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '788' , TYPE_12)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '342' , this.table), new StandardTable$lambda$4$Type, ($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '29' , $clinit_RowDoubleClickEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '763' , TYPE_24)));
-  $location_0[stackIndex] = 'AbstractDataView.java:' + '2028' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '527' , ($location_0[stackIndex] = 'StandardTable.java:' + '349' , this.table).view).longPressDuration = 400;
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '352' , this.table), new StandardTable$lambda$5$Type, ($location_0[stackIndex] = 'RowLongPressEvent.java:' + '28' , $clinit_RowLongPressEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '768' , TYPE_27)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '357' , this.table), new StandardTable$lambda$6$Type, ($location_0[stackIndex] = 'RowShortPressEvent.java:' + '28' , $clinit_RowShortPressEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '773' , TYPE_29)));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '361' , this.popupMenu), new StandardTable$lambda$7$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_7)) && (TYPE_7 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_7)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
-  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '368' , this.table), new StandardTable$lambda$8$Type(this), ($location_0[stackIndex] = 'RowContextMenuEvent.java:' + '29' , $clinit_RowContextMenuEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '758' , TYPE_23)));
+  $setRowData_0(($location_0[stackIndex] = 'StandardTable.java:' + '273' , this.table), people);
+  $location_0[stackIndex] = 'StandardTable.java:' + '276' , panel = ($location_0[stackIndex] = 'AbstractTableScaffolding.java:' + '73' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '657' , ($location_0[stackIndex] = 'StandardTable.java:' + '276' , this.table).scaffolding).toolPanel);
+  polyIcon = new MaterialIcon_0(($location_0[stackIndex] = 'IconType.java:' + '680' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '277' , POLYMER)));
+  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '278' , polyIcon), ($location_0[stackIndex] = 'WavesType.java:' + '30' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '278' , LIGHT)));
+  $setOn(($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'MaterialWidget.java:' + '1405' , ($location_0[stackIndex] = 'StandardTable.java:' + '279' , polyIcon).circleMixin)) && (($location_0[stackIndex] = 'StandardTable.java:' + '279' , polyIcon).circleMixin = new ToggleStyleMixin(($tmp = polyIcon , $location_0[stackIndex] = 'MaterialWidget.java:' + '1406' , $tmp))) , ($location_0[stackIndex] = 'MaterialWidget.java:' + '1408' , ($location_0[stackIndex] = 'StandardTable.java:' + '279' , polyIcon).circleMixin)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '484' , $tmp));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '280' , panel), polyIcon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '280' , panel).element_0)) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
+  $setVisibleRange_0(($location_0[stackIndex] = 'StandardTable.java:' + '283' , this.table), 0, 2001);
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '287' , this.table), new StandardTable$lambda$0$Type, ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '28' , $clinit_RowExpandingEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '738' , TYPE_26)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '329' , this.table), new StandardTable$lambda$1$Type, ($location_0[stackIndex] = 'RowSelectEvent.java:' + '28' , $clinit_RowSelectEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '733' , TYPE_28)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '334' , this.table), new StandardTable$lambda$2$Type, ($location_0[stackIndex] = 'CategoryOpenedEvent.java:' + '27' , $clinit_CategoryOpenedEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '783' , TYPE_13)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '339' , this.table), new StandardTable$lambda$3$Type, ($location_0[stackIndex] = 'CategoryClosedEvent.java:' + '27' , $clinit_CategoryClosedEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '788' , TYPE_12)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '344' , this.table), new StandardTable$lambda$4$Type, ($location_0[stackIndex] = 'RowDoubleClickEvent.java:' + '29' , $clinit_RowDoubleClickEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '763' , TYPE_24)));
+  $location_0[stackIndex] = 'AbstractDataView.java:' + '2028' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '527' , ($location_0[stackIndex] = 'StandardTable.java:' + '351' , this.table).view).longPressDuration = 400;
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '354' , this.table), new StandardTable$lambda$5$Type, ($location_0[stackIndex] = 'RowLongPressEvent.java:' + '28' , $clinit_RowLongPressEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '768' , TYPE_27)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '359' , this.table), new StandardTable$lambda$6$Type, ($location_0[stackIndex] = 'RowShortPressEvent.java:' + '28' , $clinit_RowShortPressEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '773' , TYPE_29)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '363' , this.popupMenu), new StandardTable$lambda$7$Type(this), ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'SelectionEvent.java:' + '53' , TYPE_7)) && (TYPE_7 = ($location_0[stackIndex] = 'SelectionEvent.java:' + '54' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'SelectionEvent.java:' + '56' , TYPE_7)) , $location_0[stackIndex] = 'MaterialPopupMenu.java:' + '115' , $tmp));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '370' , this.table), new StandardTable$lambda$8$Type(this), ($location_0[stackIndex] = 'RowContextMenuEvent.java:' + '29' , $clinit_RowContextMenuEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '758' , TYPE_23)));
+  $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '378' , this.table), new StandardTable$lambda$9$Type, ($location_0[stackIndex] = 'RenderedEvent.java:' + '27' , $clinit_RenderedEvent() , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '798' , TYPE_20)));
   $stackDepth_0 = stackIndex - 1;
 }
 
 function printRows(rowComponents){
   var msg, row, row$iterator, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = printRows;
-  $location_0[stackIndex] = 'StandardTable.java:' + '401' , msg = '[';
-  for ($location_0[stackIndex] = 'StandardTable.java:' + '402' , row$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'StandardTable.java:' + '402' , rowComponents) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '402' , row$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '402' , row$iterator).this$01).array.length;) {
-    row = castTo($next_3(($location_0[stackIndex] = 'StandardTable.java:' + '402' , row$iterator)), 20);
-    $location_0[stackIndex] = 'StandardTable.java:' + '403' , msg += ($location_0[stackIndex] = 'RowComponent.java:' + '56' , ($location_0[stackIndex] = 'StandardTable.java:' + '403' , row).data_0) + ', ';
+  $location_0[stackIndex] = 'StandardTable.java:' + '408' , msg = '[';
+  for ($location_0[stackIndex] = 'StandardTable.java:' + '409' , row$iterator = new ArrayList$1(($tmp = ($location_0[stackIndex] = 'StandardTable.java:' + '409' , rowComponents) , $location_0[stackIndex] = 'ArrayList.java:' + '145' , $tmp)); ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '409' , row$iterator).i) < ($location_0[stackIndex] = 'ArrayList.java:' + '150' , ($location_0[stackIndex] = 'StandardTable.java:' + '409' , row$iterator).this$01).array.length;) {
+    row = castTo($next_3(($location_0[stackIndex] = 'StandardTable.java:' + '409' , row$iterator)), 20);
+    $location_0[stackIndex] = 'StandardTable.java:' + '410' , msg += ($location_0[stackIndex] = 'RowComponent.java:' + '56' , ($location_0[stackIndex] = 'StandardTable.java:' + '410' , row).data_0) + ', ';
   }
   $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(244, 108, $intern_29, StandardTable);
+defineClass(244, 109, $intern_29, StandardTable);
 var people_0;
 var Lgwt_material_design_sample_client_ui_StandardTable_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable', 244);
 function StandardTable$0methodref$ctor$Type(){
 }
 
-defineClass(455, 1, {}, StandardTable$0methodref$ctor$Type);
+defineClass(456, 1, {}, StandardTable$0methodref$ctor$Type);
 _.clone_0 = function clone_1(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = clone_1;
-  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '387' , arg0), 20));
+  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '394' , arg0), 20));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_StandardTable$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/0methodref$ctor$Type', 455);
+var Lgwt_material_design_sample_client_ui_StandardTable$0methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/0methodref$ctor$Type', 456);
 function StandardTable$1(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$1;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '131' , WidgetColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '133' , WidgetColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23644,7 +23648,7 @@ defineClass(430, 49, $intern_53, StandardTable$1);
 _.getValue_0 = function getValue_12(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_12;
-  returnTemp = (castTo(($location_0[stackIndex] = 'StandardTable.java:' + '137' , object), 19) , new MaterialButton_0(($tmp = 'ASdasd' , $location_0[stackIndex] = 'StandardTable.java:' + '145' , $tmp)));
+  returnTemp = (castTo(($location_0[stackIndex] = 'StandardTable.java:' + '139' , object), 19) , new MaterialButton_0(($tmp = 'ASdasd' , $location_0[stackIndex] = 'StandardTable.java:' + '147' , $tmp)));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23652,7 +23656,7 @@ _.getValue_0 = function getValue_12(object){
 _.sortComparator_0 = function sortComparator_5(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_5;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '134' , new StandardTable$1$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '136' , new StandardTable$1$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23680,7 +23684,7 @@ _.equals_0 = function equals_16(other){
 _.compare = function compare_8(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_8;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '134' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '134' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '134' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '134' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '134' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '136' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '136' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '136' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '136' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '136' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23689,20 +23693,20 @@ var Lgwt_material_design_sample_client_ui_StandardTable$1$lambda$0$Type_2_classL
 function StandardTable$1methodref$ctor$Type(){
 }
 
-defineClass(456, 1, {}, StandardTable$1methodref$ctor$Type);
+defineClass(457, 1, {}, StandardTable$1methodref$ctor$Type);
 _.clone_0 = function clone_2(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = clone_2;
-  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '389' , arg0), 20));
+  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '396' , arg0), 20));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_StandardTable$1methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/1methodref$ctor$Type', 456);
+var Lgwt_material_design_sample_client_ui_StandardTable$1methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/1methodref$ctor$Type', 457);
 function StandardTable$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$2;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '153' , WidgetColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '155' , WidgetColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23710,7 +23714,7 @@ defineClass(432, 49, $intern_53, StandardTable$2);
 _.getValue_0 = function getValue_13(person){
   var mcb, values, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_13;
-  returnTemp = (castTo(($location_0[stackIndex] = 'StandardTable.java:' + '159' , person), 19) , mcb = ($location_0[stackIndex] = 'StandardTable.java:' + '160' , new MaterialComboBox) , values = ($location_0[stackIndex] = 'StandardTable.java:' + '161' , new ArrayList) , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '162' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '162' , values).array).length] = 'North' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '163' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '163' , values).array).length] = 'East' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '164' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '164' , values).array).length] = 'South' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '165' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '165' , values).array).length] = 'West' , $forEach(($location_0[stackIndex] = 'StandardTable.java:' + '166' , values), new MaterialComboBox$1methodref$addItem$Type(($tmp = mcb , $location_0[stackIndex] = 'MaterialComboBox.java:' + '262' , $tmp))) , $addClickHandler(($location_0[stackIndex] = 'StandardTable.java:' + '167' , mcb), new StandardTable$2$lambda$1$Type) , $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '170' , mcb), new StandardTable$2$1, ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'ValueChangeEvent.java:' + '71' , TYPE_8)) && (TYPE_8 = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '72' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '74' , TYPE_8)) , $location_0[stackIndex] = 'AbstractValueWidget.java:' + '238' , $tmp)) , ($location_0[stackIndex] = 'StandardTable.java:' + '179' , mcb));
+  returnTemp = (castTo(($location_0[stackIndex] = 'StandardTable.java:' + '161' , person), 19) , mcb = ($location_0[stackIndex] = 'StandardTable.java:' + '162' , new MaterialComboBox) , values = ($location_0[stackIndex] = 'StandardTable.java:' + '163' , new ArrayList) , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '164' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '164' , values).array).length] = 'North' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '165' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '165' , values).array).length] = 'East' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '166' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '166' , values).array).length] = 'South' , ($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '167' , values).array)[($location_0[stackIndex] = 'ArrayList.java:' + '81' , ($location_0[stackIndex] = 'StandardTable.java:' + '167' , values).array).length] = 'West' , $forEach(($location_0[stackIndex] = 'StandardTable.java:' + '168' , values), new MaterialComboBox$1methodref$addItem$Type(($tmp = mcb , $location_0[stackIndex] = 'MaterialComboBox.java:' + '262' , $tmp))) , $addClickHandler(($location_0[stackIndex] = 'StandardTable.java:' + '169' , mcb), new StandardTable$2$lambda$1$Type) , $addHandler_0(($location_0[stackIndex] = 'StandardTable.java:' + '172' , mcb), new StandardTable$2$1, ($tmp = (($location_0[stackIndex] = 'Cast.java:' + '275' , !($location_0[stackIndex] = 'ValueChangeEvent.java:' + '71' , TYPE_8)) && (TYPE_8 = ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '72' , new GwtEvent$Type)) , ($location_0[stackIndex] = 'ValueChangeEvent.java:' + '74' , TYPE_8)) , $location_0[stackIndex] = 'AbstractValueWidget.java:' + '238' , $tmp)) , ($location_0[stackIndex] = 'StandardTable.java:' + '181' , mcb));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23718,7 +23722,7 @@ _.getValue_0 = function getValue_13(person){
 _.sortComparator_0 = function sortComparator_6(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_6;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '156' , new StandardTable$2$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '158' , new StandardTable$2$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23758,7 +23762,7 @@ _.equals_0 = function equals_17(other){
 _.compare = function compare_9(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_9;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '156' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '156' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '156' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '156' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '156' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '158' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '158' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '158' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23771,7 +23775,7 @@ defineClass(434, 1, $intern_37, StandardTable$2$lambda$1$Type);
 _.onClick = function onClick_12(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_12;
-  $stopPropagation(($tmp = ($location_0[stackIndex] = 'DomEvent.java:' + '147' , ($location_0[stackIndex] = 'StandardTable.java:' + '167' , arg0).nativeEvent) , $location_0[stackIndex] = 'StandardTable.java:' + '168' , $tmp));
+  $stopPropagation(($tmp = ($location_0[stackIndex] = 'DomEvent.java:' + '147' , ($location_0[stackIndex] = 'StandardTable.java:' + '169' , arg0).nativeEvent) , $location_0[stackIndex] = 'StandardTable.java:' + '170' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -23779,20 +23783,20 @@ var Lgwt_material_design_sample_client_ui_StandardTable$2$lambda$1$Type_2_classL
 function StandardTable$2methodref$ctor$Type(){
 }
 
-defineClass(457, 1, {}, StandardTable$2methodref$ctor$Type);
+defineClass(458, 1, {}, StandardTable$2methodref$ctor$Type);
 _.clone_0 = function clone_3(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = clone_3;
-  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '391' , arg0), 20));
+  returnTemp = new RowComponent(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '398' , arg0), 20));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
 ;
-var Lgwt_material_design_sample_client_ui_StandardTable$2methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/2methodref$ctor$Type', 457);
+var Lgwt_material_design_sample_client_ui_StandardTable$2methodref$ctor$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/2methodref$ctor$Type', 458);
 function StandardTable$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$3;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '187' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '189' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23800,7 +23804,7 @@ defineClass(436, 58, $intern_41, StandardTable$3);
 _.getValue_0 = function getValue_14(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_14;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '193' , object), 19).lastName);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '53' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '195' , object), 19).lastName);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23809,13 +23813,13 @@ _.autoSort_0 = function autoSort_1(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = autoSort_1;
   $stackDepth_0 = stackIndex - 1;
-  return true;
+  return false;
 }
 ;
 _.sortComparator_0 = function sortComparator_7(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_7;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '190' , new StandardTable$3$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '192' , new StandardTable$3$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23836,7 +23840,7 @@ _.equals_0 = function equals_18(other){
 _.compare = function compare_10(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_10;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '190' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '190' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '190' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '190' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '190' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '192' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '192' , $tmp)).firstName), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '45' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '192' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '192' , $tmp)).firstName) , $location_0[stackIndex] = 'StandardTable.java:' + '192' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23845,7 +23849,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$3$lambda$0$Type_2_classL
 function StandardTable$4(val$index){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$4;
-  this.val$index2 = ($location_0[stackIndex] = 'StandardTable.java:' + '205' , val$index);
+  this.val$index2 = ($location_0[stackIndex] = 'StandardTable.java:' + '207' , val$index);
   TextColumn.call(this);
   $stackDepth_0 = stackIndex - 1;
 }
@@ -23854,7 +23858,7 @@ defineClass(438, 58, $intern_41, StandardTable$4);
 _.getValue_0 = function getValue_15(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_15;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '211' , object), 19).phone) + ' ' + ($location_0[stackIndex] = 'StandardTable.java:' + '212' , this.val$index2);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '213' , object), 19).phone) + ' ' + ($location_0[stackIndex] = 'StandardTable.java:' + '214' , this.val$index2);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23862,7 +23866,7 @@ _.getValue_0 = function getValue_15(object){
 _.sortComparator_0 = function sortComparator_8(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_8;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '208' , new StandardTable$4$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '210' , new StandardTable$4$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23884,7 +23888,7 @@ _.equals_0 = function equals_19(other){
 _.compare = function compare_11(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_11;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '208' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '208' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '208' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '208' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '208' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '210' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '210' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '210' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '210' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '210' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23893,7 +23897,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$4$lambda$0$Type_2_classL
 function StandardTable$5(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$5;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '217' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '219' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23901,7 +23905,7 @@ defineClass(440, 58, $intern_41, StandardTable$5);
 _.getValue_0 = function getValue_16(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_16;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '227' , object), 19).phone);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '229' , object), 19).phone);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23916,7 +23920,7 @@ _.numeric = function numeric_2(){
 _.sortComparator_0 = function sortComparator_9(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_9;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '224' , new StandardTable$5$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '226' , new StandardTable$5$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23937,7 +23941,7 @@ _.equals_0 = function equals_20(other){
 _.compare = function compare_12(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_12;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '224' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '224' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '224' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '224' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '224' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '226' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '226' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '226' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '226' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '226' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23946,7 +23950,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$5$lambda$0$Type_2_classL
 function StandardTable$6(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$6;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '232' , TextColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '234' , TextColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -23954,7 +23958,7 @@ defineClass(442, 58, $intern_41, StandardTable$6);
 _.getValue_0 = function getValue_17(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_17;
-  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '238' , object), 19).phone);
+  returnTemp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '240' , object), 19).phone);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23962,7 +23966,7 @@ _.getValue_0 = function getValue_17(object){
 _.sortComparator_0 = function sortComparator_10(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = sortComparator_10;
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '235' , new StandardTable$6$lambda$0$Type);
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '237' , new StandardTable$6$lambda$0$Type);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23983,7 +23987,7 @@ _.equals_0 = function equals_21(other){
 _.compare = function compare_13(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_13;
-  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '235' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '235' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '235' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '235' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '235' , $tmp));
+  returnTemp = $compareToIgnoreCase(($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '237' , arg0), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '237' , $tmp)).phone), ($tmp = ($location_0[stackIndex] = 'Person.java:' + '61' , castTo(($location_0[stackIndex] = 'RowComponent.java:' + '56' , castTo(($location_0[stackIndex] = 'StandardTable.java:' + '237' , arg1), 20).data_0), ($tmp = 19 , $location_0[stackIndex] = 'StandardTable.java:' + '237' , $tmp)).phone) , $location_0[stackIndex] = 'StandardTable.java:' + '237' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -23992,11 +23996,11 @@ var Lgwt_material_design_sample_client_ui_StandardTable$6$lambda$0$Type_2_classL
 function $getValue_5(object){
   var badge, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $getValue_5;
-  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '252' , new MaterialBadge);
-  $setText_3(($location_0[stackIndex] = 'StandardTable.java:' + '253' , badge), ($tmp = 'badge ' + ($location_0[stackIndex] = 'Person.java:' + '37' , object.id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '253' , $tmp));
-  $setBackgroundColor(($location_0[stackIndex] = 'StandardTable.java:' + '254' , badge), ($location_0[stackIndex] = 'Color.java:' + '227' , $clinit_Color() , ($location_0[stackIndex] = 'StandardTable.java:' + '254' , BLUE)));
-  $setLayoutPosition(($location_0[stackIndex] = 'StandardTable.java:' + '255' , $clinit_Style$Position() , badge));
-  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '256' , badge);
+  badge = ($location_0[stackIndex] = 'StandardTable.java:' + '254' , new MaterialBadge);
+  $setText_3(($location_0[stackIndex] = 'StandardTable.java:' + '255' , badge), ($tmp = 'badge ' + ($location_0[stackIndex] = 'Person.java:' + '37' , object.id_0) , $location_0[stackIndex] = 'StandardTable.java:' + '255' , $tmp));
+  $setBackgroundColor(($location_0[stackIndex] = 'StandardTable.java:' + '256' , badge), ($location_0[stackIndex] = 'Color.java:' + '227' , $clinit_Color() , ($location_0[stackIndex] = 'StandardTable.java:' + '256' , BLUE)));
+  $setLayoutPosition(($location_0[stackIndex] = 'StandardTable.java:' + '257' , $clinit_Style$Position() , badge));
+  returnTemp = ($location_0[stackIndex] = 'StandardTable.java:' + '258' , badge);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -24004,7 +24008,7 @@ function $getValue_5(object){
 function StandardTable$7(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$7;
-  ($location_0[stackIndex] = 'StandardTable.java:' + '245' , WidgetColumn).call(this);
+  ($location_0[stackIndex] = 'StandardTable.java:' + '247' , WidgetColumn).call(this);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -24012,7 +24016,7 @@ defineClass(444, 49, $intern_53, StandardTable$7);
 _.getValue_0 = function getValue_18(object){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getValue_18;
-  returnTemp = $getValue_5(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '251' , object), 19));
+  returnTemp = $getValue_5(castTo(($location_0[stackIndex] = 'StandardTable.java:' + '253' , object), 19));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -24020,7 +24024,7 @@ _.getValue_0 = function getValue_18(object){
 _.textAlign_0 = function textAlign_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = textAlign_2;
-  returnTemp = ($location_0[stackIndex] = 'TextAlign.java:' + '29' , $clinit_TextAlign() , ($location_0[stackIndex] = 'StandardTable.java:' + '248' , CENTER_1));
+  returnTemp = ($location_0[stackIndex] = 'TextAlign.java:' + '29' , $clinit_TextAlign() , ($location_0[stackIndex] = 'StandardTable.java:' + '250' , CENTER_1));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -24029,7 +24033,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$7_2_classLit = createFor
 function StandardTable$8(val$event){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$8;
-  this.val$event2 = ($location_0[stackIndex] = 'StandardTable.java:' + '289' , val$event);
+  this.val$event2 = ($location_0[stackIndex] = 'StandardTable.java:' + '291' , val$event);
   Timer.call(this);
   $stackDepth_0 = stackIndex - 1;
 }
@@ -24038,27 +24042,27 @@ defineClass(445, 164, {}, StandardTable$8);
 _.run = function run_1(){
   var badge, btn, content_0, element, icon, textBox, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = run_1;
-  element = ($tmp = ($location_0[stackIndex] = 'RowExpansion.java:' + '53' , ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '41' , ($location_0[stackIndex] = 'StandardTable.java:' + '293' , this.val$event2).expansion).content_0) , $location_0[stackIndex] = 'StandardTable.java:' + '293' , $tmp).empty();
-  content_0 = new MaterialWidget_1(($location_0[stackIndex] = 'StandardTable.java:' + '295' , element));
-  badge = new MaterialBadge_0(($location_0[stackIndex] = 'Color.java:' + '36' , $clinit_Color() , ($location_0[stackIndex] = 'StandardTable.java:' + '298' , WHITE)), BLUE);
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '299' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'StandardTable.java:' + '299' , $clinit_Style$Position() , 'relative');
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '300' , badge).element_0).style)['right'] = ($location_0[stackIndex] = 'StandardTable.java:' + '300' , $clinit_Style$Unit() , '0.0px');
-  $setFontSize(($location_0[stackIndex] = 'StandardTable.java:' + '301' , badge));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '302' , content_0), badge, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
-  btn = new MaterialButton_1(($location_0[stackIndex] = 'IconType.java:' + '396' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '304' , FULLSCREEN)), ($location_0[stackIndex] = 'ButtonType.java:' + '32' , $clinit_ButtonType() , ($location_0[stackIndex] = 'StandardTable.java:' + '304' , RAISED)));
-  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '305' , btn), ($location_0[stackIndex] = 'WavesType.java:' + '29' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '305' , DEFAULT_5)));
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '306' , content_0), btn, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
-  textBox = ($location_0[stackIndex] = 'StandardTable.java:' + '308' , new MaterialTextBox);
-  $setText_0(($location_0[stackIndex] = 'MaterialValueBox.java:' + '174' , ($location_0[stackIndex] = 'StandardTable.java:' + '309' , textBox).valueBoxBase), ' from an asynchronous');
-  $addStyleName(($location_0[stackIndex] = 'MaterialValueBox.java:' + '177' , ($location_0[stackIndex] = 'StandardTable.java:' + '309' , textBox).label_0), 'active');
-  $setGwtDisplay(($location_0[stackIndex] = 'StandardTable.java:' + '310' , textBox), ($location_0[stackIndex] = 'Style.java:' + '313' , $clinit_Style$Display() , ($location_0[stackIndex] = 'StandardTable.java:' + '310' , INLINE_TABLE)));
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '311' , textBox).element_0).style)['width'] = '200px';
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '312' , content_0), textBox, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
-  icon = new MaterialIcon_0(($location_0[stackIndex] = 'StandardTable.java:' + '314' , CALL));
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '315' , icon).element_0).style)['position'] = 'relative';
-  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '316' , icon).element_0).style)['top'] = '12.0px';
-  $add(($location_0[stackIndex] = 'StandardTable.java:' + '317' , content_0), icon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
-  ($location_0[stackIndex] = 'RowExpansion.java:' + '49' , ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '41' , ($location_0[stackIndex] = 'StandardTable.java:' + '321' , this.val$event2).expansion).overlay).css('display', ($tmp = 'none' , $location_0[stackIndex] = 'StandardTable.java:' + '321' , $tmp));
+  element = ($tmp = ($location_0[stackIndex] = 'RowExpansion.java:' + '53' , ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '41' , ($location_0[stackIndex] = 'StandardTable.java:' + '295' , this.val$event2).expansion).content_0) , $location_0[stackIndex] = 'StandardTable.java:' + '295' , $tmp).empty();
+  content_0 = new MaterialWidget_1(($location_0[stackIndex] = 'StandardTable.java:' + '297' , element));
+  badge = new MaterialBadge_0(($location_0[stackIndex] = 'Color.java:' + '36' , $clinit_Color() , ($location_0[stackIndex] = 'StandardTable.java:' + '300' , WHITE)), BLUE);
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , $clinit_DOM() , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '301' , badge).element_0)).style)['position'] = ($location_0[stackIndex] = 'StandardTable.java:' + '301' , $clinit_Style$Position() , 'relative');
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '302' , badge).element_0).style)['right'] = ($location_0[stackIndex] = 'StandardTable.java:' + '302' , $clinit_Style$Unit() , '0.0px');
+  $setFontSize(($location_0[stackIndex] = 'StandardTable.java:' + '303' , badge));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '304' , content_0), badge, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
+  btn = new MaterialButton_1(($location_0[stackIndex] = 'IconType.java:' + '396' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable.java:' + '306' , FULLSCREEN)), ($location_0[stackIndex] = 'ButtonType.java:' + '32' , $clinit_ButtonType() , ($location_0[stackIndex] = 'StandardTable.java:' + '306' , RAISED)));
+  $setWaves(($location_0[stackIndex] = 'StandardTable.java:' + '307' , btn), ($location_0[stackIndex] = 'WavesType.java:' + '29' , $clinit_WavesType() , ($location_0[stackIndex] = 'StandardTable.java:' + '307' , DEFAULT_5)));
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '308' , content_0), btn, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
+  textBox = ($location_0[stackIndex] = 'StandardTable.java:' + '310' , new MaterialTextBox);
+  $setText_0(($location_0[stackIndex] = 'MaterialValueBox.java:' + '174' , ($location_0[stackIndex] = 'StandardTable.java:' + '311' , textBox).valueBoxBase), ' from an asynchronous');
+  $addStyleName(($location_0[stackIndex] = 'MaterialValueBox.java:' + '177' , ($location_0[stackIndex] = 'StandardTable.java:' + '311' , textBox).label_0), 'active');
+  $setGwtDisplay(($location_0[stackIndex] = 'StandardTable.java:' + '312' , textBox), ($location_0[stackIndex] = 'Style.java:' + '313' , $clinit_Style$Display() , ($location_0[stackIndex] = 'StandardTable.java:' + '312' , INLINE_TABLE)));
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '313' , textBox).element_0).style)['width'] = '200px';
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '314' , content_0), textBox, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
+  icon = new MaterialIcon_0(($location_0[stackIndex] = 'StandardTable.java:' + '316' , CALL));
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '317' , icon).element_0).style)['position'] = 'relative';
+  $location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable.java:' + '318' , icon).element_0).style)['top'] = '12.0px';
+  $add(($location_0[stackIndex] = 'StandardTable.java:' + '319' , content_0), icon, ($tmp = ($location_0[stackIndex] = 'UIObject.java:' + '561' , content_0.element_0) , $location_0[stackIndex] = 'MaterialWidget.java:' + '204' , $tmp));
+  ($location_0[stackIndex] = 'RowExpansion.java:' + '49' , ($location_0[stackIndex] = 'RowExpandingEvent.java:' + '41' , ($location_0[stackIndex] = 'StandardTable.java:' + '323' , this.val$event2).expansion).overlay).css('display', ($tmp = 'none' , $location_0[stackIndex] = 'StandardTable.java:' + '323' , $tmp));
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -24083,7 +24087,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$CustomCategoryComponent_
 function StandardTable$lambda$0$Type(){
 }
 
-defineClass(446, 1, {12:1, 704:1}, StandardTable$lambda$0$Type);
+defineClass(446, 1, {12:1, 706:1}, StandardTable$lambda$0$Type);
 var Lgwt_material_design_sample_client_ui_StandardTable$lambda$0$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$0$Type', 446);
 function StandardTable$lambda$1$Type(){
 }
@@ -24092,7 +24096,7 @@ defineClass(447, 1, $intern_48, StandardTable$lambda$1$Type);
 _.onRowSelect = function onRowSelect_1(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onRowSelect_1;
-  $location_0[stackIndex] = 'StandardTable.java:' + '327' , $clinit_StandardTable();
+  $location_0[stackIndex] = 'StandardTable.java:' + '329' , $clinit_StandardTable();
   $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   $stackDepth_0 = stackIndex - 1;
 }
@@ -24105,7 +24109,7 @@ defineClass(448, 1, $intern_46, StandardTable$lambda$2$Type);
 _.onCategoryOpened = function onCategoryOpened_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onCategoryOpened_0;
-  $location_0[stackIndex] = 'StandardTable.java:' + '332' , $clinit_StandardTable();
+  $location_0[stackIndex] = 'StandardTable.java:' + '334' , $clinit_StandardTable();
   $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   $stackDepth_0 = stackIndex - 1;
 }
@@ -24118,7 +24122,7 @@ defineClass(449, 1, $intern_47, StandardTable$lambda$3$Type);
 _.onCategoryClosed = function onCategoryClosed_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onCategoryClosed_0;
-  $location_0[stackIndex] = 'StandardTable.java:' + '337' , $clinit_StandardTable();
+  $location_0[stackIndex] = 'StandardTable.java:' + '339' , $clinit_StandardTable();
   $location_0[stackIndex] = 'GWT.java:' + '239' , $clinit_GWT();
   $stackDepth_0 = stackIndex - 1;
 }
@@ -24127,22 +24131,22 @@ var Lgwt_material_design_sample_client_ui_StandardTable$lambda$3$Type_2_classLit
 function StandardTable$lambda$4$Type(){
 }
 
-defineClass(450, 1, {12:1, 705:1}, StandardTable$lambda$4$Type);
+defineClass(450, 1, {12:1, 707:1}, StandardTable$lambda$4$Type);
 var Lgwt_material_design_sample_client_ui_StandardTable$lambda$4$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$4$Type', 450);
 function StandardTable$lambda$5$Type(){
 }
 
-defineClass(451, 1, {12:1, 706:1}, StandardTable$lambda$5$Type);
+defineClass(451, 1, {12:1, 708:1}, StandardTable$lambda$5$Type);
 var Lgwt_material_design_sample_client_ui_StandardTable$lambda$5$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$5$Type', 451);
 function StandardTable$lambda$6$Type(){
 }
 
-defineClass(452, 1, {12:1, 707:1}, StandardTable$lambda$6$Type);
+defineClass(452, 1, {12:1, 709:1}, StandardTable$lambda$6$Type);
 var Lgwt_material_design_sample_client_ui_StandardTable$lambda$6$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$6$Type', 452);
 function StandardTable$lambda$7$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$lambda$7$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '361' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '363' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -24150,7 +24154,7 @@ defineClass(453, 1, $intern_54, StandardTable$lambda$7$Type);
 _.onSelection = function onSelection_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onSelection_0;
-  $lambda$7_0(($location_0[stackIndex] = 'StandardTable.java:' + '361' , this.$$outer_0), arg0);
+  $lambda$7_0(($location_0[stackIndex] = 'StandardTable.java:' + '363' , this.$$outer_0), arg0);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
@@ -24158,7 +24162,7 @@ var Lgwt_material_design_sample_client_ui_StandardTable$lambda$7$Type_2_classLit
 function StandardTable$lambda$8$Type($$outer_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable$lambda$8$Type;
-  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '368' , $$outer_0);
+  this.$$outer_0 = ($location_0[stackIndex] = 'StandardTable.java:' + '370' , $$outer_0);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -24166,11 +24170,16 @@ defineClass(454, 1, $intern_55, StandardTable$lambda$8$Type);
 _.onRowContextMenu = function onRowContextMenu_0(arg0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onRowContextMenu_0;
-  $lambda$8_0(($location_0[stackIndex] = 'StandardTable.java:' + '368' , this.$$outer_0), arg0);
+  $lambda$8_0(($location_0[stackIndex] = 'StandardTable.java:' + '370' , this.$$outer_0), arg0);
   $stackDepth_0 = stackIndex - 1;
 }
 ;
 var Lgwt_material_design_sample_client_ui_StandardTable$lambda$8$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$8$Type', 454);
+function StandardTable$lambda$9$Type(){
+}
+
+defineClass(455, 1, {12:1, 710:1}, StandardTable$lambda$9$Type);
+var Lgwt_material_design_sample_client_ui_StandardTable$lambda$9$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable/lambda$9$Type', 455);
 function $build_f_HTMLPanel1_1(this$static){
   var __attachRecord__, f_HTMLPanel1, sortBtn, cbCategories, table, popupMenu, f_MaterialLink2, f_MaterialLink3, f_MaterialLink4, f_MaterialLink5, f_MaterialDropDown6, f_MaterialLink7, f_MaterialLink8, f_MaterialLink9, f_MaterialLink10, f_MaterialDropDown11, f_MaterialLink12, f_MaterialLink13, f_MaterialLink14, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $build_f_HTMLPanel1_1;
@@ -24183,7 +24192,7 @@ function $build_f_HTMLPanel1_1(this$static){
   ($location_0[stackIndex] = 'UiBinderUtil.java:' + '53' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '104' , __attachRecord__).origParent)?$insertBefore(($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '104' , __attachRecord__).origParent), ($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '104' , __attachRecord__).element), ($location_0[stackIndex] = 'UiBinderUtil.java:' + '54' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '104' , __attachRecord__).origSibling)):orphan(($location_0[stackIndex] = 'UiBinderUtil.java:' + '56' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '104' , __attachRecord__).element));
   $addAndReplaceElement(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '106' , f_HTMLPanel1), (sortBtn = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '137' , new MaterialButton) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '139' , sortBtn).span_0), 'Sort') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '139' , sortBtn).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '139' , sortBtn), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , sortBtn.span_0)) , $addClickHandler(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '140' , sortBtn), ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '140' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '106' , this$static).handlerMethodWithNameVeryUnlikelyToCollideWithUserFieldNames1)) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '144' , sortBtn)), $get(($tmp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '152' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '106' , this$static).domId0Element) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '106' , $tmp)));
   $addAndReplaceElement(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '107' , f_HTMLPanel1), (cbCategories = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '185' , new MaterialCheckBox) , $setTextOrHtml(($location_0[stackIndex] = 'BaseCheckBox.java:' + '411' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '187' , cbCategories).directionalTextHelper)) , $setValue_1(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '188' , cbCategories), ($tmp = ($location_0[stackIndex] = 'Unknown:' + '0' , $clinit_Boolean() , ($location_0[stackIndex] = 'Boolean.java:' + '124' , $clinit_Boolean()) , true) , $location_0[stackIndex] = 'BaseCheckBox.java:' + '430' , $tmp)) , $addValueChangeHandler_0(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '189' , cbCategories), ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '189' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '107' , this$static).handlerMethodWithNameVeryUnlikelyToCollideWithUserFieldNames2)) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '191' , cbCategories)), $get(($tmp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '199' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '107' , this$static).domId1Element) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '107' , $tmp)));
-  $addAndReplaceElement(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , f_HTMLPanel1), (table = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '232' , new MaterialDataTable) , $setUseCategories(($location_0[stackIndex] = 'AbstractDataTable.java:' + '497' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '234' , table).view), true) , $setSelectionType_0(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '235' , table), ($location_0[stackIndex] = 'SelectionType.java:' + '31' , $clinit_SelectionType() , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '235' , NONE_4))) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '711' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '236' , table).destroyOnUnload = false) , $setUseStickyHeader(($location_0[stackIndex] = 'AbstractDataTable.java:' + '487' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '237' , table).view), true) , ($location_0[stackIndex] = 'AbstractDataView.java:' + '2018' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '517' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '238' , table).view).useRowExpansion = true) , $setHeight_0(($location_0[stackIndex] = 'AbstractDataTable.java:' + '537' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '239' , table).view), 'calc(100vh - 131px)') , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '241' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , this$static).owner).table = table , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '243' , table)), $get(($tmp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '251' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , this$static).domId2Element) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , $tmp)));
+  $addAndReplaceElement(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , f_HTMLPanel1), (table = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '232' , new MaterialDataTable) , $setUseCategories(($location_0[stackIndex] = 'AbstractDataTable.java:' + '497' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '234' , table).view), false) , $setSelectionType_0(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '235' , table), ($location_0[stackIndex] = 'SelectionType.java:' + '32' , $clinit_SelectionType() , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '235' , SINGLE))) , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '711' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '236' , table).destroyOnUnload = false) , $setUseStickyHeader(($location_0[stackIndex] = 'AbstractDataTable.java:' + '487' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '237' , table).view), true) , ($location_0[stackIndex] = 'AbstractDataView.java:' + '2018' , ($location_0[stackIndex] = 'AbstractDataTable.java:' + '517' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '238' , table).view).useRowExpansion = true) , $setHeight_0(($location_0[stackIndex] = 'AbstractDataTable.java:' + '537' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '239' , table).view), 'calc(100vh - 131px)') , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '241' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , this$static).owner).table = table , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '243' , table)), $get(($tmp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '251' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , this$static).domId2Element) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '108' , $tmp)));
   $addAndReplaceElement(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '109' , f_HTMLPanel1), (popupMenu = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '284' , new MaterialPopupMenu) , $add_9(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '286' , popupMenu), ($tmp = (f_MaterialLink2 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '304' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '306' , f_MaterialLink2).element_0).style)['padding'] = ($location_0[stackIndex] = 'MaterialWidget.java:' + '375' , $clinit_Style$Unit() , '12.0px')) , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '307' , f_MaterialLink2), ($location_0[stackIndex] = 'IconType.java:' + '219' , $clinit_IconType() , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '307' , CONTENT_COPY))) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '308' , f_MaterialLink2), ($location_0[stackIndex] = 'Display.java:' + '31' , $clinit_Display() , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '308' , BLOCK_0))) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '309' , f_MaterialLink2).span_0), 'Copy') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '309' , f_MaterialLink2).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '309' , f_MaterialLink2), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink2.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '310' , f_MaterialLink2), ($location_0[stackIndex] = 'Color.java:' + '35' , $clinit_Color() , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '310' , BLACK))) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '312' , f_MaterialLink2)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '286' , $tmp)) , $add_9(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '287' , popupMenu), ($tmp = (f_MaterialLink3 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '323' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '325' , f_MaterialLink3).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '326' , f_MaterialLink3), CONTENT_PASTE) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '327' , f_MaterialLink3), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '328' , f_MaterialLink3).span_0), 'Paste') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '328' , f_MaterialLink3).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '328' , f_MaterialLink3), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink3.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '329' , f_MaterialLink3), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '331' , f_MaterialLink3)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '287' , $tmp)) , $add_9(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '288' , popupMenu), ($tmp = (f_MaterialLink4 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '342' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '344' , f_MaterialLink4).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '345' , f_MaterialLink4), EDIT) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '346' , f_MaterialLink4), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '347' , f_MaterialLink4).span_0), 'Rename') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '347' , f_MaterialLink4).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '347' , f_MaterialLink4), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink4.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '348' , f_MaterialLink4), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '350' , f_MaterialLink4)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '288' , $tmp)) , $add_9(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '289' , popupMenu), ($tmp = (f_MaterialLink5 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '361' , new MaterialLink) , $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '363' , f_MaterialLink5), ($tmp = (f_MaterialDropDown6 = new MaterialDropDown_2(($tmp = 'moveTo' , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '382' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '384' , f_MaterialDropDown6), ($tmp = (f_MaterialLink7 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '402' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '404' , f_MaterialLink7).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '405' , f_MaterialLink7), CONTENT_COPY) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '406' , f_MaterialLink7), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '407' , f_MaterialLink7).span_0), 'Private') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '407' , f_MaterialLink7).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '407' , f_MaterialLink7), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink7.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '408' , f_MaterialLink7), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '410' , f_MaterialLink7)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '384' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '385' , f_MaterialDropDown6), ($tmp = (f_MaterialLink8 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '421' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '423' , f_MaterialLink8).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '424' , f_MaterialLink8), CONTENT_PASTE) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '425' , f_MaterialLink8), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '426' , f_MaterialLink8).span_0), 'Public') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '426' , f_MaterialLink8).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '426' , f_MaterialLink8), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink8.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '427' , f_MaterialLink8), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '429' , f_MaterialLink8)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '385' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '386' , f_MaterialDropDown6), ($tmp = (f_MaterialLink9 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '440' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '442' , f_MaterialLink9).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '443' , f_MaterialLink9), EDIT) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '444' , f_MaterialLink9), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '445' , f_MaterialLink9).span_0), 'Shared') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '445' , f_MaterialLink9).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '445' , f_MaterialLink9), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink9.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '446' , f_MaterialLink9), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '448' , f_MaterialLink9)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '386' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '387' , f_MaterialDropDown6), ($tmp = (f_MaterialLink10 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '459' , new MaterialLink) , $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '461' , f_MaterialLink10), ($tmp = (f_MaterialDropDown11 = new MaterialDropDown_2(($tmp = 'others' , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '480' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '482' , f_MaterialDropDown11), ($tmp = (f_MaterialLink12 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '499' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '501' , f_MaterialLink12).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '502' , f_MaterialLink12), PHONE) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '503' , f_MaterialLink12), BLOCK_0) , $setIconColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '504' , f_MaterialLink12), PURPLE) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '505' , f_MaterialLink12).span_0), 'Phone') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '505' , f_MaterialLink12).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '505' , f_MaterialLink12), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink12.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '506' , f_MaterialLink12), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '508' , f_MaterialLink12)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '482' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '483' , f_MaterialDropDown11), ($tmp = (f_MaterialLink13 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '519' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '521' , f_MaterialLink13).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '522' , f_MaterialLink13), TABLET_0) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '523' , f_MaterialLink13), BLOCK_0) , $setIconColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '524' , f_MaterialLink13), GREEN) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '525' , f_MaterialLink13).span_0), 'Tablet') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '525' , f_MaterialLink13).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '525' , f_MaterialLink13), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink13.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '526' , f_MaterialLink13), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '528' , f_MaterialLink13)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '483' , $tmp)) , $add_10(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '484' , f_MaterialDropDown11), ($tmp = (f_MaterialLink14 = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '539' , new MaterialLink) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '541' , f_MaterialLink14).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '542' , f_MaterialLink14), LAPTOP_0) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '543' , f_MaterialLink14), BLOCK_0) , $setIconColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '544' , f_MaterialLink14), BLUE) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '545' , f_MaterialLink14).span_0), 'Laptop') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '545' , f_MaterialLink14).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '545' , f_MaterialLink14), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink14.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '546' , f_MaterialLink14), BLACK) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '548' , f_MaterialLink14)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '484' , $tmp)) , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '230' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '485' , f_MaterialDropDown11).options_0).hover = true , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '252' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '486' , f_MaterialDropDown11).options_0).belowOrigin = true , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '488' , f_MaterialDropDown11)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '461' , $tmp)) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '462' , f_MaterialLink10).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '463' , f_MaterialLink10), DEVICES_OTHER) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '464' , f_MaterialLink10), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '465' , f_MaterialLink10).span_0), 'Others') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '465' , f_MaterialLink10).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '465' , f_MaterialLink10), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink10.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '466' , f_MaterialLink10), BLACK) , $setActivates(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '467' , f_MaterialLink10), 'others') , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '469' , f_MaterialLink10)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '387' , $tmp)) , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '230' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '388' , f_MaterialDropDown6).options_0).hover = true , ($location_0[stackIndex] = 'MaterialDropDown.java:' + '252' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '389' , f_MaterialDropDown6).options_0).belowOrigin = true , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '391' , f_MaterialDropDown6)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '363' , $tmp)) , ($location_0[stackIndex] = 'Style.java:' + '2274' , ($location_0[stackIndex] = 'Element.java:' + '466' , ($location_0[stackIndex] = 'UIObject.java:' + '561' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '364' , f_MaterialLink5).element_0).style)['padding'] = '12.0px') , $setIconType(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '365' , f_MaterialLink5), MOVE_TO_INBOX) , $setDisplay(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '366' , f_MaterialLink5), BLOCK_0) , $setText_2(($location_0[stackIndex] = 'AbstractButton.java:' + '165' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '367' , f_MaterialLink5).span_0), 'Move To ...') , ($location_0[stackIndex] = 'Widget.java:' + '160' , ($location_0[stackIndex] = 'AbstractButton.java:' + '167' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '367' , f_MaterialLink5).span_0).attached) || $add_3(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '367' , f_MaterialLink5), ($location_0[stackIndex] = 'AbstractButton.java:' + '168' , f_MaterialLink5.span_0)) , $setTextColor(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '368' , f_MaterialLink5), BLACK) , $setActivates(($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '369' , f_MaterialLink5), 'moveTo') , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '371' , f_MaterialLink5)) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '289' , $tmp)) , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '291' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '109' , this$static).owner).popupMenu = popupMenu , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '293' , popupMenu)), $get(($tmp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '556' , ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '109' , this$static).domId3Element) , $location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '109' , $tmp)));
   returnTemp = ($location_0[stackIndex] = 'StandardTable_StandardGridUiBinderImpl.java:' + '111' , f_HTMLPanel1);
   $stackDepth_0 = stackIndex - 1;
@@ -24207,8 +24216,8 @@ function StandardTable_StandardGridUiBinderImpl$Widgets(owner){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(495, 1, {}, StandardTable_StandardGridUiBinderImpl$Widgets);
-var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets', 495);
+defineClass(496, 1, {}, StandardTable_StandardGridUiBinderImpl$Widgets);
+var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets', 496);
 function StandardTable_StandardGridUiBinderImpl$Widgets$1(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable_StandardGridUiBinderImpl$Widgets$1;
@@ -24216,7 +24225,7 @@ function StandardTable_StandardGridUiBinderImpl$Widgets$1(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(496, 1, $intern_37, StandardTable_StandardGridUiBinderImpl$Widgets$1);
+defineClass(497, 1, $intern_37, StandardTable_StandardGridUiBinderImpl$Widgets$1);
 _.onClick = function onClick_13(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onClick_13;
@@ -24224,7 +24233,7 @@ _.onClick = function onClick_13(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets/1', 496);
+var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets$1_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets/1', 497);
 function StandardTable_StandardGridUiBinderImpl$Widgets$2(this$1){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StandardTable_StandardGridUiBinderImpl$Widgets$2;
@@ -24232,7 +24241,7 @@ function StandardTable_StandardGridUiBinderImpl$Widgets$2(this$1){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(497, 1, $intern_39, StandardTable_StandardGridUiBinderImpl$Widgets$2);
+defineClass(498, 1, $intern_39, StandardTable_StandardGridUiBinderImpl$Widgets$2);
 _.onValueChange = function onValueChange_6(event_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = onValueChange_6;
@@ -24240,7 +24249,7 @@ _.onValueChange = function onValueChange_6(event_0){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets/2', 497);
+var Lgwt_material_design_sample_client_ui_StandardTable_1StandardGridUiBinderImpl$Widgets$2_2_classLit = createForClass('gwt.material.design.sample.client.ui', 'StandardTable_StandardGridUiBinderImpl/Widgets/2', 498);
 function $html1_1(arg0, arg1, arg2, arg3){
   var sb, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $html1_1;
@@ -24262,12 +24271,12 @@ function $html1_1(arg0, arg1, arg2, arg3){
 function CustomCategoryFactory(){
 }
 
-defineClass(202, 482, {}, CustomCategoryFactory);
+defineClass(202, 483, {}, CustomCategoryFactory);
 _.generate = function generate_1(dataView, categoryName){
   var category, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = generate_1;
   $location_0[stackIndex] = 'CustomCategoryFactory.java:' + '13' , category = ($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '13' , categoryName) != null?new CategoryComponent(($tmp = categoryName , $location_0[stackIndex] = 'CategoryComponentFactory.java:' + '37' , $tmp)):new CategoryComponent$OrphanCategoryComponent;
-  instanceOf(($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '15' , category), 101) || (category = new StandardTable$CustomCategoryComponent(($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '16' , categoryName)));
+  instanceOf(($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '15' , category), 102) || (category = new StandardTable$CustomCategoryComponent(($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '16' , categoryName)));
   returnTemp = ($location_0[stackIndex] = 'CustomCategoryFactory.java:' + '18' , category);
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
@@ -24277,7 +24286,7 @@ var Lgwt_material_design_sample_client_ui_factory_CustomCategoryFactory_2_classL
 function PersonRowFactory(){
 }
 
-defineClass(201, 481, {}, PersonRowFactory);
+defineClass(201, 482, {}, PersonRowFactory);
 _.generate_0 = function generate_2(dataView, model){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = generate_2;
@@ -24401,7 +24410,7 @@ function MaterialPopupMenu$lambda$0$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(732, $wnd.Function, {}, MaterialPopupMenu$lambda$0$Type);
+defineClass(734, $wnd.Function, {}, MaterialPopupMenu$lambda$0$Type);
 _.call_0 = function call_45(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_45;
@@ -24417,7 +24426,7 @@ function MaterialPopupMenu$lambda$1$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(733, $wnd.Function, {}, MaterialPopupMenu$lambda$1$Type);
+defineClass(735, $wnd.Function, {}, MaterialPopupMenu$lambda$1$Type);
 _.call_0 = function call_46(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_46;
@@ -24433,7 +24442,7 @@ function MaterialPopupMenu$lambda$2$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(734, $wnd.Function, {}, MaterialPopupMenu$lambda$2$Type);
+defineClass(736, $wnd.Function, {}, MaterialPopupMenu$lambda$2$Type);
 _.call_0 = function call_47(arg0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_47;
@@ -24445,7 +24454,7 @@ _.call_0 = function call_47(arg0){
 function MaterialPopupMenu$lambda$3$Type(){
 }
 
-defineClass(735, $wnd.Function, {}, MaterialPopupMenu$lambda$3$Type);
+defineClass(737, $wnd.Function, {}, MaterialPopupMenu$lambda$3$Type);
 _.call_1 = function call_48(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_48;
@@ -24457,7 +24466,7 @@ _.call_1 = function call_48(arg0, arg1){
 function MaterialPopupMenu$lambda$4$Type(){
 }
 
-defineClass(736, $wnd.Function, {}, MaterialPopupMenu$lambda$4$Type);
+defineClass(738, $wnd.Function, {}, MaterialPopupMenu$lambda$4$Type);
 _.call_1 = function call_49(arg0, arg1){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = call_49;
@@ -24473,7 +24482,7 @@ function MaterialPopupMenu$lambda$5$Type($$outer_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(489, 1, {}, MaterialPopupMenu$lambda$5$Type);
+defineClass(490, 1, {}, MaterialPopupMenu$lambda$5$Type);
 _.execute_0 = function execute_14(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = execute_14;
@@ -24481,12 +24490,12 @@ _.execute_0 = function execute_14(){
   $stackDepth_0 = stackIndex - 1;
 }
 ;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenu$lambda$5$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenu/lambda$5$Type', 489);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenu$lambda$5$Type_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenu/lambda$5$Type', 490);
 function $clinit_MaterialPopupMenuClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle;
   $clinit_MaterialPopupMenuClientBundle = ($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '11' , emptyMethod);
-  INSTANCE_8 = castTo(($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '13' , create_gwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle()), 653);
+  INSTANCE_8 = castTo(($location_0[stackIndex] = 'MaterialPopupMenuClientBundle.java:' + '13' , create_gwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle()), 654);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -24494,7 +24503,7 @@ var INSTANCE_8;
 function MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(606, 1, {653:1}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator);
+defineClass(607, 1, {654:1}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator);
 _.menuCss = function menuCss_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = menuCss_0;
@@ -24504,11 +24513,11 @@ _.menuCss = function menuCss_0(){
 }
 ;
 var menuCss;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator', 606);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator', 607);
 function MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1(){
 }
 
-defineClass(607, 1, {}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1);
+defineClass(608, 1, {}, MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$1);
 _.getName = function getName_35(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_35;
@@ -24523,7 +24532,7 @@ _.getText = function getText_35(){
   return '.popup-menu {\n    position: absolute;\n    background-color: white;\n    width: 280px;\n    z-index: 999;\n    max-height: 70vh !important;\n}\n\n.popup-menu li a, .popup-menu ul.dropdown-content li a {\n    font-size: 1em;\n}\n\n.popup-menu li:hover {\n    background: #e9e9e9;\n}\n\n.popup-menu li {\n    position: relative;\n}\n\n.popup-menu ul.dropdown-content {\n    position: absolute !important;\n    overflow: visible !important;\n    left: 280px !important;\n    top: 0px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-left {\n    left: -280px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-bottom {\n    bottom: 0;\n    top: initial !important;\n}\n';
 }
 ;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator/1', 607);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1default_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator/1', 608);
 function $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$menuCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerator$menuCssInitializer;
@@ -24535,7 +24544,7 @@ function $clinit_MaterialPopupMenuClientBundle_default_InlineClientBundleGenerat
 function MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(604, 1, {653:1}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator);
+defineClass(605, 1, {654:1}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator);
 _.menuCss = function menuCss_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = menuCss_2;
@@ -24545,11 +24554,11 @@ _.menuCss = function menuCss_2(){
 }
 ;
 var menuCss_1;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator', 604);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator', 605);
 function MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1(){
 }
 
-defineClass(605, 1, {}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1);
+defineClass(606, 1, {}, MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$1);
 _.getName = function getName_36(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_36;
@@ -24564,7 +24573,7 @@ _.getText = function getText_36(){
   return '.popup-menu {\n    position: absolute;\n    background-color: white;\n    width: 280px;\n    z-index: 999;\n    max-height: 70vh !important;\n}\n\n.popup-menu li a, .popup-menu ul.dropdown-content li a {\n    font-size: 1em;\n}\n\n.popup-menu li:hover {\n    background: #e9e9e9;\n}\n\n.popup-menu li {\n    position: relative;\n}\n\n.popup-menu ul.dropdown-content {\n    position: absolute !important;\n    overflow: visible !important;\n    left: 280px !important;\n    top: 0px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-left {\n    left: -280px !important;\n}\n\n.popup-menu ul.dropdown-content.edge-bottom {\n    bottom: 0;\n    top: initial !important;\n}\n';
 }
 ;
-var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator/1', 605);
+var Lgwt_material_design_sample_client_ui_menu_MaterialPopupMenuClientBundle_1en_1InlineClientBundleGenerator$1_2_classLit = createForClass('gwt.material.design.sample.client.ui.menu', 'MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator/1', 606);
 function $clinit_MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$menuCssInitializer(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_MaterialPopupMenuClientBundle_en_InlineClientBundleGenerator$menuCssInitializer;
@@ -24586,7 +24595,7 @@ function $clinit_DataTableClientBundle(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_DataTableClientBundle;
   $clinit_DataTableClientBundle = ($location_0[stackIndex] = 'DataTableClientBundle.java:' + '11' , emptyMethod);
-  INSTANCE_9 = castTo(($location_0[stackIndex] = 'DataTableClientBundle.java:' + '13' , create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle()), 639);
+  INSTANCE_9 = castTo(($location_0[stackIndex] = 'DataTableClientBundle.java:' + '13' , create_gwt_material_design_sample_client_ui_resources_DataTableClientBundle()), 640);
   $stackDepth_0 = stackIndex - 1;
 }
 
@@ -24594,7 +24603,7 @@ var INSTANCE_9;
 function DataTableClientBundle_default_InlineClientBundleGenerator(){
 }
 
-defineClass(269, 1, {639:1}, DataTableClientBundle_default_InlineClientBundleGenerator);
+defineClass(269, 1, {640:1}, DataTableClientBundle_default_InlineClientBundleGenerator);
 _.dataTable = function dataTable_0(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataTable_0;
@@ -24635,7 +24644,7 @@ function $clinit_DataTableClientBundle_default_InlineClientBundleGenerator$dataT
 function DataTableClientBundle_en_InlineClientBundleGenerator(){
 }
 
-defineClass(267, 1, {639:1}, DataTableClientBundle_en_InlineClientBundleGenerator);
+defineClass(267, 1, {640:1}, DataTableClientBundle_en_InlineClientBundleGenerator);
 _.dataTable = function dataTable_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = dataTable_2;
@@ -24696,7 +24705,7 @@ function Person_0(id_0, firstName, lastName, phone, category){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(19, 1, {710:1, 19:1, 4:1}, Person, Person_0);
+defineClass(19, 1, {713:1, 19:1, 4:1}, Person, Person_0);
 _.equals_0 = function equals_22(o){
   var person, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_22;
@@ -24793,8 +24802,8 @@ function ArrayIndexOutOfBoundsException(msg){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(572, 45, $intern_56, ArrayIndexOutOfBoundsException);
-var Ljava_lang_ArrayIndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'ArrayIndexOutOfBoundsException', 572);
+defineClass(574, 45, $intern_56, ArrayIndexOutOfBoundsException);
+var Ljava_lang_ArrayIndexOutOfBoundsException_2_classLit = createForClass('java.lang', 'ArrayIndexOutOfBoundsException', 574);
 function ArrayStoreException(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = ArrayStoreException;
@@ -25118,8 +25127,8 @@ function NumberFormatException(message){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(109, 60, $intern_2, NumberFormatException);
-var Ljava_lang_NumberFormatException_2_classLit = createForClass('java.lang', 'NumberFormatException', 109);
+defineClass(110, 60, $intern_2, NumberFormatException);
+var Ljava_lang_NumberFormatException_2_classLit = createForClass('java.lang', 'NumberFormatException', 110);
 function StackTraceElement(methodName, fileName, lineNumber){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = StackTraceElement;
@@ -25130,12 +25139,12 @@ function StackTraceElement(methodName, fileName, lineNumber){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(97, 1, {4:1, 97:1}, StackTraceElement);
+defineClass(98, 1, {4:1, 98:1}, StackTraceElement);
 _.equals_0 = function equals_24(other){
   var st, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_24;
-  if (instanceOf(($location_0[stackIndex] = 'StackTraceElement.java:' + '67' , other), 97)) {
-    st = castTo(($location_0[stackIndex] = 'StackTraceElement.java:' + '68' , other), 97);
+  if (instanceOf(($location_0[stackIndex] = 'StackTraceElement.java:' + '67' , other), 98)) {
+    st = castTo(($location_0[stackIndex] = 'StackTraceElement.java:' + '68' , other), 98);
     returnTemp = ($location_0[stackIndex] = 'StackTraceElement.java:' + '69' , this.lineNumber) == st.lineNumber && equals_34(($location_0[stackIndex] = 'StackTraceElement.java:' + '70' , this.methodName), st.methodName) && equals_34(($location_0[stackIndex] = 'StackTraceElement.java:' + '71' , this.className_0), st.className_0) && equals_34(($location_0[stackIndex] = 'StackTraceElement.java:' + '72' , this.fileName), st.fileName);
     $stackDepth_0 = stackIndex - 1;
     return returnTemp;
@@ -25161,7 +25170,7 @@ _.toString_0 = function toString_22(){
 }
 ;
 _.lineNumber = 0;
-var Ljava_lang_StackTraceElement_2_classLit = createForClass('java.lang', 'StackTraceElement', 97);
+var Ljava_lang_StackTraceElement_2_classLit = createForClass('java.lang', 'StackTraceElement', 98);
 function $charAt(this$static, index_0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $charAt;
@@ -25424,7 +25433,7 @@ function $clinit_System(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(815, 1, {});
+defineClass(817, 1, {});
 function UnsupportedOperationException(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = UnsupportedOperationException;
@@ -25441,7 +25450,7 @@ function UnsupportedOperationException_0(message){
 
 defineClass(44, 40, $intern_2, UnsupportedOperationException, UnsupportedOperationException_0);
 var Ljava_lang_UnsupportedOperationException_2_classLit = createForClass('java.lang', 'UnsupportedOperationException', 44);
-defineClass(678, 675, $intern_57);
+defineClass(679, 676, $intern_57);
 _.equals_0 = function equals_25(o){
   var other, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_25;
@@ -25471,7 +25480,7 @@ _.hashCode_0 = function hashCode_14(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractSet_2_classLit = createForClass('java.util', 'AbstractSet', 678);
+var Ljava_util_AbstractSet_2_classLit = createForClass('java.util', 'AbstractSet', 679);
 function $contains(this$static, o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $contains;
@@ -25491,7 +25500,7 @@ function AbstractHashMap$EntrySet(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(85, 678, $intern_57, AbstractHashMap$EntrySet);
+defineClass(85, 679, $intern_57, AbstractHashMap$EntrySet);
 _.contains_0 = function contains_2(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_2;
@@ -25718,7 +25727,7 @@ function AbstractList$SubList(wrapped, fromIndex, toIndex){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(274, 676, $intern_44, AbstractList$SubList);
+defineClass(274, 677, $intern_44, AbstractList$SubList);
 _.add_1 = function add_7(index_0, element){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = add_7;
@@ -25775,7 +25784,7 @@ function AbstractMap$1(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(321, 678, $intern_57, AbstractMap$1);
+defineClass(321, 679, $intern_57, AbstractMap$1);
 _.contains_0 = function contains_3(key){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_3;
@@ -25919,9 +25928,9 @@ function AbstractMap$SimpleEntry(key, value_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(111, 134, {134:1, 111:1, 38:1}, AbstractMap$SimpleEntry);
-var Ljava_util_AbstractMap$SimpleEntry_2_classLit = createForClass('java.util', 'AbstractMap/SimpleEntry', 111);
-defineClass(686, 1, {38:1});
+defineClass(112, 134, {134:1, 112:1, 38:1}, AbstractMap$SimpleEntry);
+var Ljava_util_AbstractMap$SimpleEntry_2_classLit = createForClass('java.util', 'AbstractMap/SimpleEntry', 112);
+defineClass(687, 1, {38:1});
 _.equals_0 = function equals_27(other){
   var entry, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_27;
@@ -25951,7 +25960,7 @@ _.toString_0 = function toString_24(){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractMapEntry_2_classLit = createForClass('java.util', 'AbstractMapEntry', 686);
+var Ljava_util_AbstractMapEntry_2_classLit = createForClass('java.util', 'AbstractMapEntry', 687);
 function $containsEntry_0(this$static, entry){
   var key, lookupEntry, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $containsEntry_0;
@@ -25970,7 +25979,7 @@ function $containsKey_0(this$static, k){
   return returnTemp;
 }
 
-defineClass(698, 679, $intern_51);
+defineClass(699, 680, $intern_51);
 _.containsEntry = function containsEntry_0(entry){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = containsEntry_0;
@@ -26003,7 +26012,7 @@ _.get_1 = function get_5(k){
   return returnTemp;
 }
 ;
-var Ljava_util_AbstractNavigableMap_2_classLit = createForClass('java.util', 'AbstractNavigableMap', 698);
+var Ljava_util_AbstractNavigableMap_2_classLit = createForClass('java.util', 'AbstractNavigableMap', 699);
 function AbstractNavigableMap$EntrySet(this$0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = AbstractNavigableMap$EntrySet;
@@ -26011,7 +26020,7 @@ function AbstractNavigableMap$EntrySet(this$0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(221, 678, $intern_57, AbstractNavigableMap$EntrySet);
+defineClass(221, 679, $intern_57, AbstractNavigableMap$EntrySet);
 _.contains_0 = function contains_4(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_4;
@@ -26057,7 +26066,7 @@ function AbstractNavigableMap$NavigableKeySet(map_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(222, 678, $intern_57, AbstractNavigableMap$NavigableKeySet);
+defineClass(222, 679, $intern_57, AbstractNavigableMap$NavigableKeySet);
 _.contains_0 = function contains_5(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_5;
@@ -26320,7 +26329,7 @@ var EMPTY_LIST;
 function Collections$EmptyList(){
 }
 
-defineClass(314, 676, $intern_45, Collections$EmptyList);
+defineClass(314, 677, $intern_45, Collections$EmptyList);
 _.contains_0 = function contains_6(object){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_6;
@@ -26413,7 +26422,7 @@ function Collections$SingletonList(element){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(316, 676, {4:1, 36:1, 39:1}, Collections$SingletonList);
+defineClass(316, 677, {4:1, 36:1, 39:1}, Collections$SingletonList);
 _.contains_0 = function contains_7(item_0){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = contains_7;
@@ -26905,7 +26914,7 @@ function $compare_1(a, b){
 function Comparators$NaturalOrderComparator(){
 }
 
-defineClass(573, 1, $intern_40, Comparators$NaturalOrderComparator);
+defineClass(575, 1, $intern_40, Comparators$NaturalOrderComparator);
 _.compare = function compare_18(a, b){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compare_18;
@@ -26922,7 +26931,7 @@ _.equals_0 = function equals_32(other){
   return returnTemp;
 }
 ;
-var Ljava_util_Comparators$NaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/NaturalOrderComparator', 573);
+var Ljava_util_Comparators$NaturalOrderComparator_2_classLit = createForClass('java.util', 'Comparators/NaturalOrderComparator', 575);
 function checkStructuralChange(host, iterator){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = checkStructuralChange;
@@ -26968,9 +26977,16 @@ function $toString_1(this$static){
   return returnTemp;
 }
 
-function Date_0(date){
+function Date_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = Date_0;
+  this.jsdate = new ($location_0[stackIndex] = 'Date.java:' + '75' , $wnd).Date;
+  $stackDepth_0 = stackIndex - 1;
+}
+
+function Date_1(date){
+  var stackIndex;
+  $stack_0[stackIndex = ++$stackDepth_0] = Date_1;
   this.jsdate = new ($location_0[stackIndex] = 'Date.java:' + '94' , $wnd).Date(toDouble_0(date));
   $stackDepth_0 = stackIndex - 1;
 }
@@ -26983,11 +26999,11 @@ function padTwo(number){
   return returnTemp;
 }
 
-defineClass(118, 1, {4:1, 8:1, 118:1}, Date_0);
+defineClass(90, 1, {4:1, 8:1, 90:1}, Date_0, Date_1);
 _.compareTo = function compareTo_2(other){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = compareTo_2;
-  returnTemp = $compareTo_5(this, castTo(($location_0[stackIndex] = 'Date.java:' + '114' , other), 118));
+  returnTemp = $compareTo_5(this, castTo(($location_0[stackIndex] = 'Date.java:' + '114' , other), 90));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -26995,7 +27011,7 @@ _.compareTo = function compareTo_2(other){
 _.equals_0 = function equals_33(obj){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = equals_33;
-  returnTemp = instanceOf(($location_0[stackIndex] = 'Date.java:' + '120' , obj), 118) && eq(fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , this.jsdate).getTime()), ($tmp = fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , castTo(($location_0[stackIndex] = 'Date.java:' + '120' , obj), 118).jsdate).getTime()) , $location_0[stackIndex] = 'Date.java:' + '120' , $tmp));
+  returnTemp = instanceOf(($location_0[stackIndex] = 'Date.java:' + '120' , obj), 90) && eq(fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , this.jsdate).getTime()), ($tmp = fromDouble_0(($location_0[stackIndex] = 'Date.java:' + '148' , castTo(($location_0[stackIndex] = 'Date.java:' + '120' , obj), 90).jsdate).getTime()) , $location_0[stackIndex] = 'Date.java:' + '120' , $tmp));
   $stackDepth_0 = stackIndex - 1;
   return returnTemp;
 }
@@ -27017,7 +27033,7 @@ _.toString_0 = function toString_28(){
   return returnTemp;
 }
 ;
-var Ljava_util_Date_2_classLit = createForClass('java.util', 'Date', 118);
+var Ljava_util_Date_2_classLit = createForClass('java.util', 'Date', 90);
 function $clinit_Date$StringData(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_Date$StringData;
@@ -27060,7 +27076,7 @@ function HashSet(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(115, 678, $intern_58, HashSet);
+defineClass(116, 679, $intern_58, HashSet);
 _.add_0 = function add_9(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = add_9;
@@ -27109,7 +27125,7 @@ _.size_1 = function size_13(){
   return returnTemp;
 }
 ;
-var Ljava_util_HashSet_2_classLit = createForClass('java.util', 'HashSet', 115);
+var Ljava_util_HashSet_2_classLit = createForClass('java.util', 'HashSet', 116);
 function $findEntryInChain(this$static, key, chain){
   var entry, entry$index, entry$max, stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $findEntryInChain;
@@ -27580,7 +27596,7 @@ function InternalStringMap$2(this$0, val$entry, val$lastValueMod){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(344, 686, {38:1}, InternalStringMap$2);
+defineClass(344, 687, {38:1}, InternalStringMap$2);
 _.getKey = function getKey_1(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = getKey_1;
@@ -27616,13 +27632,13 @@ function $clinit_Locale(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(668, 1, {});
+defineClass(669, 1, {});
 var ROOT, defaultLocale;
-var Ljava_util_Locale_2_classLit = createForClass('java.util', 'Locale', 668);
+var Ljava_util_Locale_2_classLit = createForClass('java.util', 'Locale', 669);
 function Locale$1(){
 }
 
-defineClass(251, 668, {}, Locale$1);
+defineClass(251, 669, {}, Locale$1);
 _.toString_0 = function toString_29(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_29;
@@ -27634,7 +27650,7 @@ var Ljava_util_Locale$1_2_classLit = createForClass('java.util', 'Locale/1', 251
 function Locale$4(){
 }
 
-defineClass(252, 668, {}, Locale$4);
+defineClass(252, 669, {}, Locale$4);
 _.toString_0 = function toString_30(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toString_30;
@@ -27944,7 +27960,7 @@ function TreeMap(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(220, 698, $intern_52, TreeMap);
+defineClass(220, 699, $intern_52, TreeMap);
 _.entrySet_0 = function entrySet_2(){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = entrySet_2;
@@ -28051,14 +28067,14 @@ function TreeMap$Node(key, value_0){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$Node;
   ($location_0[stackIndex] = 'TreeMap.java:' + '173' , AbstractMap$SimpleEntry).call(this, ($location_0[stackIndex] = 'TreeMap.java:' + '162' , key), ($tmp = value_0 , $location_0[stackIndex] = 'TreeMap.java:' + '173' , $tmp));
-  this.child = initUnidimensionalArray(($location_0[stackIndex] = 'TreeMap.java:' + '152' , Ljava_util_TreeMap$Node_2_classLit), $intern_1, 107, 2, 0, 1);
+  this.child = initUnidimensionalArray(($location_0[stackIndex] = 'TreeMap.java:' + '152' , Ljava_util_TreeMap$Node_2_classLit), $intern_1, 108, 2, 0, 1);
   $location_0[stackIndex] = 'TreeMap.java:' + '174' , this.isRed = true;
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(107, 111, {134:1, 111:1, 38:1, 107:1}, TreeMap$Node);
+defineClass(108, 112, {134:1, 112:1, 38:1, 108:1}, TreeMap$Node);
 _.isRed = false;
-var Ljava_util_TreeMap$Node_2_classLit = createForClass('java.util', 'TreeMap/Node', 107);
+var Ljava_util_TreeMap$Node_2_classLit = createForClass('java.util', 'TreeMap/Node', 108);
 function TreeMap$State(){
 }
 
@@ -28126,7 +28142,7 @@ function TreeMap$SubMapType$1(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(614, 76, $intern_59, TreeMap$SubMapType$1);
+defineClass(615, 76, $intern_59, TreeMap$SubMapType$1);
 _.toKeyValid = function toKeyValid_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = toKeyValid_0;
@@ -28134,7 +28150,7 @@ _.toKeyValid = function toKeyValid_0(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$1_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/1', 614, null);
+var Ljava_util_TreeMap$SubMapType$1_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/1', 615, null);
 function TreeMap$SubMapType$2(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$SubMapType$2;
@@ -28142,7 +28158,7 @@ function TreeMap$SubMapType$2(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(615, 76, $intern_59, TreeMap$SubMapType$2);
+defineClass(616, 76, $intern_59, TreeMap$SubMapType$2);
 _.fromKeyValid = function fromKeyValid_0(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fromKeyValid_0;
@@ -28157,7 +28173,7 @@ _.toKeyValid = function toKeyValid_1(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$2_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/2', 615, null);
+var Ljava_util_TreeMap$SubMapType$2_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/2', 616, null);
 function TreeMap$SubMapType$3(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = TreeMap$SubMapType$3;
@@ -28165,7 +28181,7 @@ function TreeMap$SubMapType$3(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(616, 76, $intern_59, TreeMap$SubMapType$3);
+defineClass(617, 76, $intern_59, TreeMap$SubMapType$3);
 _.fromKeyValid = function fromKeyValid_1(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = fromKeyValid_1;
@@ -28173,7 +28189,7 @@ _.fromKeyValid = function fromKeyValid_1(){
   return true;
 }
 ;
-var Ljava_util_TreeMap$SubMapType$3_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/3', 616, null);
+var Ljava_util_TreeMap$SubMapType$3_2_classLit = createForEnum('java.util', 'TreeMap/SubMapType/3', 617, null);
 function $add_14(this$static, o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = $add_14;
@@ -28189,7 +28205,7 @@ function TreeSet(){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(608, 678, $intern_58, TreeSet);
+defineClass(609, 679, $intern_58, TreeSet);
 _.add_0 = function add_10(o){
   var stackIndex, returnTemp;
   $stack_0[stackIndex = ++$stackDepth_0] = add_10;
@@ -28230,7 +28246,7 @@ _.size_1 = function size_15(){
   return returnTemp;
 }
 ;
-var Ljava_util_TreeSet_2_classLit = createForClass('java.util', 'TreeSet', 608);
+var Ljava_util_TreeSet_2_classLit = createForClass('java.util', 'TreeSet', 609);
 function $clinit_Level(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $clinit_Level;
@@ -28295,7 +28311,7 @@ function parse_3(name_0){
   $stackDepth_0 = stackIndex - 1;
 }
 
-defineClass(677, 1, $intern_40);
+defineClass(678, 1, $intern_40);
 _.getName = function getName_40(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_40;
@@ -28319,11 +28335,11 @@ _.toString_0 = function toString_33(){
 }
 ;
 var ALL, CONFIG, FINE, FINER, FINEST, INFO_0, OFF, SEVERE, WARNING_0;
-var Ljava_util_logging_Level_2_classLit = createForClass('java.util.logging', 'Level', 677);
+var Ljava_util_logging_Level_2_classLit = createForClass('java.util.logging', 'Level', 678);
 function Level$LevelAll(){
 }
 
-defineClass(275, 677, $intern_40, Level$LevelAll);
+defineClass(275, 678, $intern_40, Level$LevelAll);
 _.getName = function getName_41(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_41;
@@ -28342,7 +28358,7 @@ var Ljava_util_logging_Level$LevelAll_2_classLit = createForClass('java.util.log
 function Level$LevelConfig(){
 }
 
-defineClass(276, 677, $intern_40, Level$LevelConfig);
+defineClass(276, 678, $intern_40, Level$LevelConfig);
 _.getName = function getName_42(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_42;
@@ -28361,7 +28377,7 @@ var Ljava_util_logging_Level$LevelConfig_2_classLit = createForClass('java.util.
 function Level$LevelFine(){
 }
 
-defineClass(277, 677, $intern_40, Level$LevelFine);
+defineClass(277, 678, $intern_40, Level$LevelFine);
 _.getName = function getName_43(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_43;
@@ -28380,7 +28396,7 @@ var Ljava_util_logging_Level$LevelFine_2_classLit = createForClass('java.util.lo
 function Level$LevelFiner(){
 }
 
-defineClass(278, 677, $intern_40, Level$LevelFiner);
+defineClass(278, 678, $intern_40, Level$LevelFiner);
 _.getName = function getName_44(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_44;
@@ -28399,7 +28415,7 @@ var Ljava_util_logging_Level$LevelFiner_2_classLit = createForClass('java.util.l
 function Level$LevelFinest(){
 }
 
-defineClass(279, 677, $intern_40, Level$LevelFinest);
+defineClass(279, 678, $intern_40, Level$LevelFinest);
 _.getName = function getName_45(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_45;
@@ -28418,7 +28434,7 @@ var Ljava_util_logging_Level$LevelFinest_2_classLit = createForClass('java.util.
 function Level$LevelInfo(){
 }
 
-defineClass(280, 677, $intern_40, Level$LevelInfo);
+defineClass(280, 678, $intern_40, Level$LevelInfo);
 _.getName = function getName_46(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_46;
@@ -28437,7 +28453,7 @@ var Ljava_util_logging_Level$LevelInfo_2_classLit = createForClass('java.util.lo
 function Level$LevelOff(){
 }
 
-defineClass(281, 677, $intern_40, Level$LevelOff);
+defineClass(281, 678, $intern_40, Level$LevelOff);
 _.getName = function getName_47(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_47;
@@ -28456,7 +28472,7 @@ var Ljava_util_logging_Level$LevelOff_2_classLit = createForClass('java.util.log
 function Level$LevelSevere(){
 }
 
-defineClass(282, 677, $intern_40, Level$LevelSevere);
+defineClass(282, 678, $intern_40, Level$LevelSevere);
 _.getName = function getName_48(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_48;
@@ -28475,7 +28491,7 @@ var Ljava_util_logging_Level$LevelSevere_2_classLit = createForClass('java.util.
 function Level$LevelWarning(){
 }
 
-defineClass(283, 677, $intern_40, Level$LevelWarning);
+defineClass(283, 678, $intern_40, Level$LevelWarning);
 _.getName = function getName_49(){
   var stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = getName_49;
@@ -28565,13 +28581,13 @@ var Ljava_util_logging_LogRecord_2_classLit = createForClass('java.util.logging'
 function $actuallyLog(this$static, record){
   var handler, handler$array, handler$array0, handler$index, handler$index0, handler$max, handler$max0, logger, stackIndex;
   $stack_0[stackIndex = ++$stackDepth_0] = $actuallyLog;
-  for ($location_0[stackIndex] = 'Logger.java:' + '306' , handler$array0 = castTo($toArray(($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '306' , this$static).handlers), initUnidimensionalArray(Ljava_util_logging_Handler_2_classLit, $intern_60, 110, ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '306' , this$static).handlers).array).length, 0, ($tmp = 1 , $location_0[stackIndex] = 'Logger.java:' + '193' , $tmp))), 225) , handler$index0 = 0 , handler$max0 = handler$array0.length; ($location_0[stackIndex] = 'Logger.java:' + '306' , handler$index0) < handler$max0; $location_0[stackIndex] = 'Logger.java:' + '306' , ++handler$index0) {
+  for ($location_0[stackIndex] = 'Logger.java:' + '306' , handler$array0 = castTo($toArray(($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '306' , this$static).handlers), initUnidimensionalArray(Ljava_util_logging_Handler_2_classLit, $intern_60, 111, ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '306' , this$static).handlers).array).length, 0, ($tmp = 1 , $location_0[stackIndex] = 'Logger.java:' + '193' , $tmp))), 225) , handler$index0 = 0 , handler$max0 = handler$array0.length; ($location_0[stackIndex] = 'Logger.java:' + '306' , handler$index0) < handler$max0; $location_0[stackIndex] = 'Logger.java:' + '306' , ++handler$index0) {
     handler = handler$array0[handler$index0];
     ($location_0[stackIndex] = 'Logger.java:' + '307' , handler).publish(record);
   }
   $location_0[stackIndex] = 'Logger.java:' + '309' , logger = ($location_0[stackIndex] = 'Logger.java:' + '209' , ($location_0[stackIndex] = 'Logger.java:' + '309' , this$static).useParentHandlers)?($location_0[stackIndex] = 'Logger.java:' + '205' , ($location_0[stackIndex] = 'Logger.java:' + '309' , this$static).parent_0):null;
   while ($location_0[stackIndex] = 'Logger.java:' + '310' , logger) {
-    for ($location_0[stackIndex] = 'Logger.java:' + '311' , handler$array = castTo($toArray(($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '311' , logger).handlers), initUnidimensionalArray(Ljava_util_logging_Handler_2_classLit, $intern_60, 110, ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '311' , logger).handlers).array).length, 0, ($tmp = 1 , $location_0[stackIndex] = 'Logger.java:' + '193' , $tmp))), 225) , handler$index = 0 , handler$max = handler$array.length; ($location_0[stackIndex] = 'Logger.java:' + '311' , handler$index) < handler$max; $location_0[stackIndex] = 'Logger.java:' + '311' , ++handler$index) {
+    for ($location_0[stackIndex] = 'Logger.java:' + '311' , handler$array = castTo($toArray(($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '311' , logger).handlers), initUnidimensionalArray(Ljava_util_logging_Handler_2_classLit, $intern_60, 111, ($location_0[stackIndex] = 'ArrayList.java:' + '249' , ($location_0[stackIndex] = 'Logger.java:' + '193' , ($location_0[stackIndex] = 'Logger.java:' + '311' , logger).handlers).array).length, 0, ($tmp = 1 , $location_0[stackIndex] = 'Logger.java:' + '193' , $tmp))), 225) , handler$index = 0 , handler$max = handler$array.length; ($location_0[stackIndex] = 'Logger.java:' + '311' , handler$index) < handler$max; $location_0[stackIndex] = 'Logger.java:' + '311' , ++handler$index) {
       handler = handler$array[handler$index];
       ($location_0[stackIndex] = 'Logger.java:' + '312' , handler).publish(record);
     }
