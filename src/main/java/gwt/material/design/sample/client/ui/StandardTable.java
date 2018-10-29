@@ -1,14 +1,11 @@
 package gwt.material.design.sample.client.ui;
 
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.dom.client.Element;
 import com.google.gwt.dom.client.Style.Display;
 import com.google.gwt.dom.client.Style.Position;
 import com.google.gwt.dom.client.Style.Unit;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
-import com.google.gwt.event.logical.shared.ValueChangeHandler;
-import com.google.gwt.event.shared.HandlerRegistration;
 import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.uibinder.client.UiHandler;
@@ -17,7 +14,6 @@ import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTMLPanel;
 import com.google.gwt.user.client.ui.Panel;
-import com.google.gwt.user.client.ui.Widget;
 import gwt.material.design.addins.client.combobox.MaterialComboBox;
 import gwt.material.design.client.base.MaterialWidget;
 import gwt.material.design.client.constants.*;
@@ -114,49 +110,7 @@ public class StandardTable extends Composite {
         // Now we will add our tables columns.
         // There are a number of methods that can provide custom column configurations.
 
-        // Add an image profile on each category rows
-        /*table.addColumn(new WidgetColumn<Person, MaterialImage>() {
-            @Override
-            public MaterialImage getValue(Person object) {
-                MaterialImage profile = new MaterialImage();
-                profile.setUrl(object.getPicture());
-                profile.setWidth("40px");
-                profile.setHeight("40px");
-                profile.setPadding(4);
-                profile.setMarginTop(8);
-                profile.setBackgroundColor(Color.GREY_LIGHTEN_2);
-                profile.setCircle(true);
-                return profile;
-            }
-        });*/
-
-        table.addColumn(new WidgetColumn<Person, MaterialButton>() {
-            @Override
-            public Comparator<? super RowComponent<Person>> sortComparator() {
-                return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
-            }
-            @Override
-            public MaterialButton getValue(Person object) {
-                /*MaterialCheckBox box = new MaterialCheckBox();
-                box.addValueChangeHandler(new ValueChangeHandler<Boolean>() {
-                    @Override
-                    public void onValueChange(ValueChangeEvent<Boolean> event) {
-                        MaterialToast.fireToast("Clicked");
-                    }
-                });*/
-                return new MaterialButton("ASdasd");
-            }
-            @Override
-            public String width() {
-                return "100px";
-            }
-        }, "First Name");
-
-        table.addColumn(new WidgetColumn<Person, MaterialComboBox<String>>() {
-            @Override
-            public Comparator<? super RowComponent<Person>> sortComparator() {
-                return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
-            }
+        table.addColumn("First Name2", new WidgetColumn<Person, MaterialComboBox<String>>() {
             @Override
             public MaterialComboBox<String> getValue(Person person) {
                 MaterialComboBox<String> mcb = new MaterialComboBox<>();
@@ -169,95 +123,46 @@ public class StandardTable extends Composite {
                 mcb.addClickHandler(event -> {
                     event.getNativeEvent().stopPropagation();
                 });
-                mcb.addValueChangeHandler(new ValueChangeHandler<List<String>>() {
-
-                    @Override
-                    public void onValueChange(ValueChangeEvent<List<String>> event) {
-                        MaterialToast.fireToast("Location changed");
-
-
-                    }
-                });
+                mcb.addValueChangeHandler(event -> MaterialToast.fireToast("Location changed"));
                 return mcb;
             }
-            @Override
-            public String width() {
-                return "100px";
-            }
-        }, "First Name2");
+        }
+        .sortComparator((o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName()))
+        .width("100px")
+        .widthPixelToPercent(true)
+        .numeric(true)
+        .hideOn(HideOn.HIDE_ON_SMALL));
 
-        table.addColumn(new TextColumn<Person>() {
+        table.addColumn("Test", new WidgetColumn<Person, MaterialButton>() {
             @Override
-            public Comparator<? super RowComponent<Person>> sortComparator() {
-                return (o1, o2) -> o1.getData().getFirstName().compareToIgnoreCase(o2.getData().getFirstName());
+            public MaterialButton getValue(Person object) {
+                return new MaterialButton(object.getFirstName());
             }
+        }
+        .widthPixelToPercent(true)
+        .width("100px"));
+
+        table.addColumn("Last Name", new TextColumn<Person>() {
             @Override
             public String getValue(Person object) {
                 return object.getLastName();
             }
+        }
+        .widthPixelToPercent(true)
+        .width("100px")
+        .nullValue("nullers"));
 
-            @Override
-            public boolean autoSort() {
-                return false;
-            }
-        }, "Last Name");
-
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 15; i++) {
             final int index = i;
-            table.addColumn(new TextColumn<Person>() {
-                @Override
-                public Comparator<? super RowComponent<Person>> sortComparator() {
-                    return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
-                }
+            table.addColumn("Column " + index, new TextColumn<Person>() {
                 @Override
                 public String getValue(Person object) {
-                    return object.getPhone() + " " + index;
+                    return index + "";
                 }
-            }, "Column " + index);
+            }
+            .widthPixelToPercent(true)
+            .width("100px"));
         }
-
-        table.addColumn(new TextColumn<Person>() {
-            @Override
-            public boolean numeric() {
-                return true;
-            }
-            @Override
-            public Comparator<? super RowComponent<Person>> sortComparator() {
-                return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
-            }
-            @Override
-            public String getValue(Person object) {
-                return object.getPhone();
-            }
-        }, "Phone2332");
-
-        table.addColumn(new TextColumn<Person>() {
-            @Override
-            public Comparator<? super RowComponent<Person>> sortComparator() {
-                return (o1, o2) -> o1.getData().getPhone().compareToIgnoreCase(o2.getData().getPhone());
-            }
-            @Override
-            public String getValue(Person object) {
-                return object.getPhone();
-            }
-        }, "Ph56656656");
-
-        // Example of a widget column!
-        // You can add any handler to the column cells widget.
-        table.addColumn(new WidgetColumn<Person, MaterialBadge>() {
-            @Override
-            public TextAlign textAlign() {
-                return TextAlign.CENTER;
-            }
-            @Override
-            public MaterialBadge getValue(Person object) {
-                MaterialBadge badge = new MaterialBadge();
-                badge.setText("badge " + object.getId());
-                badge.setBackgroundColor(Color.BLUE);
-                badge.setLayoutPosition(Position.RELATIVE);
-                return badge;
-            }
-        });
 
         table.setVisibleRange(0, 200);
 
@@ -266,8 +171,9 @@ public class StandardTable extends Composite {
         int rowIndex = 0;
         for(int k = 1; k <= 5; k++){
             // Generate 100 rows
-            for(int i = 1; i <= 20; i++, rowIndex++) {
-                people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png", "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
+            for(int i = 1; i <= 50; i++, rowIndex++) {
+                people.add(new Person(i, "http://joashpereira.com/templates/material_one_pager/img/avatar1.png",
+                    "Field " + rowIndex, "Field " + i, "No " + i,"Category " + k));
             }
         }
         table.setRowData(0, people);
@@ -342,7 +248,8 @@ public class StandardTable extends Composite {
 
         // Add a row double click handler, called when a row is double clicked.
         table.addRowDoubleClickHandler(event -> {
-            // GWT.log("Row Double Clicked: " + model.getId() + ", x:" + mouseEvent.getPageX() + ", y: " + mouseEvent.getPageY());
+            GWT.log("Row Double Clicked: " + event.getModel().getId() + ", x:" +
+                event.getMouseEvent().getPageX() + ", y: " + event.getMouseEvent().getPageY());
             Window.alert("Row Double Clicked: " + event.getModel().getId());
         });
 
@@ -352,12 +259,14 @@ public class StandardTable extends Composite {
 
         // Add a row long press handler, called when a row is long pressed.
         table.addRowLongPressHandler(event -> {
-            //GWT.log("Row Long Pressed: " + model.getId() + ", x:" + mouseEvent.getPageX() + ", y: " + mouseEvent.getPageY());
+            GWT.log("Row Long Pressed: " + event.getModel().getId() + ", x:" +
+                event.getMouseEvent().getPageX() + ", y: " + event.getMouseEvent().getPageY());
         });
 
         // Add a row short press handler, called when a row is short pressed.
         table.addRowShortPressHandler(event -> {
-            //.log("Row Short Pressed: " + model.getId() + ", x:" + mouseEvent.getPageX() + ", y: " + mouseEvent.getPageY());
+            GWT.log("Row Short Pressed: " + event.getModel().getId() + ", x:" +
+                event.getMouseEvent().getPageX() + ", y: " + event.getMouseEvent().getPageY());
         });
 
         popupMenu.addSelectionHandler(selectionEvent -> {
@@ -380,13 +289,17 @@ public class StandardTable extends Composite {
             GWT.log(endTime - startTime + " ms");
         });
 
-        /*table.addRenderedHandler(event -> {
-            Window.alert("Rendered!");
+        table.addRenderedHandler(event -> {
+            GWT.log("Rendered!");
         });
 
         table.addComponentsRenderedHandler(event -> {
-            Window.alert("Components Rendered!");
-        });*/
+            GWT.log("Components Rendered!");
+        });
+
+        table.addRowsVisibleHandler(event -> {
+            GWT.log("Rows are now visible!");
+        });
     }
 
     @UiHandler("sortBtn")
